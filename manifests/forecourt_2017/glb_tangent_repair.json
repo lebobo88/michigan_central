@@ -1,0 +1,7 @@
+{
+  "file": "forecourt_2017_isolated.glb",
+  "sha256_before": "ddbb0a5bd9da18579c6267d56b9960a8cb2ae614936f3dbdadcc66463b574e06",
+  "sha256_after": "ddbb0a5bd9da18579c6267d56b9960a8cb2ae614936f3dbdadcc66463b574e06",
+  "repairs": [],
+  "operation": "Only zero-length tangent vectors repaired; derive from incident triangle position/UV Jacobian and orthogonalize against existing normals. Geometry, UVs and materials unchanged."
+}

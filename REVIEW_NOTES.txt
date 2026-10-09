@@ -1,0 +1,50 @@
+MICHIGAN CENTRAL STATION: PUBLIC-ROOM REVIEW CHECKPOINT
+2017 and 2026 | meters | original editable geometry
+
+STATUS
+This is an incomplete architectural reconstruction for review. It is not a surveyed digital twin, a completed photoreal model, or construction documentation. The two eras share a historically dimensioned shell; room placement, decorative details, finishes and damage have different evidence confidence.
+
+WHAT IS INCLUDED
+- Terminal and I-plan tower exterior, windows, cornices, terraces and west carriage enclosure
+- Grand Hall, Ticket Lobby, East Arcade, Concourse, six-door east elevator lobby and observed upper passenger ramp
+- Restored west reading room/cafe/restaurant fabric, a partial former lunch-counter shell, and west corridor/stair fragment
+- The Study and Yellow Light's documented public-facing fit-outs
+- Bounded Shop and Neighbor frontage/view fragments, with unseen suite areas omitted
+- Original procedural PBR materials and actual generated original material swatches, including a bounded aged-stone wall field; no reference-photo texture projections
+
+HOW TO READ THE ERAS
+2017: dated May/June photographs establish several visible conditions, including existing replacement tower windows, absent chandeliers/canopy and damaged interior fabric. The exact stain, loss and graffiti distributions are interpretations. Unobserved room conditions are not fabricated.
+2026: visible restored 2023/24 fabric is carried forward where no later change is established. The Study and Yellow Light have completed-2025 design/photography evidence. Single-view retail fragments do not establish complete current suite layouts. No finished NoMad hotel is included.
+
+MAIN GAPS
+Private tower partitions and tenants; complete Mezz/youth-club suites; lift cabins/shafts; basements, plant, tunnels and complete stair systems; exact2017 west-room conditions; current west-side construction; complete site grading/planting.
+The southern platform/undercroft is also an exterior gap. A separate local-space2017 cargo-core study is provided without station alignment. The old train-shed roof was demolished in2000. A new concrete deck/parking structure is documented in2025, but its perimeter/elevation/support controls have not been recovered. It is not replaced by an invented finished park.
+
+DIMENSION CAUTIONS
+Published1914dimensions are historical, not a contemporary survey. The original plan has inconsistent vertical graphic scales/dimension conventions. Modern HNS room registration is independent and approximate. The hall height sources disagree; the selected62-foot apex is explicitly provisional. The Study's28-foot ceiling does not establish the precise beam-soffit reference.
+
+FILES
+BLEND files retain named collections, source metadata, cameras, materials and packed images. GLBs carry room-group nodes and unresolved-coverage metadata. Compact review GLBs use512px maps, omit selected fine detail, and quantize geometry for viewing; use the full source for editing or close inspection. All GLB materials/images are embedded.
+
+VISUAL LIMITS
+Ornament, furniture, plants, finish scale and lighting still need refinement. Exterior context is illustrative. Technical validation checks file/mesh/UV integrity; it does not certify architectural accuracy or photorealism.
+
+NEXT EVIDENCE NEEDED
+See manifests/source_gaps.json and the 48-row era-by-space coverage matrix for the plans, sections, dated photographs and survey controls needed to close each gap. Copyrighted study photographs/PDFs are excluded from delivered assets. The environment lighting is verified CC0; authored materials and geometry are original project assets.
+
+
+Revision14 integrated recovery WIP: technical and18-image review complete; fidelity/full scope remain open
+
+The original request remains open. This is an evidence-led, partial architectural reconstruction and material study, not a complete photoreal digital twin or a modern as-built survey.
+
+New source-backed topology: the east elevator lobby now has two splayed banks of three lifts, a narrower variable-width plan, an extended east vestibule, matched arcade transition, and retained lateral restroom openings plus the north-approach west branch. HNS scope pixels and the original 1914 lift plan independently support that topology. Pixel registration, six glyph centers, jamb widths, ceiling and portal profiles remain qualified. A threshold band does not prove stairs or levelness. Restroom interiors, shafts and cabins remain unmodeled.
+
+The lobby floor adopts the existing arcade's local .13 m reconstruction datum. The southern connector smoothly interpolates to the already approximate exit-ramp grade so there is no unsupported abrupt model step. This is geometric continuity, not measured modern grading. Neither the north approach nor external threshold has a resolved survey elevation.
+
+2017 lobby boards are plain, with open upper fields. Dated local photographs establish boarding and cladding/plaster loss classes but do not map all six doors or every loss polygon. Ceiling patches, exposed strips and fragments are original interpretive arrangements. The pale retained-cladding surface avoids generic dark staining; exact material properties remain unmeasured. The 2026 floor setting-out/veins and fine lift controls/ornament remain simplified.
+
+The cross-room material audit found 25 material/era entries which schema validation alone did not catch: unsupported procedural graphs exported without color. Original small metric texture maps now preserve authored palettes, scalar roughness/metallic and conservative normals. Their 2D noise placement is an explicitly disclosed replacement for old object-generated noise, not an exact bake. Full-model and both preview semantic regressions pass independently of Khronos schema checks. All50 full-export color/normal payloads match the authored PNG bytes.
+
+The exterior detail pass retains column/window/plinth/bearing datums. Fourteen linked capital ornaments share one source mesh. Their leaf counts, hidden faces and individual historical conditions remain interpretive; carving is still stylized mid-detail. Three profiled archivolts, egg-and-dart fields and original exterior keystones improve documented forms. They are distinct from the documented 11-foot interior cartouches. The recreated canopy has real inset glazing and opaque perimeter, raised fascia pattern, suspension fittings and double lamp runs. Exact fabrication counts, dimensions and hidden connections remain unverified. The 2017 model adds only bounded surviving anchor hardware.
+
+Glass topology no longer applies a second thickness shell to already-closed box panes. Open sheet panes retain 8 mm thickness. The general clear-glass roughness trial is reduced to .008 after a fixed-camera comparison; this is a visual optical approximation, not measured glass data. Tower/private fit-out gaps, basement/service circulation, complete tenant suites and south deck/global survey registration remain open.

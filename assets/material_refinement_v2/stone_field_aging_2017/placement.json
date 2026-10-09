@@ -1,0 +1,29 @@
+{
+  "era": 2017,
+  "create_separate_material": "2017 aged limestone wall fields",
+  "physical_repeat_m": 4.0,
+  "image_v_orientation": "Image rows increase downward; orient positive UV v upward with world +Z. Do not rotate wall texture 90 degrees.",
+  "recommended_initial_scope": [
+    "north facade continuous stone piers",
+    "north facade end pier",
+    "north side-wing end infill"
+  ],
+  "optional_after_review": [
+    "side perimeter continuous stone piers",
+    "east southern historical aperture piers"
+  ],
+  "further_scoped_candidate": "Planar infill surfaces produced by wall_with_arch may use this class if specifically assigned; do not globally replace the generically batched Exterior Indiana limestone mesh/material.",
+  "do_not_assign": [
+    "column shafts, column bases and capitals",
+    "arch jambs and archivolts",
+    "monumental window stone arch",
+    "north entablature bands and dentils",
+    "pediments, cornices, moldings and carved ornament",
+    "terrace balusters/copings",
+    "tower terra-cotta materials",
+    "all 2026 surfaces",
+    "all floor materials"
+  ],
+  "mapping": "Use existing world-metric UVs at 4 m. Match joints at neighboring flat faces; do not force this grid across curved profiles.",
+  "verification": "Compare the actual front facade at revision10 exposure. Aging should read as broken course-related gray wash on fields with pale stone retained, without returning to all-over round spots. Check repeat visibility before expanding scope."
+}

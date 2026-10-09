@@ -1,0 +1,187 @@
+{
+  "component": "North forecourt, Lacombe Drive and Roosevelt Park",
+  "era": "2026",
+  "status": "SOURCE-LED DRAFT READY FOR PARENT INTEGRATION; isolated geometry/UV/GLB checks passed, two previews inspected; full-scene interface QA still required",
+  "implementation": "scripts/north_plaza.py",
+  "asset_root": "assets/north_plaza/",
+  "coordinate_convention": "+X west, +Y south, +Z up; glazing front Y0",
+  "source_findings": "research/plaza_qa/plaza_layout_findings.txt",
+  "sources": [
+    {
+      "id": "CC0_2026",
+      "local_reference": "research/visual/michigan_central_2026_cc0_wmrapids.jpg",
+      "description": "WMrapids CC0 photograph dated July 19, 2026 12:50:44, verified in architecture_evidence_ledger.json and visually inspected here",
+      "supports": [
+        "three north-site zones",
+        "paired ornamental beds",
+        "station-facing curved balustrades with terminal piers",
+        "low road-facing bed curbs",
+        "asphalt Lacombe Drive",
+        "central pale crossing and warm edge strips",
+        "open central entrance approach",
+        "outer plaza small trees",
+        "lamps, bollards and planters"
+      ],
+      "limitations": "Single view cannot establish elevations, hidden edges, whole-park inventory or exact dimensions",
+      "url": "https://commons.wikimedia.org/wiki/File:Michigan_Central_Station_2026.jpg"
+    },
+    {
+      "id": "OHM_2023",
+      "url": "https://www.ohm-advisors.com/insights/recipe-success-lies-power-partnerships",
+      "image_url": "https://www.ohm-advisors.com/sites/default/files/2023-06/ohm_307_n2_webview.jpg",
+      "supports": [
+        "axial promenade",
+        "large west-side circular lawn",
+        "separate smaller station-facing rounded event lawn",
+        "asymmetric diagonal and curved routes"
+      ],
+      "limitations": "Illustrative plan, not survey/as-built sheet; no verified dimension scale",
+      "rights": "Reference only; no pixels included in deliverable"
+    },
+    {
+      "id": "OHM_2025",
+      "url": "https://www.ohm-advisors.com/insights/roosevelt-park-receives-2025-acec-michigan-engineering-excellence-award",
+      "supports": [
+        "built park topology",
+        "retained mature tree classes",
+        "young ornamental tree classes",
+        "light paths",
+        "warm aggregate seating pads",
+        "black metal slatted benches",
+        "swing benches",
+        "decorative park lamps",
+        "mixed perennial beds"
+      ],
+      "limitations": "Publication 2025, photo capture dates not specified; not inventory survey",
+      "rights": "Reference only"
+    },
+    {
+      "id": "ASLA16_P20",
+      "url": "https://www.michiganasla.org/_files/ugd/a828ec_e9412713d7c8478f83d86940cf9bd3d7.pdf",
+      "pages": "Printed p20 plan; article pp16\u201323",
+      "supports": [
+        "2021 design illustration with same topology",
+        "mature and flowering tree class design intent"
+      ],
+      "limitations": "Species are design intent, not verified July 2026 inventory; no scale",
+      "rights": "Reference only"
+    },
+    {
+      "id": "CITY_OPENING",
+      "url": "https://detroitmi.gov/news/mayor-president-bidens-arpa-chief-join-community-members-celebrate-completion-beautiful-new-6m",
+      "supports": [
+        "13-acre unified park opened June 29, 2023",
+        "central former six-lane boulevard removed"
+      ],
+      "limitations": "13 acres is broad project area, not a local plan control"
+    },
+    {
+      "id": "ROW_2022",
+      "url": "https://dpwmaps.detroitmi.gov/dpw_maps/Maps%20and%20Records%20Bureau/Petition%20files/ROW%20Petitions/2023/x2023-014%20MAP-22-67%20(Dedication-Vacation)%20Approved/2023%20Petition%20x2023-014%20Site%20Plan.pdf",
+      "supports": [
+        "named Lacombe Drive front boundary",
+        "legal ROW modification context"
+      ],
+      "limitations": "310.4ft/296.1ft edges and5ft strip are legal dedication boundaries, not asphalt width; no modeled dimension taken from these"
+    },
+    {
+      "id": "ROW_2026",
+      "local_reference": "research/public_plan_search/row117_MAP-26-45_Notice_to_Clerk.pdf",
+      "pages": "PDF pp4,6,7; drawings dated May19,2026",
+      "supports": [
+        "Lacombe labeled50ft right-of-way"
+      ],
+      "limitations": "15.24m ROW is not pavement width; west frontage proposal does not prove north beds or current park as-built"
+    }
+  ],
+  "accuracy": {
+    "historical_reference": "Station width105.2576m is existing historical building dimension; not current survey",
+    "supported_topology": [
+      "three separate landscape/road zones",
+      "forecourt paired long beds with rear/end balustrades only",
+      "unobstructed center approach and central road crossing",
+      "park west circular lawn and smaller bisected southern event lawn",
+      "asymmetric park paths and mixed tree classes"
+    ],
+    "approximate": [
+      "all geometry coordinate placements",
+      "road pavement width9m",
+      "forecourt setback20m",
+      "bed rail curve and height1.04m",
+      "crossing elevation/slopes",
+      "main promenade7.2m",
+      "circular lawn radius27.5m",
+      "park outline",
+      "tree count/species/precise positions",
+      "furniture count and placement",
+      "planting seasons and fine inventory",
+      "flat local grades"
+    ],
+    "omitted": [
+      "southwest annex",
+      "Michigan Avenue carriageway and distant city blocks",
+      "subsurface drainage",
+      "exact botanical inventory",
+      "2017 landscape",
+      "MYK south-park proposal"
+    ],
+    "datum_guard": "No coordinates or elevations imported from NAD83/Detroit vertical road survey without verified registration. All modeled elevations remain approximate local Z0."
+  },
+  "era_guard": "ERA!=2026 emits no geometry, new materials, instances or cameras; current park opened2023 and is not2017 evidence",
+  "vegetation": {
+    "method": "Original seeded solid-leaf branching prototypes linked as Mesh datablocks by north_plaza_post_finalize(); no millions-of-vertices duplication into global batches",
+    "classes": [
+      "retained mature deciduous",
+      "young deciduous/flowering class in leaf",
+      "mixed low perennials",
+      "ornamental grass"
+    ],
+    "inventory": "Illustrative massing within source-supported zones, not exact count or species",
+    "license": "Original geometry; no external asset downloads"
+  },
+  "materials": {
+    "method": "Original deterministic PBR tiles generated by scripts/prepare_north_plaza_textures.py",
+    "portable": "Image-based basecolor/roughness/tangent normal maps and physical geometry; no alpha-card dependency",
+    "provenance": "manifests/north_plaza/texture_provenance.json",
+    "reference_pixels_embedded": false
+  },
+  "integration": {
+    "before_batch_finalization": "execute_component('north_plaza.py') after helper definitions and before FINISH BATCHED GEOMETRY",
+    "after_batch_finalization": "north_plaza_post_finalize(collections,room_nodes) after core B loop, before scene export selection/save. Idempotent per scene, only 2026.",
+    "camera_merge": "cams.update(globals().get('NORTH_PLAZA_CAMERAS',{})) before creating camera objects",
+    "remove_generic_site": "In build_station.py SITE block: retain the initial four-piece landscape context ground loop (including ramp cutout boundaries -12.8,+12.8,74.5,88.7). Remove or disable all following SITE geometry from north axial approach through cross paths, station apron, broad entry steps, the landscape benches and context tree loop, stopping before TERMINAL EXTERIOR. Keep the terminal foundation datum boxes and all exterior geometry.",
+    "neutral_ground": "Retain huge initial ground with its ramp cutout. Change only its material from Lawn texture to an existing/new neutral ground material, so distant context is not implied to be a vast surveyed lawn. Do not add another continuous plane that seals the south ramp opening.",
+    "2017": "Do not insert new park in2017. If generic site removed for2017 too, retain neutral ground only until dated older landscape geometry is separately verified.",
+    "metadata": "All new batches use00A\u201300E collections; module restores GROUP; instances carry era/space/source scope and original_shared_mesh metadata; module evidence properties stored on scene",
+    "glb": "Regular mesh objects share Mesh datablocks with transforms; no GN/particle/collection instance realization needed. Include them in standard mesh selection; glTF exporter supports mesh reuse. Do not fold them back into B."
+  },
+  "qa": {
+    "runner": "scripts/qa_north_plaza.py",
+    "command": "/workspace/scratch/253ae098be12/3d-tools/bin/blender -b -t 2 --python scripts/qa_north_plaza.py -- --render --glb",
+    "scope": "Isolated north landscape only; no full-scene render",
+    "report": "qa/north_plaza/geometry_validation.json",
+    "planned_checks": [
+      "Full-scene integration placement and lighting review by parent"
+    ],
+    "actual_results": {
+      "geometry_validation": "qa/north_plaza/geometry_validation.json",
+      "glb_accessor_validation": "qa/north_plaza/glb_accessor_validation.json",
+      "glb_roundtrip": "qa/north_plaza/glb_roundtrip.json",
+      "khronos_validation": "qa/north_plaza/khronos_validation.json",
+      "tangent_repair": "qa/north_plaza/tangent_repair.json",
+      "preview_review": "manifests/north_plaza/preview_review.json"
+    },
+    "completed_checks": [
+      "Actual Blender finite vertex/UV/normal/transform checks",
+      "Zero degenerate actual loop triangles",
+      "Zero zero-area actual UV loop triangles",
+      "GROUP restoration",
+      "2017 absence of geometry/material/instance/camera side effects",
+      "Actual GLB binary positions/normals/tangents/UVs/triangles and shared mesh counts",
+      "Khronos validator: zero errors and zero warnings;170 informational unused UV/tangent notices",
+      "Two revised bounded isolated previews visually inspected",
+      "Actual Blender GLB import:1,521 mesh objects,1,468 vegetation instances sharing16 meshes; materials/UVs/metadata and metric orientation retained"
+    ],
+    "bounded_render_status": "Two 1200px12-sample isolated Cycles CPU views rendered with two threads and inspected; no full-scene renders"
+  }
+}

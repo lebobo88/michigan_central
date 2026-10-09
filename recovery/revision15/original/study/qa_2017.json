@@ -1,0 +1,362 @@
+{
+  "era": "2017",
+  "source_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+  "baseline": false,
+  "added_objects": 48,
+  "checks": {
+    "mesh_uv_and_new_closed_solid_topology": true,
+    "2017_no_restored_grille": true,
+    "central_passage_clear": true,
+    "no_source_photographs_loaded": true
+  },
+  "errors": [],
+  "new_geometry": [
+    {
+      "name": "West small feature -1 stepped cornice 0",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.05425014746197121
+    },
+    {
+      "name": "West small feature -1 stepped cornice 1",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.05176980467820022
+    },
+    {
+      "name": "West small feature -1 stepped cornice 2",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.03330010023117283
+    },
+    {
+      "name": "West small feature -1 stepped cornice 3",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.057502599616059386
+    },
+    {
+      "name": "West small feature -1 shallow curved crown",
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.05648732208314856
+    },
+    {
+      "name": "West small feature -1 centered tapering key",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.012236148765894846
+    },
+    {
+      "name": "West small feature -1 blind inset terracotta frame",
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.07435897843166481
+    },
+    {
+      "name": "West small feature -1 blind panel sill",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.025488053982515597
+    },
+    {
+      "name": "West small feature +1 stepped cornice 0",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.05424988043296253
+    },
+    {
+      "name": "West small feature +1 stepped cornice 1",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.0517700411887977
+    },
+    {
+      "name": "West small feature +1 stepped cornice 2",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.03329995908718847
+    },
+    {
+      "name": "West small feature +1 stepped cornice 3",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.05750259961605938
+    },
+    {
+      "name": "West small feature +1 shallow curved crown",
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.05648734351868105
+    },
+    {
+      "name": "West small feature +1 centered tapering key",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.012235982063141942
+    },
+    {
+      "name": "West portal opaque band rounded panel border 0",
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.0033576834069187177
+    },
+    {
+      "name": "West portal opaque band rounded panel border 1",
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.010200898078691269
+    },
+    {
+      "name": "West portal opaque band rounded panel border 2",
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.0033576583224943393
+    },
+    {
+      "name": "West portal regularized band attachment head",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250313274452627e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.001",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250313274452627e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.002",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250207194049485e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.003",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250484977854124e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.004",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250207194049485e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.005",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250484977854124e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.006",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250207194049485e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.007",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250313274452627e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.008",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250313274452627e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.009",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250207194049485e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.010",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250484977854124e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.011",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250207194049485e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.012",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250484977854124e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.013",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3250207194049485e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.014",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248698806443694e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.015",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248698806443694e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.016",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.324859270512152e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.017",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248870468007129e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.018",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.324859270512152e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.019",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248870468007127e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.020",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.324859270512152e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.021",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248698806443694e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.022",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248698806443694e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.023",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.324859270512152e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.024",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248870468007129e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.025",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.324859270512152e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.026",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3248870468007127e-05
+    },
+    {
+      "name": "West portal regularized band attachment head.027",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.324859270512152e-05
+    },
+    {
+      "name": "West portal layered lower head rail 0",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.02385904901694228
+    },
+    {
+      "name": "West portal layered lower head rail 1",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.019991864028539745
+    },
+    {
+      "name": "West portal layered lower head rail 2",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.0219599922940071
+    }
+  ],
+  "passage_hits": [],
+  "renders": [
+    {
+      "path": "/workspace/scratch/253ae098be12/michigan-central/manifests/concourse_portal_refinement/revision01/2017_west_portal.png",
+      "camera_location": [
+        13.0,
+        63.4,
+        4.15
+      ],
+      "target": [
+        29.25,
+        63.4,
+        4.6
+      ],
+      "lens_mm": 30.0,
+      "samples": 24
+    },
+    {
+      "path": "/workspace/scratch/253ae098be12/michigan-central/manifests/concourse_portal_refinement/revision01/2017_detail_oblique.png",
+      "camera_location": [
+        20.2,
+        58.3,
+        3.15
+      ],
+      "target": [
+        29.15,
+        63.3,
+        3.45
+      ],
+      "lens_mm": 37.0,
+      "samples": 24
+    },
+    {
+      "path": "/workspace/scratch/253ae098be12/michigan-central/manifests/concourse_portal_refinement/revision01/2017_small_crown.png",
+      "camera_location": [
+        25.0,
+        69.0,
+        2.0
+      ],
+      "target": [
+        29.0,
+        71.55,
+        2.0
+      ],
+      "lens_mm": 49.0,
+      "samples": 24
+    }
+  ],
+  "glb": {
+    "primitives": 61,
+    "vertices": 28472,
+    "triangles": 17498,
+    "errors": [],
+    "sha256": "84baf3f812a97410711d805a42af626adf36dd46ea3827ec578360c4abc677d9",
+    "images": 18,
+    "external_buffers": false
+  },
+  "export_selection_recovery": "Initial export omitted inherited context with an out-of-scene group parent; final export detaches that parent, preserves world transforms and includes all meshes",
+  "context_export_geometry": "Original frozen context and custom split normals preserved; only the main floor is cropped. Rejected normal-recomputation trial was not retained."
+}

@@ -1,0 +1,103 @@
+{
+  "status": "Passed corrected bounded-integration pixel review; no photoreal/full-station certification",
+  "rows": [
+    {
+      "era": "2017",
+      "mode": "source",
+      "file": "renders/revision15_concourse/source_2017_concourse_source_eye.png",
+      "sha256": "f6a0f86a20304ffa3dc83f2b6f1f6ad7828cf0038e56979fc3b51e26684060f9",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    },
+    {
+      "era": "2017",
+      "mode": "source",
+      "file": "renders/revision15_concourse/source_2017_concourse_portal_refinement.png",
+      "sha256": "37a27880910002598bad55be2cd08cbb6ea9f85b62358277a358b957ce1ebd46",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    },
+    {
+      "era": "2017",
+      "mode": "import",
+      "file": "renders/revision15_concourse/import_2017_concourse_source_eye.png",
+      "sha256": "40885a49125ef194058608565a395dbf1620231ffed2646037ba358cd4a4ebb6",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    },
+    {
+      "era": "2017",
+      "mode": "import",
+      "file": "renders/revision15_concourse/import_2017_concourse_portal_refinement.png",
+      "sha256": "194cceb639b99953092f026518d0d1a8fa05798ee469846a4382eca2188e0da2",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    },
+    {
+      "era": "2026",
+      "mode": "source",
+      "file": "renders/revision15_concourse/source_2026_concourse_source_eye.png",
+      "sha256": "6c07e6d1a8f7d8e33f42e68fe5c12fd595b4013aec503028349c021e1ac5913a",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    },
+    {
+      "era": "2026",
+      "mode": "source",
+      "file": "renders/revision15_concourse/source_2026_concourse_portal_refinement.png",
+      "sha256": "313e744a61401d828b996f98b513724dfffc3f8ac1fa7a49265e28dd60f658e6",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    },
+    {
+      "era": "2026",
+      "mode": "import",
+      "file": "renders/revision15_concourse/import_2026_concourse_source_eye.png",
+      "sha256": "ab293fd255b3681bd50b9879310565e5af7fb936612b2663d6e179d3c96e6023",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    },
+    {
+      "era": "2026",
+      "mode": "import",
+      "file": "renders/revision15_concourse/import_2026_concourse_portal_refinement.png",
+      "sha256": "10852b844ced48d5bf6d7896735688e3b74c31ad4fc2c2885284ade2c397bfc5",
+      "pixel_inspected": true,
+      "placement_corrected": true
+    }
+  ],
+  "matched_pair_diagnostics": [
+    {
+      "era": "2017",
+      "view": "concourse_source_eye",
+      "mean_absolute_rgb_difference_0_255": 0.14110587537288666,
+      "scope": "Diagnostic only; minor sampling differences are expected, not a substitute for pixel inspection"
+    },
+    {
+      "era": "2017",
+      "view": "concourse_portal_refinement",
+      "mean_absolute_rgb_difference_0_255": 0.11516863107681274,
+      "scope": "Diagnostic only; minor sampling differences are expected, not a substitute for pixel inspection"
+    },
+    {
+      "era": "2026",
+      "view": "concourse_source_eye",
+      "mean_absolute_rgb_difference_0_255": 0.3316759765148163,
+      "scope": "Diagnostic only; minor sampling differences are expected, not a substitute for pixel inspection"
+    },
+    {
+      "era": "2026",
+      "view": "concourse_portal_refinement",
+      "mean_absolute_rgb_difference_0_255": 0.18964460492134094,
+      "scope": "Diagnostic only; minor sampling differences are expected, not a substitute for pixel inspection"
+    }
+  ],
+  "observations": [
+    "Added panel borders and rails are visibly in the correct west-portal location in both source and actual-import views",
+    "Restored lower grilles appear only in2026;2017 retains open stripped lower side frames",
+    "Matched source/import views preserve the station context and public openings",
+    "Both eras retain unchanged known fidelity limitations, including pale2017 floor, simplified wear, dark restored portal detail and qualified glass response"
+  ],
+  "remaining_risk": "Inherited full-export UV/tangent/degenerate-triangle defects remain explicit and require separate revision16 repair; clean Khronos and Blender previews do not erase those defects",
+  "failed_evidence": "attempt01_superseded and attempt02_memory_pressure are rejected/interrupted attempts, never accepted delivery images"
+}

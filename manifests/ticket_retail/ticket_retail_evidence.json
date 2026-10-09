@@ -1,0 +1,234 @@
+{
+  "title": "Michigan Central ticket-lobby retail evidence and limits",
+  "authored": "2026-10-06",
+  "status": "Evidence-led public-facing reconstruction, not a measured or complete2026 as-built model",
+  "module": "scripts/ticket_retail.py",
+  "original_geometry_only": true,
+  "source_pixels_in_assets": false,
+  "sources": [
+    {
+      "id": "shop_owner",
+      "url": "https://michigancentral.com/shop/",
+      "studied_local": "research/interior/retail_2026/study_only/the_shop_2024.jpeg",
+      "date": "Image URL upload December2024; image capture date not stated",
+      "supports": [
+        "Pale display shelving and translucent/ribbed backing",
+        "Two central pale merchandise tables/bookcases",
+        "Dark panel ceiling, linear suspended lights and track lights",
+        "Clothes rack and varied merchandise",
+        "Walls carry third-party collage graphics, deliberately not copied"
+      ]
+    },
+    {
+      "id": "merge_arcade",
+      "url": "https://www.mergearchitects.com/projects/michigan-central-yellow-light/",
+      "studied_local": "research/interior/retail_2026/study_only/merge_07.jpg",
+      "date": "Project completed2025, publication image path August2026; capture date unstated",
+      "supports": [
+        "West indoor ticket-office location under clock",
+        "THE SHOP lettering and retained stone frontage",
+        "Relationship to east arcade"
+      ]
+    },
+    {
+      "id": "neighbor_official",
+      "url": "https://neighborxfolk.com/",
+      "studied_local": "research/interior/retail_2026/study_only/neighbor_2026.jpg",
+      "date": "Official image filename contains01-21-26",
+      "supports": [
+        "NEIGHBOR x FOLK brass-colored transom label",
+        "Open dark timber double doors with narrow upper glazing divisions",
+        "Stone opening and adjacent pilasters",
+        "Pale perforated display counter, rear shelving and PANTRY sign",
+        "Basket pendant and plants visible through threshold"
+      ]
+    },
+    {
+      "id": "historic_p27",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p27",
+      "studied_local": "research/interior/retail_2026/study_only/baseline_p27.jpg",
+      "date": "Post-restoration gallery, individual capture date not stated",
+      "supports": [
+        "Neighbor doorway historic-shell match at former information-counter corner",
+        "West-facing entrance into southeast ticket-lobby corner",
+        "Molding, double-door transom and exit-device arrangement"
+      ]
+    },
+    {
+      "id": "hns_scope",
+      "url": "https://www.neumannsmith.com/michigan-central-station-interior-fit-out/",
+      "image_url": "https://www.neumannsmith.com/wp-content/uploads/2025/09/vision_scope2.jpg",
+      "studied_local": "research/interior/retail_2026/study_only/hns_vision_scope.jpg",
+      "date": "Undimensioned public architectural fit-out scope plan, not current as-built",
+      "supports": [
+        "Ticket-office and east parcels-block shell relationships",
+        "Neighbor shell edge near source pixel714 -> X\u221211.89",
+        "Arcade south boundary pixel700 -> Y43.36; parcels block south\u2248pixel769 -> Y48.52"
+      ],
+      "does_not_support": [
+        "Current Neighbor suite name or complete fit-out",
+        "Current fixture positions",
+        "Measured dimensions"
+      ]
+    },
+    {
+      "id": "historic_p19",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p19",
+      "studied_local": "research/interior/study_only/post_p19.jpg",
+      "date": "Post-restoration gallery",
+      "supports": [
+        "Pale ticket-counter facade with raised cornice",
+        "Central doorway below recreated clock",
+        "Historic pilaster/window arrangement"
+      ]
+    },
+    {
+      "id": "historic_p26",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p26",
+      "studied_local": "research/interior/retail_2026/study_only/baseline_p26.jpg",
+      "date": "Gallery caption February2024",
+      "supports": [
+        "Clock-case silhouette and stone blind arch",
+        "Central stone-frontage proportions"
+      ]
+    },
+    {
+      "id": "historic_detail_p20",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior-detail#p20",
+      "studied_local": "research/interior/study_only/detail_p20.jpg",
+      "date": "Post-restoration gallery",
+      "supports": [
+        "Open dark ornamental ticket grille",
+        "Rose-colored marble counter",
+        "Stone aperture borders"
+      ],
+      "limits": "Quatrefoil geometry simplified; corner floral relief not reconstructed"
+    },
+    {
+      "id": "historic_clock_caption",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior-detail#p23",
+      "local_metadata": "research/interior/detail_refs.json",
+      "date": "Caption only used for overall dimensions; no local p23 pixels inspected",
+      "supports": [
+        "Recreated clock approximately6ft tall by8ft wide; geometry remains photograph-proportioned"
+      ]
+    }
+  ],
+  "spaces": {
+    "The Shop frontage": {
+      "confidence": "High location/material class; moderate center-bay geometry; dimensions approximate",
+      "geometry": [
+        "Pale stone central frontage with central open entry and four service-window bays",
+        "Open original mathematical quatrefoil grille and rose marble shelves",
+        "Simple projecting historic cornice and THE SHOP letters",
+        "Dark arched clock housing, pale dial, hour medallions and illustrative static hands",
+        "Concentric blind-arch molding"
+      ],
+      "position": {
+        "x": 8.1,
+        "y_center": 40.6,
+        "lower_cut_y": [
+          34.25,
+          46.95
+        ],
+        "lower_cut_z": [
+          0,
+          4.22
+        ]
+      },
+      "limits": [
+        "Four-window cluster is a bounded visible-frontage interpretation, not all ticket-counter positions",
+        "Fine stone carving, grille corner flowers and clock ornaments simplified",
+        "Clock hand time illustrative, not a claimed photographed timestamp"
+      ],
+      "sources": [
+        "shop_owner",
+        "merge_arcade",
+        "historic_p19",
+        "historic_p26",
+        "historic_detail_p20",
+        "historic_clock_caption"
+      ]
+    },
+    "The Shop fixture vignette": {
+      "confidence": "Observed fixture types, approximate scale, low confidence of whole-room placement",
+      "date": "2024 owner photo used as a baseline; continued2026 details not independently established",
+      "bounds": {
+        "x": [
+          8.5,
+          13.6
+        ],
+        "y": [
+          37.95,
+          43.25
+        ],
+        "ceiling_z": 3.16
+      },
+      "geometry": [
+        "Two pale rear shelf modules and perpendicular right shelf",
+        "Two-sided central display tables/bookcases",
+        "Ribbed backing, dark ceiling, linear/track fixtures",
+        "Unbranded generic merchandise and clothes rack",
+        "Only the observed back/corner wall surface fragments"
+      ],
+      "limits": [
+        "Re-sited behind central entrance for a qualified view vignette; exact room corner orientation and fixture coordinates unknown",
+        "No complete shell or back-of-house",
+        "Third-party wall collage omitted and left as plain backing",
+        "Generic package colors and counts are scale dressing, not stock inventory"
+      ],
+      "sources": [
+        "shop_owner"
+      ]
+    },
+    "Neighbor x Folk": {
+      "confidence": "High entrance identity/orientation; moderate registered shell; limited fragment of installed fit-out",
+      "date": "Official entrance photo filename January21,2026",
+      "position": {
+        "x_front": -11.89,
+        "y_center": 46.05,
+        "facade_y": [
+          43.36,
+          48.52
+        ],
+        "facade_z": [
+          0.13,
+          6.75
+        ],
+        "opening_width_m": 2.38,
+        "opening_top_z": 3.15
+      },
+      "geometry": [
+        "Photographed paired pilasters and rectangular stone doorway",
+        "Open timber double doors and labeled transom",
+        "Pale pegboard counter with actual geometric perforations",
+        "Shelving, basket pendant, plants, unbranded books/bottles and gifts seen through doorway"
+      ],
+      "limits": [
+        "Fixtures are a bounded doorway-view arrangement, not entire current suite",
+        "Doorway Y center and all fixture sizes photo-proportioned, not surveyed",
+        "No hidden back wall, ceiling, service fixtures or rooms asserted",
+        "Does not reuse Latent2024 proposal as current as-built evidence"
+      ],
+      "sources": [
+        "neighbor_official",
+        "historic_p27",
+        "hns_scope"
+      ]
+    }
+  },
+  "excluded_false_positives": [
+    {
+      "url": "https://latentdesign.net/projects/michigan-central-retail-box",
+      "reason": "Exterior shipping-container Shop is not the indoor ticket-office shop"
+    },
+    {
+      "url": "https://latentdesign.net/projects/biophilic-retail",
+      "reason": "Temporary2024 proposal does not prove current Neighbor furnishings"
+    }
+  ],
+  "2017_policy": "No geometry emitted by this module in2017; contemporary tenant names, fixtures and recreated clock are not back-projected",
+  "qa": "manifests/ticket_retail/isolated_qa.json",
+  "integration": "manifests/ticket_retail/INTEGRATION.md",
+  "distribution": "Ship original scripts/materials/manifests and authored renders only. Do not ship source photos, source drawings, source HTML or copied wall graphics."
+}

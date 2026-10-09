@@ -1,0 +1,492 @@
+{
+  "glb": "exports/revision15/michigan_central_2026.glb",
+  "sha256": "c1801cde3f864e851863c5b16c121cc7228725940465a5ae424fc4260adb669e",
+  "era": "2026",
+  "passed": true,
+  "material_count_checked": 16,
+  "failure_count": 0,
+  "failures": [],
+  "materials": [
+    {
+      "name": "West restored warm ivory plaster",
+      "primitive_count": 45,
+      "expected_mean_linear": [
+        0.73,
+        0.7,
+        0.625
+      ],
+      "actual_mean_linear": [
+        0.7299994702663328,
+        0.69999914910092,
+        0.625012825869667
+      ],
+      "actual_std_linear": [
+        0.011235494284976489,
+        0.010781318763740616,
+        0.009648829065956323
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 86
+      },
+      "roughness": 0.6200000047683716,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "West patinated pendant bronze",
+      "primitive_count": 9,
+      "expected_mean_linear": [
+        0.11,
+        0.07499999999999998,
+        0.033
+      ],
+      "actual_mean_linear": [
+        0.10998008925992693,
+        0.0749976085510134,
+        0.03298530105872828
+      ],
+      "actual_std_linear": [
+        0.0018011501882419447,
+        0.001233183008174818,
+        0.0006149771262467198
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 91
+      },
+      "roughness": 0.3199999928474426,
+      "metallic": 0.7200000286102295,
+      "issues": []
+    },
+    {
+      "name": "West shallow plaster score shadow",
+      "primitive_count": 13,
+      "expected_mean_linear": [
+        0.38,
+        0.365,
+        0.32499999999999996
+      ],
+      "actual_mean_linear": [
+        0.3800056195021879,
+        0.36500694799290634,
+        0.32499629731183177
+      ],
+      "actual_std_linear": [
+        0.005918898376897709,
+        0.005693324854723889,
+        0.005071588902061039
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 95
+      },
+      "roughness": 0.7799999713897705,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "West restaurant observed unfinished slab",
+      "primitive_count": 2,
+      "expected_mean_linear": [
+        0.20499999999999996,
+        0.224,
+        0.22599999999999998
+      ],
+      "actual_mean_linear": [
+        0.20500287547088633,
+        0.22401474111390615,
+        0.22598655511010496
+      ],
+      "actual_std_linear": [
+        0.003264462101494972,
+        0.0035601789644766134,
+        0.003590006348495589
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 97
+      },
+      "roughness": 0.8600000143051147,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary brushed bronze",
+      "primitive_count": 10,
+      "expected_mean_linear": [
+        0.24,
+        0.14,
+        0.05500000000000001
+      ],
+      "actual_mean_linear": [
+        0.2399994061920795,
+        0.1400025823820647,
+        0.055002403784755384
+      ],
+      "actual_std_linear": [
+        0.009285790990269589,
+        0.0054372664272044945,
+        0.00216602842868494
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 101
+      },
+      "roughness": 0.3199999928474426,
+      "metallic": 0.7799999713897705,
+      "issues": []
+    },
+    {
+      "name": "Secondary conservation grille",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.018,
+        0.02,
+        0.019
+      ],
+      "actual_mean_linear": [
+        0.01801018524916491,
+        0.019987677127149567,
+        0.018994608731901674
+      ],
+      "actual_std_linear": [
+        0.0004455350423858516,
+        0.0004994842177706529,
+        0.00046072062823211956
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 109
+      },
+      "roughness": 0.44999998807907104,
+      "metallic": 0.550000011920929,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 1",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.016,
+        0.14,
+        0.24
+      ],
+      "actual_mean_linear": [
+        0.01600374807208324,
+        0.14000795802558233,
+        0.2399965915990858
+      ],
+      "actual_std_linear": [
+        0.0004826890750413984,
+        0.003580100140051448,
+        0.0060407015720948835
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 114
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 2",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.51,
+        0.35,
+        0.035
+      ],
+      "actual_mean_linear": [
+        0.5099959319822517,
+        0.34999955003218197,
+        0.03500122870106907
+      ],
+      "actual_std_linear": [
+        0.012714023758224455,
+        0.008754892947339311,
+        0.0009488062109520121
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 116
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 3",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.35,
+        0.06,
+        0.022
+      ],
+      "actual_mean_linear": [
+        0.3499939494102182,
+        0.06001227687720848,
+        0.022003216477705412
+      ],
+      "actual_std_linear": [
+        0.008785943053945639,
+        0.0015718040825063672,
+        0.0006164234294361117
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 118
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 4",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.09,
+        0.11000000000000001,
+        0.12
+      ],
+      "actual_mean_linear": [
+        0.09000631183488629,
+        0.10999827984797313,
+        0.11999938261345479
+      ],
+      "actual_std_linear": [
+        0.002313522856107544,
+        0.002833814622117136,
+        0.0030805238440032574
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 120
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 5",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.14,
+        0.22000000000000003,
+        0.22000000000000003
+      ],
+      "actual_mean_linear": [
+        0.139997008651186,
+        0.22000042706426337,
+        0.22000042706426337
+      ],
+      "actual_std_linear": [
+        0.003563443661789647,
+        0.005538834619173006,
+        0.005538834619173006
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 122
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary conserved iron",
+      "primitive_count": 36,
+      "expected_mean_linear": [
+        0.037000000000000005,
+        0.046,
+        0.043
+      ],
+      "actual_mean_linear": [
+        0.036997580982166704,
+        0.04600426962915283,
+        0.042999692845321055
+      ],
+      "actual_std_linear": [
+        0.000899657584539427,
+        0.0011089566258631332,
+        0.0010360501843415647
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 124
+      },
+      "roughness": 0.36000001430511475,
+      "metallic": 0.7599999904632568,
+      "issues": []
+    },
+    {
+      "name": "Secondary pale mineral grout",
+      "primitive_count": 2,
+      "expected_mean_linear": [
+        0.42000000000000004,
+        0.45000000000000007,
+        0.41000000000000003
+      ],
+      "actual_mean_linear": [
+        0.4200036938002471,
+        0.45000306456554534,
+        0.4100037938126777
+      ],
+      "actual_std_linear": [
+        0.009312415730973592,
+        0.009963448816061864,
+        0.00908883901077797
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 126
+      },
+      "roughness": 0.8999999761581421,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary ivory hex tile",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.65,
+        0.66,
+        0.59
+      ],
+      "actual_mean_linear": [
+        0.6500062406202325,
+        0.6599976822069791,
+        0.5900018141869519
+      ],
+      "actual_std_linear": [
+        0.01351534824964748,
+        0.013720934658539442,
+        0.012288723061207554
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 128
+      },
+      "roughness": 0.5099999904632568,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary glazed white ceramic",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.72,
+        0.75,
+        0.71
+      ],
+      "actual_mean_linear": [
+        0.7199970419436653,
+        0.7500020245073731,
+        0.7100228446854011
+      ],
+      "actual_std_linear": [
+        0.007177661698235813,
+        0.007478097675979174,
+        0.0071440121403229095
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 130
+      },
+      "roughness": 0.1899999976158142,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary preserved west stair iron",
+      "primitive_count": 12,
+      "expected_mean_linear": [
+        0.12,
+        0.092,
+        0.065
+      ],
+      "actual_mean_linear": [
+        0.12000137414621956,
+        0.0920020799940609,
+        0.06500175830649588
+      ],
+      "actual_std_linear": [
+        0.010556292166250425,
+        0.008098016514515432,
+        0.005726332485753186
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 132
+      },
+      "roughness": 0.8299999833106995,
+      "metallic": 0.3499999940395355,
+      "issues": []
+    }
+  ],
+  "scope": "Source-palette and channel portability, not architectural likeness or exact old-noise parity"
+}

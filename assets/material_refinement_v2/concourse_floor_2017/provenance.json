@@ -1,0 +1,104 @@
+{
+  "material": "Concourse 2017 worn mineral floor",
+  "asset_id": "concourse_floor_2017",
+  "origin": "Original deterministic procedural authoring; no imagegen used; no third-party pixels sampled, copied, projected, or redistributed",
+  "generator": "prepare.py",
+  "generator_sha256": "30abaed84cd6fa8b8584562332dde2b9a0a7f9652a13d48ab8a8e06f639aa647",
+  "seed": 201708030639,
+  "integration_target": "2017 main concourse floor only; separate material, never a global Weathered concrete replacement",
+  "pixels": [
+    3072,
+    3072
+  ],
+  "physical_repeat_m": [
+    4.0,
+    4.0
+  ],
+  "periodic": true,
+  "physical_scale_status": "Inferred 4 m repeat and particle/relief/roughness values; not measured site material or historic floor module",
+  "mm_per_texel": 1.3020833333333333,
+  "basecolor_encoding": "8-bit RGB sRGB; authored albedo without baked lighting/AO",
+  "roughness_encoding": "8-bit grayscale linear data",
+  "normal_encoding": "8-bit RGB, OpenGL +Y tangent space, linear data",
+  "height_encoding": {
+    "bit_depth": 16,
+    "type": "grayscale unsigned PNG",
+    "full_range_m": 0.0004,
+    "decode_m": "(uint16/65535 - 0.5) * 0.0004",
+    "actual_peak_to_peak_m": 7.398794696200639e-05,
+    "inferred": true,
+    "true_displacement_enabled": false
+  },
+  "orm_encoding": "8-bit RGB linear; R=255 neutral occlusion, G=roughness, B=0 dielectric metallic",
+  "gltf": {
+    "baseColorTexture": "basecolor.png",
+    "normalTexture": "normal.png",
+    "normalTexture_scale": 1.0,
+    "metallicRoughnessTexture": "orm.png",
+    "metallicFactor": 0.0,
+    "roughnessFactor": 1.0,
+    "occlusionTexture": "orm.png (optional, entirely neutral)",
+    "height": "Sidecar only, not core glTF displacement",
+    "sampler": "REPEAT U/V; mipmaps and anisotropic filtering recommended"
+  },
+  "sources": [
+    {
+      "id": "architect_visual_tour_p39",
+      "date_strength": "2024 reopening architect publication, retrospective floor history",
+      "url": "https://cdn.prod.website-files.com/6240e0408c8f1a116a84978a/665b5ce09fd63562d30a4708_Michigan%20Central%20Station_Visual%20Tour.pdf",
+      "local": "research/quinn_evans_visual_tour_2024.txt",
+      "observation": "Original concourse terrazzo deteriorated beyond repair and was replaced, with radiant heating in the replacement.",
+      "limit": "Does not establish the surviving terrazzo/substrate/dust proportions or damage locations in 2017."
+    },
+    {
+      "id": "historic_detroit_pre_p20",
+      "date_strength": "Caption says 2010; context only, not a 2017 condition map",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior#p20",
+      "local": "research/interior/concourse_roof_2017_qa/study_only/pre_p20.jpg",
+      "observation": "Pale warm mineral-looking floor with deposits, fragments, wet areas and faint divisions.",
+      "limit": "2010 objects, wetness, color and exact damage are not transferred into a 2017 material."
+    },
+    {
+      "id": "historic_detroit_pre_p4",
+      "date_strength": "Caption: July 5, 2010; context only",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior#p4",
+      "local": "research/interior/concourse_roof_2017_qa/study_only/pre_p4.jpg",
+      "observation": "Worn, marked floor with faint divisions and localized deposits; material is not a uniformly clean cloud-patterned surface.",
+      "limit": "Does not determine May 2017 joint, graffiti, material-layer or damage inventory."
+    },
+    {
+      "id": "dandelion_2017_published_project",
+      "date_strength": "Project published August 3, 2017; individual aerial capture dates unspecified",
+      "url": "https://spark.adobe.com/page/OMI5cVvEGgqxk/",
+      "publication_source": "https://sketchfab.com/3d-models/michigan-central-station-17921c30b4134bf598b0cac817f00f1d",
+      "local": [
+        "research/south_structure/presentation_ref_10.jpg",
+        "research/south_structure/presentation_ref_13.jpg"
+      ],
+      "observation": "Broad pale lower floor under dense open truss shadows; warm light appears amber in the color aerial.",
+      "limit": "Shadows and resolution prevent a calibrated albedo, layer mix or detailed condition reconstruction. Amber is not baked into albedo."
+    }
+  ],
+  "limitations": [
+    "Original source-informed material-class interpretation, not a survey, calibrated reflectance, photogrammetry or exact 2017 damage map.",
+    "A uniformly bare-concrete concourse is not established by the evidence. The original material was terrazzo; its exact 2017 surviving mix with exposed substrate, deposits and dust remains unresolved.",
+    "Fine aggregate population, color, scuff positions, roughness and microscopic relief are inferred appearance controls.",
+    "No cracks, historic divider layout, decorative restored bands, graffiti, rubble or wetness are fabricated in this repeated material.",
+    "The 4 m period is a practical authored repeat, not a claimed terrazzo panel size or historic module.",
+    "Source photographs remain private study-only. QA images contain only the new original material and, in one comparison, the project's original procedural dust_concrete asset.",
+    "New albedo has a different mean from the inherited dark concrete. It is not a calibrated exposure compensation; assess it in the actual fixed-camera scene after topology/contact repair.",
+    "No Blender render, scene mutation or live build-script change was performed while preparing these assets."
+  ],
+  "output_sha256": {
+    "basecolor.png": "c261f487b33180e2b603e994c28975c504cd438896320f6ac94e3d0c542bc4a3",
+    "roughness.png": "2b77e006a0780247b9b4bc07995bb247c943d2175e8da867ffa94d200587e3e1",
+    "normal.png": "67aadcef9ec64a13b34db09068e6725dca0ca02005c19cec55b056f8bbaf28fb",
+    "height.png": "114204412675f26bbfde2b5d70d108d6bfb11cce93b1a137e05a01a715f94e2f",
+    "orm.png": "1f879390f309d2a7b017639f3c4728c54d37f0fedc08ee77dfa187fba7571d12"
+  },
+  "comparison_only_original_asset": {
+    "path": "assets/textures/dust_concrete/basecolor.png",
+    "sha256": "4d86b00a8a99b4ec60d2f39ece8c8e3ff6cb399b7059d20ccee593105a07e5e6"
+  },
+  "qa": "qa/encoding_and_seam_checks.json"
+}

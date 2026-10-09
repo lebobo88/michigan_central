@@ -1,0 +1,74 @@
+{
+  "era": "2017",
+  "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+  "checks": [
+    {
+      "condition": "concourse restored individual glazing panels present",
+      "actual": false,
+      "expected": false
+    },
+    {
+      "condition": "Passenger ramp restored glazed roof present",
+      "actual": false,
+      "expected": false
+    },
+    {
+      "condition": "hall chandelier pendant vase present",
+      "actual": false,
+      "expected": false
+    },
+    {
+      "condition": "hall alcove restored sash glazing present",
+      "actual": false,
+      "expected": false
+    },
+    {
+      "condition": "documented2026 mixed canopy roof present",
+      "actual": false,
+      "expected": false
+    },
+    {
+      "condition": "retained canopy wall bosses present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "2015 replacement tower windows present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "2023 north park geometry present",
+      "actual": false,
+      "expected": false
+    },
+    {
+      "condition": "bounded historical forecourt present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "modeled substantial cartouches",
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "condition": "cartouche six-bay condition schedule",
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "condition": "documented lost south cartouches",
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "condition": "unobserved southern structure is not silently aligned",
+      "actual": true,
+      "expected": true
+    }
+  ],
+  "passed": true,
+  "scope": "Presence/absence regression only; no complete room or per-pane inventory certification",
+  "sources": "See hall_lunettes/2017_cartouche_schedule.json, period source ledger and2017 roof-condition evidence"
+}

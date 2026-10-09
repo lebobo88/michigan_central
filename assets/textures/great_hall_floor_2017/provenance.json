@@ -1,0 +1,10 @@
+{
+  "origin": "Original procedural project surface, no reference-image pixels",
+  "physical_repeat_m": [
+    71.0184,
+    31.6992
+  ],
+  "normal": "OpenGL +Y",
+  "evidence_basis": "May2017 Grand Hall photographs, especially Historic Detroit pre_p16",
+  "limitations": "Photo-informed dusty marble color and generic historic joint rhythm; joint inventory and grime distribution are approximate. No 2024 terrazzo repairs."
+}

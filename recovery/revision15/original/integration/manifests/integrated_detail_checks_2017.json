@@ -1,0 +1,689 @@
+{
+  "era": "2017",
+  "source_blend_sha256": "ff57f7c7d9202fdb819f86e5776106cfb7fcea9de09b58311f01c92867fe5764",
+  "passed": true,
+  "issues": [],
+  "capital_placements": [
+    {
+      "object": "Original exterior capital ornament",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        -34.400001525878906,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.001",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        -27.0,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.002",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        -24.299999237060547,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.003",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        -15.699999809265137,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.004",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        -13.0,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.005",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        -7.0,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.006",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        -4.300000190734863,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.007",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        4.300000190734863,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.008",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        7.0,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.009",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        13.0,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.010",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        15.699999809265137,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.011",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        24.299999237060547,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.012",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        27.0,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    },
+    {
+      "object": "Original exterior capital ornament.013",
+      "mesh": "ECD reusable ornament f40689cacff91f",
+      "origin": [
+        34.400001525878906,
+        -1.1799999475479126,
+        12.741999626159668
+      ],
+      "expected_origin_delta_m": 0.0
+    }
+  ],
+  "capital_shared_mesh_count": 1,
+  "canopy_roles": {
+    "anchor": 1
+  },
+  "lobby_metadata": {
+    "controls": {
+      "revision": "EL-01-registered-trial",
+      "scale_m_per_pixel": 0.07475621052631579,
+      "north_y_pixel": 499,
+      "south_y_pixel": 801,
+      "east_face_x_pixel": 1164.5,
+      "north_bank_pixels": [
+        [
+          1127,
+          511
+        ],
+        [
+          1104,
+          614
+        ]
+      ],
+      "south_bank_pixels": [
+        [
+          1104,
+          700
+        ],
+        [
+          1127,
+          801
+        ]
+      ],
+      "north_door_center_y_pixels": [
+        545,
+        573,
+        600
+      ],
+      "south_door_center_y_pixels": [
+        709,
+        740,
+        766
+      ],
+      "door_width_m": 1.3,
+      "floor_z_m": 0.13,
+      "ceiling_z_m": 5.75,
+      "door_top_m": 4.1,
+      "leaf_top_m": 3.24,
+      "portal_width_m": 1.8,
+      "portal_center_x_pixel": 1145,
+      "east_entry_y_pixels": [
+        630,
+        682
+      ],
+      "north_approach_limit_y_m": 20.4,
+      "south_approach_limit_y_m": 59.4,
+      "status": "Independent XY topology review complete; door glyph centers \u00b13\u20135px, not surveyed jambs; isolated candidate",
+      "uncertainty_xy_m": [
+        0.3,
+        0.6
+      ],
+      "z_status": "Inherited visual-proportion trial, no elevation calibration"
+    },
+    "removed_batches": [
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Weathered concrete",
+        "Elevator lobby principal floor"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator lobby east wall with entrance opening"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Distress umber",
+        "Elevator lobby stone course joints"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator lobby west stone bank backing"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark void",
+        "Elevator recess 1"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 1 jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 1 sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 1 transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 1 vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary 2017 protective plywood",
+        "2017 boarded elevator openings"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Distress umber",
+        "2017 plywood grain bands"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator bank stone pilasters"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator pilaster base and capital moldings"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark void",
+        "Elevator recess 2"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 2 jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 2 sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 2 transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 2 vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark void",
+        "Elevator recess 3"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 3 jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 3 sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 3 transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 3 vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark void",
+        "Elevator recess 4"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 4 jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 4 sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 4 transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 4 vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark void",
+        "Elevator recess 5"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 5 jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 5 sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 5 transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 5 vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark void",
+        "Elevator recess 6"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 6 jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 6 sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 6 transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary iron rust",
+        "Elevator 6 vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator lobby north women room approach side infill"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator lobby north women room approach lintel"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby north women room approach jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby north women room approach sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby north women room approach transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby north women room approach vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator lobby south exit-ramp connection side infill"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator lobby south exit-ramp connection lintel"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby south exit-ramp connection jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby south exit-ramp connection sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby south exit-ramp connection transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "Elevator lobby south exit-ramp connection vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Decorative plaster",
+        "Elevator lobby flat plaster ceiling"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Decorative plaster",
+        "Elevator lobby cornice"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary exposed ribbed substrate",
+        "2017 missing elevator stone facing"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Distress umber",
+        "2017 substrate parallel ribs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Decorative plaster",
+        "2017 remnants of stone attachment pads"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Secondary exposed ribbed substrate",
+        "2017 irregular ceiling plaster-loss interpretation"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Decorative plaster",
+        "2017 sparse lobby edge debris interpretation"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Weathered concrete",
+        "Elevator lobby east entrance vestibule floor"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Decorative plaster",
+        "Elevator lobby east entrance vestibule ceiling"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Warm Mankato column stone",
+        "Elevator lobby vestibule walls"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "East entrance double-door wall jambs"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "East entrance double-door wall sill and head"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "East entrance double-door wall transom"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Dark bronze",
+        "East entrance double-door wall vertical divisions"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Weathered concrete",
+        "Elevator lobby south exit-ramp connector floor"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Decorative plaster",
+        "Elevator lobby south exit-ramp connector ceiling"
+      ],
+      [
+        "10 EAST ELEVATOR LOBBY | 2017 photo and restored 2024 baseline",
+        "Decorative plaster",
+        "Elevator lobby exit connector walls"
+      ]
+    ],
+    "door_schedule": [
+      {
+        "bank": "north",
+        "index": 1,
+        "center_xy_m": [
+          -42.192985851814,
+          31.77138947368421
+        ],
+        "clear_width_trial_m": 1.3,
+        "source_center_y_pixel": 545
+      },
+      {
+        "bank": "north",
+        "index": 2,
+        "center_xy_m": [
+          -41.7255780889116,
+          33.86456336842105
+        ],
+        "clear_width_trial_m": 1.3,
+        "source_center_y_pixel": 573
+      },
+      {
+        "bank": "north",
+        "index": 3,
+        "center_xy_m": [
+          -41.274863460398564,
+          35.88298105263158
+        ],
+        "clear_width_trial_m": 1.3,
+        "source_center_y_pixel": 600
+      },
+      {
+        "bank": "south",
+        "index": 1,
+        "center_xy_m": [
+          -41.1943728025013,
+          44.031408
+        ],
+        "clear_width_trial_m": 1.3,
+        "source_center_y_pixel": 709
+      },
+      {
+        "bank": "south",
+        "index": 2,
+        "center_xy_m": [
+          -41.722107239187075,
+          46.348850526315786
+        ],
+        "clear_width_trial_m": 1.3,
+        "source_center_y_pixel": 740
+      },
+      {
+        "bank": "south",
+        "index": 3,
+        "center_xy_m": [
+          -42.164723218342886,
+          48.292511999999995
+        ],
+        "clear_width_trial_m": 1.3,
+        "source_center_y_pixel": 766
+      }
+    ],
+    "old_width_m": 8.5,
+    "new_nominal_width_range_m": [
+      2.803357894736841,
+      4.522750736842106
+    ],
+    "status": "Isolated candidate, no source-perfect historic claim",
+    "unresolved": [
+      "Six door glyph centers are approximate; exact jamb widths and restoration subdivisions unresolved",
+      "Unmeasured vertical profiles and ceiling datum; shared .13m lobby/arcade floor trial with interpolated south connector, no claimed surveyed grade",
+      "Exact2017 facing losses, boards and debris distribution",
+      "North approach lateral gaps retained; restroom interiors and west branch continuation unresolved",
+      "Complete modern lift control hardware",
+      "Hidden shafts/cabins"
+    ]
+  },
+  "secondary_space_evidence": [
+    {
+      "id": "east_elevator_lobby",
+      "extent_m": [
+        -45.56391031578947,
+        -41.041159578947365,
+        28.332603789473684,
+        50.90897936842105,
+        0.13,
+        5.75
+      ],
+      "era": "2017",
+      "basis": "HNS registered tapered six-lift XY topology; original 1914 lift plan corroboration; restored post_p35; dated2017 pre_p14 condition classes",
+      "precision": "Raster controls \u00b10.3\u20130.6m; provisional door positions and unmeasured Z; no shaft/cabin reconstruction"
+    },
+    {
+      "id": "east_exit_ramp",
+      "extent_m": [
+        -45.1,
+        -29.4894,
+        59.4,
+        66.2,
+        0,
+        5.4
+      ],
+      "era": "2017",
+      "basis": "1914 exit-ramp location; May2024 post36\u201338 finish observations",
+      "precision": "1914 polygon: narrowY59.4..66.2 ramp, east vestibuleY57.2..69.1, three doors; raster +/-0.5\u20130.8m. Current subdivision and .45m rise remain unverified; exact2017 condition unknown",
+      "artwork": "Original non-lettering gesture marks only; no copied historical graffiti"
+    },
+    {
+      "id": "passenger_ramp_upper",
+      "extent_m": [
+        -11.5824,
+        11.5824,
+        75.2872,
+        87.8,
+        -0.815896,
+        12.1
+      ],
+      "era": "2017",
+      "basis": "1914 76ft three-opening entry and approximately7percent grade; exactMay2017 pre28; February2024 post43/45",
+      "precision": "Entry total width published; segment length, heights, and current pitch visual approximations",
+      "limit": "No subway, train-platform stairs, or below-track hidden connections; 2017 roof panels omitted because count unknown"
+    },
+    {
+      "id": "west_carriage_enclosure",
+      "extent_m": [
+        52.6288,
+        72.136,
+        53.644800000000004,
+        79.8576,
+        0,
+        9.38
+      ],
+      "era": "2017",
+      "basis": "Published1914 64x86ft footprint; August2025 real west-elevation photo",
+      "precision": "Footprint published; placement plan-traced; height/profile/bay dimensions visually approximated",
+      "limit": "No unverified2026 side glazing, lounge/hotel fit-out, or asserted completion;2017 roof-lantern and exact damage unknown"
+    }
+  ],
+  "portable_material_change_count": 9,
+  "limitations": [
+    "Checks actual integrated counts/transforms/metadata, not exact carved surfaces or historic per-column conditions",
+    "Door/fixture widths and all unmeasured vertical/site controls remain approximate"
+  ]
+}

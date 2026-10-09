@@ -1,0 +1,69 @@
+{
+  "portable_entry_point": "recover.py",
+  "python_runtime": "Python 3.10+ standard library",
+  "blender_runtime": {
+    "version": [
+      5,
+      2,
+      2
+    ],
+    "accepted_build_hash": "d13f752e3b9c",
+    "required_bundled_modules": [
+      "bpy",
+      "bmesh",
+      "mathutils",
+      "numpy"
+    ],
+    "required_operators": [
+      "wm.open_mainfile",
+      "wm.save_as_mainfile",
+      "export_scene.gltf",
+      "import_scene.gltf"
+    ]
+  },
+  "source_replay_geometry": "Only seven AST-selected definitions from original/study/build_study.py; no imports or top-level original builder code executed",
+  "replay_and_source_checks": [
+    "scripts/replay_blender.py",
+    "original/integration/scripts/placement_checks.py",
+    "original/integration/scripts/artifact_provenance.py",
+    "original/integration/scripts/validate_scene.py",
+    "original/integration/scripts/check_public_interfaces.py",
+    "original/integration/scripts/check_floor_overlaps.py",
+    "original/integration/scripts/check_era_conditions.py",
+    "original/integration/scripts/check_uv_area.py",
+    "original/integration/scripts/check_concourse_floor_material.py",
+    "original/integration/scripts/check_field_material_scope.py",
+    "original/integration/scripts/check_integrated_details.py",
+    "original/integration/scripts/check_glass_shells.py",
+    "original/integration/scripts/check_lobby_interfaces.py",
+    "original/integration/scripts/candidates/glass_shell_rules.py",
+    "original/integration/scripts/candidates/elevator_lobby_detail.py"
+  ],
+  "candidate_purposes": {
+    "glass_shell_rules.py": "Imported for glass_mesh_topology by check_glass_shells.py",
+    "elevator_lobby_detail.py": "Read-only SHA-256 provenance dependency of check_lobby_interfaces.py; not executed"
+  },
+  "export_dependencies": [
+    "original/dependencies/repair_glb_tangents.py",
+    "scripts/preserve_2026.py",
+    "scripts/glb_io.py",
+    "scripts/verify_glb.py"
+  ],
+  "actual_import_dependencies": [
+    "scripts/import_check_blender.py",
+    "original/integration/scripts/bounded_import_checks.py",
+    "original/integration/scripts/placement_checks.py"
+  ],
+  "no_runtime_dependency_on": [
+    "study BLEND/GLB",
+    "R14 or R15 GLB",
+    "external texture directory",
+    "source photos",
+    "render_lighting.py",
+    "qa_concourse_roof_detail.py",
+    "original build_study.py top-level",
+    "superseded attempts",
+    "revision16"
+  ],
+  "archival_only": "Other original scripts document the accepted historical procedure. They are not invoked by the portable driver and may name original project paths, full artifacts or rendering inputs."
+}

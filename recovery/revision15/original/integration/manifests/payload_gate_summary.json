@@ -1,0 +1,23 @@
+{
+  "attempt": "attempt02_corrected_placement",
+  "payload_acceptance_passed": true,
+  "placement_render_acceptance": "pending separate gate",
+  "eras": {
+    "2017": {
+      "sha256": "58594a65c501a45493fd9fe97fb75f4fce014efe8cd6f50b275c5bb4e2e596e1",
+      "new_detail_strict_errors": 0,
+      "all_inherited_attribute_and_index_payloads_exactly_match_baseline": true,
+      "khronos_errors": 0,
+      "khronos_warnings": 0
+    },
+    "2026": {
+      "sha256": "c1801cde3f864e851863c5b16c121cc7228725940465a5ae424fc4260adb669e",
+      "new_detail_strict_errors": 0,
+      "all_inherited_attribute_and_index_payloads_exactly_match_baseline": true,
+      "khronos_errors": 0,
+      "khronos_warnings": 0
+    }
+  },
+  "recovery_2026_changed_bytes": 7358,
+  "legacy_defect_repairs": false
+}

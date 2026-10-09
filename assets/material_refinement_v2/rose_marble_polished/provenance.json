@@ -1,0 +1,231 @@
+{
+  "material": "rose_marble_polished",
+  "role": "Polished rose/burgundy fine-grained marble class; recommended restored floor field swatch.",
+  "pixels": [
+    2048,
+    2048
+  ],
+  "physical_repeat_m": 1.2,
+  "mapped_extent_m": null,
+  "periodic": true,
+  "origin": "Original deterministic procedural artwork; no image generation used in v2",
+  "rights": "Original project-created maps. No third-party image pixels used.",
+  "basecolor_encoding": "sRGB",
+  "roughness_encoding": "linear scalar; also in ORM green channel",
+  "normal_encoding": "linear OpenGL tangent space +Y; image-row derivative sign converted to UV-v-up",
+  "height_encoding": {
+    "bits": 16,
+    "mode": "unsigned grayscale PNG",
+    "zero": 32767.5,
+    "full_range_m": 0.0004,
+    "decode_m": "(uint16 / 65535 - 0.5) * full_range_m",
+    "origin": "Conservative artistic inference, not measured",
+    "used_for_displacement": false
+  },
+  "gltf": {
+    "metallicFactor": 0,
+    "roughnessFactor": 1,
+    "normalTexture_scale": 1,
+    "baseColorTexture": "basecolor.png",
+    "metallicRoughnessTexture": "orm.png",
+    "normalTexture": "normal.png",
+    "height": "Documentation sidecar only; core glTF does not export height displacement"
+  },
+  "roughness_origin": "Artistic inference from apparent polish; not measured",
+  "recommended_normal_strength": 1.0,
+  "limitations": [
+    "Original artistic reconstruction of a material class, not a site scan, measured BRDF, or documentary damage inventory.",
+    "All RGB, roughness, physical repeats, stone-joint modules, and relief amplitudes are authored estimates.",
+    "Source photographs are copyrighted internal study references only. No source-photo pixels are sampled, embedded, reprojected, generated from, or redistributed.",
+    "Current-era material appearance is inferred from restoration-era photographs; these do not prove unchanged condition in 2026.",
+    "Large-scale chips, missing stones, sculptural wear, cracks and documented bench-foot depressions require geometry or independently evidenced masks; none are fabricated as strong normal maps here.",
+    "WIP material/isolated-plane validation is not a claim of photorealism or station-level certification."
+  ],
+  "sources": [
+    "exterior_may2017",
+    "exterior_june2017",
+    "hall_post_p6",
+    "hall_post_p10",
+    "hall_detail_p4"
+  ],
+  "relief_peak_to_peak_m": 0,
+  "veins": "Color/mineral variation only. No height from veins.",
+  "integration_target": "Rose Tennessee marble in restored scene at 1.2 m metric repeat; hall uses compatible full-floor derivative below",
+  "metrics": {
+    "basecolor": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.41025582455765885,
+        0.29226942833061287,
+        0.2922644000363306
+      ],
+      "p01": [
+        0.38823530077934265,
+        0.27450981736183167,
+        0.27450981736183167
+      ],
+      "p99": [
+        0.4313725531101227,
+        0.3137255012989044,
+        0.3137255012989044
+      ],
+      "seam_horizontal_mean": [
+        0.0012082475004717708,
+        0.0010435751173645258,
+        0.001120166969485581
+      ],
+      "seam_vertical_mean": [
+        0.0010818704031407833,
+        0.0009803855791687965,
+        0.0009784710127860308
+      ],
+      "mean_adjacent_x": [
+        0.0013243482680991292,
+        0.001208283705636859,
+        0.001255091861821711
+      ],
+      "mean_adjacent_y": [
+        0.001405608025379479,
+        0.0012950534000992775,
+        0.001339727663435042
+      ],
+      "seam_to_adjacent_x": [
+        0.9123267531394958,
+        0.8636766672134399,
+        0.8924908638000488
+      ],
+      "seam_to_adjacent_y": [
+        0.7696759700775146,
+        0.7570174336433411,
+        0.7303452491760254
+      ]
+    },
+    "roughness": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.16199983672535723
+      ],
+      "p01": [
+        0.14901961386203766
+      ],
+      "p99": [
+        0.1764705926179886
+      ],
+      "seam_horizontal_mean": [
+        0.00026999079273082316
+      ],
+      "seam_vertical_mean": [
+        0.0002833945909515023
+      ],
+      "mean_adjacent_x": [
+        0.00037422217428684235
+      ],
+      "mean_adjacent_y": [
+        0.0003726310096681118
+      ],
+      "seam_to_adjacent_x": [
+        0.7214526534080505
+      ],
+      "seam_to_adjacent_y": [
+        0.7605029344558716
+      ]
+    },
+    "normal": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0
+      ],
+      "p01": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0
+      ],
+      "p99": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0
+      ],
+      "seam_horizontal_mean": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seam_vertical_mean": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mean_adjacent_x": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mean_adjacent_y": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seam_to_adjacent_x": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seam_to_adjacent_y": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "height": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.5000076293945312
+      ],
+      "p01": [
+        0.5000076293945312
+      ],
+      "p99": [
+        0.5000076293945312
+      ],
+      "seam_horizontal_mean": [
+        0.0
+      ],
+      "seam_vertical_mean": [
+        0.0
+      ],
+      "mean_adjacent_x": [
+        0.0
+      ],
+      "mean_adjacent_y": [
+        0.0
+      ],
+      "seam_to_adjacent_x": [
+        0.0
+      ],
+      "seam_to_adjacent_y": [
+        0.0
+      ]
+    }
+  },
+  "sha256": {
+    "normal.png": "e8a7c51e5513cb6989ebc7494110b2f6b9a92cf28d24767ea6ee564916d2b568",
+    "roughness.png": "7addeef22df563ed0d62619b64d87f24ac3a6fe4c94b818f71dd01f521f15673",
+    "basecolor.png": "b9e01a549c958c257e06b388fd6daf9bac7f2be28ace959e22e298f3e6098c5a",
+    "orm.png": "a5d3b9ecaa52be2b13bfcbe67ddb2ea248db3c8ccb8cb60a557a25558820f17b",
+    "height.png": "16809dc2b8102ba2158243c5c2159f755a74ec87a8f77b2883bfbab6cb8f4445"
+  }
+}

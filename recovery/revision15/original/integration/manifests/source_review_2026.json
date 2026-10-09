@@ -1,0 +1,52 @@
+{
+  "era": "2026",
+  "mode": "source",
+  "source_blend_sha256": "7400e0bdc397f444d33e06136df8e539bcea8cebed8e91f15f6fc3b692b0f958",
+  "full_glb_sha256": "c1801cde3f864e851863c5b16c121cc7228725940465a5ae424fc4260adb669e",
+  "renders": [
+    {
+      "file": "renders/revision15_concourse/source_2026_concourse_source_eye.png",
+      "sha256": "6c07e6d1a8f7d8e33f42e68fe5c12fd595b4013aec503028349c021e1ac5913a",
+      "camera_location": [
+        -23.0,
+        63.400001525878906,
+        1.7000000476837158
+      ],
+      "camera_rotation": [
+        1.6338105201721191,
+        2.6971051170221472e-08,
+        -1.5707963705062866
+      ],
+      "lens_mm": 23.0,
+      "exposure": 0.4000000059604645,
+      "samples": 16,
+      "resolution": [
+        1000,
+        680
+      ]
+    },
+    {
+      "file": "renders/revision15_concourse/source_2026_concourse_portal_refinement.png",
+      "sha256": "313e744a61401d828b996f98b513724dfffc3f8ac1fa7a49265e28dd60f658e6",
+      "camera_location": [
+        20.200000762939453,
+        58.29999923706055,
+        3.1500000953674316
+      ],
+      "camera_rotation": [
+        1.6000505685806274,
+        5.784374224049316e-08,
+        -1.0613291263580322
+      ],
+      "lens_mm": 37.0,
+      "exposure": 0.4000000059604645,
+      "samples": 16,
+      "resolution": [
+        1000,
+        680
+      ]
+    }
+  ],
+  "passed": true,
+  "scope": "Full scene import/lineage and matched two-camera review. Inherited exported strict numerical defects are reported separately; not photoreal or complete-station certification."
+}

@@ -1,0 +1,295 @@
+{
+  "era": "2026",
+  "source_blend_sha256": "7400e0bdc397f444d33e06136df8e539bcea8cebed8e91f15f6fc3b692b0f958",
+  "passed": true,
+  "objects": [
+    {
+      "object": "north secondary arched window glazing",
+      "topology": {
+        "vertices": 172,
+        "polygons": 4,
+        "edges": 172,
+        "boundary_edges": 172,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "north monumental window glazing",
+      "topology": {
+        "vertices": 129,
+        "polygons": 3,
+        "edges": 129,
+        "boundary_edges": 129,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "north wing wood window glazing",
+      "topology": {
+        "vertices": 258,
+        "polygons": 6,
+        "edges": 258,
+        "boundary_edges": 258,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "side wood arched window glazing",
+      "topology": {
+        "vertices": 817,
+        "polygons": 19,
+        "edges": 817,
+        "boundary_edges": 817,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "east main entrance arched transom glazing",
+      "topology": {
+        "vertices": 43,
+        "polygons": 1,
+        "edges": 43,
+        "boundary_edges": 43,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "east southern wood windows glazing",
+      "topology": {
+        "vertices": 215,
+        "polygons": 5,
+        "edges": 215,
+        "boundary_edges": 215,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "east exit door arched transoms glazing",
+      "topology": {
+        "vertices": 129,
+        "polygons": 3,
+        "edges": 129,
+        "boundary_edges": 129,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "2026 north entrance glazed door panel modules",
+      "topology": {
+        "vertices": 40,
+        "polygons": 30,
+        "edges": 60,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "2026 north entrance transom glazing",
+      "topology": {
+        "vertices": 8,
+        "polygons": 6,
+        "edges": 12,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "hall alcove restored sash glazing",
+      "topology": {
+        "vertices": 80,
+        "polygons": 60,
+        "edges": 120,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "south hall rear elliptical clerestory glazing",
+      "topology": {
+        "vertices": 195,
+        "polygons": 3,
+        "edges": 195,
+        "boundary_edges": 195,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "East exit ramp east vestibule screen glazing",
+      "topology": {
+        "vertices": 8,
+        "polygons": 6,
+        "edges": 12,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "East exit ramp west concourse connection glazing",
+      "topology": {
+        "vertices": 8,
+        "polygons": 6,
+        "edges": 12,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "East exit exterior double-door bank glazing",
+      "topology": {
+        "vertices": 24,
+        "polygons": 18,
+        "edges": 36,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "Passenger ramp high bridge grid glazing",
+      "topology": {
+        "vertices": 24,
+        "polygons": 18,
+        "edges": 36,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "Passenger ramp side grid windows glazing",
+      "topology": {
+        "vertices": 32,
+        "polygons": 24,
+        "edges": 48,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "Passenger ramp back grid windows glazing",
+      "topology": {
+        "vertices": 24,
+        "polygons": 18,
+        "edges": 36,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "Passenger ramp restored glazed roof",
+      "topology": {
+        "vertices": 8,
+        "polygons": 2,
+        "edges": 8,
+        "boundary_edges": 8,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "West corridor reading room or restaurant portal glazing",
+      "topology": {
+        "vertices": 16,
+        "polygons": 12,
+        "edges": 24,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "Carriage 2025 observed roof-lantern sloped glazing",
+      "topology": {
+        "vertices": 8,
+        "polygons": 2,
+        "edges": 8,
+        "boundary_edges": 8,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "East entrance double-door wall glazing",
+      "topology": {
+        "vertices": 8,
+        "polygons": 6,
+        "edges": 12,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    },
+    {
+      "object": "Neighbor open door clear glazing slots",
+      "topology": {
+        "vertices": 48,
+        "polygons": 36,
+        "edges": 72,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "closed": true
+      },
+      "solidify_count": 0,
+      "passed": true
+    }
+  ],
+  "issues": [],
+  "scope": "Topological thickness rule only; not a calibrated optical or physical-glazing survey"
+}

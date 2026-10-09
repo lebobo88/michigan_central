@@ -1,0 +1,8 @@
+{
+  "attempt": "attempt02_corrected_placement",
+  "passed": true,
+  "reverse_patch_reconstructs_exact_reviewed_pre_recovery_sha256": "54e2a3d215f1cabd04885399f5e43f4c0cf2a76f8db4b93cb65fbf84a0cd3f9c",
+  "replay_reproduces_exact_final_sha256": "c1801cde3f864e851863c5b16c121cc7228725940465a5ae424fc4260adb669e",
+  "patch_intervals": 6817,
+  "inputs_and_outputs_not_modified_by_replay": true
+}

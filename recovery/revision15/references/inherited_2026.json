@@ -1,0 +1,418 @@
+{
+  "source_glb_sha256": "3a58625a4f5055ef2bb50e9bfe272f591fa07ee2f59039081a140f6e588bb711",
+  "binary_sha256": "191b569f55102114c0c62661b01223dc7ab276f9eefdec7dc3559aac5baeb47e",
+  "bytes": 1578360,
+  "scope": "Exact baseline TEXCOORD_0 and TANGENT XYZ; W must match; inherited defects retained",
+  "objects": [
+    {
+      "mesh": "forecourt balustrade continuous stone plinth",
+      "primitive_index": 0,
+      "mode": 4,
+      "material_name": "NP forecourt stone",
+      "material_semantics": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original project material; photo-supported stone class, not a site scan"
+        },
+        "name": "NP forecourt stone",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6e80c168a400da16f208f543b135868d233b06f882a99f48878c4a4311bb972c",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e546821e43b868f14119daf38dd61217a287ec58875c846f9e2839bf26592b6b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      },
+      "guards": {
+        "POSITION": {
+          "sha256": "5a715e69c9a6bf04b68292509ffb6036220651bbfd964b13dca6b7c45e068770",
+          "accessor": {
+            "componentType": 5126,
+            "count": 5874,
+            "max": [
+              53.38929748535156,
+              0.23999999463558197,
+              17.916122436523438
+            ],
+            "min": [
+              -53.38929748535156,
+              -0.009999999776482582,
+              9.570625305175781
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "sha256": "9cf1364c891a1cf246a7ae7677ee00c618c18c55ac2754ce33bd49d869e15d9f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 5874,
+            "type": "VEC3"
+          }
+        },
+        "indices": {
+          "sha256": "9769d94da1876b58ec27d130db37ee3f7ac7179fec6b887287f22190c4d37cfb",
+          "accessor": {
+            "componentType": 5123,
+            "count": 9432,
+            "type": "SCALAR"
+          }
+        }
+      },
+      "restore": {
+        "TEXCOORD_0": {
+          "offset": 0,
+          "bytes": 46992,
+          "sha256": "b293a19af4f2a1e55a96a72acdf8ffda90c6aa24bfe92df144e8f9abb7026e1d",
+          "accessor": {
+            "componentType": 5126,
+            "count": 5874,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 46992,
+          "bytes": 93984,
+          "sha256": "066105b61bec8b01859fbfc7c60bdc75d1179a66199c606474ce716a2197e057",
+          "accessor": {
+            "componentType": 5126,
+            "count": 5874,
+            "type": "VEC4"
+          }
+        }
+      },
+      "material_fingerprint_sha256": "0faab95133bec01da92912c55249e7e592dbd500f4880c15204205bbdfbc5a31"
+    },
+    {
+      "mesh": "Study upholstery rounded sofa plinth",
+      "primitive_index": 0,
+      "mode": 4,
+      "material_name": "Study bluegray wool",
+      "material_semantics": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.15,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study bluegray wool",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "18eaa33c718a9e4f77725745296aedf223c00a236d1684935aa58890bd8e7322",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8999999761581421
+        }
+      },
+      "guards": {
+        "POSITION": {
+          "sha256": "b87323e2cac2928ba28c3591f54110046ae1c2d01018879d243c43c43f0600db",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1067,
+            "max": [
+              -38.11000061035156,
+              0.5400000214576721,
+              -11.199999809265137
+            ],
+            "min": [
+              -39.40999984741211,
+              0.1599999964237213,
+              -14.5
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "sha256": "d279f1f0f51bd7b208bf969d16fe5ef5ee06ea310c7996a0ac4793721cad0c42",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1067,
+            "type": "VEC3"
+          }
+        },
+        "indices": {
+          "sha256": "bc318c97f44a365b27b40dbdcd2461373db38e499ee8412b4b742cb28440a121",
+          "accessor": {
+            "componentType": 5123,
+            "count": 3156,
+            "type": "SCALAR"
+          }
+        }
+      },
+      "restore": {
+        "TEXCOORD_0": {
+          "offset": 140976,
+          "bytes": 8536,
+          "sha256": "bb936c9412b420f127721025cb4efe5f3e461e98ca82a51d530181264550df46",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1067,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 149512,
+          "bytes": 17072,
+          "sha256": "bdf89cf94c50f39aef463828d63cb84ba2ce079febb0732ae4728a4e2a9121ee",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1067,
+            "type": "VEC4"
+          }
+        }
+      },
+      "material_fingerprint_sha256": "d7174c6ae88aac466404998e7b62ba39b3e3b23b1244edcc0e84193267a0b724"
+    },
+    {
+      "mesh": "Study upholstery rounded sofa plinth.001",
+      "primitive_index": 0,
+      "mode": 4,
+      "material_name": "Study wine wool",
+      "material_semantics": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.15,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study wine wool",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "a241752e8c4ec81c32f278e3973f2a03f1b24ad96e5b6d7edaf9877986832273",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8899999856948853
+        }
+      },
+      "guards": {
+        "POSITION": {
+          "sha256": "e4b325d1c726c45bc3f8e9ea7dafadcfc86b247e1e6226ca664b68228c41e65e",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1056,
+            "max": [
+              -41.18000030517578,
+              0.5400000214576721,
+              -6.5
+            ],
+            "min": [
+              -44.47999954223633,
+              0.1599999964237213,
+              -7.800000190734863
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "sha256": "0131871f0dee7403bc925ecd0f932754e918389761e2ab6e2d3bddc11e4fc55a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1056,
+            "type": "VEC3"
+          }
+        },
+        "indices": {
+          "sha256": "2392492dce434b50f6f3d78c932221349647ea65ae9f12a46bcb71b672e4f25e",
+          "accessor": {
+            "componentType": 5123,
+            "count": 3156,
+            "type": "SCALAR"
+          }
+        }
+      },
+      "restore": {
+        "TEXCOORD_0": {
+          "offset": 166584,
+          "bytes": 8448,
+          "sha256": "7cde64ef6e727f838ad3c7215854b3a3b80b38a91f19f7e8a9e38315dc902941",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1056,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 175032,
+          "bytes": 16896,
+          "sha256": "e140e6cc144958a8f110ba0fb74f87a455d46091be134e3f3601a938f66d4712",
+          "accessor": {
+            "componentType": 5126,
+            "count": 1056,
+            "type": "VEC4"
+          }
+        }
+      },
+      "material_fingerprint_sha256": "568b0b9a3fc3a91e7801cbfac29e04f08bc57d8a551a4b8a6e4c54e6e6cd28e0"
+    },
+    {
+      "mesh": "West entablature carved palmette frieze",
+      "primitive_index": 0,
+      "mode": 4,
+      "material_name": "West restored carved walnut",
+      "material_semantics": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.25
+          }
+        },
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "provenance": "Original procedural material, photographic material class only; no image projection"
+        },
+        "name": "West restored carved walnut",
+        "normalTexture": {
+          "scale": 0.30000001192092896,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "974fa75280a6bbc8d2d9fb1ef490514b2b7a7ace34ad7a55cf58d38a6f00968d",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "0f0135a9fbab34febfdccc1c9c478365cdd45256006b09d72146e1c0d753a12f",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "faefae5107ba35a4f304130b4a02301885e9d2c604a39c9d939b37de3f17644b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      },
+      "guards": {
+        "POSITION": {
+          "sha256": "11b1c9e087095ee15e604a427aeb5c0a7ece87e791c51b3453c67e15846b318b",
+          "accessor": {
+            "componentType": 5126,
+            "count": 57768,
+            "max": [
+              52.049903869628906,
+              5.630000114440918,
+              -4.999793529510498
+            ],
+            "min": [
+              36.21009826660156,
+              5.493162631988525,
+              -23.450204849243164
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "sha256": "61c89e7057605ecbea215c99c878bf158ee206b7c40e7e9f978bb82dce1422bb",
+          "accessor": {
+            "componentType": 5126,
+            "count": 57768,
+            "type": "VEC3"
+          }
+        },
+        "indices": {
+          "sha256": "ef636b044c780d2d45b8d947526f0d261f10bf5d61aeea9559b28ade774d42cb",
+          "accessor": {
+            "componentType": 5123,
+            "count": 79680,
+            "type": "SCALAR"
+          }
+        }
+      },
+      "restore": {
+        "TEXCOORD_0": {
+          "offset": 191928,
+          "bytes": 462144,
+          "sha256": "ffc2037ea42bf664be0a2d5dbdd91a49dd9ab27775ef6e3e638e499a80cf71d3",
+          "accessor": {
+            "componentType": 5126,
+            "count": 57768,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 654072,
+          "bytes": 924288,
+          "sha256": "7f80993e2f97af794897fba721faea6ff3edd62b4935e572f166b29536229a74",
+          "accessor": {
+            "componentType": 5126,
+            "count": 57768,
+            "type": "VEC4"
+          }
+        }
+      },
+      "material_fingerprint_sha256": "d2d65df1b8e76c623b0ee102699f3ae3747eafb097a044a024b66c6d4ff4cb1a"
+    }
+  ]
+}

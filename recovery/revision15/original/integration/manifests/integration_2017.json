@@ -1,0 +1,154 @@
+{
+  "era": "2017",
+  "source_revision14_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+  "destination": "models/checkpoints/revision15/michigan_central_2017.blend",
+  "revision15_sha256": "ff57f7c7d9202fdb819f86e5776106cfb7fcea9de09b58311f01c92867fe5764",
+  "base_mesh_count": 695,
+  "mesh_count": 742,
+  "new_meshes": [
+    "West small feature -1 stepped cornice 0",
+    "West small feature -1 stepped cornice 1",
+    "West small feature -1 stepped cornice 2",
+    "West small feature -1 stepped cornice 3",
+    "West small feature -1 shallow curved crown",
+    "West small feature -1 centered tapering key",
+    "West small feature -1 blind inset terracotta frame",
+    "West small feature -1 blind panel sill",
+    "West small feature +1 stepped cornice 0",
+    "West small feature +1 stepped cornice 1",
+    "West small feature +1 stepped cornice 2",
+    "West small feature +1 stepped cornice 3",
+    "West small feature +1 shallow curved crown",
+    "West small feature +1 centered tapering key",
+    "West portal opaque band rounded panel border 0",
+    "West portal opaque band rounded panel border 1",
+    "West portal opaque band rounded panel border 2",
+    "West portal regularized band attachment head",
+    "West portal regularized band attachment head.001",
+    "West portal regularized band attachment head.002",
+    "West portal regularized band attachment head.003",
+    "West portal regularized band attachment head.004",
+    "West portal regularized band attachment head.005",
+    "West portal regularized band attachment head.006",
+    "West portal regularized band attachment head.007",
+    "West portal regularized band attachment head.008",
+    "West portal regularized band attachment head.009",
+    "West portal regularized band attachment head.010",
+    "West portal regularized band attachment head.011",
+    "West portal regularized band attachment head.012",
+    "West portal regularized band attachment head.013",
+    "West portal regularized band attachment head.014",
+    "West portal regularized band attachment head.015",
+    "West portal regularized band attachment head.016",
+    "West portal regularized band attachment head.017",
+    "West portal regularized band attachment head.018",
+    "West portal regularized band attachment head.019",
+    "West portal regularized band attachment head.020",
+    "West portal regularized band attachment head.021",
+    "West portal regularized band attachment head.022",
+    "West portal regularized band attachment head.023",
+    "West portal regularized band attachment head.024",
+    "West portal regularized band attachment head.025",
+    "West portal regularized band attachment head.026",
+    "West portal regularized band attachment head.027",
+    "West portal layered lower head rail 0",
+    "West portal layered lower head rail 1",
+    "West portal layered lower head rail 2"
+  ],
+  "removed_objects": [
+    "concourse west small opening profiled lintel"
+  ],
+  "unchanged_original_object_count": 784,
+  "changed_original_objects": [],
+  "every_detail_study_placement_verified": true,
+  "maximum_detail_world_bounds_delta_m": 0.0,
+  "new_details_closed_outward_solids": true,
+  "original_materials_reused": true,
+  "west_passage_probes": [
+    {
+      "y": 62.05,
+      "z": 0.2,
+      "hit": null
+    },
+    {
+      "y": 63.4,
+      "z": 0.2,
+      "hit": null
+    },
+    {
+      "y": 64.75,
+      "z": 0.2,
+      "hit": null
+    },
+    {
+      "y": 62.05,
+      "z": 1.7,
+      "hit": null
+    },
+    {
+      "y": 63.4,
+      "z": 1.7,
+      "hit": null
+    },
+    {
+      "y": 64.75,
+      "z": 1.7,
+      "hit": null
+    },
+    {
+      "y": 62.05,
+      "z": 2.45,
+      "hit": null
+    },
+    {
+      "y": 63.4,
+      "z": 2.45,
+      "hit": null
+    },
+    {
+      "y": 64.75,
+      "z": 2.45,
+      "hit": null
+    }
+  ],
+  "new_detail_small_apertures_clear": true,
+  "era_detail_split_valid": true,
+  "append_only_cleanup": [
+    [
+      "materials",
+      "Concourse retained portal metal 2017.001"
+    ],
+    [
+      "materials",
+      "Concourse terracotta dressings 2017.001"
+    ],
+    [
+      "images",
+      "basecolor.png.010"
+    ],
+    [
+      "images",
+      "height.png.010"
+    ],
+    [
+      "images",
+      "normal.png.010"
+    ],
+    [
+      "images",
+      "roughness.png.010"
+    ]
+  ],
+  "full_scene_integration": {
+    "era": "2017",
+    "added_objects": 48,
+    "removed_objects": [
+      "concourse west small opening profiled lintel"
+    ],
+    "changed_floor_or_opening_controls": false,
+    "source_study": "/workspace/scratch/253ae098be12/michigan-central/manifests/concourse_portal_refinement/revision01/concourse_west_portal_2017_STUDY.blend",
+    "full_scene_qa_required": true
+  },
+  "source_bytes": 231890395,
+  "photoreal_or_complete_station_claim": false
+}

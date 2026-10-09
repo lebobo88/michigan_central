@@ -1,0 +1,336 @@
+{
+  "source_blend_sha256": "ff57f7c7d9202fdb819f86e5776106cfb7fcea9de09b58311f01c92867fe5764",
+  "era": "2017",
+  "checks": [
+    {
+      "connection": "hall_to_ticket_low_clearance",
+      "from_m": [
+        0,
+        29.6,
+        0.35
+      ],
+      "to_m": [
+        0,
+        34.0,
+        0.35
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "north_entry_low_clearance",
+      "from_m": [
+        0,
+        -1.1,
+        0.35
+      ],
+      "to_m": [
+        0,
+        1.0,
+        0.35
+      ],
+      "hits": [
+        {
+          "object": "2017 north entry closed corrugated shutter 2",
+          "distance_m": 0.878,
+          "classification": "documented door/screen part, may be closed"
+        },
+        {
+          "object": "2017 north entry closed corrugated shutter 2",
+          "distance_m": 0.985,
+          "classification": "documented door/screen part, may be closed"
+        }
+      ],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "north_entry_standing",
+      "from_m": [
+        0,
+        -1.1,
+        1.7
+      ],
+      "to_m": [
+        0,
+        1.0,
+        1.7
+      ],
+      "hits": [
+        {
+          "object": "2017 north entry closed corrugated shutter 2",
+          "distance_m": 0.878,
+          "classification": "documented door/screen part, may be closed"
+        },
+        {
+          "object": "2017 north entry closed corrugated shutter 2",
+          "distance_m": 0.985,
+          "classification": "documented door/screen part, may be closed"
+        }
+      ],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "hall_to_ticket",
+      "from_m": [
+        0,
+        29.6,
+        1.7
+      ],
+      "to_m": [
+        0,
+        34.0,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "ticket_to_arcade",
+      "from_m": [
+        -4.5,
+        40.0,
+        1.7
+      ],
+      "to_m": [
+        -37.8,
+        40.0,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "arcade_to_elevators",
+      "from_m": [
+        -37.8,
+        40.0,
+        1.7
+      ],
+      "to_m": [
+        -43.4,
+        40.0,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "elevators_to_east_entrance",
+      "from_m": [
+        -44.0,
+        40.07,
+        1.7
+      ],
+      "to_m": [
+        -53.3,
+        40.07,
+        1.7
+      ],
+      "hits": [
+        {
+          "object": "East entrance double-door wall vertical divisions",
+          "distance_m": 8.005,
+          "classification": "documented door/screen part, may be closed"
+        },
+        {
+          "object": "East entrance double-door wall vertical divisions",
+          "distance_m": 8.195,
+          "classification": "documented door/screen part, may be closed"
+        }
+      ],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "elevators_to_exit_passage",
+      "from_m": [
+        -44.05,
+        51.3,
+        1.7
+      ],
+      "to_m": [
+        -44.05,
+        60.0,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_to_exit_ramp",
+      "from_m": [
+        -28.2,
+        62.8,
+        1.7
+      ],
+      "to_m": [
+        -31.2,
+        62.8,
+        1.7
+      ],
+      "hits": [
+        {
+          "object": "East exit ramp west concourse connection vertical divisions",
+          "distance_m": 1.1944,
+          "classification": "documented door/screen part, may be closed"
+        },
+        {
+          "object": "East exit ramp west concourse connection vertical divisions",
+          "distance_m": 1.3844,
+          "classification": "documented door/screen part, may be closed"
+        }
+      ],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "ramp_to_wide_exit_vestibule",
+      "from_m": [
+        -43.8,
+        62.8,
+        1.7
+      ],
+      "to_m": [
+        -47.0,
+        62.8,
+        1.7
+      ],
+      "hits": [
+        {
+          "object": "East exit ramp east vestibule screen vertical divisions",
+          "distance_m": 1.205,
+          "classification": "documented door/screen part, may be closed"
+        },
+        {
+          "object": "East exit ramp east vestibule screen vertical divisions",
+          "distance_m": 1.395,
+          "classification": "documented door/screen part, may be closed"
+        }
+      ],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_to_passenger_ramp",
+      "from_m": [
+        0,
+        74.0,
+        1.4
+      ],
+      "to_m": [
+        0,
+        78.3,
+        1.4
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_to_west_portal",
+      "from_m": [
+        28.2894,
+        63.4,
+        1.7
+      ],
+      "to_m": [
+        30.6894,
+        63.4,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_north_arcade_bay_1",
+      "from_m": [
+        -25.803225,
+        52.5128,
+        1.7
+      ],
+      "to_m": [
+        -25.803225,
+        50.812799999999996,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_north_arcade_bay_2",
+      "from_m": [
+        -18.430875,
+        52.5128,
+        1.7
+      ],
+      "to_m": [
+        -18.430875,
+        50.812799999999996,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_north_arcade_bay_3",
+      "from_m": [
+        -11.058525,
+        52.5128,
+        1.7
+      ],
+      "to_m": [
+        -11.058525,
+        50.812799999999996,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_north_arcade_bay_6",
+      "from_m": [
+        11.058525,
+        52.5128,
+        1.7
+      ],
+      "to_m": [
+        11.058525,
+        50.812799999999996,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_north_arcade_bay_7",
+      "from_m": [
+        18.430874999999997,
+        52.5128,
+        1.7
+      ],
+      "to_m": [
+        18.430874999999997,
+        50.812799999999996,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    },
+    {
+      "connection": "concourse_north_arcade_bay_8",
+      "from_m": [
+        25.803225,
+        52.5128,
+        1.7
+      ],
+      "to_m": [
+        25.803225,
+        50.812799999999996,
+        1.7
+      ],
+      "hits": [],
+      "status": "clear or only documented door parts"
+    }
+  ],
+  "limitations": [
+    "Centerlines only; does not check accessible widths, headroom, egress code, stair compliance, or every room",
+    "Declared door/screen parts may intentionally be closed",
+    "Each REVIEW requires visual/geometry classification rather than automatic deletion"
+  ]
+}

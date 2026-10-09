@@ -1,0 +1,171 @@
+{
+  "era": "2017",
+  "source_blend_sha256": "ff57f7c7d9202fdb819f86e5776106cfb7fcea9de09b58311f01c92867fe5764",
+  "passed": true,
+  "source_code_current_sha256": "f853339d1f19dc37641809bbc2edf28b995c4f480c2bdb4b89dbd09c87c3f98c",
+  "opening_checks": [
+    {
+      "probe": "arcade",
+      "from_m": [
+        -39.0,
+        40,
+        1.7
+      ],
+      "to_m": [
+        -44.5,
+        40,
+        1.7
+      ],
+      "hits": []
+    },
+    {
+      "probe": "east_entrance",
+      "from_m": [
+        -44.5,
+        40.07,
+        1.7
+      ],
+      "to_m": [
+        -53.0,
+        40.07,
+        1.7
+      ],
+      "hits": [
+        {
+          "object": "East entrance double-door wall vertical divisions",
+          "distance_m": 7.505001180853297,
+          "allowed_closed_door_part": true
+        },
+        {
+          "object": "East entrance double-door wall vertical divisions",
+          "distance_m": 7.694999696212276,
+          "allowed_closed_door_part": true
+        }
+      ]
+    },
+    {
+      "probe": "south_connector",
+      "from_m": [
+        -44.1,
+        50.2,
+        1.7
+      ],
+      "to_m": [
+        -44.1,
+        59.3,
+        1.7
+      ],
+      "hits": [
+        {
+          "object": "Elevator lobby south approach portal vertical divisions",
+          "distance_m": 0.6139793310554041,
+          "allowed_closed_door_part": true
+        },
+        {
+          "object": "Elevator lobby south approach portal vertical divisions",
+          "distance_m": 0.8039779497652914,
+          "allowed_closed_door_part": true
+        }
+      ]
+    },
+    {
+      "probe": "north_approach",
+      "from_m": [
+        -44.1,
+        20.6,
+        1.7
+      ],
+      "to_m": [
+        -44.1,
+        31.0,
+        1.7
+      ],
+      "hits": [
+        {
+          "object": "Elevator lobby north approach portal vertical divisions",
+          "distance_m": 7.637603848964081,
+          "allowed_closed_door_part": true
+        },
+        {
+          "object": "Elevator lobby north approach portal vertical divisions",
+          "distance_m": 7.827604295540773,
+          "allowed_closed_door_part": true
+        }
+      ]
+    },
+    {
+      "probe": "west_restroom_gap",
+      "from_m": [
+        -44.1,
+        25.0,
+        1.7
+      ],
+      "to_m": [
+        -41.6,
+        25.0,
+        1.7
+      ],
+      "hits": []
+    },
+    {
+      "probe": "east_restroom_gap",
+      "from_m": [
+        -44.1,
+        25.0,
+        1.7
+      ],
+      "to_m": [
+        -46.6,
+        25.0,
+        1.7
+      ],
+      "hits": []
+    },
+    {
+      "probe": "west_north_branch",
+      "from_m": [
+        -44.1,
+        27.0,
+        1.7
+      ],
+      "to_m": [
+        -40.5,
+        27.0,
+        1.7
+      ],
+      "hits": []
+    }
+  ],
+  "upper_entrance_cap": [
+    {
+      "y": 38.4,
+      "passed": true,
+      "object": "Elevator east entrance upper structural infill"
+    },
+    {
+      "y": 40.07,
+      "passed": true,
+      "object": "Elevator east entrance upper structural infill"
+    },
+    {
+      "y": 41.8,
+      "passed": true,
+      "object": "Elevator east entrance upper structural infill"
+    }
+  ],
+  "camera_floor_containment": [
+    {
+      "camera": "Camera elevator_lobby",
+      "passed": true,
+      "first_downward_hit": "Elevator lobby tapered principal floor",
+      "point": [
+        -44.96390914916992,
+        50.05897903442383,
+        0.12999987602233887
+      ]
+    }
+  ],
+  "geometry_uv_issues": [],
+  "failures": [],
+  "scope": "Actual saved full scene; intended route centerlines and visible cap/contact only; no accessibility/egress certification, no surveyed clearance claim"
+}

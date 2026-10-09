@@ -1,0 +1,14 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "prompt": "Use case: historical-scene. Asset type: ORIGINAL SEAMLESS square PBR BASE-COLOR swatch, flat orthographic surface only, for a weathered pale Indiana-limestone ashlar wall field. Create from this text only; no reference photograph is supplied and do not reproduce any real building or photograph. The swatch represents approximately 4 metres square: exactly 8 horizontal stone courses of 0.5 metre height and approximately four 1 metre long rectangular blocks per course, alternating half-block running bond. Fine 4\u20136 mm gray mortar joints; flush dressed limestone faces with subtle mineral grain. Most stone remains pale warm gray/cream, with varied thin gray wash and soft ragged gray buildup preferentially below selected horizontal joints and beside a few vertical joints, diffuse remnants of old sheltered soot washing, not round cloudy dots. Irregular pale washed-clean areas retain dominant light stone. A FEW very sparse narrow downward gray runoff trails and at most two muted ochre rust-colored fine traces; neither broad rusty blocks nor generalized orange stains. The result should have natural non-repetitive stone-to-stone aging and joint-related weathering that stays legible across a building-scale view, while avoiding camouflage blobs. Diffuse-color only: completely flat, evenly illuminated albedo, NO shadows, directional lighting, ambient occlusion, bevel highlights, reflection, shiny areas, perspective, vignetting, border, labels, text, watermark, rubble, missing stones, major cracks, graffiti, columns or carved architecture. Square, high detail. Tile seamlessly on every edge; match row/joint continuity at opposing borders. Restrained midtone contrast: background limestone around sRGB 0.68, gray washed areas around 0.50 to 0.58; isolated joint buildup around 0.42, never black. No huge dark patches. This is original material-class artwork, not a historical damage record.",
+  "reference_images_supplied": [],
+  "transparent_background": false,
+  "original_runtime_path": "/workspace/scratch/253ae098be12/generated_images/exec-24bf745c-ce66-4cbd-8f66-29a7ec28c7dc.png",
+  "project_original": "generated_original.png",
+  "actual_output_dimensions": [
+    1254,
+    1254
+  ],
+  "technical_preparation": "prepare.py",
+  "placeholder": false
+}

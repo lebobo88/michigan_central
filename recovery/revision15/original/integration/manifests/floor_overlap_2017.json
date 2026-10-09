@@ -1,0 +1,7 @@
+{
+  "source_blend_sha256": "ff57f7c7d9202fdb819f86e5776106cfb7fcea9de09b58311f01c92867fe5764",
+  "era": "2017",
+  "broad_faces_checked": 13,
+  "overlaps": [],
+  "limits": "Targets broad horizontal rectangular floor faces only; decorative inlays and nonrectangular floors need separate visual review"
+}

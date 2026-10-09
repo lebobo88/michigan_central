@@ -1,0 +1,89 @@
+{
+  "status": "Packaged source/reference checkpoint; actual Blender reconstruction NOT YET VALIDATED",
+  "blender_launched": false,
+  "rendering_launched": false,
+  "full_scene_or_export_rebuild_performed": false,
+  "blender_reconstruction": "NOT YET VALIDATED",
+  "no_binary_identical_regenerated_blend_claim": true,
+  "pure_python_tests_passed": 9,
+  "tests_use_default_python_without_bytecode_environment_override": true,
+  "no_bytecode_created": true,
+  "syntax_files_checked": 42,
+  "reference_payloads": {
+    "passed": true,
+    "source_ast_definitions": [
+      "mesh",
+      "extrude",
+      "box",
+      "rounded",
+      "ring",
+      "bead",
+      "add_detail"
+    ],
+    "details": [
+      {
+        "era": "2017",
+        "objects": 48,
+        "triangles": 2136,
+        "array_bytes": 181632,
+        "max_reference_world_bounds_delta_m": 0.0
+      },
+      {
+        "era": "2026",
+        "objects": 166,
+        "triangles": 3912,
+        "array_bytes": 353856,
+        "max_reference_world_bounds_delta_m": 0.0
+      }
+    ],
+    "inherited_guarded_primitives": 4,
+    "inherited_array_bytes": 1578360,
+    "blender_reconstruction": "NOT YET VALIDATED",
+    "blender_launched": false
+  },
+  "existing_sealed_glb_reference_comparisons": [
+    {
+      "passed": true,
+      "era": "2017",
+      "file": "exports/revision15/michigan_central_2017.glb",
+      "sha256": "58594a65c501a45493fd9fe97fb75f4fce014efe8cd6f50b275c5bb4e2e596e1",
+      "compared_primitives": 612,
+      "mesh_nodes": 741,
+      "materials": 69,
+      "nodes_with_hierarchy_and_world_matrices_checked": 779,
+      "maximum_node_transform_delta": 0,
+      "errors": [],
+      "scope": "Exact accepted geometry, UV, tangent, index and material/image fingerprints; metadata/binary ordering not asserted",
+      "full_numerical_strict_clean": false,
+      "inherited_defects_retained": true,
+      "actual_blender_import_checked_here": false
+    },
+    {
+      "passed": true,
+      "era": "2026",
+      "file": "exports/revision15/michigan_central_2026.glb",
+      "sha256": "c1801cde3f864e851863c5b16c121cc7228725940465a5ae424fc4260adb669e",
+      "compared_primitives": 1342,
+      "mesh_nodes": 2759,
+      "materials": 149,
+      "nodes_with_hierarchy_and_world_matrices_checked": 2799,
+      "maximum_node_transform_delta": 0.0,
+      "errors": [],
+      "scope": "Exact accepted geometry, UV, tangent, index and material/image fingerprints; metadata/binary ordering not asserted",
+      "full_numerical_strict_clean": false,
+      "inherited_defects_retained": true,
+      "actual_blender_import_checked_here": false
+    }
+  ],
+  "checked_original_copies": 105,
+  "sealed_source_artifacts_modified": false,
+  "archive_integrity": "ZIP entry/size/hash/CRC verification reported separately with archive hash",
+  "not_run": [
+    "actual Blender source reconstruction",
+    "reopening newly reconstructed BLENDs",
+    "new full GLB export",
+    "new actual empty-scene import",
+    "new pixel comparison",
+    "new Khronos run"
+  ]
+}

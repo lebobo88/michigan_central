@@ -1,0 +1,184 @@
+{
+  "status": "Verified isolated west portal study; awaiting full-scene integration",
+  "date_utc": "2026-10-07",
+  "images_pixel_inspected": 11,
+  "protected_originals_unchanged": true,
+  "full_station_complete": false,
+  "photoreal_acceptance": false,
+  "new_image_maps_created": false,
+  "best_actual_import_screenshots": [
+    "import_2026_detail_oblique.png",
+    "import_2017_detail_oblique.png",
+    "import_2026_small_crown.png"
+  ],
+  "files": {
+    "2017_detail_oblique.png": {
+      "bytes": 1161931,
+      "sha256": "f8530c6e2c1830fbe92631c391b4dd34bb733ec8ec97341dfd6e32853a9e63e8"
+    },
+    "2017_small_crown.png": {
+      "bytes": 1112530,
+      "sha256": "adf7f825fd496cf9dc4c561d42dab9c453234b109ebfa9cda6e409fb1d5c24e2"
+    },
+    "2017_west_portal.png": {
+      "bytes": 1039831,
+      "sha256": "47bb5c21febd9b07102e0d948061a7b9004e10a771732c1ef97ba2de84de8263"
+    },
+    "2026_detail_oblique.png": {
+      "bytes": 1127095,
+      "sha256": "91da0e9b414ac079a1e055377806f59e7e3f93eee45d983d8afe733f519b10d3"
+    },
+    "2026_small_crown.png": {
+      "bytes": 1068020,
+      "sha256": "c1ad3272fda8b07301fc009b5ac8b67cd28cd97b7e926c7ffaf7b723fdab3bc3"
+    },
+    "2026_west_portal.png": {
+      "bytes": 1060751,
+      "sha256": "1d1cafb65df6368742c30802e74bb5bb44c6902ad8245d6be356466145e04ad3"
+    },
+    "EVIDENCE.md": {
+      "bytes": 6362,
+      "sha256": "ac9cb5828cad25d3e8d8bc2b283fe55ed01769b69775fd8f723e599ead46321a"
+    },
+    "NEXT_INTEGRATION.md": {
+      "bytes": 1743,
+      "sha256": "801d5814fa0eb12853ec0f1280b4df5d7b0b1b6d1c47baaaf76d3899ad06e8cc"
+    },
+    "PIXEL_REVIEW.json": {
+      "bytes": 3352,
+      "sha256": "cdcfc68722eb2d4931d5484b37f6e47174376e928f29bf5bca5959686ca694c6"
+    },
+    "README.md": {
+      "bytes": 3597,
+      "sha256": "fa75a85e76ca22fd9d8dc1f7e8da7394e3f58f1c2c036acafaf7ba6e90e38f54"
+    },
+    "apply_component.py": {
+      "bytes": 2498,
+      "sha256": "e797c0889f6ded9784a98dd13eed820dbb5a6d34ca9f3cd544523e61a89f503a"
+    },
+    "baseline_2026_west_portal.png": {
+      "bytes": 1056320,
+      "sha256": "c65089e49ad4614fd074bbbf8cb4af46c322fd1ef1994f001045c4909bdde48d"
+    },
+    "baseline_qa_2026.json": {
+      "bytes": 756,
+      "sha256": "81d76b21e9872500befa178c640c1fabe33dbe26181086003438d9741ddc959d"
+    },
+    "build_study.py": {
+      "bytes": 12973,
+      "sha256": "0ad7b90d58f96bdb6a488af62492604c0a6420a6de177141f5d8df278c6cd2a8"
+    },
+    "check_import_geometry.py": {
+      "bytes": 1433,
+      "sha256": "f9d4bd845076ae4e7d26bcf487af11db4749c9b32e6adf59dbc4eda193e61c5d"
+    },
+    "check_integration_helper.py": {
+      "bytes": 1387,
+      "sha256": "23176778d7394d1d9309bd1c88420dfb572ea2845d92f73e195cd19565bea095"
+    },
+    "compact_owned_studies.py": {
+      "bytes": 978,
+      "sha256": "9c605fc624a7101171adeb10c61d0792a5be429c394c973329c3ae7d5e691bf9"
+    },
+    "concourse_west_portal_2017_STUDY.blend": {
+      "bytes": 76384393,
+      "sha256": "cd2e2c085d818cb5f0c48de14f9e9077d73cb34d3d457d423b42a75efdb1f1ec"
+    },
+    "concourse_west_portal_2017_STUDY.glb": {
+      "bytes": 50640412,
+      "sha256": "84baf3f812a97410711d805a42af626adf36dd46ea3827ec578360c4abc677d9"
+    },
+    "concourse_west_portal_2026_STUDY.blend": {
+      "bytes": 31713844,
+      "sha256": "f24347feb7f2ba063389c61efa73889fc67dca109409da5dec09f794efc7c767"
+    },
+    "concourse_west_portal_2026_STUDY.glb": {
+      "bytes": 22566884,
+      "sha256": "4226bfeee1a8ab9a646443d0f4d1ccd2a950dbd458fd7aa729a9419eff00aa06"
+    },
+    "export_complete_study.py": {
+      "bytes": 2855,
+      "sha256": "0937fbf12fc9f41b1bcb5ad1458d1415186c24510ed5ccfd4d85dca801f82996"
+    },
+    "frozen_baseline.json": {
+      "bytes": 9514,
+      "sha256": "f7ee7cb2e4a5b655b6bd73255998f6a583458e555404a2e0634e55a1b46f1525"
+    },
+    "import_2017_detail_oblique.png": {
+      "bytes": 1150059,
+      "sha256": "2682cd09b38e63b8ab1a18015f9536249d1ceb5301a6e68af062aadc3fcbba65"
+    },
+    "import_2017_small_crown.png": {
+      "bytes": 1115589,
+      "sha256": "4df50b234d19ffdc36853b20898888392ea1fd70d29549ab921cf1648a1da3c4"
+    },
+    "import_2026_detail_oblique.png": {
+      "bytes": 1120374,
+      "sha256": "c93b310a3e67897e02cc4212edde2de3d42c49c7a81dbc385663dfc8dd8b37ed"
+    },
+    "import_2026_small_crown.png": {
+      "bytes": 1069408,
+      "sha256": "1c5a82da701e6777c941fddd6f22479274e274b6c9c4bb79b5ffa85362fd8716"
+    },
+    "import_geometry_checks.json": {
+      "bytes": 314,
+      "sha256": "a9d62fec9add7ebcfb385c61eee9d5dfc5c216bc20d21a8a7510bb4c28f8b87a"
+    },
+    "import_qa_2017.json": {
+      "bytes": 502,
+      "sha256": "7281b05b4103a1d3b6d3e8cc4d816844bc98c91bce8b4dda3eb924e8d494be00"
+    },
+    "import_qa_2026.json": {
+      "bytes": 504,
+      "sha256": "cf05aea733f37b3c0c3763ce2f9fc46cbe1fdb41d0501fda7d2f060ec6aba2c1"
+    },
+    "inspect_frozen.py": {
+      "bytes": 845,
+      "sha256": "dcd028a65caa2c32847a875079e7a51c9ef86dae01e4610a5e641d62322071d1"
+    },
+    "integration_helper_qa.json": {
+      "bytes": 1174,
+      "sha256": "d6c4e107f88cdb57a478c36a4f43227b9d9100b27a9de060c4b7a49fd0226320"
+    },
+    "khronos_2017.json": {
+      "bytes": 21747,
+      "sha256": "7aff83ce85993521972d44dd190512a84059494c633c72477b6b260bb3526ed5"
+    },
+    "khronos_2026.json": {
+      "bytes": 71190,
+      "sha256": "fdb8ef54630a5d45f7bc2fee8e5e7bef7a7d9425a5055703b4476823065a8e9d"
+    },
+    "orthogonalize_dentil_tangents.py": {
+      "bytes": 2604,
+      "sha256": "a93b235a62cc9802627a2bb47ea35ca342f25c5a091053a36f1b7f245d2d4312"
+    },
+    "protected_artifact_recheck.json": {
+      "bytes": 2119,
+      "sha256": "934105287457352cade74b59c5c4b10fb8c0a3e625e477282def5ba1022d07ae"
+    },
+    "qa_2017.json": {
+      "bytes": 10188,
+      "sha256": "9efbe91d2b5a5379459e5d71fa9c66a03a5ae12e75b3e23362317a7807b8b93f"
+    },
+    "qa_2026.json": {
+      "bytes": 30926,
+      "sha256": "5adb9569120f7d74ffca378dcc33b0bf87963cfd5f9dd9ae7c594c1f39e72a23"
+    },
+    "study_compaction.json": {
+      "bytes": 421,
+      "sha256": "9c5e954b3a121cdbd877ebbeb1e8d0f64ade2a26299986be90ca294f3c226229"
+    },
+    "tangent_precision_2017.json": {
+      "bytes": 656,
+      "sha256": "5a8619ec1b825f6f2f429a3f8356bdc0483cf89ea320466346a60cb7a30a2168"
+    },
+    "tangent_precision_2026.json": {
+      "bytes": 656,
+      "sha256": "e72ed5ce8a45b6cfbda7066adf39e8bf180e4627e8a2c08e99e68d50a2cd7c7b"
+    },
+    "verify_import.py": {
+      "bytes": 1722,
+      "sha256": "073eeccfebda4456a391a055445418947dee92be5bc5e8772f659c1b9a873b40"
+    }
+  }
+}

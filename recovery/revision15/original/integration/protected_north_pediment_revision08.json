@@ -1,0 +1,138 @@
+{
+  "manifests/north_pediment_sculpture/revision08_context/comparison.json": {
+    "sha256": "536fd8573271bbb0890da6bec993f0078cbad0cf820fdf335d75797bc1ff922b",
+    "bytes": 14215
+  },
+  "manifests/north_pediment_sculpture/revision08_context/NPS03_2026_architectural_context.png": {
+    "sha256": "53ee530b60fff602c5d7259daabf5e400844380dc80e8a8ed724c3c2e837fbc4",
+    "bytes": 1363525
+  },
+  "manifests/north_pediment_sculpture/revision08_context/blender.log": {
+    "sha256": "a94d852dc1a4addf9037b015465f992ef9956b7bd76bdd3cf77631c655d4bf91",
+    "bytes": 1021
+  },
+  "manifests/north_pediment_sculpture/revision08_context/NPS08_2026_architectural_context.png": {
+    "sha256": "64b22bd3b400c5c2a417b4724136e00e2d5bd4975ecc3763e67f5b5a70d94149",
+    "bytes": 1358931
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/comparison.json": {
+    "sha256": "5f61c5964247e48a1b23fca3a3db240e1d5d3d5958a83e9126828db71abf72f8",
+    "bytes": 9255
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/PIXEL_REVIEW.json": {
+    "sha256": "166567028dfea78dd364fe4bfb405d387a3c8e984512733b407282727583f94b",
+    "bytes": 3528
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/export_semantic_qa.json": {
+    "sha256": "9c37a2be65b35585b2e825f8a429ef2e48ac1e9cbaad7c250d78d4ea8929e806",
+    "bytes": 8234
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/evidence_and_limits.json": {
+    "sha256": "2dc5d7e7442bd998164840d077691b71e326344ce435b42f79c845c7d99d79dd",
+    "bytes": 4362
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/NPS08_mean_matched_whole.png": {
+    "sha256": "884683b70f935692f883e863412fb51ca57b9d8ee178b2077b8c955d00f0507b",
+    "bytes": 1085495
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/NPS08_mean_matched_macro.png": {
+    "sha256": "5c5f15e74d7f7112ecc714648af27e287d78d460df3ac73583828c52e9eb02a2",
+    "bytes": 1553889
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/intersections.log": {
+    "sha256": "af81be5ac841664928ee7b70d209f4c4d2a4a6d72df233c9d2e30a361ef4e97b",
+    "bytes": 2201
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/glb_roundtrip.json": {
+    "sha256": "4c7fa35170217f57d12ff0889af7455bf523c39af44a00cbeff9930bc9ac5471",
+    "bytes": 888
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/NPS08_mean_matched_export.json": {
+    "sha256": "1c4094e14ec551d811b7cc52ed1044b9ba535c475ed2a447035000a999a42144",
+    "bytes": 2128
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_qa.json": {
+    "sha256": "feebb286ba510bca79f71124cbb26639ed4798ec190152f44a15700e1a032e2e",
+    "bytes": 31188
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/blender.log": {
+    "sha256": "ed141dfa92ea92580b4d015eaa58bd97acdd2510ae52751e159a350dcdbdf45c",
+    "bytes": 2762
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/piece_self_intersections.json": {
+    "sha256": "7bc2a4ed08acdea00a635a939d8429172e6dc6df5656de9871e2ccfdaf28db88",
+    "bytes": 12041
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/trial_decisions.json": {
+    "sha256": "a86dd5204c1bac6e022274e13d8e15aaa9d9fc46b32026c194706289dbcb4558",
+    "bytes": 457
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/semantic.log": {
+    "sha256": "5fb6df2b434fb0f5053de1f81838fc29d9767606289a3b8657e7ef8dc6c15d3b",
+    "bytes": 2407
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/NPS08_mean_matched_RAW.glb": {
+    "sha256": "9e304cdbc251987d521a0bcb1c66efa7e2f15362bcc49335326b6b0fb27ef05b",
+    "bytes": 15131968
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/artifact_manifest.json": {
+    "sha256": "8cc5008e5d76064d5c9f60bcfd52ea0eabcf0bb3e8945ba6e535848fa899b993",
+    "bytes": 7486
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/NPS08_mean_matched_foliate_macro.png": {
+    "sha256": "ece799b4edd2952a4fc5ea0658a3c0081b8d19cfa09adde41a3a5052a0aaef40",
+    "bytes": 1422886
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/geometry_identity_vs06.json": {
+    "sha256": "e271546984c38331b442d67fb20d5ff4117f3262fcd8ac1f7a7708852893287c",
+    "bytes": 221
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/roundtrip.log": {
+    "sha256": "4aabca09e7fbc7a66a746e321665f56151c3b6aa593093532f89c75a605fc26d",
+    "bytes": 1809
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/khronos.json": {
+    "sha256": "f3ca48d2de677518e3a535c7d803f5ebba69fb8db7ba3147a01012ef33be2834",
+    "bytes": 2471
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/frozen_checkpoint_preservation.json": {
+    "sha256": "619f339db337365b1a86646c052a9a47582357426ef3bbaa313f34bb9a9ed937",
+    "bytes": 1823
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/NPS08_actual_glb_import_macro.png": {
+    "sha256": "a456177b9fa20559f203fce7043d744d743ff0cbf793bad3aa60a00097adb205",
+    "bytes": 1553785
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/render_pediment_context_v08.py": {
+    "sha256": "856bcee3c0574344932f012283a50fcb67ab5d0a610c675efac052ecc4e93fc1",
+    "bytes": 5002
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/qa_north_pediment_v08.py": {
+    "sha256": "55094f5aade519f6da6c1281ef21f2794d7f45c518e7b43bfb1d5c6d0d3e650b",
+    "bytes": 2377
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/check_pediment_v08_intersections.py": {
+    "sha256": "15d91f1fb06819c0947d7900712e5225f464e08c990479a547382e28e3aeeebb",
+    "bytes": 1814
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/roundtrip_pediment_v08.py": {
+    "sha256": "a4b6d7c03182592ad6dd6e8b4ad87d4922e8a756df7b1f3187cd03e4cab547b2",
+    "bytes": 3525
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/render_pediment_geometry_v08.py": {
+    "sha256": "06fd627b1c2a9d546a46bc7898665a3d2e276670544fe82e448ff7d55bd7e658",
+    "bytes": 5105
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/pediment_limestone_material.py": {
+    "sha256": "f714d219a623ff0c9d828cb00ef475c3e50675c205121546006148f3b8faaa69",
+    "bytes": 3751
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/north_pediment_sculpture_v08.py": {
+    "sha256": "44629f4bcaa3ebecf14ea6bd469c1e839eb7f085489feec4980d62a5a29b42a6",
+    "bytes": 18857
+  },
+  "manifests/north_pediment_sculpture/revision08_isolated/source_snapshot/validate_pediment_v08_export.py": {
+    "sha256": "a6b23c1b274120a79e4c9bdd5da096eb67b5643489b47065b0622a9438e5cb4b",
+    "bytes": 6255
+  }
+}

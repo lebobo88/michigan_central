@@ -1,0 +1,369 @@
+{
+  "title": "Detached 2017 cargo-core study controls; not global integration",
+  "eras": {
+    "2017": {
+      "status": "ready",
+      "coordinate_space": "DETACHED LOCAL STUDY ONLY: core north edge Y0, deck surface Z0, cargo-core X center 0; no station-global transform",
+      "extent_limit": "Approximate 2009 cargo-core envelope carried into the 2017 study. This does not claim the full 1,104 ft original shed/platform length, 100 ft Vernor bridge, or complete 2017 rail corridor.",
+      "footprint_xy_m": {
+        "value": [
+          [
+            -86.868,
+            0.0
+          ],
+          [
+            86.868,
+            0.0
+          ],
+          [
+            86.868,
+            103.632
+          ],
+          [
+            -86.868,
+            103.632
+          ]
+        ],
+        "basis": "MDOT approximate 570 \u00d7 340 ft cargo-core envelope converted to meters; precise decimals are conversions, not survey accuracy",
+        "source_ids": [
+          "MDOT2009"
+        ],
+        "confidence": "published",
+        "uncertainty_m": 3.0
+      },
+      "deck_top_z_m": {
+        "value": 0.0,
+        "basis": "Arbitrary local modeling origin, NOT hall-relative elevation",
+        "source_ids": [
+          "LOCAL_STUDY_DATUM"
+        ],
+        "confidence": "registered"
+      },
+      "deck_thickness_m": {
+        "value": 0.55,
+        "basis": "Photo-informed provisional structural depth, separate from cargo clearance; editable selected value",
+        "source_ids": [
+          "RAG1914_SECTION",
+          "DANDELION2017"
+        ],
+        "confidence": "photo_proportioned",
+        "range_m": [
+          0.35,
+          0.8
+        ]
+      },
+      "support_bottom_z_m": {
+        "value": -4.8,
+        "basis": "Selected local cargo floor gives approximately 3.9\u20134.25 m clearance below the beam/slab, inside the MDOT 12\u201314 ft range; no hall-relative elevation claim",
+        "source_ids": [
+          "MDOT2009",
+          "LOCAL_STUDY_DATUM"
+        ],
+        "confidence": "photo_proportioned",
+        "range_m": [
+          -5.05,
+          -4.5
+        ]
+      },
+      "platform_strips_y_m": {
+        "value": [
+          [
+            0.0,
+            5.7912
+          ],
+          [
+            12.192,
+            17.9832
+          ],
+          [
+            24.384,
+            30.1752
+          ],
+          [
+            36.576,
+            42.3672
+          ],
+          [
+            48.768,
+            54.5592
+          ],
+          [
+            60.96,
+            66.7512
+          ]
+        ],
+        "basis": "Six clearly visible uncovered strips in the 2017 study crop. Historic 40 ft pitch and 19 ft platform width are regularized scale controls. Southern continuation remains incomplete.",
+        "source_ids": [
+          "DANDELION2017",
+          "RAG1914_TEXT"
+        ],
+        "confidence": "photo_proportioned",
+        "uncertainty_m": 1.0
+      },
+      "platform_height_m": {
+        "value": 0.34,
+        "basis": "Low raised platform edges visible in2017; vertical scale selected for detached study",
+        "source_ids": [
+          "DANDELION2017"
+        ],
+        "confidence": "photo_proportioned",
+        "range_m": [
+          0.2,
+          0.5
+        ]
+      },
+      "steel_edge_beam_depth_m": {
+        "value": 0.45,
+        "basis": "Riveted fascia depth photo-proportioned from south cargo view; not engineering section",
+        "source_ids": [
+          "DANDELION2017",
+          "MDOT2009"
+        ],
+        "confidence": "photo_proportioned",
+        "range_m": [
+          0.35,
+          0.7
+        ]
+      },
+      "cargo_south_bays": {
+        "value": [
+          {
+            "x0": -86.738,
+            "x1": -81.2068,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -80.9468,
+            "x1": -75.4156,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -75.1556,
+            "x1": -69.6244,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -69.3644,
+            "x1": -63.8332,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -63.5732,
+            "x1": -58.042,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -57.782,
+            "x1": -52.2508,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -51.9908,
+            "x1": -46.4596,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -46.1996,
+            "x1": -40.6684,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -40.4084,
+            "x1": -34.8772,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -34.6172,
+            "x1": -29.086,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -28.826,
+            "x1": -23.2948,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -23.0348,
+            "x1": -17.5036,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -17.2436,
+            "x1": -11.7124,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -11.4524,
+            "x1": -5.9212,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": -5.6612,
+            "x1": -0.13,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 0.13,
+            "x1": 5.6612,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 5.9212,
+            "x1": 11.4524,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 11.7124,
+            "x1": 17.2436,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 17.5036,
+            "x1": 23.0348,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 23.2948,
+            "x1": 28.826,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 29.086,
+            "x1": 34.6172,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 34.8772,
+            "x1": 40.4084,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 40.6684,
+            "x1": 46.1996,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 46.4596,
+            "x1": 51.9908,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 52.2508,
+            "x1": 57.782,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 58.042,
+            "x1": 63.5732,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 63.8332,
+            "x1": 69.3644,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 69.6244,
+            "x1": 75.1556,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 75.4156,
+            "x1": 80.9468,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          },
+          {
+            "x0": 81.2068,
+            "x1": 86.738,
+            "bottom_z": -4.55,
+            "top_z": -1.1
+          }
+        ],
+        "basis": "MDOT describes 30 overhead cargo bays. Shutters and steel facade survive in the 2017 photo. Widths are regularized over the approximate core extent; door height and dock dimensions are photo-proportioned.",
+        "source_ids": [
+          "MDOT2009",
+          "DANDELION2017"
+        ],
+        "confidence": "photo_proportioned"
+      },
+      "north_facade_segments": {
+        "value": [],
+        "basis": "MDOT documents a north nine-bay facade and awning, but the exact split around the passenger ramp is not registered. Intentionally omitted from the detached south-facing study.",
+        "source_ids": [
+          "MDOT2009"
+        ],
+        "confidence": "registered"
+      },
+      "south_parapet_remnants": {
+        "value": [
+          {
+            "x0": -84.868,
+            "x1": -47.867999999999995,
+            "height": 0.88
+          },
+          {
+            "x0": -42.867999999999995,
+            "x1": 2.132000000000005,
+            "height": 1.1
+          },
+          {
+            "x0": 8.132000000000005,
+            "x1": 82.868,
+            "height": 0.66
+          }
+        ],
+        "basis": "Broken terra-cotta fabric is visible in 2017. Remnant lengths/heights and the block-loss pattern are original interpretations, not a traced condition survey.",
+        "source_ids": [
+          "DANDELION2017"
+        ],
+        "confidence": "photo_proportioned"
+      },
+      "interpretive_weed_bands": {
+        "value": true,
+        "basis": "Weed bands along trackway/platform edges are visible in the 2017 aerial. Individual plants and their placement are original.",
+        "source_ids": [
+          "DANDELION2017"
+        ],
+        "confidence": "photo_proportioned"
+      },
+      "omissions": [
+        "North facade and awning split",
+        "Undercroft rooms, utilities and complete inner column grid",
+        "Exact platform damage and former stair/elevator openings",
+        "Rail inventory and southern active freight corridor",
+        "Full original 1,104 ft shed footprint and platform extensions",
+        "West Vernor bridge",
+        "Hall-relative placement, ramp connection and platform-subway stairs"
+      ]
+    }
+  }
+}

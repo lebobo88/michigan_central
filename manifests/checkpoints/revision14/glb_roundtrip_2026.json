@@ -1,0 +1,54 @@
+{
+  "glb_sha256": "872c5e46b0df060a89e2d5bf1ba0a62f14824ca0875d6d526ffd190f97b19bb1",
+  "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+  "era": "2026",
+  "file": "exports/michigan_central_2026_compact_review.glb",
+  "blender": "5.2.2 LTS",
+  "import_status": "passed",
+  "finite_meshes_uvs_materials": "passed",
+  "mesh_count": 2552,
+  "room_groups": 27,
+  "unresolved_coverage_markers": [
+    "Basements and plant | unmodeled",
+    "Concourse north_arcade_side_rooms | UNRESOLVED",
+    "Concourse west_vestibule_to_carriage | UNRESOLVED",
+    "Concourse yellow_light_rear_registration_notch | UNRESOLVED",
+    "East public restroom fit-outs | UNOBSERVED",
+    "Mezz and 2026 tenant suites | no invented layout",
+    "Neighbor unseen suite | UNRESOLVED",
+    "NoMad hotel | not a finished 2026 interior",
+    "North lift approach west branch | CONTINUATION UNRESOLVED",
+    "Southern platform / replacement deck | UNALIGNED",
+    "The Shop unseen suite | UNRESOLVED",
+    "Tower private floors | unmodeled fit-out",
+    "Yellow Light rear service fit-out | UNOBSERVED"
+  ],
+  "bounds_method": "Actual world-space polygon-referenced vertices, before source modifiers",
+  "bound_tolerance_m": 0.02,
+  "bounds_m": [
+    [
+      -94.0,
+      -204.09364912742967,
+      -0.9757926631512319
+    ],
+    [
+      94.0,
+      88.22985469067258,
+      70.1097922707259
+    ]
+  ],
+  "source_bounds_m": [
+    [
+      -94.0,
+      -204.09471130371094,
+      -0.9758960008621216
+    ],
+    [
+      94.0,
+      88.2300033569336,
+      70.11000061035156
+    ]
+  ],
+  "max_envelope_difference_m": 0.0010621762812661473,
+  "limit": "Tests actual Blender import, metadata and broad metric envelope; does not certify every rendered material or architectural detail."
+}

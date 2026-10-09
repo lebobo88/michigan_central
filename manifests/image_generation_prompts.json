@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "mankato_basecolor_v1.png",
+    "tool": "built-in image_gen.imagegen",
+    "intent": "original photoreal material swatch, no image inputs",
+    "prompt": "Use case: photorealistic-natural. Asset type: original physically based architectural material base-color swatch for an editable 3D reconstruction. Generate one square, seamless edge-to-edge texture of warm buff-to-honey Mankato-style limestone, approximately 1.5 meters square of one continuous honed stone surface. Photoreal fine sedimentary mineral grain, tiny fossils and subtle irregular cream/ochre mottling, restrained natural vertical grain, sparse shallow pits. Moderate low-contrast beige tan color; no marble veins, no dramatic cracks, no mildew or documentary damage. Orthographic perfectly flat surface scan under absolutely diffuse neutral even illumination. No shadows, no specular highlights, no vignette, no directional lighting, no perspective, no borders, no seams or tile grid, no text, no symbols, no objects, no recognizable photographed building. This is an original artistic material, not a site scan or evidence of Michigan Central Station. It must tile seamlessly horizontally and vertically. Target 2048 by 2048 pixels, fine believable stone microtexture suitable for tall architectural columns."
+  },
+  {
+    "asset": "rose_marble_basecolor_v1.png",
+    "tool": "built-in image_gen.imagegen",
+    "intent": "original photoreal material swatch, no image inputs",
+    "prompt": "Use case: photorealistic-natural. Asset type: original seamless PBR base-color swatch for an architectural 3D model. Generate a square orthographic texture scan of one continuous piece of antique rose Tennessee marble: muted reddish-brown, warm taupe and dusty rose-gray ground, very fine irregular white and pale-gray crystalline veins, occasional soft cloudy mineral patches, varied subtle natural striation. Honed/polished stone color only, captured under perfectly uniform cross-polarized diffuse neutral light: absolutely no reflections, no highlights, no shadows, no vignette, no perspective. Low-to-moderate contrast, realistic fine mineral detail rather than decorative bold flowing lines. Seamless edge-to-edge horizontally and vertically. Approximate physical surface 1.2 meters square. No floor tile grid, no grout, no border, no text, no objects, no logo, no watermark, no damage or graffiti. This is a newly generated artistic material swatch, not a scan or documentary image of Michigan Central Station. Target 2048 by 2048 pixels."
+  },
+  {
+    "asset": "walnut_herringbone_v1.png",
+    "tool": "built-in image_gen.imagegen",
+    "intent": "original photoreal material swatch, no image inputs",
+    "prompt": "Use case: photorealistic-natural. Asset type: original seamless base-color texture for a 3D architectural floor. Generate a perfectly flat orthographic top-down scan-like swatch of dark brown historic walnut parquet laid in a genuine interlocking herringbone pattern, with slender rectangular boards in alternating perpendicular directions and a subtle overall45-degree diagonal rhythm. Approximately2 meters square, small boards about7 centimeters wide and35 centimeters long. Rich deep chocolate-brown aged walnut, restrained warmer undertones, real fine aligned wood grain per board, slight board-to-board color variation, narrow nearly invisible joints, very light wear. Uniform cross-polarized diffuse neutral illumination, absolutely no perspective, no reflections, no highlights, no shadows, no bevel shading, no vignette, no frame. Seamless repeat on all four edges. No text, no logo, no objects, no decorative border, no graffiti. This is newly generated original artistic texture, not a scan or documentary evidence of any real room. Target2048×2048pixels."
+  }
+]

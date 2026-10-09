@@ -1,0 +1,397 @@
+{
+  "status": "Synchronized revision14 WIP; full requested architectural and photoreal scope remains open",
+  "matched_render_directory": "renders/revision14",
+  "technical_checkpoint": [
+    {
+      "era": "2017",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "build_code_sha256": "54e1893af02d61f2d7310215f3f8a5d1b8ac0599ac499f26bad349c36422b56b",
+      "exports": {
+        "full": {
+          "file": "exports/michigan_central_2017.glb",
+          "bytes": 300252844,
+          "sha256": "e501bccc93a36211f3a10466ce75151e62f73fc92cff2fcbd5c431697dbd9f8b"
+        },
+        "preview_lod": {
+          "file": "exports/michigan_central_2017_preview_lod.glb",
+          "bytes": 182928700,
+          "sha256": "338d227f49af4dfec91fc29333f4eea060d5836003284b11a28626049102fb5e"
+        },
+        "compact_review": {
+          "file": "exports/michigan_central_2017_compact_review.glb",
+          "bytes": 127134036,
+          "sha256": "64f735eb8c982b4e0b155fef6a07a7dfd2a5f3d22b46198450d8ddd7a559b981"
+        }
+      },
+      "renders": [
+        {
+          "file": "renders/revision14/2017_front.png",
+          "sha256": "8c9738d5cf80df91efc5159a3d4e79b0bb2530f8b24022e620ab9bf40d83be63",
+          "metadata": "renders/revision14/2017_front.json",
+          "camera": "front",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2017_hall_reverse.png",
+          "sha256": "c96120dc37b8e8194dce65914e2f69c927631f3f10b137d2431ee837857cafac",
+          "metadata": "renders/revision14/2017_hall_reverse.json",
+          "camera": "hall_reverse",
+          "exposure": 1.600000023841858,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2017_concourse_roof_axial.png",
+          "sha256": "90d256d2e9cc593036695549c85d4b664b79f013d50c9ca5d385f29c34ee3ded",
+          "metadata": "renders/revision14/2017_concourse_roof_axial.json",
+          "camera": "concourse_roof_axial",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2017_concourse_source_eye.png",
+          "sha256": "25b779e703ea1298049bd4d90f9c46b79c93e23b69a091b88f3f2bcfb0c0a4aa",
+          "metadata": "renders/revision14/2017_concourse_source_eye.json",
+          "camera": "concourse_source_eye",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2017_north_entry_detail.png",
+          "sha256": "d23bebd74f1a9ec1d401e8fe02634c0911da16fc3ac514d4c5c48849985450f7",
+          "metadata": "renders/revision14/2017_north_entry_detail.json",
+          "camera": "north_entry_detail",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2017_elevator_lobby.png",
+          "sha256": "a04e25a7ce75d1b4a7b7cb421c0ca4d75fa89997d8e38d6860d7f37b467caa38",
+          "metadata": "renders/revision14/2017_elevator_lobby.json",
+          "camera": "elevator_lobby",
+          "exposure": 0.800000011920929,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2017_east_exit_ramp.png",
+          "sha256": "f8c6ddb3c23e788ba41de68410a26c6f1e720f35d30e4b153ad73e3bbd26aeef",
+          "metadata": "renders/revision14/2017_east_exit_ramp.json",
+          "camera": "east_exit_ramp",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2017_north_entry_side_upper_detail.png",
+          "sha256": "0314bdf39edfed4fcaa94e995e457855a45c602f4309c0a496a608d9ad1aadf7",
+          "metadata": "renders/revision14/2017_north_entry_side_upper_detail.json",
+          "camera": "north_entry_side_upper_detail",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        }
+      ],
+      "roundtrip_surface_envelope_delta_m": 0.00020833962565802722,
+      "uncapped_khronos": "Zero errors and warnings in all three exports; informational unused-attribute notices retained",
+      "source_unreferenced_vertices": 0,
+      "source_degenerate_polygons": 0,
+      "packed_images": 116
+    },
+    {
+      "era": "2026",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "build_code_sha256": "54e1893af02d61f2d7310215f3f8a5d1b8ac0599ac499f26bad349c36422b56b",
+      "exports": {
+        "full": {
+          "file": "exports/michigan_central_2026.glb",
+          "bytes": 523950492,
+          "sha256": "3a58625a4f5055ef2bb50e9bfe272f591fa07ee2f59039081a140f6e588bb711"
+        },
+        "preview_lod": {
+          "file": "exports/michigan_central_2026_preview_lod.glb",
+          "bytes": 298896604,
+          "sha256": "119f9b55d3128e4630aa00b1b3628abb9943ba056e314a86d130972f3a384230"
+        },
+        "compact_review": {
+          "file": "exports/michigan_central_2026_compact_review.glb",
+          "bytes": 210911760,
+          "sha256": "872c5e46b0df060a89e2d5bf1ba0a62f14824ca0875d6d526ffd190f97b19bb1"
+        }
+      },
+      "renders": [
+        {
+          "file": "renders/revision14/2026_front.png",
+          "sha256": "520b142b4c975b7b8fe68f57bfa3b9354b2f8e93bd82e6fe239ff22d24311770",
+          "metadata": "renders/revision14/2026_front.json",
+          "camera": "front",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2026_hall_reverse.png",
+          "sha256": "fb33bde4beaffed5ba2933eda73a8c86fea33f5c609964963d7041e23900816f",
+          "metadata": "renders/revision14/2026_hall_reverse.json",
+          "camera": "hall_reverse",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2026_concourse_roof_axial.png",
+          "sha256": "af8fdb825b8f1109093193b346c7152dd6d910c90a1d76132f2d90cb398ff123",
+          "metadata": "renders/revision14/2026_concourse_roof_axial.json",
+          "camera": "concourse_roof_axial",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2026_concourse_source_eye.png",
+          "sha256": "53f846656a9b7d1e7ae54214378874c5e69f12712593b497c5dc9abee85201de",
+          "metadata": "renders/revision14/2026_concourse_source_eye.json",
+          "camera": "concourse_source_eye",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2026_north_entry_detail.png",
+          "sha256": "57a308283cf7ef2be450783ae44e594f81fc1c327f8ce2c403d12b369021ccc0",
+          "metadata": "renders/revision14/2026_north_entry_detail.json",
+          "camera": "north_entry_detail",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2026_elevator_lobby.png",
+          "sha256": "0878dbea74018f260d775c7aa27eff01d386af905c3cfd5c54086b123b4f4b39",
+          "metadata": "renders/revision14/2026_elevator_lobby.json",
+          "camera": "elevator_lobby",
+          "exposure": 0.6000000238418579,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2026_east_exit_ramp.png",
+          "sha256": "1b33cef18df8a4ed12ef9078bd709e56a42dc782b5a80d366607e50670373123",
+          "metadata": "renders/revision14/2026_east_exit_ramp.json",
+          "camera": "east_exit_ramp",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        },
+        {
+          "file": "renders/revision14/2026_north_entry_side_upper_detail.png",
+          "sha256": "0e9bbb14889ad684097ed804ef7830c6ba4bb4a84d1e7db419b512f48a593539",
+          "metadata": "renders/revision14/2026_north_entry_side_upper_detail.json",
+          "camera": "north_entry_side_upper_detail",
+          "exposure": 0.4000000059604645,
+          "helper_sha256": "1e9e91a55664d5deb54c6b271048418d17aa58bbdee0cb8ee285ce90b2022da2",
+          "lighting_sha256": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+        }
+      ],
+      "roundtrip_surface_envelope_delta_m": 0.0010621762812661473,
+      "uncapped_khronos": "Zero errors and warnings in all three exports; informational unused-attribute notices retained",
+      "source_unreferenced_vertices": 0,
+      "source_degenerate_polygons": 0,
+      "packed_images": 165
+    }
+  ],
+  "immutable_report_files": [
+    {
+      "file": "manifests/checkpoints/revision14/scene_validation_2017.json",
+      "sha256": "7ed4d2a7a756bc360e842732c841ad80473ed42e09f26147fb382a77ddabe016"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/uv_area_2017.json",
+      "sha256": "22557aecb6e541f339e3ffbdc97eb322d26cf2ff3ff6be328a8872f22c8a9545"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/public_interface_checks_2017.json",
+      "sha256": "7d3b03b7c8c38ce88301ae9aa4c0606f274a1ed62d23d67b6645b003e6680fe9"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/floor_overlap_2017.json",
+      "sha256": "b5dc51ea11cbe565670db43e0df7b1d0510c04cebaee32d775151db511d1fbcd"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/hall_roof_clearance_2017.json",
+      "sha256": "394d18461d36df9a7e3fc6656d1676de2a6f6a2428e62e371e29231695a5ff13"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/era_condition_checks_2017.json",
+      "sha256": "769fa1f40d887a2e57aa398901a3cc1ac1dff97ee555a81278f7a58fe7ea3647"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/glb_roundtrip_2017.json",
+      "sha256": "5172033ec7da961bb7e42ae4de9d60829d820ff09de68c8f3d5d1c1bb299cff5"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/export_lineage_2017.json",
+      "sha256": "bc1f8c1e9dc3304a9260ad3f34167e625884a66c3b2aea49264cde85edee05ab"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/metrics_2017.json",
+      "sha256": "5480c70faf904f3c1f93d1ad8998d3272937807504fc57ca61206b54ff8bc0f9"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/packed_material_inventory_2017.json",
+      "sha256": "817caa75c5b597c20273f1703db9fb5f35e2271c15bc2ef34eaf36cd0b283a31"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/field_material_scope_2017.json",
+      "sha256": "90845375ac1c2635250ad227d7769853c00e45ac62e20d87093a41150d6461d3"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/exterior_plinth_contact_2017.json",
+      "sha256": "394f8d59ca7113e66785f27196f44f91bb9b43c93f71abe8c495f0c677647025"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/north_upper_contact_2017.json",
+      "sha256": "d4a14daf2abf1678a8657c7e0dde810abaf093ff4f1cd7666ebd44f4f672550d"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/concourse_floor_material_2017.json",
+      "sha256": "f1a9bdb559e9e3d45d74fa7ed80df6198b845eee090a79ba5d4320ee7a116a0a"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/glass_shell_checks_2017.json",
+      "sha256": "f0b35fe65e9124c4f004a103f19ae49a7b710e0e035684cfea30e5669ba44512"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/lobby_interface_checks_2017.json",
+      "sha256": "2d5926dc4d2fe64cbd297808303dff922e486d99a020f3ce561306476da259b3"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/material_portability_full_2017.json",
+      "sha256": "4efb35ec1c8ec069d02652924469a9bbfae49d3a310f1eb8aac30fe1f9c2cc4f"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/material_portability_preview_lod_2017.json",
+      "sha256": "f11fc2939f16c651f685efab0a8495e76963c3f746e16376a8bddf09adb59949"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/material_portability_compact_review_2017.json",
+      "sha256": "d5c66ce6a0dec22cdd43b329f63d344637c5eecd8a8eec6630e9da0f4230f92f"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/khronos_2017_full.json",
+      "sha256": "a05543ff5faa50970c075b692c854faf436f3eff4ef69cb6af45eb60be31eb92"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/khronos_2017_preview_lod.json",
+      "sha256": "cd8525e6005d76181228845464b23501ce4394f77473f9013a9d55876b62bab4"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/khronos_2017_compact_review.json",
+      "sha256": "1b0c2af3d579810df9e7f28ed9d0046753125d78a8754ef4c48a678c796095ce"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/scene_validation_2026.json",
+      "sha256": "e15f89e07b3a9eacc0e9234dec67306a40440bdf913775e4dfda6d317abb0a69"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/uv_area_2026.json",
+      "sha256": "401851390dbe4fbc6f9cb536cc522d4c3f539c4ef454f2a21127133d038ec4ce"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/public_interface_checks_2026.json",
+      "sha256": "dbd18cd78e76df6b03b0730b60eeb75188807f10d5bdba9ed7c7ab1345ab4ae3"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/floor_overlap_2026.json",
+      "sha256": "29c530d19273f507ed24d6c3213b8c8414145bd83849441278e2120ab5a8cc03"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/hall_roof_clearance_2026.json",
+      "sha256": "cb99d2ebd2f314db4a2cdabf5bb351a1e390315395cfe43a033137951d56efd9"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/era_condition_checks_2026.json",
+      "sha256": "24d7cea28f082945dab98fe924162b193ee0971172cb18d48fd881dc584de045"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/glb_roundtrip_2026.json",
+      "sha256": "4eb042d7917674b78ab4095fa747c9c5c13a70d1dc6b3fc21965530da44488d4"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/export_lineage_2026.json",
+      "sha256": "e5baeb392cf8a02c3038d101e834cfe96503866af1271eb38f48a9880df14479"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/metrics_2026.json",
+      "sha256": "63b78a027814049cb1be7a66b5bf57167e03bb20ee96383c02c06528dddb6664"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/packed_material_inventory_2026.json",
+      "sha256": "1d3c94e2f46a4f9c14893e3c1309493badf27adfff641e7f47744b406b5def78"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/field_material_scope_2026.json",
+      "sha256": "c7bd2ab13a28794ae017a7a286cc5f2dcff784a19ba5fb60fc9357dd42845058"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/exterior_plinth_contact_2026.json",
+      "sha256": "4cd390311fc61222d864fe6de208266296fea50ec047f0a08fd4f62f103f411f"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/north_upper_contact_2026.json",
+      "sha256": "3f19c9d98d34041ef22cbe0a7e0d324f3e684ae3fb6f900748624ca67daedae2"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/concourse_floor_material_2026.json",
+      "sha256": "a9db85d2b63a0dde8b94720a8dbf05e24de0abfa3b0b6f7bf2457009d9ff671e"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/glass_shell_checks_2026.json",
+      "sha256": "8674c65433348c116809fa2ea72e2f0551e227973c32e1e834db54a2266110b5"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/lobby_interface_checks_2026.json",
+      "sha256": "a10ae0270b36043df33ff3f5d826ef0930216fef5b22f773f1c38425752bbcdf"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/material_portability_full_2026.json",
+      "sha256": "5630ddab79cbf695c649989a26b681c0e47050afa7c932922daa844ee67ebd46"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/material_portability_preview_lod_2026.json",
+      "sha256": "bdf922b2c618c6bd0ff4e1581372864abe8419992aa87c28af23335170c5a9d7"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/material_portability_compact_review_2026.json",
+      "sha256": "19ce4ea69ba8fa63da27369056d894d90347ed610efaa71db9fd0db9353607f0"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/khronos_2026_full.json",
+      "sha256": "a8fc2c9f14f09174a09671129229e08cbcf8c53aefd37764bc94d4ec81571200"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/khronos_2026_preview_lod.json",
+      "sha256": "424d466ba2bae3238d7c9371329217a11c6579d577498587588753cf71983dfc"
+    },
+    {
+      "file": "manifests/checkpoints/revision14/khronos_2026_compact_review.json",
+      "sha256": "9203919aac3161a5c7d9f0d98cf2168d28d7fac3e44caff4a91d12a7b195677c"
+    }
+  ],
+  "bounds_method": "Actual polygon-referenced vertices transformed to world space;2 cm conversion tolerance. This checks format transfer, not architectural survey accuracy",
+  "image_comparison": "Fixed named cameras.2017 Grand Hall uses exposure1.6; lift lobby uses0.8/0.6 for2017/2026; other cameras use0.4. Actual per-frame light states and exposure are recorded in image metadata.",
+  "coverage": "manifests/space_completeness_qa.json",
+  "source_gaps": "manifests/source_gaps.json",
+  "remaining": [
+    "Exact ornament/carving profiles and material reflectance are approximate",
+    "2017 wear/scuff placement is original interpretation, with explicitly dated condition evidence separated",
+    "Concourse longitudinal bracing, exact floor setting-out and fine metal/terracotta ornament remain unmeasured; west onward circulation is unresolved",
+    "Private/hidden rooms and full tenant suites require additional plan/photo coverage",
+    "Southern platform/deck global registration and current deck dimensions remain unresolved"
+  ]
+}

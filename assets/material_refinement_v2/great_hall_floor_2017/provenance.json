@@ -1,0 +1,81 @@
+{
+  "material": "great_hall_floor_2017",
+  "origin": "Original procedural refinement of original project atlas; no new imagegen call or third-party image pixels",
+  "pixels": [
+    3072,
+    3072
+  ],
+  "physical_repeat_m": null,
+  "mapped_extent_m": [
+    71.0184,
+    31.6992
+  ],
+  "periodic": false,
+  "integration_target": "2017 Grand Hall floor assembly only",
+  "uv_rule": "Keep existing UV=(world.x/71.0184+0.5, world.y/31.6992)",
+  "texture_extension": "EXTEND / clamp to edge",
+  "basecolor_encoding": "sRGB",
+  "roughness_encoding": "linear",
+  "normal_encoding": "OpenGL +Y; image-row derivative converted to UV-v-up",
+  "height_encoding": {
+    "bits": 16,
+    "original_pixels_preserved": true,
+    "full_range_m": 0.008,
+    "decode_m": "(uint16/65535-0.5)*0.008",
+    "origin": "Conservative inferred physical scale, not measured",
+    "displacement_enabled": false
+  },
+  "normal_origin": "Derived from the unchanged original inferred joint-height pixels at conservative physical scale. No micro-rubble displacement.",
+  "gltf": {
+    "baseColorTexture": "basecolor.png",
+    "metallicRoughnessTexture": "orm.png",
+    "metallicFactor": 0,
+    "roughnessFactor": 1,
+    "normalTexture": "normal.png",
+    "normalTexture_scale": 1,
+    "height": "Sidecar only; no core glTF displacement"
+  },
+  "source_original_atlas": "assets/textures/great_hall_floor_2017",
+  "input_sha256": {
+    "normal.png": "739690a0e6f33c8ebbdd06f6b0280d6f4818e233b03b86c5790f44eefdca2cab",
+    "roughness.png": "3685ecb2ae9c22c81f385aae2776d0cebe008372a1f7d23c20d00edd91b7792d",
+    "basecolor.png": "8b2ec9707d473664d9e7dcea2e42afe668afc1ba539f023c4feb71edc9a75f61",
+    "height.png": "53c905127e17111a96fb6e2aea0e552727044092f9b675f1b378a7beabb016af"
+  },
+  "sources": [
+    {
+      "id": "pre_p16",
+      "date": "May 2017",
+      "local": "research/interior/study_only/pre_p16.jpg",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior#p16",
+      "credit": "Bob Laperriere / HistoricDetroit.org",
+      "observed": "Largely clear, pale dusty central floor; faint historic stone joints; uneven edge deposits and some local fallen material. Exact fall locations are outside this material study."
+    },
+    {
+      "id": "pre_p6",
+      "date": "May 2017",
+      "local": "research/interior/study_only/pre_p6.jpg",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior#p6",
+      "credit": "Bob Laperriere / HistoricDetroit.org",
+      "observed": "Dull rose-gray historic floor near the Ticket Lobby, visible joints and dusty surface; no restored bench infill."
+    }
+  ],
+  "limitations": [
+    "Original material-class study, not a surveyed or photo-projected May 2017 damage map.",
+    "The existing unlit atlas already contained historic joints and perimeter grit; the dark scene render does not prove those were missing.",
+    "Scuff/deposit positions and marble visibility are procedural estimates, not documented exact locations.",
+    "Source photos establish a largely cleared dusty center and localized peripheral deposits. They do not justify indiscriminate deep cracks, rubble coverage, wetness, or restored bench-infill patches.",
+    "Existing floor geometry, joint mask, joint rhythm, and 16-bit inferred height pixels are unchanged. No restored terrazzo bench footprints are introduced.",
+    "No copyrighted study-photo pixels are sampled, embedded, reprojected or redistributed.",
+    "Albedo, roughness, and microrelief scale are inferred; no measured scan or BRDF is claimed.",
+    "This full-room atlas is not seamless or repeatable. Keep room mapping and clamp-to-edge.",
+    "No Blender render has been performed for this follow-up; inspect under corrected station exposure before accepting or increasing texture contrast."
+  ],
+  "output_sha256": {
+    "normal.png": "56e0d1984b299329b48e4dc98ca79c859f94c79355705c81414080aae14085b8",
+    "roughness.png": "a95300ef4ab7ee0db9ba67d57460338cd3c0dc4288e3f76088881fed0c9c5543",
+    "basecolor.png": "b3ba49123d14788dc09cb7338d18809fe85e8d4d3fdea00e9c6570e2de4f1bdb",
+    "orm.png": "314f2f5ecfc3562720ed7a9788810d621ad14f508bbd2d01a5423b056f39a486",
+    "height.png": "53c905127e17111a96fb6e2aea0e552727044092f9b675f1b378a7beabb016af"
+  }
+}

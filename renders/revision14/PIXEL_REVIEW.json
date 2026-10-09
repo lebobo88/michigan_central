@@ -1,0 +1,266 @@
+{
+  "checkpoint": "revision14",
+  "status": "Suitable as a clearly labeled recovery WIP; not a fidelity/completeness acceptance",
+  "all_18_images_pixel_inspected": true,
+  "rows": [
+    {
+      "era": "2017",
+      "view": "concourse_roof_axial",
+      "file": "renders/revision14/2017_concourse_roof_axial.png",
+      "sha256": "90d256d2e9cc593036695549c85d4b664b79f013d50c9ca5d385f29c34ee3ded",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Open2017 steel versus restored individual glazing is preserved. 2017 floor is overly washed out; fine steel/terracotta and full longitudinal bracing remain simplified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "concourse_source_eye",
+      "file": "renders/revision14/2017_concourse_source_eye.png",
+      "sha256": "25b779e703ea1298049bd4d90f9c46b79c93e23b69a091b88f3f2bcfb0c0a4aa",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "West portal and northern arcade remain open and floor bands are coherent. Flat/broad illumination obscures2017 floor detail; onward west layout and photo-exact material appearance remain unresolved."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "east_exit_ramp",
+      "file": "renders/revision14/2017_east_exit_ramp.png",
+      "sha256": "f8c6ddb3c23e788ba41de68410a26c6f1e720f35d30e4b153ad73e3bbd26aeef",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Clear-screen optical trial is less blurry; main route remains visible. Both views are still underlit, and exact2017 condition/modern subdivision and slope remain unverified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "elevator_lobby",
+      "file": "renders/revision14/2017_elevator_lobby.png",
+      "sha256": "a04e25a7ce75d1b4a7b7cb421c0ca4d75fa89997d8e38d6860d7f37b467caa38",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Tapered bank/door topology and source-known lateral gaps survive integration; entrance header is closed and lighting is legible. Floor setting-out/veins, lift hardware, vertical profiles and exact2017 loss locations remain simplified or unverified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "front",
+      "file": "renders/revision14/2017_front.png",
+      "sha256": "8c9738d5cf80df91efc5159a3d4e79b0bb2530f8b24022e620ab9bf40d83be63",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Paired-era silhouette, corrected facade rhythm and period landscape remain readable; site/vegetation, material aging, glazing repetition and surrounding context remain visibly synthetic."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "hall_reverse",
+      "file": "renders/revision14/2017_hall_reverse.png",
+      "sha256": "c96120dc37b8e8194dce65914e2f69c927631f3f10b137d2431ee837857cafac",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Repaired sail/lunette junctions remain closed and source-supported era differences are present. Fine carving, repeated texture structure, material reflectance and exact2017 losses are unresolved."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "north_entry_detail",
+      "file": "renders/revision14/2017_north_entry_detail.png",
+      "sha256": "d23bebd74f1a9ec1d401e8fe02634c0911da16fc3ac514d4c5c48849985450f7",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "New mixed-glazed canopy and retained2017 bosses fit the unchanged grounded columns and doorbank. Unmeasured dimensions, hardware extents, restored transom details and wear remain qualified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "north_entry_side_upper_detail",
+      "file": "renders/revision14/2017_north_entry_side_upper_detail.png",
+      "sha256": "0314bdf39edfed4fcaa94e995e457855a45c602f4309c0a496a608d9ad1aadf7",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Actual shared capital ornaments, arch moldings and exterior keystone are integrated without displaced support datums. These are stylized mid-detail approximations; old pediment foliage proxies, central shield/crest and fine carving are major visible fidelity gaps."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2017",
+      "view": "north_entry_upper_detail",
+      "file": "renders/revision14/2017_north_entry_upper_detail.png",
+      "sha256": "ae92137f10402d65ba7ad5f87f6ced25ed4012847776e54ea82b2e360ef49f82",
+      "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "pixel_inspected": true,
+      "role": "preserved obstructed diagnostic",
+      "notes": [
+        "Diagnostic center view is obstructed by the retained real modeled flagpole. No scene objects were hidden; side-bay camera provides the intended integrated-detail review."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "concourse_roof_axial",
+      "file": "renders/revision14/2026_concourse_roof_axial.png",
+      "sha256": "af8fdb825b8f1109093193b346c7152dd6d910c90a1d76132f2d90cb398ff123",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Open2017 steel versus restored individual glazing is preserved. 2017 floor is overly washed out; fine steel/terracotta and full longitudinal bracing remain simplified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "concourse_source_eye",
+      "file": "renders/revision14/2026_concourse_source_eye.png",
+      "sha256": "53f846656a9b7d1e7ae54214378874c5e69f12712593b497c5dc9abee85201de",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "West portal and northern arcade remain open and floor bands are coherent. Flat/broad illumination obscures2017 floor detail; onward west layout and photo-exact material appearance remain unresolved."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "east_exit_ramp",
+      "file": "renders/revision14/2026_east_exit_ramp.png",
+      "sha256": "1b33cef18df8a4ed12ef9078bd709e56a42dc782b5a80d366607e50670373123",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Clear-screen optical trial is less blurry; main route remains visible. Both views are still underlit, and exact2017 condition/modern subdivision and slope remain unverified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "elevator_lobby",
+      "file": "renders/revision14/2026_elevator_lobby.png",
+      "sha256": "0878dbea74018f260d775c7aa27eff01d386af905c3cfd5c54086b123b4f4b39",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Tapered bank/door topology and source-known lateral gaps survive integration; entrance header is closed and lighting is legible. Floor setting-out/veins, lift hardware, vertical profiles and exact2017 loss locations remain simplified or unverified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "front",
+      "file": "renders/revision14/2026_front.png",
+      "sha256": "520b142b4c975b7b8fe68f57bfa3b9354b2f8e93bd82e6fe239ff22d24311770",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Paired-era silhouette, corrected facade rhythm and period landscape remain readable; site/vegetation, material aging, glazing repetition and surrounding context remain visibly synthetic."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "hall_reverse",
+      "file": "renders/revision14/2026_hall_reverse.png",
+      "sha256": "fb33bde4beaffed5ba2933eda73a8c86fea33f5c609964963d7041e23900816f",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Repaired sail/lunette junctions remain closed and source-supported era differences are present. Fine carving, repeated texture structure, material reflectance and exact2017 losses are unresolved."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "north_entry_detail",
+      "file": "renders/revision14/2026_north_entry_detail.png",
+      "sha256": "57a308283cf7ef2be450783ae44e594f81fc1c327f8ce2c403d12b369021ccc0",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "New mixed-glazed canopy and retained2017 bosses fit the unchanged grounded columns and doorbank. Unmeasured dimensions, hardware extents, restored transom details and wear remain qualified."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "north_entry_side_upper_detail",
+      "file": "renders/revision14/2026_north_entry_side_upper_detail.png",
+      "sha256": "0e9bbb14889ad684097ed804ef7830c6ba4bb4a84d1e7db419b512f48a593539",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "matched WIP recovery review",
+      "notes": [
+        "Actual shared capital ornaments, arch moldings and exterior keystone are integrated without displaced support datums. These are stylized mid-detail approximations; old pediment foliage proxies, central shield/crest and fine carving are major visible fidelity gaps."
+      ],
+      "photoreal": false,
+      "complete": false
+    },
+    {
+      "era": "2026",
+      "view": "north_entry_upper_detail",
+      "file": "renders/revision14/2026_north_entry_upper_detail.png",
+      "sha256": "1dea9705e6fb86bfee4134719a0aa615afe86c795b81b6d9fdfcde21e71e0982",
+      "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "pixel_inspected": true,
+      "role": "additional center-bay WIP detail",
+      "notes": [
+        "Restored center-bay close view is unobstructed. The corresponding2017 center composition is blocked by its modeled flagpole; matched side-bay views provide the paired detail review. Fine shield/pediment foliage and carving remain incomplete."
+      ],
+      "photoreal": false,
+      "complete": false
+    }
+  ],
+  "remaining_critical_fidelity": [
+    "Broad synthetic landscaping/window repetition",
+    "Flat pale2017 concourse floor under broad fills",
+    "Fine carved pediment/shield/capital/keystone fidelity",
+    "Detailed material reflectance and floor setting-out",
+    "Incomplete dated room coverage and source-based vertical/site controls"
+  ]
+}

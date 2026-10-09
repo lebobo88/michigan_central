@@ -1,0 +1,43 @@
+{
+  "file": "michigan_central_2026.glb",
+  "sha256_before": "bed0e75369b7cabe6370de5727d6cd4733c8a2fdd8adba2d7111d331ca95b8df",
+  "sha256_after": "54e2a3d215f1cabd04885399f5e43f4c0cf2a76f8db4b93cb65fbf84a0cd3f9c",
+  "repairs": [
+    {
+      "mesh": "forecourt balustrade continuous stone plinth",
+      "vertices_repaired": 7,
+      "derived_from_incident_uv_triangles": 7,
+      "orthogonal_fallback": 0,
+      "unreferenced_vertex_fallback": 0
+    },
+    {
+      "mesh": "forecourt balustrade lower coping bead",
+      "vertices_repaired": 8,
+      "derived_from_incident_uv_triangles": 8,
+      "orthogonal_fallback": 0,
+      "unreferenced_vertex_fallback": 0
+    },
+    {
+      "mesh": "forecourt balustrade shaped coping",
+      "vertices_repaired": 4,
+      "derived_from_incident_uv_triangles": 4,
+      "orthogonal_fallback": 0,
+      "unreferenced_vertex_fallback": 0
+    },
+    {
+      "mesh": "tower deep cornice profiled modillions",
+      "vertices_repaired": 52,
+      "derived_from_incident_uv_triangles": 41,
+      "orthogonal_fallback": 11,
+      "unreferenced_vertex_fallback": 0
+    },
+    {
+      "mesh": "West entablature carved palmette frieze",
+      "vertices_repaired": 214,
+      "derived_from_incident_uv_triangles": 132,
+      "orthogonal_fallback": 82,
+      "unreferenced_vertex_fallback": 0
+    }
+  ],
+  "operation": "Only zero-length tangent vectors repaired; derive from incident triangle position/UV Jacobian and orthogonalize against existing normals. Geometry, UVs and materials unchanged."
+}

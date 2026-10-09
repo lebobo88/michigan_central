@@ -1,0 +1,195 @@
+{
+  "era": "2026",
+  "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+  "passed": true,
+  "capital_bearing_checks": [
+    {
+      "center_x": -34.39999961853027,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": -27.0,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": -24.300000190734863,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": -15.699999809265137,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": -13.0,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": -7.0,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": -4.300000071525574,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": 4.300000071525574,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": 7.0,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": 13.0,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": 15.699999809265137,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": 24.300000190734863,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": 27.0,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    },
+    {
+      "center_x": 34.39999961853027,
+      "center_y": -1.1799999922513962,
+      "abacus_top_z_m": 12.911999702453613,
+      "bearing_bottom_z_m": 12.911999702453613,
+      "gap_m": 0.0
+    }
+  ],
+  "arch_zone_checks": [
+    {
+      "window_center_x": -20,
+      "z_m": 13.2,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": -20,
+      "z_m": 13.4,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": -20,
+      "z_m": 14.1,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": 0,
+      "z_m": 13.2,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": 0,
+      "z_m": 13.4,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": 0,
+      "z_m": 14.1,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": 20,
+      "z_m": 13.2,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": 20,
+      "z_m": 13.4,
+      "projecting_band_hit": false
+    },
+    {
+      "window_center_x": 20,
+      "z_m": 14.1,
+      "projecting_band_hit": false
+    }
+  ],
+  "issues": [],
+  "controls": {
+    "outer_arch_half_span_m": 3.8204000000000002,
+    "construction_clearance_each_side_m": 0.015,
+    "gaps_x_m": [
+      [
+        -23.8354,
+        -16.1646
+      ],
+      [
+        -3.8354000000000004,
+        3.8354000000000004
+      ],
+      [
+        16.1646,
+        23.8354
+      ]
+    ],
+    "bearing_spans_x_m": [
+      [
+        -37.0,
+        -23.8354
+      ],
+      [
+        -16.1646,
+        -3.8354000000000004
+      ],
+      [
+        3.8354000000000004,
+        16.1646
+      ],
+      [
+        23.8354,
+        37.0
+      ]
+    ],
+    "low_bearing_bottom_z_m": 12.912,
+    "existing_abacus_top_z_m": 12.912,
+    "upper_connection_recess_m": 0.25,
+    "source": "Architect Key Facts2024 p2; July2026 front photo; exactMay2017 entry image; see north_vertical_qa",
+    "limits": "Return depth, fascia and molding profiles are original geometric trials. No measured height convention or exact carved profile is claimed. Glass/window heights and nominal column h are unchanged."
+  },
+  "limitations": "Targets fourteen capital-center bearings and nine monumental-arch band probes on the authored source mesh. Not a structural, survey, carved-profile or whole-facade collision certification."
+}

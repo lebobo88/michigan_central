@@ -1,0 +1,2511 @@
+{
+  "era": "2017",
+  "accepted_glb_sha256": "58594a65c501a45493fd9fe97fb75f4fce014efe8cd6f50b275c5bb4e2e596e1",
+  "materials": [
+    {
+      "name": "F17 joint",
+      "sha256": "08430b9c0c22f5cbd4182f14beb10deaeb9b5b539afff2ac161ade7331d55a0f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 joint",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.14000000059604645,
+            0.13899999856948853,
+            0.12300000339746475,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9800000190734863
+        }
+      }
+    },
+    {
+      "name": "F17 worn gray apron",
+      "sha256": "773e4866b5d8a1ac980009283cb6403a062028d9b7869b90b5dabbc29c42c812",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "F17 worn gray apron",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "f8829306399e3ebdf502106e18cd4f1f69285fb94f5b38db6faf3c213ab58023",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "5b8bfb393d9ab8865a6c78f10307ca5786d1788721bdbb399c27a00db02bfce3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "76c23447b0611d095633ae2dc1e7dcfa6caad4904631bcd9e905320886e1ce7c",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "F17 pale sidewalk",
+      "sha256": "e1834f64e1227d9abbbbab2e75812a7cd57cb0407be10f2b140a5442b3a6e967",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 3,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "F17 pale sidewalk",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "18d296d1f98652ebff3c8e3d02d2bf5f102cffb749c77979133176d40154782e",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "3f77c9861ef55d491da5ea20f6e6dfac7f1e069e2b6c911dff8eca3a109a654b",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "cd278776b7e9901361e384af2e7a5477bf1040a057c4c4fc63c31449a97c5460",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "F17 aged pale stone",
+      "sha256": "ad5b248537d5ff9919c4da61c971f6044eb2d2165ed6aa3ebb94e7b445221f23",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Reused original project limestone_2017 PBR, never source photograph pixels",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled"
+        },
+        "name": "F17 aged pale stone",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0a3deeaaf19c12f26563551f64782aa4383831d37b4de32f8b223587aaa2052d",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8b07a0adec005d61bc8ef1717cf4eb2f9a0793a0eb0feeeb5f384b252bd6ab14",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d88e6f3ebad3a4dffd1e6cf523ad786f4b85281c38db1b6cfdda9c146de1e251",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "F17 crack",
+      "sha256": "27d87030f679451a0d2027bdc9c41731f2c495c27f0d525943f76ed6b3ef046b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 crack",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.0949999988079071,
+            0.09300000220537186,
+            0.08100000023841858,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9900000095367432
+        }
+      }
+    },
+    {
+      "name": "F17 exposed brown soil",
+      "sha256": "37ba75b59aaf0f12a59ad8f60466571bfef0b6bd7b1b76a61021e7107f360677",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 2,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "F17 exposed brown soil",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "502202439c5f0ff559a7edd25858651c3016b08596e7e0a7d02aabcdabbe280e",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "a20841fca63b2c10739ac3f644ffc62692cc8882617393abf217c081e65560aa",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4ebd0e4c40cae57d72d583736b688ffab8e03c6a930d332d05ca9ac0b1fdfad6",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "F17 weathered iron",
+      "sha256": "ce7af4adfd7b6f390bad62e2cafe72507199961b1825b94067bcdbb1f3991761",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 weathered iron",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.07999999821186066,
+            0.08500000089406967,
+            0.0729999989271164,
+            1
+          ],
+          "metallicFactor": 0.5,
+          "roughnessFactor": 0.7200000286102295
+        }
+      }
+    },
+    {
+      "name": "F17 asphalt",
+      "sha256": "13e3bad2b9c0ca9d73da774d608cac96d33b9efdbbe233a9a0eb7ee7282003dd",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 2,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "F17 asphalt",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "83347fa9616a34cf02898bf44b1b51836c667e2a02ab66bb22a2298af2459c24",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6981a83b8aa5e7c6afe52c476b2bf7a5b80da869f9733d2dd578be9f4288cbd2",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "bdc3ed82bfc14947cc3d9fb8cd34d8919b6a2d14e277e5ce0017a3934538e5db",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "F17 median concrete",
+      "sha256": "f853a97988100a8a60d1cd6e1a971d0f94c034f0f4893e79f45496add12251ae",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 3,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "F17 median concrete",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "520fca29c11669706d621f3ce715adbfdb0a491f01b569468dede64804e6d45b",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "43f9a6e3dbd806ebd6dadb26bc3db4a73d26cb8bbcf3957ae68fe42000a1b4e4",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "cb6e624736f449306b29f55f75abc2f747631055285614947e9ab3ee426af271",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "F17 road pole",
+      "sha256": "b0b0c08e9b4c200d2a1050dfdbcc3fa8728dfd0d4ada876617d1d34b6743d895",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 road pole",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.14000000059604645,
+            0.15000000596046448,
+            0.13500000536441803,
+            1
+          ],
+          "metallicFactor": 0.47999998927116394,
+          "roughnessFactor": 0.699999988079071
+        }
+      }
+    },
+    {
+      "name": "F17 flagpole metal",
+      "sha256": "bf537c7bd88428d83df9d78264565d256c87756297af07fea285aa1aa9d3524c",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 flagpole metal",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3400000035762787,
+            0.33000001311302185,
+            0.27000001072883606,
+            1
+          ],
+          "metallicFactor": 0.699999988079071,
+          "roughnessFactor": 0.5199999809265137
+        }
+      }
+    },
+    {
+      "name": "F17 pale lamp glass",
+      "sha256": "f6f8ea605a563144b3923e3d65330d68e98527879eea87523cfa94310673c136",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 pale lamp glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.5400000214576721,
+            0.5299999713897705,
+            0.44999998807907104,
+            1
+          ],
+          "metallicFactor": 0.05000000074505806,
+          "roughnessFactor": 0.550000011920929
+        }
+      }
+    },
+    {
+      "name": "F17 authored US flag",
+      "sha256": "10377646b0bdb359ca0c9630be7e6fb75595345b6d30913abaefa6fec066b788",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1,
+          "texture_provenance": "Original geometric drawing, 13 stripes and 50 stars; not a downloaded flag photograph"
+        },
+        "name": "F17 authored US flag",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "7f0b9886d583c14ce713accd7892d6895149c42e772f284d80818005eb089dee",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8799999952316284
+        }
+      }
+    },
+    {
+      "name": "F17 woody stem",
+      "sha256": "622549e2c164787e257627b794d454837949cf770e8e6a57d35310b0eb8c7ddc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 woody stem",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.14000000059604645,
+            0.10499999672174454,
+            0.061000000685453415,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9599999785423279
+        }
+      }
+    },
+    {
+      "name": "F17 shrub leaf 0",
+      "sha256": "f843bf264bb583810c0d83e3d9e1f65c5aae1062afa7f93348d185aa2f4a8747",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 shrub leaf 0",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.05000000074505806,
+            0.012000000104308128,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8799999952316284
+        }
+      }
+    },
+    {
+      "name": "F17 shrub leaf 1",
+      "sha256": "c7b35b94b76818b233a5585224e22855bf03fecaf89de10e128aa3092b08abab",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 shrub leaf 1",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04399999976158142,
+            0.07400000095367432,
+            0.017999999225139618,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8500000238418579
+        }
+      }
+    },
+    {
+      "name": "F17 shrub leaf 2",
+      "sha256": "3e1d8f6eb19d10809c0358bea0fb3398857520f82d37ed4a12deeaf3e5bfb080",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "F17 shrub leaf 2",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.0689999982714653,
+            0.10300000011920929,
+            0.02500000037252903,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8299999833106995
+        }
+      }
+    },
+    {
+      "name": "2017 aged limestone wall fields",
+      "sha256": "cca58618f9ea324cc28ae73ccc821332bda4386cdd6c2780131eb87ee7b78a64",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Original text-only imagegen material plus disclosed periodicization; generated washing and 1 x .5 m course pattern are interpretive, not exact2017 condition",
+          "physical_limit": "Unmeasured wall-field color and roughness; tiny inferred micrograin; no geometric damage or displacement",
+          "placement_limit": "North planar shell fields only. Separate profiles, fluted columns, capitals and carved ornament retain unjointed material."
+        },
+        "name": "2017 aged limestone wall fields",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "240bf35c89604ef109c899e9c12a545abdaf802c87ff31593d8d1785de8c6040",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "1f60b17c9aacc06896fa147c1ef3813cdaa1271333b7766456deecb4b1c01768",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "30ebcddea6dd5c571bc6db2a4273632b9f04e08283b8fb8f1f1945254ed7b526",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "2017 retained canopy hardware | original rust approximation",
+      "sha256": "e6fa2ae69a5f9169896555d3475014a6a78577de4a07921d04085b4dadb062a1",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original constant material; no copyrighted pixels or third-party textures",
+          "limits": "Approximate appearance, not measured physical properties"
+        },
+        "name": "2017 retained canopy hardware | original rust approximation",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.14000000059604645,
+            0.05999999865889549,
+            0.019999999552965164,
+            1
+          ],
+          "metallicFactor": 0.1599999964237213,
+          "roughnessFactor": 0.8199999928474426
+        }
+      }
+    },
+    {
+      "name": "Exterior Indiana limestone",
+      "sha256": "21161b4482b2ce0eec4f5222bd13b49efd8487f0bbf659acc078fdd9479c1179",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled"
+        },
+        "name": "Exterior Indiana limestone",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0a3deeaaf19c12f26563551f64782aa4383831d37b4de32f8b223587aaa2052d",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8b07a0adec005d61bc8ef1717cf4eb2f9a0793a0eb0feeeb5f384b252bd6ab14",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d88e6f3ebad3a4dffd1e6cf523ad786f4b85281c38db1b6cfdda9c146de1e251",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "2017 north entry pale address plaque",
+      "sha256": "96ff95c4d13e332b7c1106552cb47cac8955438f9a6bc19c1f1b0fe029a4ddea",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "material_limit": "Photograph-informed appearance, no measured physical-property or substrate claim"
+        },
+        "name": "2017 north entry pale address plaque",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6100000143051147,
+            0.6000000238418579,
+            0.5199999809265137,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7900000214576721
+        }
+      }
+    },
+    {
+      "name": "2017 north entry weathered brown coating | substrate unverified",
+      "sha256": "982229748620ad733a8764749cbc5e657322f0b78b9e6af13e90c4794b32925b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "material_limit": "Photograph-informed appearance, no measured physical-property or substrate claim",
+          "texture_provenance": "Original mathematical brown coating, seed 20012017; no source pixels; substrate unresolved",
+          "physical_limit": "1 m tiling trial; micro-normal only; no displacement or registered loss"
+        },
+        "name": "2017 north entry weathered brown coating | substrate unverified",
+        "normalTexture": {
+          "scale": 0.3799999952316284,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "080f466f51a7056fed9dedeab6419b561381f875d1819908624ffa0890faca2c",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "91f188ea1fb3c7f463807154232a31437e5f9e862c18a5a51e764c0118c972d3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "5241a2620b7c3d7b1b840703d044ce38f4aa2f0451071e8b2bc953444ff8aa9e",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "2017 north entry galvanized shutter | approximate finish",
+      "sha256": "9770e0d44f3638c3bbb8ee2928237e74402705b85cf43d76d7914f6111085dec",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "material_limit": "Photograph-informed appearance, no measured physical-property or substrate claim"
+        },
+        "name": "2017 north entry galvanized shutter | approximate finish",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.23000000417232513,
+            0.25,
+            0.25999999046325684,
+            1
+          ],
+          "metallicFactor": 0.18000000715255737,
+          "roughnessFactor": 0.6200000047683716
+        }
+      }
+    },
+    {
+      "name": "2017 north entry address numerals",
+      "sha256": "c341993cf74b5839d3d63d60f4fddfe7230d1dfca6d5fa094d927e36927c5262",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "material_limit": "Photograph-informed appearance, no measured physical-property or substrate claim"
+        },
+        "name": "2017 north entry address numerals",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.017999999225139618,
+            0.019999999552965164,
+            0.017999999225139618,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7300000190734863
+        }
+      }
+    },
+    {
+      "name": "2017 north entry dark transom glass",
+      "sha256": "5a8acc0636879bd53da2c05260d7f61858d2569513cddcd7085f48c68f0b736d",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "material_limit": "Photograph-informed appearance, no measured physical-property or substrate claim"
+        },
+        "name": "2017 north entry dark transom glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.02500000037252903,
+            0.03200000151991844,
+            0.032999999821186066,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.47999998927116394
+        }
+      }
+    },
+    {
+      "name": "Roof steel",
+      "sha256": "0b9db0d47abf01976aaf575e06d8125097987a4b894d704348a4e53ec09c77e6",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Roof steel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.07999999821186066,
+            0.07500000298023224,
+            0.0689999982714653,
+            1
+          ],
+          "metallicFactor": 0.75,
+          "roughnessFactor": 0.5
+        }
+      }
+    },
+    {
+      "name": "Window cast iron",
+      "sha256": "a703befd0576e1ab22cf51a2e0de3dd6c5bead9d5bfcd26372d634e35cad5ff3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Window cast iron",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.23999999463558197,
+            0.27000001072883606,
+            0.23999999463558197,
+            1
+          ],
+          "metallicFactor": 0.5799999833106995,
+          "roughnessFactor": 0.3199999928474426
+        }
+      }
+    },
+    {
+      "name": "Glass clear",
+      "sha256": "97216205353c3564d159250fe3d52d752f26e3e854db5625292d51346b100dba",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.9800000190734863
+          }
+        },
+        "name": "Glass clear",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8799999952316284,
+            0.9399999976158142,
+            0.9700000286102295,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.00800000037997961
+        }
+      }
+    },
+    {
+      "name": "Roof dark copper",
+      "sha256": "17ce356ec7dc6799722f903291cddbc345e4a5ba4cb953cbdeaf6ed0b3ef9ec3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Roof dark copper",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.03500000014901161,
+            0.04399999976158142,
+            0.03999999910593033,
+            1
+          ],
+          "metallicFactor": 0.44999998807907104,
+          "roughnessFactor": 0.6200000047683716
+        }
+      }
+    },
+    {
+      "name": "Weathered concrete",
+      "sha256": "2a8096390083082c6a820b319ae18817f1a65fe8f8632e51d089c8e30c5f5a20",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Weathered concrete",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "a149f810c1e5f82988cd758b008e45ee08fef1c2753f5c1e234f535e5c7444b4",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4d86b00a8a99b4ec60d2f39ece8c8e3ff6cb399b7059d20ccee593105a07e5e6",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d467dd002b0ec74a88be14528f23ff25dd3ad61dc6a87c604bee129ddf81dca0",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Tower buff brick",
+      "sha256": "9a0f1fae1b6d607ffca9a1c11472c5c6d4081a53034f6336d6fffcefc08cd77a",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.7,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Tower buff brick",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "ddda26a762f110fe03488fc53533c2cf798200bfa55a422b537760217b36d72f",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "39249b807a911aa20c9cd4cbecd41bf3b8f4da92777342eeeb82dfbce42b9bb5",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6b0fc0393350cc9419007fe3c67af17ca8b583a3045e82277988f74fd8a6ad53",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Tower recessed dark joint",
+      "sha256": "e4ff533025e919aaaa2760c38be98810d02d6d798a4215185d231f87ba480a9e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family"
+        },
+        "name": "Tower recessed dark joint",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.06499999761581421,
+            0.057999998331069946,
+            0.04699999839067459,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8999999761581421
+        }
+      }
+    },
+    {
+      "name": "Tower muted ornamental terra cotta",
+      "sha256": "d00599cfdd66474bd797177b72772038894d69ec2e0dae4698ef93db002b02f1",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Existing original authored limestone-class support maps reused as terra-cotta appearance approximation",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled",
+          "material_class": "Muted stone-like ornamental terra cotta; source photographs establish appearance, not a material scan"
+        },
+        "name": "Tower muted ornamental terra cotta",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0a3deeaaf19c12f26563551f64782aa4383831d37b4de32f8b223587aaa2052d",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8b07a0adec005d61bc8ef1717cf4eb2f9a0793a0eb0feeeb5f384b252bd6ab14",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d88e6f3ebad3a4dffd1e6cf523ad786f4b85281c38db1b6cfdda9c146de1e251",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Tower 2015 replacement insulating glass",
+      "sha256": "34be5b3ef5f9013e8483929afca313e9ace6d6967b64b6676d012ee4d3330dd7",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.8600000143051147
+          },
+          "KHR_materials_ior": {
+            "ior": 1.5199999809265137
+          }
+        },
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family",
+          "physical_note": "Recessed 18mm modeled glazing; continuous tint; reflection changes come from scene and orientation"
+        },
+        "name": "Tower 2015 replacement insulating glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6100000143051147,
+            0.7200000286102295,
+            0.7099999785423279,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.10000000149011612
+        }
+      }
+    },
+    {
+      "name": "Tower 2015 green gray painted frames",
+      "sha256": "06b2c4d0c08b674a85566bd08b5d477dd42f0cdbd86b64a4588d2d419e30f194",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family"
+        },
+        "name": "Tower 2015 green gray painted frames",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.2750000059604645,
+            0.32499998807907104,
+            0.3050000071525574,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.4000000059604645
+        }
+      }
+    },
+    {
+      "name": "Tower 2015 shallow green gray spandrels",
+      "sha256": "d7a30666198717569c9923cb88825d3edda298a95b4a098e9052fb957b3aa019",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family"
+        },
+        "name": "Tower 2015 shallow green gray spandrels",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3149999976158142,
+            0.36500000953674316,
+            0.3449999988079071,
+            1
+          ],
+          "metallicFactor": 0.1599999964237213,
+          "roughnessFactor": 0.4699999988079071
+        }
+      }
+    },
+    {
+      "name": "Tower unobserved interior optical stop",
+      "sha256": "370a98833325d795f72aeb82797e2b7b7b4810b18ee6f1ab9202605bc4d6c458",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family",
+          "scope": "Unmodeled private interior optical occlusion only; not a documented room partition or fit-out"
+        },
+        "name": "Tower unobserved interior optical stop",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.01899999938905239,
+            0.02500000037252903,
+            0.02500000037252903,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9800000190734863
+        }
+      }
+    },
+    {
+      "name": "Decorative plaster",
+      "sha256": "240614836c2e399e5770dbe0e4188ba77604cda4b6872dc1929aee403cb4bdd1",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 12,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Decorative plaster",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "61730cef92902abd2ae1fb9f33e921d38264902c4a1010a229ab83b59489f804",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "1d2676af7e8d719cd6265ed7e4b77b63a0cabe07255c435f9ecd5c091c1241f8",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Dark bronze",
+      "sha256": "67e73b2d2587db1f133cd55255bd3d9c72a872aa092040bc08aefaa043f71b69",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Dark bronze",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.07500000298023224,
+            0.05700000002980232,
+            0.039000000804662704,
+            1
+          ],
+          "metallicFactor": 0.7799999713897705,
+          "roughnessFactor": 0.3499999940395355
+        }
+      }
+    },
+    {
+      "name": "Warm Mankato column stone",
+      "sha256": "be77373a781ab84ebb9527191d65d68640960a3bf9dc03e5163719a23b0e787b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Warm Mankato column stone",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "434052934dd9c0111600c998a6f4c10c8ee229ef97af22863ea34169142aa296",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "1d2676af7e8d719cd6265ed7e4b77b63a0cabe07255c435f9ecd5c091c1241f8",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Glass tower blue",
+      "sha256": "2eb9cee75135dd6820c2a62d258c07a1e70378bc04c6c233195a30367ff471d9",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.10000000149011612
+          }
+        },
+        "name": "Glass tower blue",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.23999999463558197,
+            0.30000001192092896,
+            0.3100000023841858,
+            1
+          ],
+          "metallicFactor": 0.4000000059604645,
+          "roughnessFactor": 0.20999999344348907
+        }
+      }
+    },
+    {
+      "name": "Mixed 2017 hall backing",
+      "sha256": "f3d4637493799e7c6e6a51c7bfeee7dbf672f68b3d4e2f1717ea9482ac8f90cf",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 6,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Mixed 2017 hall backing",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "512ad51aac71a48e1a30fbcd785e2587022b157b72666167ef14579554c525ef",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "0cc8ca8be55cc3e7e5234106d3b413ff5599d3afe494572eb8109dc541622f7e",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "154f7cc8a00804a3a80d6fa8bb319a995b6f1699ad09fddd6b8194769cfc021f",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Grand Hall floor assembly",
+      "sha256": "3c53dafc35759e36d4ff0f45f998e08990d951a338e954cf3317982283b18933",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled"
+        },
+        "name": "Grand Hall floor assembly",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987,
+              "wrapS": 33071,
+              "wrapT": 33071
+            },
+            "embedded_image": {
+              "sha256": "56e0d1984b299329b48e4dc98ca79c859f94c79355705c81414080aae14085b8",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987,
+                "wrapS": 33071,
+                "wrapT": 33071
+              },
+              "embedded_image": {
+                "sha256": "b3ba49123d14788dc09cb7338d18809fe85e8d4d3fdea00e9c6570e2de4f1bdb",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987,
+                "wrapS": 33071,
+                "wrapT": 33071
+              },
+              "embedded_image": {
+                "sha256": "65af4952d497d9c5f3f9beaed7d121753e0fc621706843dc8bb7bae4b0517d67",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Interpretive graffiti blue",
+      "sha256": "06badab4e139ba3ed2bf087930b9a2c916b6edf0af316a3fad736a4288642f84",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Interpretive graffiti blue",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.017999999225139618,
+            0.02800000086426735,
+            0.06400000303983688,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9700000286102295
+        }
+      }
+    },
+    {
+      "name": "Interpretive graffiti ochre",
+      "sha256": "47c85a5273260e21d27866ddd58ad6ebb284269c70f7c87fbe92ac83373b7966",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Interpretive graffiti ochre",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.14000000059604645,
+            0.07800000160932541,
+            0.017000000923871994,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9700000286102295
+        }
+      }
+    },
+    {
+      "name": "Guastavino buff tile",
+      "sha256": "d1d8818e89215ce741f2291aadc8247b92fd8e1e10d1c092e8936b62dc752a99",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Guastavino buff tile",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0f5354ee3d3cf1b4e7a63ee942ab99847b07085e65e7273c79b2e90507d7f8e9",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "139e1c87f77110c2f994e29a4799cc56fc9b608566d64bedcd696a605e3b8776",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "39cb7f13f0d8a436dfdaf2bdce2e3636e6b64fe6203da2a46ad406a29780acef",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Rose Tennessee marble",
+      "sha256": "14c368c6d220aa9da8e784d421a6b2343134779f46d75520c1cfd70f464c7ed4",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 12,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Rose Tennessee marble",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "a149f810c1e5f82988cd758b008e45ee08fef1c2753f5c1e234f535e5c7444b4",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4d86b00a8a99b4ec60d2f39ece8c8e3ff6cb399b7059d20ccee593105a07e5e6",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d467dd002b0ec74a88be14528f23ff25dd3ad61dc6a87c604bee129ddf81dca0",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse terracotta dressings 2017",
+      "sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse terracotta dressings 2017",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "4285169b0d5a0b9f94e8339abf0af7571f88d6999ae07537dcf33cf7fa754587",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "1f3e7d8c742b784b52604125ab2ffc9863a429a19e65520eff0ba97b75f65d80",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "082056c1d2252c7be2e6e266672c1ba358018a15bd3480e5611b3f70b3ca618a",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse Flemish buff masonry 2017",
+      "sha256": "5a696007600f05d34f70c4aee8ecc34a48d2bea9bbd8074f51c29dab344604a8",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse Flemish buff masonry 2017",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0799a62556461702881ede4bebdc77faf6e648019f753fe4a01a1614de37e8b5",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "13ee6620aa85fc0e22057dba965c1dfe3be37fe2990b3e34501f6eaccc6cff03",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8d30f37dd3d4dbdd195cb8eb7367bdb296f873b8440788a9ae709733c5e3d9b5",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse herringbone frieze 2017",
+      "sha256": "2c9e701624e9d828af95675bff2b0faa4deb08a5bca1adf88e92aa2a5f42f4ff",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse herringbone frieze 2017",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "9ff3d31c6cad5c6b4b709ce155934b570fdf9c0938fad6f954ee856fc08ecb0e",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "82dc1f7654ad7b3d636a2a7c03d2e2ad0f69bf0ce788ac3f97460ed4cd65b919",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "620b094fa50984c5903ea2df859708c87b2ed9f45c4b71ce62d85c7737b31a65",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse 2017 worn mineral floor",
+      "sha256": "5557a7ce48e7e40fd8323254781b343adcf3ebfb3028548eb11419a0109d5e9f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Original procedural fine mineral/old-terrazzo interpretation; no source-image pixels",
+          "physical_limit": "Inferred 4 m repeat and conservative micrometre relief; no displacement; exact 2017 layer mix unresolved",
+          "placement_limit": "2017 main concourse floor only; leave every other Weathered concrete assignment unchanged"
+        },
+        "name": "Concourse 2017 worn mineral floor",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "67aadcef9ec64a13b34db09068e6725dca0ca02005c19cec55b056f8bbaf28fb",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "c261f487b33180e2b603e994c28975c504cd438896320f6ac94e3d0c542bc4a3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "257ffd736897e03fa1c0cbf19a56e3c855dfdeacfe733b1f10c2d2339efabbc0",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse retained portal metal 2017",
+      "sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Concourse retained portal metal 2017",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.1599999964237213,
+            0.09300000220537186,
+            0.04899999871850014,
+            1
+          ],
+          "metallicFactor": 0.3400000035762787,
+          "roughnessFactor": 0.8199999928474426
+        }
+      }
+    },
+    {
+      "name": "Concourse 2017 inferred structural steel",
+      "sha256": "fb10c607f23f1b86ad16fb506ccc5ad3d370c413efee9b0d24f7d50f5e5570d8",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+          "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey"
+        },
+        "name": "Concourse 2017 inferred structural steel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.125,
+            0.06599999964237213,
+            0.035999998450279236,
+            1
+          ],
+          "metallicFactor": 0.30000001192092896,
+          "roughnessFactor": 0.8199999928474426
+        }
+      }
+    },
+    {
+      "name": "Concourse 2017 inferred fastener steel",
+      "sha256": "e3699a1acaabdd6a7d6fb76b6e5d0249b9d58e8878205c863dd0030cc5b34ed8",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+          "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey"
+        },
+        "name": "Concourse 2017 inferred fastener steel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.08799999952316284,
+            0.04500000178813934,
+            0.023000000044703484,
+            1
+          ],
+          "metallicFactor": 0.30000001192092896,
+          "roughnessFactor": 0.800000011920929
+        }
+      }
+    },
+    {
+      "name": "Dark void",
+      "sha256": "d53d806da2cd0b25bf01f1f073ea45fe7a54e4ca60e7fc03da9d714694f7a588",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Dark void",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.014999999664723873,
+            0.01600000075995922,
+            0.014000000432133675,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9599999785423279
+        }
+      }
+    },
+    {
+      "name": "Secondary 2017 protective plywood",
+      "sha256": "a39546fa5b5c537bcbd6b910963db8ebff004f421f7b31b41a13de7307c2e93d",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.26,
+            0.14,
+            0.072
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4444444444444444,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary 2017 protective plywood",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "886f0328b3a0c5a0482ca1931303c1c17c809b350deb6060c95ebbbcfdd50273",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "f3fa141fb166346b533aad65bba54d160ccc2e1026fd7dc548d798427101dfe0",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9100000262260437
+        }
+      }
+    },
+    {
+      "name": "Secondary exposed ribbed substrate",
+      "sha256": "5bff904f5c131bf8b9774bf22e459d90b1595c56a51949cfce591a674034ae32",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.26,
+            0.23,
+            0.18
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.16666666666666666,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary exposed ribbed substrate",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "4902e3cc75614658bbba1e76093666453bea2aa4cdeac692ace440ea7c3a5930",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "ad77ed611547a10252b211e0679d401cbaec8d0a027b66eff5c7cb515839174f",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Distress umber",
+      "sha256": "85a6a9ede4c72395d7c7c05e9e8d3b98f7c4da1ff963e16c9688feccdd40f60f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Distress umber",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.08500000089406967,
+            0.06700000166893005,
+            0.03700000047683716,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9700000286102295
+        }
+      }
+    },
+    {
+      "name": "Elevator lobby 2017 residual pale plaster",
+      "sha256": "addd580834090ed4dd6049097f0297034dda1a06c58fcd81d58764ed19e93b1f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original pale plaster surface with separate source-class loss interpretation; exact 2017 loss polygons unknown"
+        },
+        "name": "Elevator lobby 2017 residual pale plaster",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "198e127df4737aaee71e7e286e7d6f40d1895ffe848a9c2260811d23ff97913d",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e546821e43b868f14119daf38dd61217a287ec58875c846f9e2839bf26592b6b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Elevator lobby retained pale cladding interpretation",
+      "sha256": "c93d3323767d357a79653fec3bcfd002f99d33f3052fbed4c4ba74f9d961f464",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Original pale mineral surface reused for surviving lobby cladding color class; stone species and exact wear unverified",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled",
+          "placement_limit": "Local elevator-lobby retained cladding only; not an exterior-wall or exact loss map"
+        },
+        "name": "Elevator lobby retained pale cladding interpretation",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0a3deeaaf19c12f26563551f64782aa4383831d37b4de32f8b223587aaa2052d",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8b07a0adec005d61bc8ef1717cf4eb2f9a0793a0eb0feeeb5f384b252bd6ab14",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d88e6f3ebad3a4dffd1e6cf523ad786f4b85281c38db1b6cfdda9c146de1e251",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Elevator lobby 2017 original mineral dust",
+      "sha256": "d1edc43f5c2b22aa24404361825fa80e1dd1d6f1678565d0c981d15c88e32bd7",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Original procedural fine mineral/old-terrazzo interpretation; no source-image pixels",
+          "physical_limit": "Inferred 4 m repeat and conservative micrometre relief; no displacement; exact 2017 layer mix unresolved",
+          "placement_limit": "East elevator lobby original mineral-dust material class only; no verified substrate composition",
+          "provenance": "Original mineral dust interpretation reused on a distinct lobby material; no dated floor texture scan"
+        },
+        "name": "Elevator lobby 2017 original mineral dust",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "67aadcef9ec64a13b34db09068e6725dca0ca02005c19cec55b056f8bbaf28fb",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "c261f487b33180e2b603e994c28975c504cd438896320f6ac94e3d0c542bc4a3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "257ffd736897e03fa1c0cbf19a56e3c855dfdeacfe733b1f10c2d2339efabbc0",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse buff brick",
+      "sha256": "969e0cf02a47051951f51ba3d8814284b638a4c76638cb786474944d787c32bc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.7,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Concourse buff brick",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "ddda26a762f110fe03488fc53533c2cf798200bfa55a422b537760217b36d72f",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "39249b807a911aa20c9cd4cbecd41bf3b8f4da92777342eeeb82dfbce42b9bb5",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6b0fc0393350cc9419007fe3c67af17ca8b583a3045e82277988f74fd8a6ad53",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Secondary conservation grille",
+      "sha256": "fd54e360301e6c04bc45e618aab1e97487051fa1366615e86185cabaabed8ad4",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.018,
+            0.02,
+            0.019
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.2,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary conservation grille",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "28509b29bdb81e8867f524e525ea401f4802c4eacc5e0873a219bab19992bf3c",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "ac07cd78e109fcd9096255c36dc886918b8d0b9c3f6fcdd92f3873d2bc41ad50",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0.550000011920929,
+          "roughnessFactor": 0.44999998807907104
+        }
+      }
+    },
+    {
+      "name": "Secondary iron rust",
+      "sha256": "bbaca8151f5e131e1791a8468347cbec006cff1dc42124f2ccaa489b8d3228cc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.14,
+            0.071,
+            0.035
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.1,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary iron rust",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "96f10089fd547852278fd1ed108f97fa97e54f96dd18ad891ddcc47249b20dbf",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "06f172f0c7f245fc765765e5e0f13c418d9617325a9589177a2b5b68b4c48e31",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0.4000000059604645,
+          "roughnessFactor": 0.7300000190734863
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 1",
+      "sha256": "4a334fa553ec94e42667a8e2d8807a22c18e3dbc1d9946a2fd607ea055f26bcd",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.016,
+            0.14,
+            0.24
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 1",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "16b1d9f3088bd4c33bc78ab96c682ada7bc25536b3b1e923f7e346e8b1da1509",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "685a55f2e0df25c3d461bc5ed38a48277d891cb79d7c0a6dd40b04cacae566e3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 2",
+      "sha256": "f036f085725aed2994e7e7ca596345b75f206e63f99981cf918b799da1d7869d",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.51,
+            0.35,
+            0.035
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 2",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "60c0c1fdce6b3eb3f8ab418cba9df56870e2a92fa26f871033acbd3dd6c227ca",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "f21665b64692d2862ff97d3573d082d4a20d595171181d64cd14877d3ca674be",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 3",
+      "sha256": "fbb717fcfc0dd3c6aec5ad318301d30401fb5616b7cc5bb33567c4f71e027232",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.35,
+            0.06,
+            0.022
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 3",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "00016703a1ebbe7171067d01a621138e558e8279b72abdb0bb9de4d7cc83b1e7",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "08fcc911c1f91e6e80ca95612eb872bbafbd8c2c267b62d0fa26f7d694087b3e",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 4",
+      "sha256": "4eabb1c6556b580e9acd199be1afad753adb6b40b2196d886cb30d2af86ff6dd",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.09,
+            0.11,
+            0.12
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 4",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "fc2fcd394f33f3172d05a4a3f19d378b72ca51e7a6145bbe1d9a39e13dde7d71",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "a3ffdeb300bd7223cfa6e0d5df3749b234352b45693102cb63a6951619d8b8cd",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 5",
+      "sha256": "8f71ece22918acb396a02f16d32d7ba577e8496961b85834a8e092d4adba59bf",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.14,
+            0.22,
+            0.22
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 5",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "7d425d4db759e8ae2abf5c61f9a752d976411d3486bf49a084b8e307dc5be1a7",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "2d647d6be6c99b6dc47abec44541348e877a6a12d6c6db9a32beb12f9c56424d",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    }
+  ]
+}

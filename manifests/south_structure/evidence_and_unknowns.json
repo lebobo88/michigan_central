@@ -1,0 +1,207 @@
+{
+  "title": "Southern platform and undercroft component: evidence and unresolved controls",
+  "checked": "2026-10-06",
+  "script": "scripts/south_structure.py",
+  "script_sha256": "9f823a8f431d1cb01d92fbe22d09fbc133baed9ddac24c42c10651223b3ec894",
+  "sources": [
+    {
+      "id": "MDOT_DIFT2009",
+      "url": "https://www.michigan.gov/mdot/-/media/Project/Websites/MDOT/Projects-Studies/Studies/Environmentally-Cleared/DIFT/DIFT-FEIS-Sections-5-Index.pdf",
+      "date": "2009-12 (report); aerial in Figure6-5 is2004 proposed-overlay background",
+      "type": "Primary government environmental and historic-resource assessment",
+      "local": "mdot_dift_final_2009.pdf",
+      "pages": "PDF22\u201324; printed6-10\u20136-12",
+      "supports": "Historic undercroft size, material and bay descriptions; Bush roof demolished2000",
+      "rights": "Publicly downloadable state-government report; no blanket photo reuse license established; reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "BOCHKOVSKY2017",
+      "url": "https://spark.adobe.com/page/OMI5cVvEGgqxk/",
+      "date": "Project published2017; individual photo capture dates unspecified",
+      "type": "Creator aerial-photo presentation linked from Pix4D2017 showcase",
+      "local": "presentation_ref_00.jpg through19.jpg; public display images only",
+      "supports": "Exposed concourse and passenger-ramp steel roofs; uncovered platforms and overgrown trackways; cargo undercroft survives",
+      "rights": "Copyright presumed; reference-only, no redistribution or photo textures",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "PIX4D2017",
+      "url": "https://community.pix4d.com/t/michigan-central-station-by-aleksey-bochkovsky-dandelion-air/3356",
+      "date": "2017-09-15",
+      "type": "Project showcase linking creator",
+      "supports": "Contemporaneous2017 publication and attribution,739 source photographs",
+      "rights": "Copyright; link/reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "SKETCHFAB2017",
+      "url": "https://sketchfab.com/3d-models/michigan-central-station-17921c30b4134bf598b0cac817f00f1d",
+      "date": "2017-08-03T01:53:28.803728",
+      "type": "Creator photogrammetry project; public metadata inspected",
+      "local": "photogrammetry2017_metadata.json; photogrammetry2017_public_thumbnail.jpg",
+      "supports": "2017 project publication and visible platform geometry in public thumbnail",
+      "rights": "isDownloadable=false; no license listed. Mesh NOT downloaded or extracted. Public thumbnail reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "OWNER2020_PLATFORM",
+      "url": "https://michigancentral.com/wp-content/uploads/2020/12/September-2020.pdf",
+      "date": "2020-09",
+      "type": "Owner community-update PDF",
+      "local": "owner_september2020.pdf",
+      "supports": "Old platform remediation starting; establishes phase, not completion",
+      "rights": "Copyright; public reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "ASCE2025_PLATFORM",
+      "url": "https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/issues/magazine-issue/article/2025/07/detroits-restored-michigan-central-station-leads-the-way-for-future-mobility",
+      "date": "2025-07-01",
+      "type": "Published interview with project engineering lead Francesco Cerroni of Buro Happold",
+      "supports": "Old elevated steel structure dismantled; replacement concrete structure erected for park with parking below",
+      "rights": "Copyright; factual paraphrase/link, no image redistribution",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "JOHNSTON2024",
+      "url": "https://www.trains.com/pro/passenger/are-trains-in-michigan-centrals-future/",
+      "date": "2024-06-08; page updated2025-08-06",
+      "type": "Onsite first-person reporting and photographic caption by Bob Johnston",
+      "supports": "Concrete slab behind station; CPKC tracks remain south; platform tunnels sealed",
+      "rights": "Copyright; linked photograph fetch403, not inspected; do not claim geometric observations from it",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "OWNER_PARK2024",
+      "url": "https://michigancentral.com/a-new-beginning-ford-to-reopen-michigan-central-station-after-multi-year-historic-restoration/",
+      "date": "2024-06-03",
+      "type": "Owner announcement with renderings",
+      "supports": "South park was under development; renderings are NOT built condition evidence",
+      "rights": "Copyright; public reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "QE_AERIAL2024",
+      "url": "https://www.quinnevans.com/news/iconic-michigan-central-station-reopens-in-detroit",
+      "date": "2024 reopening page; image capture date unstated",
+      "type": "Restoration architect published actual aerial",
+      "local": "qe_campus_aerial_2024.jpg",
+      "supports": "Restored front and limited view of concrete north deck edge behind carriage house; heavily occluded",
+      "rights": "Copyright; reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "OWNER_AERIAL2026",
+      "url": "https://michigancentral.com/media-toolkit/",
+      "date": "2026-07 publication path; one filename identifiesOctober2025",
+      "type": "Owner actual aerial photographs linked in public toolkit/news feed",
+      "local": "owner_district_published2026.jpg; owner_nali_oct2025.jpg",
+      "supports": "Restored campus and limited concrete edge behind station; not full southern perimeter",
+      "rights": "Owner offers official project media; still credit/copyright applies; retained reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "DDP2025_PARK",
+      "url": "https://downtowndetroit.org/wp-content/uploads/2025-DDP-Development-Report_Email-1.pdf",
+      "date": "2025 report",
+      "type": "Downtown Detroit Partnership development pipeline report citingMichiganCentral",
+      "pages": "54\u201355",
+      "supports": "South park still listed as pipeline development; do not equate completed nearbyCentennialPark with south-of-stationpark",
+      "rights": "Copyright; reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "OWNER_HUB2025",
+      "url": "https://michigancentral.com/mdot-the-city-of-detroit-and-michigan-central-to-build-a-new-multimodal-transportation-hub-in-detroit/",
+      "date": "2025-10-15",
+      "type": "Owner announcement",
+      "supports": "MOU/preliminary assessment of proposed new hub southwest; not proof of constructed2026hub",
+      "rights": "Copyright; factual link/reference-only",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "RAG1914_TEXT",
+      "url": "https://archive.org/details/railwayage56newy",
+      "date": "1914-01-09",
+      "pages": "78\u201380",
+      "type": "Contemporary published engineering article",
+      "supports": "7 percent down-ramp; 40 ft wide, 8 ft high subway; stairs up to platforms; 19 ft platforms and 40 ft pitch; 1,104 ft shed extent",
+      "rights": "Public-domain original article; modeled geometry is original"
+    },
+    {
+      "id": "RAG1914_SECTION",
+      "url": "https://archive.org/download/railwayage56newy/page/n102.jpg",
+      "date": "1914-01-09",
+      "pages": "77",
+      "type": "Contemporary cross-section",
+      "supports": "Steel/concrete deck topology and below-track cargo arrangement; no vertical dimension control",
+      "rights": "Public-domain original article; modeled geometry is original"
+    },
+    {
+      "id": "LOCAL_STUDY_DATUM",
+      "type": "Explicit modeling convention",
+      "supports": "Deck top Z0 and north core edge Y0 only, deliberately unrelated to the hall origin"
+    }
+  ],
+  "source_aliases": {
+    "MDOT2009": "MDOT_DIFT2009",
+    "DANDELION2017": "BOCHKOVSKY2017"
+  },
+  "deliverable_status": {
+    "2017": "Detached local-space cargo-core study built and checked; station-global placement remains disabled",
+    "2026": "Parameterized concrete deck generator only; geometry is disabled for missing current perimeter, elevation and support controls"
+  },
+  "era_policy": {
+    "2017": "Uncovered platform strips, old steel/concrete deck and cargo exterior; no Bush roof",
+    "2026": "Replacement concrete only if documented perimeter and elevation are supplied; no old steel carryover and no completed park claim"
+  },
+  "local_2017_geometry": {
+    "extent_basis": "MDOT approximate 570 ft E\u2013W \u00d7 340 ft N\u2013S cargo core; precise metric decimals are conversions, not surveyed precision",
+    "coordinate_space": "Detached north core edge Y0, deck surface Z0, X center 0; NOT station-aligned",
+    "modeled": [
+      "Concrete cargo-core slab and exterior side returns",
+      "Six photo-informed platform strips, regularized using original 19 ft width and 40 ft pitch",
+      "30 south cargo shutters with horizontal ribs",
+      "Built-up steel frontage columns and riveted edge girder",
+      "Terra-cotta headers and original broken-parapet remnants",
+      "Original interpretive weed bands"
+    ],
+    "parameters": "manifests/south_structure/local_2017_controls.json",
+    "ranges": "Selected thickness, clearance, platform height and pattern uncertainty are recorded beside each control"
+  },
+  "placement_conflict": {
+    "historic_north_column_y_range_m": [
+      104,
+      108
+    ],
+    "why": "The 77 ft 10 in dimension starts at the outer south wall of the smoking/baggage-room row. The 262 ft dimension starts at the wing front, not the projecting hall front. Printed chains and raster ratios disagree.",
+    "raster_controls": "research/south_structure/historic_plan_registration_controls.json",
+    "global_z": "Unknown. No hall-floor-to-cargo-floor/deck relationship has been recovered. MDOT 12\u201314 ft is clear height, not deck elevation."
+  },
+  "interfaces": {
+    "unchanged_modules": [
+      "scripts/build_station.py",
+      "scripts/secondary_spaces.py"
+    ],
+    "global_module_hook": "execute_component('south_structure.py') before batch finalization; default controls emit no geometry",
+    "camera_hook": "cams.update(globals().get('SOUTH_STRUCTURE_CAMERAS', {}))",
+    "metadata_hook": "scene['south_structure_evidence'] is set automatically; SOUTH_STRUCTURE_SPACES and SOUTH_STRUCTURE_EVIDENCE_PROPERTIES are exposed",
+    "ramp": "The current Y87.8 end is unverified. The historical down-ramp led to a subway and stairs up, not to the deck surface. A 2024 report states that the old platform tunnels are sealed.",
+    "cuts_required_now": "None. No further cut is justified until position, elevation and the sealed interface are controlled."
+  },
+  "unmodeled": [
+    "Full historical 1,104 ft shed length and platform extensions",
+    "100 ft West Vernor bridge",
+    "Private cargo/parking rooms, utilities and complete inner support grid",
+    "Exact 2017 rail inventory and active freight corridor to the south",
+    "North cargo awning and nine-bay facade split",
+    "Former platform stairs and elevator openings",
+    "Global ramp extension and sealed modern interface",
+    "2026 deck perimeter, columns and slab thickness",
+    "2026 completed landscaping and furnishings"
+  ],
+  "rights": "Study photographs are excluded from Blender and distribution. No photo projection or public mesh extraction. All geometry is original.",
+  "qa": "manifests/south_structure/isolated_qa.json",
+  "distribution": "The detached study must not be described as a completed station model or placed in the full scene automatically."
+}

@@ -1,0 +1,184 @@
+{
+  "title": "Yellow Light Coffee & Donuts: documented 2026 public fit-out module",
+  "module": "scripts/current_fitouts.py",
+  "model_status": "Image-led interpretive reconstruction of the visible customer/bar zone, not a contemporary measured as-built survey",
+  "period_gate": {
+    "2017": "No cafe emitted: this is a 2025-completed fit-out",
+    "2026": "Completed 2025 design and September 2026 reported occupancy; loose stock and equipment arrangement are photo-based, not verified at an exact day"
+  },
+  "sources": [
+    {
+      "url": "https://www.mergearchitects.com/projects/michigan-central-yellow-light/",
+      "author": "MERGE architects",
+      "verified": "2026-10-06",
+      "supports": [
+        "Completed 2025",
+        "Three carved rear niches",
+        "Hand-dyed fluted concrete panels",
+        "Salvaged Mankato column pieces integrated into coffee bar",
+        "Photographed finishes and fixture arrangement"
+      ],
+      "photographer": "Jason Keen",
+      "image_policy": "Copyrighted photographs inspected for architectural facts only; no photographic pixels used in materials, scene, or render outputs"
+    },
+    {
+      "url": "https://williamdavidson.org/two-years-in-this-is-who-is-in-michigan-central-station/",
+      "publication_date": "2026-09-08",
+      "author": "Crain's Detroit Business / Anna Fifelski, republished by William Davidson Foundation",
+      "supports": [
+        "First-floor Yellow Light occupancy",
+        "640-square-foot space",
+        "Reported carryout use and seating for six"
+      ],
+      "application": "Area is contextual evidence only; no current suite plan was available and unseen seating was not invented"
+    },
+    {
+      "url": "https://www.neumannsmith.com/michigan-central-station-interior-fit-out/",
+      "author": "Hannah-Neumann/Smith, Architect of Record",
+      "verified": "2026-10-06",
+      "supports": [
+        "Retail arcade by East Entrance",
+        "L-shaped coffee-shop rear/service extension in undimensioned vision scope drawing",
+        "Salvaged half-round Mankato at counter"
+      ],
+      "caution": "Website presents a vision/scope diagram, not a dimensioned as-built record; hidden extension not fitted out",
+      "scope_image_url": "https://www.neumannsmith.com/wp-content/uploads/2025/09/vision_scope2.jpg"
+    },
+    {
+      "url": "https://www.yellowlightdetroit.com/",
+      "author": "Yellow Light",
+      "verified": "2026-10-06",
+      "supports": [
+        "Current Michigan Central location, Suite101"
+      ]
+    }
+  ],
+  "coordinates": {
+    "system": "Meters; +X station west, +Y station south, +Z up",
+    "observed_zone_footprint": {
+      "x": [
+        -37.98,
+        -28.63
+      ],
+      "y": [
+        43.36,
+        48.52
+      ]
+    },
+    "modeled_area_m2": 48.246,
+    "published_suite_area_ft2": 640,
+    "published_suite_area_m2": 59.4579456,
+    "placement_basis": "HNS published1526x948 vision/scope plan registered by Grand Hall x80..1030, center555,north fronty120; s71.0184/950=0.074756m/px; X=(555-px)s,Y=(py-120)s",
+    "placement_confidence": "Relative plan alignment stronger than earlier photo-only positioning; raster uncertainty roughly+/-0.3-0.6m; no dimensioned current as-built survey",
+    "rear_service_zone_unfit_out": {
+      "x": [
+        -33.57,
+        -28.63
+      ],
+      "y": [
+        48.52,
+        51.88
+      ]
+    },
+    "retained_photo_geometry": "Counter/niche/equipment widths preserved, translated west3.22m; photographed rear fixture assembly moved0.50m deeper to fit registered shell; extra approximately2.25m east strip is unfurnished"
+  },
+  "arcade_integration": {
+    "wall_y": 43.36,
+    "wall_portals": [
+      {
+        "x": -34.13,
+        "width": 2.32,
+        "top_z": 4.3,
+        "condition": "Three-light storefront with central entry door"
+      },
+      {
+        "x": -30.165,
+        "width": 2.31,
+        "top_z": 4.3,
+        "condition": "Three-light full-glazed storefront"
+      }
+    ],
+    "note": "Widths and locations from HNS scope raster; module frames individually resized. Counter and fixtures were not globally stretched. Remove generic opaque storefronts only at these two apertures.",
+    "glazing_y": 43.36
+  },
+  "modeled_features": [
+    "Pale veined counter with curved eastern return",
+    "Five half-round salvaged-ocher stone supports",
+    "Glass merchandise inset",
+    "Yellow ellipse-clipped floor stripes",
+    "Polished mottled concrete floor",
+    "Mauve plaster and joinery",
+    "Three rear niches with actual clipped fluted-concrete surface",
+    "Quarter-arched yellow work niche",
+    "Actual perforated bronze ceiling geometry",
+    "Tall yellow front ceiling recess",
+    "Open-backed curved brass mesh espresso screens with physical holes",
+    "Generic two-urn coffee brewer, frozen beverage dispenser, espresso machine and POS hardware",
+    "Two-tier glass pastry case with original donut meshes",
+    "Generic unbranded retail packs, mugs and chilled drinks",
+    "Visible service door closed at documented threshold",
+    "Timber front standing ledges",
+    "Clear-glazed entry/frontage and observed text signage",
+    "Capsule wall lamps and recessed ceiling lights"
+  ],
+  "assumptions_and_gaps": [
+    "No concealed kitchen, storage, utility runs, equipment schedule or adjacent private tenant layouts",
+    "Front opening top 4.30 m, lowered bar ceiling 3.18 m and counter top 1.10 m are proportion assumptions",
+    "Perforation LOD uses 60 mm pitch and 36 mm holes, not measured shop drawings",
+    "Curved stone silhouette and niche radii are mesh approximations from views, not exact fabrication profiles",
+    "Lighting intensities are interpretive; original authored PBR textures represent material class and are not site scans",
+    "Equipment is visually recognizable but unbranded and does not claim exact models or current stock",
+    "Reported seating for six is not instantiated because the inspected photographs do not establish stool geometry or positions",
+    "Rooster neon emblem and pricing are omitted rather than inaccurately traced or invented",
+    "Architect photo08 shows salvaged stone before installation and is not treated as a completed-room view",
+    "An undimensioned published HNS scope drawing supports an L-shaped rear/service extension. It does not establish a measured current as-built suite plan, and unseen fit-out remains omitted.",
+    "Registered shell covers48.246m2 while published full suite area is59.458m2; the known rearL service footprint remains unfit-out. Raster areas are not forced to match lease area.",
+    "Additional east strip and rear ceiling margin use plain provisional shell closures; no invented furniture, equipment or internal partition added",
+    "Menu lettering follows the newly registered outer east wall; resulting larger separation from counter is an explicit plan-versus-photo spatial interpretation"
+  ],
+  "material_provenance": {
+    "generator": "manifests/current_fitouts/make_original_materials.py",
+    "maps": "manifests/current_fitouts/materials/",
+    "description": "Original mathematical noise, veins and derived normals, roughness and 16-bit height; no source-photo pixels",
+    "height": "Supplied as support maps; physical shader displacement disabled at this LOD"
+  },
+  "qa": {
+    "harness": "manifests/current_fitouts/qa/isolated_qa.py",
+    "report": "manifests/current_fitouts/qa/mesh_report.json",
+    "artifact": "manifests/current_fitouts/qa/yellow_light_isolated.blend",
+    "renders": [
+      "manifests/current_fitouts/qa/yellow_light_counter.png",
+      "manifests/current_fitouts/qa/yellow_light_reverse.png",
+      "manifests/current_fitouts/qa/yellow_light_arcade.png"
+    ],
+    "note": "Isolated module views contain no shared historic arcade shell. Full-scene integration requires the two wall openings above.",
+    "status": "Registered placement revision: mesh/data QA and one640px,8-sample,2-thread isolated render; earlier GLB verified pre-registration only",
+    "mesh_counts": {
+      "meshes": 108,
+      "vertices": 487641,
+      "polygons": 369388,
+      "zero_area_faces": 0,
+      "nonfinite_coordinates": 0,
+      "uv_missing": 0
+    },
+    "glb_report": "manifests/current_fitouts/qa/glb_pre_registration_report.json",
+    "glb": "manifests/current_fitouts/qa/yellow_light_pre_registration.glb",
+    "glb_bytes": 55434024,
+    "glb_normals_and_uv": "All106 meshes carry NORMAL and TEXCOORD_0; all12 texture images embedded",
+    "final_render": "manifests/current_fitouts/qa/yellow_light_registered.png",
+    "registration_harness": "manifests/current_fitouts/qa/registered_check.py",
+    "glb_revision_note": "Existing standaloneGLB is the pre-registration geometry proof; full station lead must rebuild final coordinates from current module"
+  },
+  "lod_guidance": {
+    "omit_exact_mesh_names": [
+      "Yellow Light physical perforated ceiling panels",
+      "Yellow Light curved brass mesh screen wires"
+    ],
+    "retain": [
+      "Yellow Light screen rim edging",
+      "Yellow Light ceiling panel joints",
+      "Yellow Light dark plenum behind perforated ceiling"
+    ],
+    "note": "These are fine actual meshes in high-detail scene, not shader opacity tricks. Lightweight viewer can omit their named mesh batches without changing room shell or equipment."
+  }
+}

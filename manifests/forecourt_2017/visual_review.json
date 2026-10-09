@@ -1,0 +1,35 @@
+{
+  "status": "Inspected two authorized isolated previews",
+  "previews": [
+    {
+      "path": "assets/forecourt_2017/qa/forecourt_2017_overhead_review.png",
+      "bytes": 1059569,
+      "sha256": "a91d47b6eb40fcae6b871caadc762de5049e5a3e800f4754b72aeb3ebde4bb13"
+    },
+    {
+      "path": "assets/forecourt_2017/qa/forecourt_2017_oblique_review.png",
+      "bytes": 1158183,
+      "sha256": "8f18cfb241249956f88e795e68cfba95f4563dc019b404a3076803c904fb793e"
+    }
+  ],
+  "render_input_blend_sha256": "bbb2b6fd471ec9e2e900bdba2e66833e612cff4e25111380353fc5ed481eb556",
+  "final_source_sha256": "14f5d806e9cc49d65822b09aa871038799502a014ef5bce7dcbc4b3d8c7d950f",
+  "geometry_glb_sha256": "ddbb0a5bd9da18579c6267d56b9960a8cb2ae614936f3dbdadcc66463b574e06",
+  "reviewed_camera_registry_matches_preview_overrides": true,
+  "geometry_unchanged_after_previews": "Confirmed unchanged GLB SHA-256 after camera-registry update",
+  "observed": [
+    "Two elongated beds flank one central paved approach with side lobes",
+    "Balustrades are on station-facing edges and rounded outer returns; road-facing bed edges stay low",
+    "Low separate shrubs leave exposed soil between rows; no trees in beds",
+    "Flagpole/US flag and thin fence/gate are present",
+    "Sidewalk and narrow paved streetlight median separate distinct road strips",
+    "No unexpected visible holes, stray shrubs or modern park elements"
+  ],
+  "limitations": [
+    "Isolated module only; no station facade in these views",
+    "Oblique is a detail view and crops a portion of the bounded outer road corner",
+    "Neutral backdrop is not a reconstructed park or site surface",
+    "No precise 2017 date, species/inventory, survey/grade or photorealism certification",
+    "Whole-station integration remains the parent build task"
+  ]
+}

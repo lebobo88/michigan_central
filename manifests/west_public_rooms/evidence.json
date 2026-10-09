@@ -1,0 +1,135 @@
+{
+  "status": "Interpretive restoration-baseline architecture; NOT a surveyed or complete 2026 interior",
+  "era_policy": "Restored public fabric built only in 2026 scene from 2023/24 photographs; exact 2017 omitted",
+  "source_plan": "research/visual/floor_plan_1914.jpg; 233 x 104 ft hall scale anchor",
+  "room_bounds_m": {
+    "reading": [
+      36.16,
+      52.1,
+      4.95,
+      15.4,
+      0.1,
+      8.82
+    ],
+    "cafe": [
+      36.16,
+      52.1,
+      15.4,
+      23.5,
+      0.1,
+      8.82
+    ],
+    "restaurant": [
+      36.16,
+      52.1,
+      28.85,
+      51.45,
+      0.1,
+      7.62
+    ]
+  },
+  "calibrated_corridor_connection": "Both corridor doors centered X44.1, between plan-derived restaurant piers; approximate, not surveyed",
+  "precision": "Room partitions and grid generally +/-0.3 m raster estimates; heights/photo proportions less certain",
+  "shared_hall_portals": [
+    {
+      "center_y": 10.1,
+      "width": 2.4,
+      "height": 3.65
+    },
+    {
+      "center_y": 22.2,
+      "width": 2.4,
+      "height": 3.65
+    }
+  ],
+  "corridor_portals": [
+    {
+      "plane_y": 23.5,
+      "center_x": 44.1,
+      "width": 3.0,
+      "height": 3.6
+    },
+    {
+      "plane_y": 28.85,
+      "center_x": 44.1,
+      "width": 3.0,
+      "height": 3.6
+    }
+  ],
+  "restaurant_east_connections": "Two 2.4 m clear, plan-proportioned plan-based openings to former lunch-counter zone; continuation outside this module unresolved",
+  "omitted": [
+    "Exact 2017 loss/decay",
+    "Unknown 2026 construction changes",
+    "NoMad finished hotel",
+    "Restaurant final flooring",
+    "Extent of2024 removal of historic restaurant/lunch-counter partition",
+    "Furniture and operational fittings not documented"
+  ],
+  "sources": [
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p59",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p60",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p62",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p66",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior-detail#p38",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior-detail#p39",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p49",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior-detail#p43"
+  ],
+  "west_window_centers_m": [
+    6.84,
+    10.34,
+    13.69,
+    17.81,
+    21.55
+  ],
+  "west_windows_source": "Core-supplied schedule or twelve original-plan gaps normalized to agreed approximate room bounds",
+  "restaurant_west_window_centers_m": [
+    30.79,
+    34.45,
+    38.18,
+    41.98,
+    45.71,
+    49.45
+  ],
+  "restaurant_grid_m": {
+    "x": [
+      36.61,
+      42.32,
+      45.89,
+      51.65
+    ],
+    "y": [
+      29.28,
+      32.14,
+      38.31,
+      41.82,
+      47.91,
+      51.02
+    ],
+    "basis": "2 internal pier lines x4 internal rows proportioned from enlarged1914 raster; alternating bay widths, unsurveyed"
+  },
+  "partial_lunch_counter": {
+    "extent_m": [
+      24.7,
+      36.16,
+      31.72,
+      51.45,
+      0.1,
+      7.62
+    ],
+    "basis": "1914 plan adjacency and p49 east-looking vista; partial architectural shell, no old counter or current tenant fit-out",
+    "limits": "Narrow north ceiling strip and further east office/service connections unresolved; photograph does not establish complete present partition inventory"
+  },
+  "restaurant_east_portals_m": [
+    [
+      33.8,
+      2.4,
+      3.7
+    ],
+    [
+      46.1,
+      2.4,
+      3.7
+    ]
+  ]
+}

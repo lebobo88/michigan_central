@@ -1,0 +1,15 @@
+{
+  "file": "michigan_central_2017.glb",
+  "sha256_before": "f17a2ddaa55bcb913c79a6de3994cd2f5d6572d94a34ef98bb085dd513a880b3",
+  "sha256_after": "58594a65c501a45493fd9fe97fb75f4fce014efe8cd6f50b275c5bb4e2e596e1",
+  "repairs": [
+    {
+      "mesh": "tower deep cornice profiled modillions",
+      "vertices_repaired": 52,
+      "derived_from_incident_uv_triangles": 41,
+      "orthogonal_fallback": 11,
+      "unreferenced_vertex_fallback": 0
+    }
+  ],
+  "operation": "Only zero-length tangent vectors repaired; derive from incident triangle position/UV Jacobian and orthogonalize against existing normals. Geometry, UVs and materials unchanged."
+}

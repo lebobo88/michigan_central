@@ -1,0 +1,4662 @@
+{
+  "era": "2026",
+  "accepted_glb_sha256": "c1801cde3f864e851863c5b16c121cc7228725940465a5ae424fc4260adb669e",
+  "materials": [
+    {
+      "name": "NP pale concrete",
+      "sha256": "c0ad967f5acb64f283308dfebf4233053c6f4dfad686817347a8c01d4c3b624a",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 3,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "NP pale concrete",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "750aa1f88c2efc51a9b31c386e35fc97bcf20397b66d6cf54c8fc020eed66016",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "47bf4aa95564d19514ef8bf3796b0559cdc66390eb6e0430c5cabb5baf220cb5",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4068fec0af2ee77b7db99f060496eefb1a1c58a1e01bbbbc9f20e0e4d7f0765a",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP bollard metal",
+      "sha256": "2a03165183cd2fe5583e8ce383f38bf9494a844b7ef74c92038c143c581424dc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP bollard metal",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.2800000011920929,
+            0.28999999165534973,
+            0.27000001072883606,
+            1
+          ],
+          "metallicFactor": 0.7799999713897705,
+          "roughnessFactor": 0.3700000047683716
+        }
+      }
+    },
+    {
+      "name": "NP forecourt stone",
+      "sha256": "0faab95133bec01da92912c55249e7e592dbd500f4880c15204205bbdfbc5a31",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original project material; photo-supported stone class, not a site scan"
+        },
+        "name": "NP forecourt stone",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6e80c168a400da16f208f543b135868d233b06f882a99f48878c4a4311bb972c",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e546821e43b868f14119daf38dd61217a287ec58875c846f9e2839bf26592b6b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP joint",
+      "sha256": "3eff4094bd0d6a603e14f148cbc22d458e0d36b584a4e2d1265d14085b1dbace",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP joint",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.11500000208616257,
+            0.1120000034570694,
+            0.10000000149011612,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "NP forecourt paving",
+      "sha256": "572cd02ccfc788a189c6aff1e6d0045844be6e9cd89c50514830a8f4bf77aad9",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 3,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "NP forecourt paving",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "907f76f49bf19c6de8b7243826bc00caa63f411c810237d650a270d113f435e8",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "1a15fe91a6bb6683b0b184ee138a7e7c59fb36b05cd7c79977e688ab888482e5",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "c6d2644c83a566fd41da188cada969d912f8c6393c10a289757ad8c9759156fd",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP mulch",
+      "sha256": "91b913200b4e3e1aa0c44c6a84d045797328f0ebfe0cd3130c31e8c09561d387",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "NP mulch",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "fa1331f2dbf6fdd8f0d79d40de4949b24dd742147a198ae7cd90a28f02abe3b5",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "dbd2d528eb4d091d428d6a36cf5345095daff368baca60fb583488741b1b01d8",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "84a4d53f6776183aab25413dd13a7022d4c7f6dc208d563f78bbd297fc8d800d",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP asphalt",
+      "sha256": "270d15b75f5ffb08aae193e36e4f3b3dc2777019591e52051e5b14116598c75e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 2,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "NP asphalt",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "83347fa9616a34cf02898bf44b1b51836c667e2a02ab66bb22a2298af2459c24",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6981a83b8aa5e7c6afe52c476b2bf7a5b80da869f9733d2dd578be9f4288cbd2",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "bdc3ed82bfc14947cc3d9fb8cd34d8919b6a2d14e277e5ce0017a3934538e5db",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP warm aggregate",
+      "sha256": "5b6789e0300a62cdf1d9bb57fe27f2a07572d9ff89161ce573e1becfd99f552e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 2,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "NP warm aggregate",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "dbe14384395cbb7c7c45632e9a916124f8665a61c27609e5829ab0391ba12cd0",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8f0fc166a2a1eaba28bba169bff03687eb02e9aa4f23a8fae8300cb97356a54e",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "f507d7c1d3b45afff212a2301286821ffc6db075f6e93a485146123d59cc7042",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP black metal",
+      "sha256": "131ae886ff1f01f9f78f51d70aade55ebceda6c6f44c71592d56a10095316856",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP black metal",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.027000000700354576,
+            0.03400000184774399,
+            0.028999999165534973,
+            1
+          ],
+          "metallicFactor": 0.6499999761581421,
+          "roughnessFactor": 0.4300000071525574
+        }
+      }
+    },
+    {
+      "name": "NP turf",
+      "sha256": "2b14dba655712b81caf7dbf96898a4fef862ff33e2a2beeaeedfb512ba86cf10",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 2,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "NP turf",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "d729242c0c0133d30eb492f8a36318f8b58a4f2bab6695f1f2317d373a492c15",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "7cde08b29429c099d2ddd546dea900ef8089b15b0a7d002ee49842b71c17d0a3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d45ed59ff5d4acd4a30693eee75f6d6cad65883d8176ee53b00c6a0fc406df58",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP hydrant",
+      "sha256": "5fabfca7d79fcd969eb7f9b607955091477afd3ac7ecab3c5371cb2f8f2e8227",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP hydrant",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.23999999463558197,
+            0.07500000298023224,
+            0.05000000074505806,
+            1
+          ],
+          "metallicFactor": 0.44999998807907104,
+          "roughnessFactor": 0.5799999833106995
+        }
+      }
+    },
+    {
+      "name": "NP planter",
+      "sha256": "46381217daba71f62595d7e979a4bb3c4c608282d9f96b7986d89d231bf31bb7",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP planter",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04500000178813934,
+            0.04699999839067459,
+            0.03799999877810478,
+            1
+          ],
+          "metallicFactor": 0.15000000596046448,
+          "roughnessFactor": 0.7200000286102295
+        }
+      }
+    },
+    {
+      "name": "NP frosted lamp",
+      "sha256": "02498997f7a1453bfebd0c730b2867bb939371cc7efa755dd80b12b1983a6e49",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.07999999821186066
+          }
+        },
+        "name": "NP frosted lamp",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6200000047683716,
+            0.6299999952316284,
+            0.5400000214576721,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.44999998807907104
+        }
+      }
+    },
+    {
+      "name": "NP grass blade",
+      "sha256": "45fe235321cc76bbf7bffab0851aaa3246a164347c62476a8796f4745a12b68c",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original restrained July leaf colors; no species or exact planting inventory assertion"
+        },
+        "name": "NP grass blade",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.10100000351667404,
+            0.17000000178813934,
+            0.024000000208616257,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8899999856948853
+        }
+      }
+    },
+    {
+      "name": "NP grass plume",
+      "sha256": "12839d197f76911c6d31e70ed97b7eda683765787502d36c5fb38ad36abc564f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP grass plume",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.28999999165534973,
+            0.25999999046325684,
+            0.15000000596046448,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "NP bark",
+      "sha256": "22eb6a36b1c98057fdc6fcf24bf411fe56cdf3ac2da471ac09d296c761336d50",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "NP bark",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "efd8af554878b098d61a7105636e17906946b7264e693ae232312fee1c3b305c",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "208d6066415dee1af06979e2b282d5dfa3af4238962fd5f63a62af47fbe47b34",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "ac0e605cc4c1596c104e8a1c3a0e3ead6b1e13d5058a235f6da838eed3bf4f5b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "NP leaf 0",
+      "sha256": "f9e6c6bd6d028b8d654aa2ea1dde4b126bd7a1ff0946d27fec1dbb4e7612976a",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original restrained July leaf colors; no species or exact planting inventory assertion"
+        },
+        "name": "NP leaf 0",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.03999999910593033,
+            0.08500000089406967,
+            0.012000000104308128,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7599999904632568
+        }
+      }
+    },
+    {
+      "name": "NP leaf 1",
+      "sha256": "7e2ce2451c7c5f590a01a17ca1f0dda7fc2c878935cface4dd72dfd509e97dfa",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original restrained July leaf colors; no species or exact planting inventory assertion"
+        },
+        "name": "NP leaf 1",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.061000000685453415,
+            0.12600000202655792,
+            0.01899999938905239,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7400000095367432
+        }
+      }
+    },
+    {
+      "name": "NP leaf 2",
+      "sha256": "05cd86d2bd4e05451a977083d1500cd492e115f4e5cd97ca5f3248f3dfeeff36",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original restrained July leaf colors; no species or exact planting inventory assertion"
+        },
+        "name": "NP leaf 2",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.09399999678134918,
+            0.1509999930858612,
+            0.02800000086426735,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7300000190734863
+        }
+      }
+    },
+    {
+      "name": "NP flower 2",
+      "sha256": "99e5950f884e2502fe729caec52c33a1bbdab0d98c4c94df69e29d70c5bc70b8",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP flower 2",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.33000001311302185,
+            0.30000001192092896,
+            0.5199999809265137,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.800000011920929
+        }
+      }
+    },
+    {
+      "name": "NP flower 1",
+      "sha256": "5f72209740da64aca181e3e59706bb4cea6270d048d448cfa85e961231b785a4",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP flower 1",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3799999952316284,
+            0.1899999976158142,
+            0.3400000035762787,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.800000011920929
+        }
+      }
+    },
+    {
+      "name": "NP flower 0",
+      "sha256": "42e6451dca150bbd7a51131e6506084d19a2aadfc6b498e25d02ceaa2ede235d",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "NP flower 0",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6499999761581421,
+            0.6100000143051147,
+            0.47999998927116394,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.800000011920929
+        }
+      }
+    },
+    {
+      "name": "Canopy pale painted metal | alloy unverified",
+      "sha256": "c95fc4939fb5631d7923ceda7a49442133b4453f1424f76a538f773dacf9da91",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original constant material; no copyrighted pixels or third-party textures",
+          "limits": "Approximate appearance, not measured physical properties"
+        },
+        "name": "Canopy pale painted metal | alloy unverified",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.4300000071525574,
+            0.47999998927116394,
+            0.46000000834465027,
+            1
+          ],
+          "metallicFactor": 0.07999999821186066,
+          "roughnessFactor": 0.4000000059604645
+        }
+      }
+    },
+    {
+      "name": "Canopy skylight glazing | optical properties approximate",
+      "sha256": "7cd77655dacbd70add1f99442b1a993a54164852f203ea00684c19c569d976dc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_ior": {
+            "ior": 1.4600000381469727
+          }
+        },
+        "extras": {
+          "provenance": "Original constant material; no copyrighted pixels or third-party textures",
+          "limits": "Approximate appearance, not measured physical properties"
+        },
+        "name": "Canopy skylight glazing | optical properties approximate",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8399999737739563,
+            0.9200000166893005,
+            0.9399999976158142,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.11999999731779099
+        }
+      }
+    },
+    {
+      "name": "Canopy warm dark lamp fittings | finish approximate",
+      "sha256": "aca8350e3863d244025c229f12e3435c0fff6e86a3e3742655a4f74585160f9e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original constant material; no copyrighted pixels or third-party textures",
+          "limits": "Approximate appearance, not measured physical properties"
+        },
+        "name": "Canopy warm dark lamp fittings | finish approximate",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.10999999940395355,
+            0.06300000101327896,
+            0.024000000208616257,
+            1
+          ],
+          "metallicFactor": 0.6499999761581421,
+          "roughnessFactor": 0.3499999940395355
+        }
+      }
+    },
+    {
+      "name": "Canopy warm frosted globes | nominal glow",
+      "sha256": "316ccf18faf78393e4a98b4380ccce23a38e201271b18611f77b16e3ba16b2cb",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.7900000214576721,
+          0.46000000834465027
+        ],
+        "extensions": {
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 3
+          }
+        },
+        "extras": {
+          "provenance": "Original constant material; no copyrighted pixels or third-party textures",
+          "limits": "Approximate appearance, not measured physical properties"
+        },
+        "name": "Canopy warm frosted globes | nominal glow",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1,
+            0.7900000214576721,
+            0.46000000834465027,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3400000035762787
+        }
+      }
+    },
+    {
+      "name": "Canopy opaque roof and soffit | layered build-up unknown",
+      "sha256": "f8f566c94cda6198f83f010ce9223b66c6b048dab64c3220b3192bccbb262ae8",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original constant material; no copyrighted pixels or third-party textures",
+          "limits": "Approximate appearance, not measured physical properties"
+        },
+        "name": "Canopy opaque roof and soffit | layered build-up unknown",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.4099999964237213,
+            0.46000000834465027,
+            0.4399999976158142,
+            1
+          ],
+          "metallicFactor": 0.10000000149011612,
+          "roughnessFactor": 0.47999998927116394
+        }
+      }
+    },
+    {
+      "name": "Dark bronze",
+      "sha256": "67e73b2d2587db1f133cd55255bd3d9c72a872aa092040bc08aefaa043f71b69",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Dark bronze",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.07500000298023224,
+            0.05700000002980232,
+            0.039000000804662704,
+            1
+          ],
+          "metallicFactor": 0.7799999713897705,
+          "roughnessFactor": 0.3499999940395355
+        }
+      }
+    },
+    {
+      "name": "Glass clear",
+      "sha256": "97216205353c3564d159250fe3d52d752f26e3e854db5625292d51346b100dba",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.9800000190734863
+          }
+        },
+        "name": "Glass clear",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8799999952316284,
+            0.9399999976158142,
+            0.9700000286102295,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.00800000037997961
+        }
+      }
+    },
+    {
+      "name": "Exterior Indiana limestone",
+      "sha256": "ec0a5670d25887bbdc82f3c30b6f5327118a8e82e72767fc0b2d0a49186f7850",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Exterior Indiana limestone",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6e80c168a400da16f208f543b135868d233b06f882a99f48878c4a4311bb972c",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e546821e43b868f14119daf38dd61217a287ec58875c846f9e2839bf26592b6b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Window cast iron",
+      "sha256": "a703befd0576e1ab22cf51a2e0de3dd6c5bead9d5bfcd26372d634e35cad5ff3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Window cast iron",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.23999999463558197,
+            0.27000001072883606,
+            0.23999999463558197,
+            1
+          ],
+          "metallicFactor": 0.5799999833106995,
+          "roughnessFactor": 0.3199999928474426
+        }
+      }
+    },
+    {
+      "name": "Roof dark copper",
+      "sha256": "17ce356ec7dc6799722f903291cddbc345e4a5ba4cb953cbdeaf6ed0b3ef9ec3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Roof dark copper",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.03500000014901161,
+            0.04399999976158142,
+            0.03999999910593033,
+            1
+          ],
+          "metallicFactor": 0.44999998807907104,
+          "roughnessFactor": 0.6200000047683716
+        }
+      }
+    },
+    {
+      "name": "Weathered concrete",
+      "sha256": "2a8096390083082c6a820b319ae18817f1a65fe8f8632e51d089c8e30c5f5a20",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Weathered concrete",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "a149f810c1e5f82988cd758b008e45ee08fef1c2753f5c1e234f535e5c7444b4",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4d86b00a8a99b4ec60d2f39ece8c8e3ff6cb399b7059d20ccee593105a07e5e6",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d467dd002b0ec74a88be14528f23ff25dd3ad61dc6a87c604bee129ddf81dca0",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Tower buff brick",
+      "sha256": "9a0f1fae1b6d607ffca9a1c11472c5c6d4081a53034f6336d6fffcefc08cd77a",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.7,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Tower buff brick",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "ddda26a762f110fe03488fc53533c2cf798200bfa55a422b537760217b36d72f",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "39249b807a911aa20c9cd4cbecd41bf3b8f4da92777342eeeb82dfbce42b9bb5",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6b0fc0393350cc9419007fe3c67af17ca8b583a3045e82277988f74fd8a6ad53",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Tower recessed dark joint",
+      "sha256": "e4ff533025e919aaaa2760c38be98810d02d6d798a4215185d231f87ba480a9e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family"
+        },
+        "name": "Tower recessed dark joint",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.06499999761581421,
+            0.057999998331069946,
+            0.04699999839067459,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8999999761581421
+        }
+      }
+    },
+    {
+      "name": "Tower muted ornamental terra cotta",
+      "sha256": "6133abe8685e21069bd2ce498f5164851df7404c2bb872ba67871991d9baf618",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Existing original authored limestone-class support maps reused as terra-cotta appearance approximation",
+          "material_class": "Muted stone-like ornamental terra cotta; source photographs establish appearance, not a material scan"
+        },
+        "name": "Tower muted ornamental terra cotta",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6e80c168a400da16f208f543b135868d233b06f882a99f48878c4a4311bb972c",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e546821e43b868f14119daf38dd61217a287ec58875c846f9e2839bf26592b6b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Tower 2015 replacement insulating glass",
+      "sha256": "1e499ffd93f6066bc246b4a5475564444ea3fac1d76b394bb99d969d6086b4ea",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.8600000143051147
+          },
+          "KHR_materials_ior": {
+            "ior": 1.5199999809265137
+          }
+        },
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family",
+          "physical_note": "Recessed 18mm modeled glazing; continuous tint; reflection changes come from scene and orientation"
+        },
+        "name": "Tower 2015 replacement insulating glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6100000143051147,
+            0.7200000286102295,
+            0.7099999785423279,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.07500000298023224
+        }
+      }
+    },
+    {
+      "name": "Tower 2015 green gray painted frames",
+      "sha256": "06b2c4d0c08b674a85566bd08b5d477dd42f0cdbd86b64a4588d2d419e30f194",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family"
+        },
+        "name": "Tower 2015 green gray painted frames",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.2750000059604645,
+            0.32499998807907104,
+            0.3050000071525574,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.4000000059604645
+        }
+      }
+    },
+    {
+      "name": "Tower 2015 shallow green gray spandrels",
+      "sha256": "d7a30666198717569c9923cb88825d3edda298a95b4a098e9052fb957b3aa019",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family"
+        },
+        "name": "Tower 2015 shallow green gray spandrels",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3149999976158142,
+            0.36500000953674316,
+            0.3449999988079071,
+            1
+          ],
+          "metallicFactor": 0.1599999964237213,
+          "roughnessFactor": 0.4699999988079071
+        }
+      }
+    },
+    {
+      "name": "Tower unobserved interior optical stop",
+      "sha256": "370a98833325d795f72aeb82797e2b7b7b4810b18ee6f1ab9202605bc4d6c458",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_provenance": "Original material definition; no photograph or blind inventory",
+          "era_evidence": "2015 installed tower windows retained in 2017; 2026 photographed frame family",
+          "scope": "Unmodeled private interior optical occlusion only; not a documented room partition or fit-out"
+        },
+        "name": "Tower unobserved interior optical stop",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.01899999938905239,
+            0.02500000037252903,
+            0.02500000037252903,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9800000190734863
+        }
+      }
+    },
+    {
+      "name": "Warm lamp glass",
+      "sha256": "adfadac5076b9c02370d743b4b7e3c3f5c00fd0b1f8ca35c7f0ca17278900319",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.7599999904632568,
+          0.4099999964237213
+        ],
+        "extensions": {
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 7
+          }
+        },
+        "name": "Warm lamp glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1,
+            0.7599999904632568,
+            0.4099999964237213,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.23999999463558197
+        }
+      }
+    },
+    {
+      "name": "Decorative plaster",
+      "sha256": "3e0c70f49f805bc1f8f7abe6f67c9c6909c1555dc9730b0ba3bfe1e7e653afd3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Decorative plaster",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "198e127df4737aaee71e7e286e7d6f40d1895ffe848a9c2260811d23ff97913d",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e546821e43b868f14119daf38dd61217a287ec58875c846f9e2839bf26592b6b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Wood walnut",
+      "sha256": "8b04d72d1b4a5cda445f38e53ca5813e2bf401d76ad79038474e0a21cdfa2089",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Wood walnut",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04500000178813934,
+            0.017999999225139618,
+            0.00800000037997961,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      }
+    },
+    {
+      "name": "Warm Mankato column stone",
+      "sha256": "3fa9b76c10a21218a9742dc2579ca5ab80df80b5ea65dc90ec03d200ebac1042",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.5,
+          "texture_provenance": "Original imagegen color with conservatively inferred PBR support maps; not a site scan"
+        },
+        "name": "Warm Mankato column stone",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "66af83af76f95e195c7bd17df195553853ce4f838bc2d83fef1b0be065fb0685",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "673cdf59183a9090068f30609eb598b8b1ad0660ae7f4fa2b3049383da56ab8a",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "acbd1b7d360a79cd755a720207f19dd5b30e0b8fbd5f295ca9207fd22e6c942c",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Glass tower blue",
+      "sha256": "2eb9cee75135dd6820c2a62d258c07a1e70378bc04c6c233195a30367ff471d9",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.10000000149011612
+          }
+        },
+        "name": "Glass tower blue",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.23999999463558197,
+            0.30000001192092896,
+            0.3100000023841858,
+            1
+          ],
+          "metallicFactor": 0.4000000059604645,
+          "roughnessFactor": 0.20999999344348907
+        }
+      }
+    },
+    {
+      "name": "Hall scored decorative plaster",
+      "sha256": "a0824d4e21cd3dde8430ea821352d59632a2d926dc69678b2231670702c11522",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.8,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Hall scored decorative plaster",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "fe637a5feb9fccad8c163ac832a7138dd68abdba451c7dd1e0afed458bbcfb18",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6236c92016f784faef6fc6f0c1efd235f01ad7a5c4e39f8225c76b443af34945",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e7a4e8db084b4d1b565974814377f4294f257c3b33c9ba3610d08e2741aa3faa",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Dark void",
+      "sha256": "d53d806da2cd0b25bf01f1f073ea45fe7a54e4ca60e7fc03da9d714694f7a588",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Dark void",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.014999999664723873,
+            0.01600000075995922,
+            0.014000000432133675,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9599999785423279
+        }
+      }
+    },
+    {
+      "name": "Grand Hall floor assembly",
+      "sha256": "06597cb9631ce85ec7d57acce8a568b839ec0ef34d808e240e61fa22a947e543",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled"
+        },
+        "name": "Grand Hall floor assembly",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987,
+              "wrapS": 33071,
+              "wrapT": 33071
+            },
+            "embedded_image": {
+              "sha256": "5156c1898c7c1ee631480e4e3184193cae183e6198ab2ddb63ce6a4c2dc5dc1a",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987,
+                "wrapS": 33071,
+                "wrapT": 33071
+              },
+              "embedded_image": {
+                "sha256": "7472903b9d57018cf76a561bf9089464e49f19a9792dc1e91bae9f66b60cdcca",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987,
+                "wrapS": 33071,
+                "wrapT": 33071
+              },
+              "embedded_image": {
+                "sha256": "1d6c6471f0173b07d6ec2d4e3a8f4fdb19b485b4029c1a9bac5e0299505b1cac",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Guastavino buff tile",
+      "sha256": "d7866036d2c6d8ae158f385b954e234eddb76d62f4edaf05470b4b91adc36ebe",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Guastavino buff tile",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "16228f2dfecfbe7065c0a4c7a2ab8937f25adccaf9936d13abbde0ab41108be5",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4e43b16f7fd7502e2295bb3c766ef408265599137b6d35581d7065a578f20256",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "893546be644c4a47a83c07d916ac927a5fcb83374227c442022b00d003579ebd",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Rose Tennessee marble",
+      "sha256": "b6dcc6839d1ef81053b86cb591f522020d7827642ec43421deb38183ed76cb35",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.2,
+          "texture_provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled"
+        },
+        "name": "Rose Tennessee marble",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e8a7c51e5513cb6989ebc7494110b2f6b9a92cf28d24767ea6ee564916d2b568",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "b9e01a549c958c257e06b388fd6daf9bac7f2be28ace959e22e298f3e6098c5a",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "626f12e03a4c8829228286e56fe88ebaf27cff3c4546668d3269618ba3e0bd72",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse terracotta dressings 2026",
+      "sha256": "75ac89659d6afe76f760ca74ccf215dab6cc350da83e5207af52b7f3d8d5e3f3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse terracotta dressings 2026",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "4285169b0d5a0b9f94e8339abf0af7571f88d6999ae07537dcf33cf7fa754587",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e331349a3a625e4ca30efbd88e89651c5893f4b620b7d7ba949fff04a82c785e",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "9db3fab1d15b456fa61aacca832e2de1b335a0e513c4cdea0f383300a629bc43",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse Flemish buff masonry 2026",
+      "sha256": "71aa6eb72a7b6d062aeb687fcfd0fda71184de31b4c97610e5fc789043ec339b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse Flemish buff masonry 2026",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0799a62556461702881ede4bebdc77faf6e648019f753fe4a01a1614de37e8b5",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "139758c998ed445d28bc0a9bd026a5c9cbc9e04e98549b9d42f92d2f6cc63216",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6095ef3f5b5b8314220b9e0110d2beb7ccc6ccf9cf5ee215db58b092a3829086",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse herringbone frieze 2026",
+      "sha256": "db5c0fa75b677acab86cca3a212613f3b96acaed5c56277775c22e28cfe4a83f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse herringbone frieze 2026",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "9ff3d31c6cad5c6b4b709ce155934b570fdf9c0938fad6f954ee856fc08ecb0e",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4f4ba05d9247b3c9d48c85315832f7138ac65e92701bbbb373630fd07adecdb7",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "620b094fa50984c5903ea2df859708c87b2ed9f45c4b71ce62d85c7737b31a65",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse warm restored terrazzo",
+      "sha256": "b5530d7f1134d677bedb7dc1d00287af3d648b1e2403e2b85d35c5fa5e421fa4",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse warm restored terrazzo",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "c78234920775b3cde61d5461cc0f61afd07a7b25ba836d5233303d1b0319b571",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "d491382fbd28fc69d74e3f2049ebbda88810468f9da0b36b4b27718f8b3038d9",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "17efdcb5148d4917d90b32729243c0c8e3e3b971a3bd60bd0c92254cd10e8acd",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse bluegray terrazzo bands",
+      "sha256": "68574a55661b8cd828f9ec9ca8329e4203a18425779571fb31a07fde1e13c40e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.36,
+          "texture_provenance": "Original deterministic procedural image; no source photograph sampled, projected or included"
+        },
+        "name": "Concourse bluegray terrazzo bands",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "c78234920775b3cde61d5461cc0f61afd07a7b25ba836d5233303d1b0319b571",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "b0b106bd1b1ee7591dd1509363434199a363d943c5b7803b9f91ef68ac0c99b1",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "17efdcb5148d4917d90b32729243c0c8e3e3b971a3bd60bd0c92254cd10e8acd",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse retained portal metal 2026",
+      "sha256": "393b076e5522c6d26f7545d867fbe6b20d012aebe8fae676c13b47e7e7642a11",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Concourse retained portal metal 2026",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04100000113248825,
+            0.04800000041723251,
+            0.0430000014603138,
+            1
+          ],
+          "metallicFactor": 0.6800000071525574,
+          "roughnessFactor": 0.3799999952316284
+        }
+      }
+    },
+    {
+      "name": "Concourse restored portal glass",
+      "sha256": "9fef1ab6d1734cf2553bb1a731327396f2f5c15e14f22e416b69f8dc401c6883",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.9200000166893005
+          }
+        },
+        "name": "Concourse restored portal glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7900000214576721,
+            0.8500000238418579,
+            0.8799999952316284,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.10000000149011612
+        }
+      }
+    },
+    {
+      "name": "Concourse 2026 inferred structural steel",
+      "sha256": "e300096203ee340dea3be5807c484f82bb49d605c677944626a4cda7aef17f9b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+          "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey"
+        },
+        "name": "Concourse 2026 inferred structural steel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.05999999865889549,
+            0.06400000303983688,
+            0.05999999865889549,
+            1
+          ],
+          "metallicFactor": 0.699999988079071,
+          "roughnessFactor": 0.47999998927116394
+        }
+      }
+    },
+    {
+      "name": "Concourse 2026 inferred fastener steel",
+      "sha256": "e6b0ba2f4727b1701ae1308b0c845876962df58868bec63d0db36935ab0fb893",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+          "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey"
+        },
+        "name": "Concourse 2026 inferred fastener steel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.07800000160932541,
+            0.08100000023841858,
+            0.0729999989271164,
+            1
+          ],
+          "metallicFactor": 0.7200000286102295,
+          "roughnessFactor": 0.4300000071525574
+        }
+      }
+    },
+    {
+      "name": "Concourse restored roof glazing",
+      "sha256": "20fdffd50861bbdf5c173de8bda3bb240c4b515aa455719aa93837af6428cc28",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.9599999785423279
+          }
+        },
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+          "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey"
+        },
+        "name": "Concourse restored roof glazing",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8799999952316284,
+            0.9300000071525574,
+            0.949999988079071,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.07000000029802322
+        }
+      }
+    },
+    {
+      "name": "Concourse restored opaque perimeter deck",
+      "sha256": "05d3ca6e75d737577e9f9d61cb16f39a33ace3fa1c808909be08118a1afea35b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "texture_provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+          "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey"
+        },
+        "name": "Concourse restored opaque perimeter deck",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.05000000074505806,
+            0.050999999046325684,
+            0.04699999839067459,
+            1
+          ],
+          "metallicFactor": 0.25,
+          "roughnessFactor": 0.7200000286102295
+        }
+      }
+    },
+    {
+      "name": "Glass tower dark",
+      "sha256": "7d4fe1026773afc780020c7a311c6c4d1b4059738ddbbbc19ba8c5f4e4bbfa0c",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.11999999731779099
+          }
+        },
+        "name": "Glass tower dark",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.10999999940395355,
+            0.17000000178813934,
+            0.18000000715255737,
+            1
+          ],
+          "metallicFactor": 0.3499999940395355,
+          "roughnessFactor": 0.20000000298023224
+        }
+      }
+    },
+    {
+      "name": "Study furniture oak",
+      "sha256": "5b0286f71aa7e6fe4a9ae8ea63a6878c5c1d33f7e718d6c57b48b4c37f9bca3c",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.2,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study furniture oak",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "7ef0105157833d25d66792c1f48c4abc819dc74f21aec3a7cf19dff15d9da791",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "bb6e3ef665b76580ba2fbd0f19b95b65d0323481f1e366a1f37bf3da8790fd46",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Study brass",
+      "sha256": "d031144b378a932dd6565f26de34e713b32ed7e50e8064ba79b64f7c4da41a81",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study brass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.5400000214576721,
+            0.3700000047683716,
+            0.11999999731779099,
+            1
+          ],
+          "metallicFactor": 0.800000011920929,
+          "roughnessFactor": 0.28999999165534973
+        }
+      }
+    },
+    {
+      "name": "Study panel walnut",
+      "sha256": "6882c30a469399eefbda7ea34d6e62f237fc957fdb79b1f0f48fb16cd5d9cfe6",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.35,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study panel walnut",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "04c8b1d8f95ea3ddcfd9d1003a58b446b9fa72ac7c80000f263f96655c1919ba",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "bb6e3ef665b76580ba2fbd0f19b95b65d0323481f1e366a1f37bf3da8790fd46",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Study black steel",
+      "sha256": "2c9aa6965685ebe153c4b2c5b3c1fa6a7c252470a0db1e7e2bbc618373fe6553",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study black steel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.017999999225139618,
+            0.02199999988079071,
+            0.017999999225139618,
+            1
+          ],
+          "metallicFactor": 0.6000000238418579,
+          "roughnessFactor": 0.30000001192092896
+        }
+      }
+    },
+    {
+      "name": "Study leaf 0",
+      "sha256": "b4f68f9d6f41cffc3d642b445bfe31f71a05934f34bba7c9ec00818f4fe91c8c",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study leaf 0",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.02500000037252903,
+            0.10000000149011612,
+            0.02500000037252903,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5699999928474426
+        }
+      }
+    },
+    {
+      "name": "Study leaf 1",
+      "sha256": "8154c34b6d833bee4c1f67b2775782832edc083ebde8edaf6c68b7f88945018e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study leaf 1",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.03999999910593033,
+            0.1599999964237213,
+            0.03500000014901161,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5699999928474426
+        }
+      }
+    },
+    {
+      "name": "Study leaf 2",
+      "sha256": "0af4ce5623dd502e0530a2ff4fadc286ed3e51fbe3c6d376ea254aa9bf69ca08",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study leaf 2",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.07500000298023224,
+            0.20000000298023224,
+            0.0430000014603138,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5699999928474426
+        }
+      }
+    },
+    {
+      "name": "Study cream ashlar",
+      "sha256": "220d871a31fb58532fe4498297ee49a020971cb5196d0f4043f33292ec0a7107",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4.0,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study cream ashlar",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "08f12e0a65af94c9b88ff003c352e5676e1dbbcbf80184f497382ed8c78c3343",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.800000011920929
+        }
+      }
+    },
+    {
+      "name": "Study panel highlight",
+      "sha256": "25b44fee699134e6908d06148071780837c067fe867e685430915869c0cf6e9e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study panel highlight",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.07100000232458115,
+            0.0430000014603138,
+            0.026000000536441803,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.44999998807907104
+        }
+      }
+    },
+    {
+      "name": "Study curtain",
+      "sha256": "9195c9332edb6f42943f9f9add83d37b2b5c6ce6ee0a901d2788d209edfdc84c",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study curtain",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6600000262260437,
+            0.5899999737739563,
+            0.46000000834465027,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9599999785423279
+        }
+      }
+    },
+    {
+      "name": "Study palm stem",
+      "sha256": "7f71c393e30f8b23ed5727606c549a9f73241b4f4ba6e09b20bebc85c0296608",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study palm stem",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.1899999976158142,
+            0.28999999165534973,
+            0.11999999731779099,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6800000071525574
+        }
+      }
+    },
+    {
+      "name": "Study moss",
+      "sha256": "7b49f652841f7b63ac08f58ad38e098352e5e15f7071add58333e621733eb1d1",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study moss",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.08500000089406967,
+            0.14000000059604645,
+            0.028999999165534973,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9700000286102295
+        }
+      }
+    },
+    {
+      "name": "Study palm pale ring",
+      "sha256": "786cb86b72a4591e8cd81004032d89a64db97b5d9a59aaecc23b69e6487c81c5",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study palm pale ring",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.47999998927116394,
+            0.5,
+            0.3499999940395355,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.75
+        }
+      }
+    },
+    {
+      "name": "Study scaled walnut parquet",
+      "sha256": "e4ee24b4e89ede81cbc4cd802f28f58240ed674f286062c056c8ce06861216fc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.2,
+          "texture_provenance": "Original imagegen color with conservatively inferred PBR support maps; not a site scan"
+        },
+        "name": "Study scaled walnut parquet",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "1e7327b78db454f5cde81bdf4752ce0c7ffc7e2c6a4407f1914c965e5b4c7f34",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "f541882662002d5abd3e99f4e383c5a8cf47d05e2718cca13686b4ec61c1ca04",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "755a8e746f5faf5d4c07224f7ab8b604b0bf0eaa9d843a586bd89bc6e2d7a6ad",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Study rug border",
+      "sha256": "021e65bcdd7c2b0a6a6161aa8447be48a682c37c0b37d6d712d33046491ee9a0",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Study rug border",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.014000000432133675,
+            0.020999999716877937,
+            0.032999999821186066,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Study tan leather",
+      "sha256": "c9c13d4441aa10af6319c9b1f87ebc2936bd6a8334606dd922476d1ceb8b4d9f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.18,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study tan leather",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "bff13e98be0643d049daa9bebb44b000d9e5ec635752ba0af11c9732c957ebf0",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.44999998807907104
+        }
+      }
+    },
+    {
+      "name": "Study bluegray wool",
+      "sha256": "d7174c6ae88aac466404998e7b62ba39b3e3b23b1244edcc0e84193267a0b724",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.15,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study bluegray wool",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "18eaa33c718a9e4f77725745296aedf223c00a236d1684935aa58890bd8e7322",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8999999761581421
+        }
+      }
+    },
+    {
+      "name": "Study green leather",
+      "sha256": "1569d72463951ed0a1adfe6b95e3a951fa73182b35a2cb1f0b4010a0ecc75048",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.18,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study green leather",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "093c4bba2dd59dbeac7778d6dfd8f43d39d80b0f48d1fb105076791bac7a86d3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.4300000071525574
+        }
+      }
+    },
+    {
+      "name": "Study wine wool",
+      "sha256": "568b0b9a3fc3a91e7801cbfac29e04f08bc57d8a551a4b8a6e4c54e6e6cd28e0",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.15,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study wine wool",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "a241752e8c4ec81c32f278e3973f2a03f1b24ad96e5b6d7edaf9877986832273",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8899999856948853
+        }
+      }
+    },
+    {
+      "name": "Study rug blue",
+      "sha256": "764cd143f1d4c2016ba6962e76bf2cc5a18589fc54f93cf5c058a0b0684e2130",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.2,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study rug blue",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "4e04fd783d641927f6450880075b48919a4ff714c305eba4c9001257cc8f13bf",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9700000286102295
+        }
+      }
+    },
+    {
+      "name": "Study rug green",
+      "sha256": "ac47b1ff458dbcd708f839b0a731265213bd8d6a3fe98c9fff34a6f7eadef984",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.2,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study rug green",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8af0cf43246e17f7a81d76530a2b58a98cdf01d0ebb17e520b8be70ad8305ddd",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9700000286102295
+        }
+      }
+    },
+    {
+      "name": "Study rug gray",
+      "sha256": "280e4f0b323cc2186f1c3c44616a0b2cf2b96bc07a6a9eebfe23c01d088d0f6e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.2,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study rug gray",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "33f0e0568ab015bc4f582c678c1db81c15fc762be82395fa8cdfaecc38d438b9",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9800000190734863
+        }
+      }
+    },
+    {
+      "name": "Study rug brown",
+      "sha256": "a1bcd58c2872efbfba6941648f0e9c519d820a153bbd1a9deecfa300a31bebb3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 0.2,
+          "texture_provenance": "Original deterministic procedural pattern, not a photographic scan"
+        },
+        "name": "Study rug brown",
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "73ad60ba5158b7bb4bf63d768367f17d73be47de40fecc7f087e340309981894",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9800000190734863
+        }
+      }
+    },
+    {
+      "name": "West restored warm ivory plaster",
+      "sha256": "1b30d952a96d380fa88b2c4e9fde75566762738b2e1202db8e437f140e905952",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "provenance": "Original procedural material, photographic material class only; no image projection",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.73,
+            0.7,
+            0.625
+          ],
+          "portability_existing_uv_repeat_m": 1.0,
+          "portability_base_wavelength_m": 0.056818181818181816,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "West restored warm ivory plaster",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e63df363c6430daa40d16d6f9f3e8497cdc67985c04f1ea1a406f9a3b5a82ae1",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "dee7144f6ee46696b08c2d5e4c3e88c470766ab86dbcc9a137b5742a88af982a",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6200000047683716
+        }
+      }
+    },
+    {
+      "name": "West restored carved walnut",
+      "sha256": "d2d65df1b8e76c623b0ee102699f3ae3747eafb097a044a024b66c6d4ff4cb1a",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.25
+          }
+        },
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "provenance": "Original procedural material, photographic material class only; no image projection"
+        },
+        "name": "West restored carved walnut",
+        "normalTexture": {
+          "scale": 0.30000001192092896,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "974fa75280a6bbc8d2d9fb1ef490514b2b7a7ace34ad7a55cf58d38a6f00968d",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "0f0135a9fbab34febfdccc1c9c478365cdd45256006b09d72146e1c0d753a12f",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "faefae5107ba35a4f304130b4a02301885e9d2c604a39c9d939b37de3f17644b",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "West patinated pendant bronze",
+      "sha256": "b4e93b44fca2f328beb84944c4d387fc1b519ee43fb051ed80cb8d88ca859f81",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "provenance": "Original procedural material, photographic material class only; no image projection",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.11,
+            0.075,
+            0.033
+          ],
+          "portability_existing_uv_repeat_m": 1.0,
+          "portability_base_wavelength_m": 0.056818181818181816,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "West patinated pendant bronze",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "fd231f9840614e840e57a2e3cca3b41349943cfbab151fe12258704c8a485904",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "f2537615a7659ce7c19cfebc1474079cd04679703818f21c70569abfe39f318e",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0.7200000286102295,
+          "roughnessFactor": 0.3199999928474426
+        }
+      }
+    },
+    {
+      "name": "West warm opaline glass",
+      "sha256": "9c2676bce0e086193433fce61d8d6b6abab480c5c3cdf43c9692f1c3b3563702",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.8749999922389784,
+          0.6354166957704978
+        ],
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.07999999821186066
+          },
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 2.1119999985694875
+          }
+        },
+        "name": "West warm opaline glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.9599999785423279,
+            0.8399999737739563,
+            0.6100000143051147,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.23000000417232513
+        }
+      }
+    },
+    {
+      "name": "West conserved walnut herringbone",
+      "sha256": "8a00becdc8146aa706e0c94981aba5ec8221974cb99edf2104010a6eb725c0ec",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612
+          }
+        },
+        "extras": {
+          "texture_repeat_m": 1.4,
+          "texture_provenance": "Original imagegen color with conservatively inferred PBR support maps; not a site scan"
+        },
+        "name": "West conserved walnut herringbone",
+        "normalTexture": {
+          "scale": 0.10000000149011612,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "1e7327b78db454f5cde81bdf4752ce0c7ffc7e2c6a4407f1914c965e5b4c7f34",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "f541882662002d5abd3e99f4e383c5a8cf47d05e2718cca13686b4ec61c1ca04",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.2800000011920929
+        }
+      }
+    },
+    {
+      "name": "West shallow plaster score shadow",
+      "sha256": "bada91016bdc0cb497895c5c4f84c69b2afc51edc324016b7cf5b17b8e5fcf06",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "provenance": "Original procedural material, photographic material class only; no image projection",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.38,
+            0.365,
+            0.325
+          ],
+          "portability_existing_uv_repeat_m": 1.0,
+          "portability_base_wavelength_m": 0.056818181818181816,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "West shallow plaster score shadow",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "52f4ee9aa5bb90e54919f806e110eed4f9b6b7714cb2642323d7632603753293",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8bdd45bf77bf75ff0f28e5f3d15d90a40275f14df141b3def50f4367ea9745d8",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7799999713897705
+        }
+      }
+    },
+    {
+      "name": "West restaurant observed unfinished slab",
+      "sha256": "71e3697943abd3cfb38e7707b7850a32bdd6be563f43b6ae0cc2efa8753a8a27",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.0,
+          "provenance": "Original procedural material, photographic material class only; no image projection",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.205,
+            0.224,
+            0.226
+          ],
+          "portability_existing_uv_repeat_m": 1.0,
+          "portability_base_wavelength_m": 0.056818181818181816,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "West restaurant observed unfinished slab",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "c0c8c0fde5e241c8d9ce1fb35417a4bab3918ac1f78528913b055cdbc967f074",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "41d656c439268cb7fb82700bb7f4f020fb4399832d83c86faaed200b7262604f",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8600000143051147
+        }
+      }
+    },
+    {
+      "name": "Secondary polished lobby marble",
+      "sha256": "f5eaf365bb3d2db062324a599f97e9fa4fb7caa9ae1c71bff1c23f40c3101257",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.2,
+          "texture_provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+          "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled"
+        },
+        "name": "Secondary polished lobby marble",
+        "normalTexture": {
+          "scale": 0.07999999821186066,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e8a7c51e5513cb6989ebc7494110b2f6b9a92cf28d24767ea6ee564916d2b568",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "b9e01a549c958c257e06b388fd6daf9bac7f2be28ace959e22e298f3e6098c5a",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.20000000298023224
+        }
+      }
+    },
+    {
+      "name": "Secondary brushed bronze",
+      "sha256": "858dc3b0a39b3bc95cc95038c7ef2a8387139f5f9acd2648b486c30689cdfe56",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.24,
+            0.14,
+            0.055
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.125,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary brushed bronze",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "cb94d44512cd325ab34b2f8921dfeca6d5341c4d89eca766d724ea9417979a3b",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "745cfa801a563769912c1f4561b5137b87b501a5b5f118ca58b41d2dd583c569",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0.7799999713897705,
+          "roughnessFactor": 0.3199999928474426
+        }
+      }
+    },
+    {
+      "name": "Pale rose marble",
+      "sha256": "d1a68881378b929ad86df4d5911de1bd655d3cf1266a04b4772250b18eca5959",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Pale rose marble",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "924714d4ce7d2c6a58b8edaffdbe4641e14cc6874237e90a2eb3b15ee3d6d773",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "465fab28a6c0bbf152cc161ff7afe28de65296a37501917299b42194e215f2ca",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "7a488d8b04422f0312fa10be9b4c7f374de3f5e9eac956187101c3afd4c332c5",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Concourse buff brick",
+      "sha256": "969e0cf02a47051951f51ba3d8814284b638a4c76638cb786474944d787c32bc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.7,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Concourse buff brick",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "ddda26a762f110fe03488fc53533c2cf798200bfa55a422b537760217b36d72f",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "39249b807a911aa20c9cd4cbecd41bf3b8f4da92777342eeeb82dfbce42b9bb5",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "6b0fc0393350cc9419007fe3c67af17ca8b583a3045e82277988f74fd8a6ad53",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Secondary conservation grille",
+      "sha256": "2fad5b73d3a451bf9a0bf5539190c5e520f166df5a0de352c8147b288965650f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.018,
+            0.02,
+            0.019
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.2,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary conservation grille",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "aae058f66b8f1f392ec08ff57a6765c09f8a37999c7b64edbaa7de849497748e",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "ac07cd78e109fcd9096255c36dc886918b8d0b9c3f6fcdd92f3873d2bc41ad50",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0.550000011920929,
+          "roughnessFactor": 0.44999998807907104
+        }
+      }
+    },
+    {
+      "name": "Terrazzo",
+      "sha256": "b8b8db23e1fa5228587e748f0d4196f397076313204bfca47d334958db7bb1a1",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 4,
+          "texture_provenance": "Original procedural material, not site scan"
+        },
+        "name": "Terrazzo",
+        "normalTexture": {
+          "scale": 0.44999998807907104,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "75a9cb32c9532266c9a5dec35b9a7faba50ff2af533e41471f2d5955ef679b1d",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "3de855fcee9bc7485c9a5d8117cd864ee0462a7233dd06498b7f1767da7cd2e8",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "1df95fedc401e1f15ca20436bcbc41340532205a9f0397f99bb18f1f6abceab2",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 1",
+      "sha256": "c405d87106546b5b297aa6dc3ea34a4dac4389dfdbb69b10b08a48a8166692f4",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.016,
+            0.14,
+            0.24
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 1",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "c88a32fc336c7e4add0289861fa161ecb9512d8bb5f4d9513b77e9a07718e918",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "685a55f2e0df25c3d461bc5ed38a48277d891cb79d7c0a6dd40b04cacae566e3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 2",
+      "sha256": "af1b6d7a24de06b40f41412b682177a8a6ac29a63204d3ebb123b9300ae38add",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.51,
+            0.35,
+            0.035
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 2",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "7cf4acbc084584776a529ec08ce11c4cea55badc975c737b67b5610360eb6637",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "f21665b64692d2862ff97d3573d082d4a20d595171181d64cd14877d3ca674be",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 3",
+      "sha256": "be0f6f9f610b1237d2575e66837993afb366d323643ce50331cd5ecba3289c00",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.35,
+            0.06,
+            0.022
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 3",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "8045f411a6dc4d770417ffc73252bc35f5e9d8677c1ad65926d3a120ecff011e",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "08fcc911c1f91e6e80ca95612eb872bbafbd8c2c267b62d0fa26f7d694087b3e",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 4",
+      "sha256": "253a6544172fc6247a9c098d44f2fe0c76114bbcd0fff81555863a9880d90a8f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.09,
+            0.11,
+            0.12
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 4",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "0bd42df1d678cacc5690b849ac6959d8f7c1401992b7674467c4c20aba29b3f3",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "a3ffdeb300bd7223cfa6e0d5df3749b234352b45693102cb63a6951619d8b8cd",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary original abstract marking 5",
+      "sha256": "43bd33f46a067d48b03deec0dcc78219214208f6aeee46ceb78d73cc5a6f7567",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.14,
+            0.22,
+            0.22
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary original abstract marking 5",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "6e6242cbc44dccf093b80906e6969a5c2d79baee9c601c0788d791d9be0d9f1e",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "2d647d6be6c99b6dc47abec44541348e877a6a12d6c6db9a32beb12f9c56424d",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.949999988079071
+        }
+      }
+    },
+    {
+      "name": "Secondary conserved iron",
+      "sha256": "b8f242d2453774b6858ee69b73c9fe77d01c8e325c472d2f4785dc2fae984240",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.037,
+            0.046,
+            0.043
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.1,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary conserved iron",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "36c345ce137713c7da57cafbc0d8cd3744a0b1b08b7137ab705906b41a6946cb",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "07e25734c1fcfe5a85b29e4c805ee5db2e1b7879c053593d2f8da95866d5d0db",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0.7599999904632568,
+          "roughnessFactor": 0.36000001430511475
+        }
+      }
+    },
+    {
+      "name": "Secondary pale mineral grout",
+      "sha256": "36ffce22a6490e55721a215ac194f232f313c13c199d9665f50b6477b94a2db8",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.42,
+            0.45,
+            0.41
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.4,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary pale mineral grout",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "4a918151f24e45e70ed97ed48d944d15476e6d22f4a264ff82229334114fd0db",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "44a6869018ad53bf3ae60e7447e90fe2945f62e48c08ad1652711ebcd7daf88d",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8999999761581421
+        }
+      }
+    },
+    {
+      "name": "Secondary ivory hex tile",
+      "sha256": "6d49f0bcca7ed8f312339808b507efaa24d9e240027b13bd8bc7708234e0041e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.65,
+            0.66,
+            0.59
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.1111111111111111,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary ivory hex tile",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "b83206fdd70aa72eb5d48055bff5307045e4e1bb57d9ddd7447e5d53c16c91d2",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "75cb1d983bde0ef23e5752a4c60c26f7e5363a0e5c3d7931b9c99c70295626a7",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5099999904632568
+        }
+      }
+    },
+    {
+      "name": "Secondary glazed white ceramic",
+      "sha256": "1fd0eb5123115946d2974d38a7fc74560d28c06265e71445c40653cfb51ee904",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.72,
+            0.75,
+            0.71
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.26666666666666666,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary glazed white ceramic",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "5c403037d035835f4048fd70b18b4701daa093e05331cbb5833d49bd4dc0b101",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "11ad2faa5eec7fdb503ca0785580fd30ba92719801ce5fda7bf4e4b423a6497c",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.1899999976158142
+        }
+      }
+    },
+    {
+      "name": "Secondary preserved west stair iron",
+      "sha256": "858ba4d578174c44708bd9dad03f82a895a197c607c9bcc192e7756b1e126d47",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "provenance": "Original procedural shader; no photographic texture",
+          "portability_candidate": "Original periodic 2D image approximation of authored noise/ramp; not exact procedural parity",
+          "portability_source_color_linear": [
+            0.12,
+            0.092,
+            0.065
+          ],
+          "portability_existing_uv_repeat_m": 4.0,
+          "portability_base_wavelength_m": 0.16666666666666666,
+          "texture_provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+          "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims"
+        },
+        "name": "Secondary preserved west stair iron",
+        "normalTexture": {
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "2e901e4497d801158e8a54154d26b3edc114adf6bcd4ec74c615b121fb6a90f8",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "dcb22947ac8a33c7763a1d09789824df8f552f52849ab06eedf02f9a4061c52f",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0.3499999940395355,
+          "roughnessFactor": 0.8299999833106995
+        }
+      }
+    },
+    {
+      "name": "Distress umber",
+      "sha256": "85a6a9ede4c72395d7c7c05e9e8d3b98f7c4da1ff963e16c9688feccdd40f60f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Distress umber",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.08500000089406967,
+            0.06700000166893005,
+            0.03700000047683716,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9700000286102295
+        }
+      }
+    },
+    {
+      "name": "YL mauve plaster",
+      "sha256": "d7082b874855587ddfbcafa3d373c57bf19c698c32dc251b49d287b06f687106",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL mauve plaster",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.36000001430511475,
+            0.23499999940395355,
+            0.2849999964237213,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7699999809265137
+        }
+      }
+    },
+    {
+      "name": "YL dark appliance",
+      "sha256": "d53bd3db5dca6a5d1d163f98b34ecd3a27ebc591dc36ed95851d36ba2c77da3f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL dark appliance",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.017999999225139618,
+            0.01899999938905239,
+            0.019999999552965164,
+            1
+          ],
+          "metallicFactor": 0.18000000715255737,
+          "roughnessFactor": 0.28999999165534973
+        }
+      }
+    },
+    {
+      "name": "YL thin architectural glass",
+      "sha256": "e3580e9e58ae54a846225740794d48fbece0f79be6dfd653d155fb2dba8a39bf",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          }
+        },
+        "name": "YL thin architectural glass",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.949999988079071,
+            0.9750000238418579,
+            1,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.017999999225139618
+        }
+      }
+    },
+    {
+      "name": "YL stainless steel",
+      "sha256": "aed18a85b88064ff203068fb307cbfcbde1efe3599833b3d229407900edbd356",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL stainless steel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.5199999809265137,
+            0.5600000023841858,
+            0.5699999928474426,
+            1
+          ],
+          "metallicFactor": 0.9200000166893005,
+          "roughnessFactor": 0.25999999046325684
+        }
+      }
+    },
+    {
+      "name": "YL mauve joinery",
+      "sha256": "a0f290bbe29e27b78f34cb2528b8ad45b743584a85f527a57e87c1a6db4ad50b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL mauve joinery",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.4300000071525574,
+            0.28999999165534973,
+            0.3400000035762787,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.4000000059604645
+        }
+      }
+    },
+    {
+      "name": "YL bronze perforated metal",
+      "sha256": "b1a03b783d562aacb5bb0f5d0aa094e357010975cf617f8c328a8854c18babe5",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL bronze perforated metal",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.30000001192092896,
+            0.22499999403953552,
+            0.15000000596046448,
+            1
+          ],
+          "metallicFactor": 0.7900000214576721,
+          "roughnessFactor": 0.27000001072883606
+        }
+      }
+    },
+    {
+      "name": "YL yellow lamp",
+      "sha256": "d38cf478a6f4c763fae3617f0a73d438495e2fb2a05dcf2a5a43d1356473668f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.7799999713897705,
+          0.054999999701976776
+        ],
+        "extensions": {
+          "KHR_materials_transmission": {
+            "transmissionFactor": 0.11999999731779099
+          },
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 2.200000047683716
+          }
+        },
+        "name": "YL yellow lamp",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1,
+            0.7799999713897705,
+            0.054999999701976776,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.2199999988079071
+        }
+      }
+    },
+    {
+      "name": "YL pastry glaze",
+      "sha256": "081cfa0b4e53bca282fa917d0786c13b90ddb4ad5311501ae2738edee09f6fcc",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL pastry glaze",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.75,
+            0.49000000953674316,
+            0.28999999165534973,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.41999998688697815
+        }
+      }
+    },
+    {
+      "name": "YL fluted dyed concrete",
+      "sha256": "86dedfee3ecf6dc278cd6d146b1f1782a8bb0f6bf15e890e0fd2331e45eca5a1",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL fluted dyed concrete",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.4000000059604645,
+            0.32499998807907104,
+            0.3400000035762787,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.699999988079071
+        }
+      }
+    },
+    {
+      "name": "YL pale veined solid-surface stone",
+      "sha256": "fe62ca7da71132bfd18da778fd18086a1bf6943b934ea4ab255b246b2d688ca6",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 2.1,
+          "texture_provenance": "Original mathematical material authored for this reconstruction; image-observed material class only"
+        },
+        "name": "YL pale veined solid-surface stone",
+        "normalTexture": {
+          "scale": 0.27000001072883606,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "6c4441edcd4b79635b2e92e234bf5c6b5a3a885bdd95c8c50acdb1660619f76c",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "8b65fcc2570294da776e5abfa5b643a58d75318735b1616d963886c1513cacb3",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "e0d2aa4e3e8f8b99e34ef63b9d289e2a1f32e8aef4899b65b008d51195b5c5ec",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "YL brass mesh",
+      "sha256": "e9128cbd2d5f748b36639bb8c9d55c8ef6a9b6f8a70bbeb3b99cf705a4186300",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL brass mesh",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.550000011920929,
+            0.3799999952316284,
+            0.09000000357627869,
+            1
+          ],
+          "metallicFactor": 0.8199999928474426,
+          "roughnessFactor": 0.2800000011920929
+        }
+      }
+    },
+    {
+      "name": "YL mustard yellow",
+      "sha256": "a1cc42ceb9548f2f9920837406e04530defd950bb254a5ecd5434cc7a5d497e7",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL mustard yellow",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.699999988079071,
+            0.5099999904632568,
+            0.00800000037997961,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.4000000059604645
+        }
+      }
+    },
+    {
+      "name": "YL blue-white neon",
+      "sha256": "d96f711af8417a7444340666e85b4c91356dda29f778b810ce9f0ef634b4a2d6",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          0.3400000035762787,
+          0.7300000190734863,
+          1
+        ],
+        "extensions": {
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 5
+          }
+        },
+        "name": "YL blue-white neon",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3400000035762787,
+            0.7300000190734863,
+            1,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.2199999988079071
+        }
+      }
+    },
+    {
+      "name": "YL timber ledges",
+      "sha256": "e21b0c580e6418bdafcd70b6652238253db449ad98fb63bbd83fb3fde77be6aa",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL timber ledges",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.33000001311302185,
+            0.17499999701976776,
+            0.0560000017285347,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3400000035762787
+        }
+      }
+    },
+    {
+      "name": "YL colored packaging green",
+      "sha256": "b13e21825a47c36abdccf8da102738b395be010cfc283a5ddb531d8ca71f625d",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL colored packaging green",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04500000178813934,
+            0.30000001192092896,
+            0.15000000596046448,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5199999809265137
+        }
+      }
+    },
+    {
+      "name": "YL colored packaging coral",
+      "sha256": "f26d53dea7fccfe3dc9bebec17de4c4209d2d214ac01cd6b1232e2f89da75f71",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL colored packaging coral",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6700000166893005,
+            0.0949999988079071,
+            0.05000000074505806,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5
+        }
+      }
+    },
+    {
+      "name": "YL pink cabinet light",
+      "sha256": "8c2ff7ce5ef6d5099f85d820a6ce76ec9f541cc92203f4152f25451ab205bf42",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.4399999976158142,
+          0.5799999833106995
+        ],
+        "extensions": {
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 2.5
+          }
+        },
+        "name": "YL pink cabinet light",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1,
+            0.4399999976158142,
+            0.5799999833106995,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.30000001192092896
+        }
+      }
+    },
+    {
+      "name": "YL colored packaging cyan",
+      "sha256": "53cc53f52fdc2a0232d102ffbef85ed922ab3d9fe9f861443e0f5b340b1b2446",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL colored packaging cyan",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.03500000014901161,
+            0.3400000035762787,
+            0.4699999988079071,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5
+        }
+      }
+    },
+    {
+      "name": "YL white downlight",
+      "sha256": "72e83d0422f62a1cb48444804f60286cd5f79f7d075a5a0309e4285b78f05537",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.8399999737739563,
+          0.6399999856948853
+        ],
+        "extensions": {
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 8
+          }
+        },
+        "name": "YL white downlight",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1,
+            0.8399999737739563,
+            0.6399999856948853,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.25
+        }
+      }
+    },
+    {
+      "name": "YL polished mottled concrete",
+      "sha256": "d92c6b2b593dd6a7cf32363d33f49a2e038c7bf3bbefb733be2064fb06937cca",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 3.2,
+          "texture_provenance": "Original mathematical material authored for this reconstruction; image-observed material class only"
+        },
+        "name": "YL polished mottled concrete",
+        "normalTexture": {
+          "scale": 0.27000001072883606,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "944f46e32a08db1403beba9a2efbf4a33b88c5750952e0b660347cc805aeb6c4",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "1c4437f8a400132d3d23a8663f32453a89b9c97666b133234d30a3a1899581a8",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "17f89867143f8b67b44282f57b5e1cd28c76fdf9ec291726b83c27311aec7f99",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "YL salvaged Mankato ocher segments",
+      "sha256": "630a6ae04c198560db75676e7fd45ede53a5ffee0845edb9633f8667244c70ca",
+      "semantic_definition": {
+        "doubleSided": true,
+        "extras": {
+          "texture_repeat_m": 1.5,
+          "texture_provenance": "Original mathematical material authored for this reconstruction; image-observed material class only"
+        },
+        "name": "YL salvaged Mankato ocher segments",
+        "normalTexture": {
+          "scale": 0.27000001072883606,
+          "resolved_texture": {
+            "sampler": {
+              "magFilter": 9729,
+              "minFilter": 9987
+            },
+            "embedded_image": {
+              "sha256": "e958dff0122150248bb60eddfd8a08c327b2f7730bed5d4a5f00aa6c862df992",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "cc79c41bac532f0203ab64edc339f1e5dc14b36337105d4c6551efaf8775b588",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "resolved_texture": {
+              "sampler": {
+                "magFilter": 9729,
+                "minFilter": 9987
+              },
+              "embedded_image": {
+                "sha256": "08c2084a5b74ab02a7ea6fb5c6090178033faa68e9680f239306d9bbefdc4eeb",
+                "mimeType": "image/png"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "YL white ceramic",
+      "sha256": "51e5c86374e13004781af2cf7e437a9a2131ebfb4e44f43eab9941a6b457fe70",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "YL white ceramic",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8700000047683716,
+            0.8500000238418579,
+            0.7900000214576721,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.20000000298023224
+        }
+      }
+    },
+    {
+      "name": "TR clock porcelain",
+      "sha256": "aab11d8c7191a15d493d418abdb276cc4bdd29393c6b9071a3e45d538aca40d2",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR clock porcelain",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8700000047683716,
+            0.8299999833106995,
+            0.6899999976158142,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3100000023841858
+        }
+      }
+    },
+    {
+      "name": "TR pale birch",
+      "sha256": "55bd6cec3c1790ebf7c5b6fa3f5b1627f8ea034ceb6a9d7ddc37aa80df685bef",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR pale birch",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6399999856948853,
+            0.5600000023841858,
+            0.41999998688697815,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5400000214576721
+        }
+      }
+    },
+    {
+      "name": "TR translucent rib panel",
+      "sha256": "b09396688db7aa9566cdcb086ed3815d8af2ee09b78fedc12b3ae980ddd5a484",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR translucent rib panel",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6800000071525574,
+            0.6800000071525574,
+            0.5899999737739563,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.4099999964237213
+        }
+      }
+    },
+    {
+      "name": "TR sage package",
+      "sha256": "2cd3bb905e9ce3c19af4ee034cb59005318cabe9186b8add1a2b6d811d3dc2a1",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR sage package",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.1599999964237213,
+            0.30000001192092896,
+            0.1899999976158142,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6200000047683716
+        }
+      }
+    },
+    {
+      "name": "TR white package",
+      "sha256": "3dcf119c2379d3c5857912aed806baddf91c3b43199857a39afdcc743b17db21",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR white package",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8500000238418579,
+            0.8500000238418579,
+            0.7699999809265137,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6800000071525574
+        }
+      }
+    },
+    {
+      "name": "TR coral package",
+      "sha256": "1060b6c6818194d06abf24fac1fd9362235e32e15eddf5481de58012dc96d756",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR coral package",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6200000047683716,
+            0.07000000029802322,
+            0.04800000041723251,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5699999928474426
+        }
+      }
+    },
+    {
+      "name": "TR light gray concrete",
+      "sha256": "cbde78d981e95ee3bb5a0117af755e667a28e5b044368cf90edb409222062e2e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR light gray concrete",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.4000000059604645,
+            0.38499999046325684,
+            0.3400000035762787,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.800000011920929
+        }
+      }
+    },
+    {
+      "name": "TR charcoal ceiling",
+      "sha256": "d5ed82ce41f257973af7f2f7fbae74542c95e92e96c769f08e2f5562138cf263",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR charcoal ceiling",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.02199999988079071,
+            0.029999999329447746,
+            0.039000000804662704,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8199999928474426
+        }
+      }
+    },
+    {
+      "name": "TR neutral lamp",
+      "sha256": "3b552566429a620b794da25ef2357ac482025eca5431d76657dd1667f1998475",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.9100000262260437,
+          0.75
+        ],
+        "extensions": {
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 5
+          }
+        },
+        "name": "TR neutral lamp",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1,
+            0.9100000262260437,
+            0.75,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.30000001192092896
+        }
+      }
+    },
+    {
+      "name": "TR warm cream",
+      "sha256": "9fd143c838ecd17a6f1bcb086a8b0502e1f29f3d39041290a20c4ff7728f0fe3",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR warm cream",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8299999833106995,
+            0.7699999809265137,
+            0.6299999952316284,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5600000023841858
+        }
+      }
+    },
+    {
+      "name": "TR teal package",
+      "sha256": "932a876abf11b260eb4665a98793bb159c8986a2f8baa7889fb4cab7cbfe5a1b",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR teal package",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.014999999664723873,
+            0.4000000059604645,
+            0.3799999952316284,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5600000023841858
+        }
+      }
+    },
+    {
+      "name": "TR mustard package",
+      "sha256": "f517b402fe226e62f96a4a7e622873ad70a8186f5fabe4ab84e21e87efcb0dbe",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR mustard package",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7699999809265137,
+            0.47999998927116394,
+            0.04500000178813934,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6299999952316284
+        }
+      }
+    },
+    {
+      "name": "TR cobalt package",
+      "sha256": "4e0e1d168909ccea3a8dd4029878995291057a5a54bd40a8a177e7a12cdf30e7",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR cobalt package",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.01899999938905239,
+            0.06499999761581421,
+            0.3700000047683716,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5199999809265137
+        }
+      }
+    },
+    {
+      "name": "TR amber cane",
+      "sha256": "fe7b21e3a4d820dfc3af53f27563328246ed520c40459c281fb2f3743728b85e",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR amber cane",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3799999952316284,
+            0.20499999821186066,
+            0.05700000002980232,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5899999737739563
+        }
+      }
+    },
+    {
+      "name": "TR plant pot",
+      "sha256": "27666dc64c693af3cc405fa5479bed79176a7f194542e0d812ff91f1ba4537fa",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR plant pot",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.02500000037252903,
+            0.02800000086426735,
+            0.02500000037252903,
+            1
+          ],
+          "metallicFactor": 0.10000000149011612,
+          "roughnessFactor": 0.5699999928474426
+        }
+      }
+    },
+    {
+      "name": "Foliage",
+      "sha256": "5f5bcf58e8ebc93b115d3b1e6181c94f51c61d3445850ddffff857248b713d69",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "Foliage",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04500000178813934,
+            0.08500000089406967,
+            0.01600000075995922,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9599999785423279
+        }
+      }
+    },
+    {
+      "name": "TR exit red",
+      "sha256": "710fd29d80adc6feffc428dab71a026bbe2b64e7d222cc23c3c8a0d8f903f9bd",
+      "semantic_definition": {
+        "doubleSided": true,
+        "emissiveFactor": [
+          1,
+          0.02500000037252903,
+          0.004999999888241291
+        ],
+        "extensions": {
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 3
+          }
+        },
+        "name": "TR exit red",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1,
+            0.02500000037252903,
+            0.004999999888241291,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.30000001192092896
+        }
+      }
+    },
+    {
+      "name": "TR bronze label",
+      "sha256": "80c576aadf6b674de450039cc3a0c23999470fe75cbb98bc4ab48bb40918203f",
+      "semantic_definition": {
+        "doubleSided": true,
+        "name": "TR bronze label",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.5400000214576721,
+            0.36000001430511475,
+            0.11999999731779099,
+            1
+          ],
+          "metallicFactor": 0.6700000166893005,
+          "roughnessFactor": 0.3199999928474426
+        }
+      }
+    }
+  ]
+}

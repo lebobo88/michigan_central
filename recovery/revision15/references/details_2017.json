@@ -1,0 +1,6920 @@
+{
+  "era": "2017",
+  "coordinate_system": "glTF Y-up local geometry; Blender evaluated world matrices/bounds in placement",
+  "original_study_glb_sha256": "84baf3f812a97410711d805a42af626adf36dd46ea3827ec578360c4abc677d9",
+  "binary_sha256": "f113a62b707e807b11e385c7b627e7d6a067b857c74456b7b7c22274022f008e",
+  "objects": [
+    {
+      "name": "West small feature -1 stepped cornice 0",
+      "mesh_name": "West small feature -1 stepped cornice 0",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.824399948120117,
+          2.3499999046325684,
+          -55.25
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 stepped cornice 0",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.824399948120117
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.3499999046325684
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.824399948120117
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.3499999046325684
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.699399948120117,
+            54.474998474121094,
+            2.2799999713897705
+          ],
+          [
+            28.949399948120117,
+            56.025001525878906,
+            2.4200000762939453
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 0,
+          "bytes": 288,
+          "sha256": "732721705fc7cf885a58f8ac068742ca024e60142152403a9ecad1a64398a30a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.125,
+              0.07000017166137695,
+              0.7750015258789062
+            ],
+            "min": [
+              -0.125,
+              -0.06999993324279785,
+              -0.7750015258789062
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 288,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 576,
+          "bytes": 192,
+          "sha256": "9f54c8b0c6cb06aa739366372802c6a3745bd2a49af792a047173378b551c67c",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 768,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 1152,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature -1 stepped cornice 1",
+      "mesh_name": "West small feature -1 stepped cornice 1",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.794401168823242,
+          2.4600000381469727,
+          -55.25
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 stepped cornice 1",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.794401168823242
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.794401168823242
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.639400482177734,
+            54.415000915527344,
+            2.4100000858306885
+          ],
+          [
+            28.949399948120117,
+            56.084999084472656,
+            2.509999990463257
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 1224,
+          "bytes": 288,
+          "sha256": "7d21b9f53d581b3d19afe809b625356bdf363a7c2af9738d511182d310092d1d",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.154998779296875,
+              0.04999995231628418,
+              0.8349990844726562
+            ],
+            "min": [
+              -0.1550006866455078,
+              -0.04999995231628418,
+              -0.8349990844726562
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 1512,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 1800,
+          "bytes": 192,
+          "sha256": "646522cf1662aab71ef9b865c9cd8ac215f31194ebd5b083a7a04727bab58c35",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 1992,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 2376,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature -1 stepped cornice 2",
+      "mesh_name": "West small feature -1 stepped cornice 2",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.764400482177734,
+          2.5349998474121094,
+          -55.25
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 stepped cornice 2",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.764400482177734
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5349998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.764400482177734
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5349998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.57939910888672,
+            54.349998474121094,
+            2.509999990463257
+          ],
+          [
+            28.949399948120117,
+            56.150001525878906,
+            2.559999942779541
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 2448,
+          "bytes": 288,
+          "sha256": "04a4edc3ad41121e7ca1bfa3a8040796afec6c3c634d69a30a1e95539f4ab472",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.1849994659423828,
+              0.02500009536743164,
+              0.9000015258789062
+            ],
+            "min": [
+              -0.18500137329101562,
+              -0.02499985694885254,
+              -0.9000015258789062
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 2736,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 3024,
+          "bytes": 192,
+          "sha256": "e1e826aa2746114569cf45dfc2386358262e960d8b9d6a0bc9fe6f0f43b9d671",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 3216,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 3600,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature -1 stepped cornice 3",
+      "mesh_name": "West small feature -1 stepped cornice 3",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.744400024414062,
+          2.5949997901916504,
+          -55.25
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 stepped cornice 3",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.744400024414062
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5949997901916504
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.744400024414062
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5949997901916504
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.539400100708008,
+            54.314998626708984,
+            2.557499885559082
+          ],
+          [
+            28.949399948120117,
+            56.185001373291016,
+            2.632499933242798
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 3672,
+          "bytes": 288,
+          "sha256": "31951ce3903bfc59de932d4275eda5f4f1a19841fbf705257550132789b06963",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.2049999237060547,
+              0.03750014305114746,
+              0.9350013732910156
+            ],
+            "min": [
+              -0.2049999237060547,
+              -0.03749990463256836,
+              -0.9350013732910156
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 3960,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 4248,
+          "bytes": 192,
+          "sha256": "072c75de2f66482aa0ebf03512f7321256b2299d012292628d88b3c2329f2b55",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 4440,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 4824,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature -1 shallow curved crown",
+      "mesh_name": "West small feature -1 shallow curved crown",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.789413452148438,
+          2.735645294189453,
+          -55.24999237060547
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 shallow curved crown",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.789413452148438
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.24999237060547
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.735645294189453
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.789413452148438
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.24999237060547
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.735645294189453
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.64940071105957,
+            54.44499969482422,
+            2.638000011444092
+          ],
+          [
+            28.929399490356445,
+            56.05500030517578,
+            2.7980000972747803
+          ]
+        ],
+        "evaluated_vertices": 50,
+        "evaluated_polygons": 96
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 4896,
+          "bytes": 1800,
+          "sha256": "49d5d891b72878035cfc72aea219ff304fa79986ee17f069fcdfe524ea71da0c",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "max": [
+              0.1399860382080078,
+              0.06235480308532715,
+              0.80499267578125
+            ],
+            "min": [
+              -0.1400127410888672,
+              -0.09764528274536133,
+              -0.8050079345703125
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 6696,
+          "bytes": 1800,
+          "sha256": "e0d84601976e216370cf140d2cf87a4f3489ab9011b3a6e9706421135ab2727a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 8496,
+          "bytes": 1200,
+          "sha256": "0f5994d2bede2d0d67062d6075abe5a191eeab7f149937509cafd6452814fa6e",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 9696,
+          "bytes": 2400,
+          "sha256": "bad2f6d8f16ca83465a625456c895f86fb75e760d8058d41fa550bf0634479f9",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 12096,
+          "bytes": 576,
+          "sha256": "c93148a3f79b2f45320a2c5837765c8b6cb70e6dc8ea1c1e495af3d79ec12099",
+          "accessor": {
+            "componentType": 5123,
+            "count": 288,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature -1 centered tapering key",
+      "mesh_name": "West small feature -1 centered tapering key",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.714401245117188,
+          2.4049999713897705,
+          -55.25
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 centered tapering key",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.714401245117188
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4049999713897705
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.714401245117188
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4049999713897705
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.619400024414062,
+            55.084999084472656,
+            2.2899999618530273
+          ],
+          [
+            28.80940055847168,
+            55.415000915527344,
+            2.5199999809265137
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 12672,
+          "bytes": 288,
+          "sha256": "f9bb035878d1fc9e2c0f73a09c6f728dabfb1e131aab12f86b55f278dc382150",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.09499931335449219,
+              0.11500000953674316,
+              0.16500091552734375
+            ],
+            "min": [
+              -0.095001220703125,
+              -0.11500000953674316,
+              -0.16500091552734375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 12960,
+          "bytes": 288,
+          "sha256": "7b5c188e83015746cbcd7830bbcbac2e86441b7c9f4ce2f6a4c0e6c02539db2c",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 13248,
+          "bytes": 192,
+          "sha256": "98f56836c67dd3998c242f71e4a347b74de685c0ff13c97411a36d791ccde646",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 13440,
+          "bytes": 384,
+          "sha256": "938bff3a99ee27d372774a5c900e83863b510fb7776ce48059df5fef53e30f0d",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 13824,
+          "bytes": 72,
+          "sha256": "dfecf1b47b5c328f5350c6e69cc8ed50df6cb88f420b8aa9159ef5833a09c0f6",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature -1 blind inset terracotta frame",
+      "mesh_name": "West small feature -1 blind inset terracotta frame",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.844396591186523,
+          1.3549998998641968,
+          -55.25
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 blind inset terracotta frame",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.844396591186523
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.3549998998641968
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.844396591186523
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.3549998998641968
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.73940086364746,
+            54.779998779296875,
+            0.5299999713897705
+          ],
+          [
+            28.949399948120117,
+            55.720001220703125,
+            2.180000066757202
+          ]
+        ],
+        "evaluated_vertices": 96,
+        "evaluated_polygons": 192
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 13896,
+          "bytes": 3780,
+          "sha256": "477c11979627416076cc5d51241dec2f9b78a4e65c1735c2399da79317371123",
+          "accessor": {
+            "componentType": 5126,
+            "count": 315,
+            "max": [
+              0.10500335693359375,
+              0.8250001668930054,
+              0.470001220703125
+            ],
+            "min": [
+              -0.1049957275390625,
+              -0.8249999284744263,
+              -0.470001220703125
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 17676,
+          "bytes": 3780,
+          "sha256": "6ec7b7a93a85d2f0143bf2586308453b606fe98aa940acd77651e255555aa363",
+          "accessor": {
+            "componentType": 5126,
+            "count": 315,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 21456,
+          "bytes": 2520,
+          "sha256": "fa233e231d444c50e5852cd276679b8deefb374d6ae49d058f871a761d2aefaf",
+          "accessor": {
+            "componentType": 5126,
+            "count": 315,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 23976,
+          "bytes": 5040,
+          "sha256": "08375b4aea96dcccaaf20011285e22983cd2c130d3a35d16ef8787a82cac12fc",
+          "accessor": {
+            "componentType": 5126,
+            "count": 315,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 29016,
+          "bytes": 1152,
+          "sha256": "93a50f080d5fde91d6d7d386f0a78ace8190e7e12c08a19bb477017128d6d215",
+          "accessor": {
+            "componentType": 5123,
+            "count": 576,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature -1 blind panel sill",
+      "mesh_name": "West small feature -1 blind panel sill",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.824398040771484,
+          0.5,
+          -55.25
+        ]
+      },
+      "placement": {
+        "name": "West small feature -1 blind panel sill",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.824398040771484
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.5
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.824398040771484
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            55.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.5
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.68939971923828,
+            54.65999984741211,
+            0.46000000834465027
+          ],
+          [
+            28.959400177001953,
+            55.84000015258789,
+            0.5400000214576721
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 30168,
+          "bytes": 288,
+          "sha256": "ffae7b585e94aa381349d6f19d50427becb16710a9c50821f70b305000202d0a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.13500213623046875,
+              0.04000002145767212,
+              0.5900001525878906
+            ],
+            "min": [
+              -0.13499832153320312,
+              -0.03999999165534973,
+              -0.5900001525878906
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 30456,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 30744,
+          "bytes": 192,
+          "sha256": "5e28783446e4fbee48c31c0534224c46325bc84f11a5e6aad4fb9fd534e4aeae",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 30936,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 31320,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature +1 stepped cornice 0",
+      "mesh_name": "West small feature +1 stepped cornice 0",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.824399948120117,
+          2.3499999046325684,
+          -71.55000305175781
+        ]
+      },
+      "placement": {
+        "name": "West small feature +1 stepped cornice 0",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.824399948120117
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.3499999046325684
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.824399948120117
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.3499999046325684
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.699399948120117,
+            70.7750015258789,
+            2.2799999713897705
+          ],
+          [
+            28.949399948120117,
+            72.32499694824219,
+            2.4200000762939453
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 31392,
+          "bytes": 288,
+          "sha256": "e43c8b70bbb7cd3019acf702e96fbfab51986183a777121940459686ed513e89",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.125,
+              0.07000017166137695,
+              0.7750015258789062
+            ],
+            "min": [
+              -0.125,
+              -0.06999993324279785,
+              -0.774993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 31680,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 31968,
+          "bytes": 192,
+          "sha256": "95e0bfcd2382ded60f66dea23e33e51216d6df2127eebf39944c351ed2ea612f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 32160,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 32544,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature +1 stepped cornice 1",
+      "mesh_name": "West small feature +1 stepped cornice 1",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.794401168823242,
+          2.4600000381469727,
+          -71.55000305175781
+        ]
+      },
+      "placement": {
+        "name": "West small feature +1 stepped cornice 1",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.794401168823242
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.794401168823242
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.639400482177734,
+            70.71499633789062,
+            2.4100000858306885
+          ],
+          [
+            28.949399948120117,
+            72.38500213623047,
+            2.509999990463257
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 32616,
+          "bytes": 288,
+          "sha256": "90092db96decdba5246d9a96d70944664ee100d2a9a7a7f2c8ad4f48c442bcb3",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.154998779296875,
+              0.04999995231628418,
+              0.8350067138671875
+            ],
+            "min": [
+              -0.1550006866455078,
+              -0.04999995231628418,
+              -0.8349990844726562
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 32904,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 33192,
+          "bytes": 192,
+          "sha256": "69b6bc93136990769c83417e122ffb62e0bf02a9bcedd3fa6562dc09d2abbad4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 33384,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 33768,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature +1 stepped cornice 2",
+      "mesh_name": "West small feature +1 stepped cornice 2",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.764400482177734,
+          2.5349998474121094,
+          -71.55000305175781
+        ]
+      },
+      "placement": {
+        "name": "West small feature +1 stepped cornice 2",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.764400482177734
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5349998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.764400482177734
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5349998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.57939910888672,
+            70.6500015258789,
+            2.509999990463257
+          ],
+          [
+            28.949399948120117,
+            72.44999694824219,
+            2.559999942779541
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 33840,
+          "bytes": 288,
+          "sha256": "09c0f07985b7490fad155dfc6a084cdca164709447b860103d5f34d5336ce67a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.1849994659423828,
+              0.02500009536743164,
+              0.9000015258789062
+            ],
+            "min": [
+              -0.18500137329101562,
+              -0.02499985694885254,
+              -0.899993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 34128,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 34416,
+          "bytes": 192,
+          "sha256": "920fb4411c1e0a4b4a46d02e4e5a661eae65ea6571995c94e2110728c8cc7be9",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 34608,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 34992,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature +1 stepped cornice 3",
+      "mesh_name": "West small feature +1 stepped cornice 3",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.744400024414062,
+          2.5949997901916504,
+          -71.54999542236328
+        ]
+      },
+      "placement": {
+        "name": "West small feature +1 stepped cornice 3",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.744400024414062
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.54999542236328
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5949997901916504
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.744400024414062
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.54999542236328
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5949997901916504
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.539400100708008,
+            70.61499786376953,
+            2.557499885559082
+          ],
+          [
+            28.949399948120117,
+            72.48500061035156,
+            2.632499933242798
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 35064,
+          "bytes": 288,
+          "sha256": "13cd576de2318b2289ca30457083361c5cfbfe50a6f2c16585c7a5dcc02a8539",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.2049999237060547,
+              0.03750014305114746,
+              0.93499755859375
+            ],
+            "min": [
+              -0.2049999237060547,
+              -0.03749990463256836,
+              -0.9350051879882812
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 35352,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 35640,
+          "bytes": 192,
+          "sha256": "87be7269c9f124ab0f381619b278a219ef17c3254cf91641fc05adb2e92d3497",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 35832,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 36216,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature +1 shallow curved crown",
+      "mesh_name": "West small feature +1 shallow curved crown",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.789413452148438,
+          2.735645294189453,
+          -71.54999542236328
+        ]
+      },
+      "placement": {
+        "name": "West small feature +1 shallow curved crown",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.789413452148438
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.54999542236328
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.735645294189453
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.789413452148438
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.54999542236328
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.735645294189453
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.64940071105957,
+            70.74500274658203,
+            2.638000011444092
+          ],
+          [
+            28.929399490356445,
+            72.3550033569336,
+            2.7980000972747803
+          ]
+        ],
+        "evaluated_vertices": 50,
+        "evaluated_polygons": 96
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 36288,
+          "bytes": 1800,
+          "sha256": "ca990628a71da72fd1ffeb3465c30e4996963a55fe5f3f52315ff0aa111fde89",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "max": [
+              0.1399860382080078,
+              0.06235480308532715,
+              0.80499267578125
+            ],
+            "min": [
+              -0.1400127410888672,
+              -0.09764528274536133,
+              -0.8050079345703125
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 38088,
+          "bytes": 1800,
+          "sha256": "78636dfcdca220373fcca21c3ca5c0aa358cad6dee2761691313dc7eb0c8d794",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 39888,
+          "bytes": 1200,
+          "sha256": "fd14766f0dbd423c55fe9938bac304625cb36c3a1821a68afd2ea7d923eee139",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 41088,
+          "bytes": 2400,
+          "sha256": "bad2f6d8f16ca83465a625456c895f86fb75e760d8058d41fa550bf0634479f9",
+          "accessor": {
+            "componentType": 5126,
+            "count": 150,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 43488,
+          "bytes": 576,
+          "sha256": "c93148a3f79b2f45320a2c5837765c8b6cb70e6dc8ea1c1e495af3d79ec12099",
+          "accessor": {
+            "componentType": 5123,
+            "count": 288,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West small feature +1 centered tapering key",
+      "mesh_name": "West small feature +1 centered tapering key",
+      "material_name": "Concourse terracotta dressings 2017",
+      "material_fingerprint_sha256": "0ac29a8310305a3e852c60b1a50096e22829459129dc5812b473a5fc851aa9c0",
+      "node_transform": {
+        "translation": [
+          28.714401245117188,
+          2.4049999713897705,
+          -71.55000305175781
+        ]
+      },
+      "placement": {
+        "name": "West small feature +1 centered tapering key",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.714401245117188
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4049999713897705
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.714401245117188
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            71.55000305175781
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.4049999713897705
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            28.619400024414062,
+            71.38500213623047,
+            2.2899999618530273
+          ],
+          [
+            28.80940055847168,
+            71.71499633789062,
+            2.5199999809265137
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 44064,
+          "bytes": 288,
+          "sha256": "a7dd73bc5b29fe79f078c915ca7a5eae5d8e63c24a4cc1da00c059547da79c9c",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.09499931335449219,
+              0.11500000953674316,
+              0.16500091552734375
+            ],
+            "min": [
+              -0.095001220703125,
+              -0.11500000953674316,
+              -0.1649932861328125
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 44352,
+          "bytes": 288,
+          "sha256": "7b5c188e83015746cbcd7830bbcbac2e86441b7c9f4ce2f6a4c0e6c02539db2c",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 44640,
+          "bytes": 192,
+          "sha256": "bec03211a0c53c76fc23c0408a739ff54d94d18ee6132203a0555a895ec6077a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 44832,
+          "bytes": 384,
+          "sha256": "938bff3a99ee27d372774a5c900e83863b510fb7776ce48059df5fef53e30f0d",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 45216,
+          "bytes": 72,
+          "sha256": "cadaa4a48adc7ce0cb2652aa6a7925d30d833ff51b7eba3882ac7c836c29a831",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal opaque band rounded panel border 0",
+      "mesh_name": "West portal opaque band rounded panel border 0",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.31637191772461,
+          4.145000457763672,
+          -61.355010986328125
+        ]
+      },
+      "placement": {
+        "name": "West portal opaque band rounded panel border 0",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.31637191772461
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.355010986328125
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.145000457763672
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.31637191772461
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.355010986328125
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.145000457763672
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.2903995513916,
+            61.029998779296875,
+            3.8399999141693115
+          ],
+          [
+            29.34239959716797,
+            61.68000030517578,
+            4.449999809265137
+          ]
+        ],
+        "evaluated_vertices": 96,
+        "evaluated_polygons": 192
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 45288,
+          "bytes": 3456,
+          "sha256": "0f25349de5266fd58e5f12a90dad490af74e7d7a51759dabc77acf3f212cfc10",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "max": [
+              0.026027679443359375,
+              0.30499935150146484,
+              0.32501220703125
+            ],
+            "min": [
+              -0.025972366333007812,
+              -0.30500054359436035,
+              -0.32498931884765625
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 48744,
+          "bytes": 3456,
+          "sha256": "89170e7ecfe71332cc3a7d6852f9871d98a1eea9928bf76b2e35d78b4cf43d55",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 52200,
+          "bytes": 2304,
+          "sha256": "decbf1892738753aa219fcfb0406f8a396d52b12cc5b81233c27440dbba704bb",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 54504,
+          "bytes": 4608,
+          "sha256": "76c3961cadecf7bf283d44113f23c017158bd6a901e082146ac1e5568ece179c",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 59112,
+          "bytes": 1152,
+          "sha256": "7ad28717b3691a9c3d376ca12db9c6ee3ffc53a7677ba9af9f2860c12b12dc16",
+          "accessor": {
+            "componentType": 5123,
+            "count": 576,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal opaque band rounded panel border 1",
+      "mesh_name": "West portal opaque band rounded panel border 1",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.31637191772461,
+          4.145000457763672,
+          -63.40000915527344
+        ]
+      },
+      "placement": {
+        "name": "West portal opaque band rounded panel border 1",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.31637191772461
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.40000915527344
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.145000457763672
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.31637191772461
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.40000915527344
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.145000457763672
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.2903995513916,
+            61.900001525878906,
+            3.8399999141693115
+          ],
+          [
+            29.34239959716797,
+            64.9000015258789,
+            4.449999809265137
+          ]
+        ],
+        "evaluated_vertices": 96,
+        "evaluated_polygons": 192
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 60264,
+          "bytes": 3576,
+          "sha256": "f72a6647f9f5b8cdbfedb1470f80b08505764b5f94c2e4f700b536d54cbb5310",
+          "accessor": {
+            "componentType": 5126,
+            "count": 298,
+            "max": [
+              0.026027679443359375,
+              0.30499935150146484,
+              1.5000076293945312
+            ],
+            "min": [
+              -0.025972366333007812,
+              -0.30500054359436035,
+              -1.4999923706054688
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 63840,
+          "bytes": 3576,
+          "sha256": "17f4f49d5e61b8e452672db1a6e6820237f6306923e0404bc9ea0e290c760f44",
+          "accessor": {
+            "componentType": 5126,
+            "count": 298,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 67416,
+          "bytes": 2384,
+          "sha256": "d59a5de29311eacf431c2c3886bfc19b6fa2bb15a144fdbda799ab9d0062f9f3",
+          "accessor": {
+            "componentType": 5126,
+            "count": 298,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 69800,
+          "bytes": 4768,
+          "sha256": "ea8f6980e13db661284eed850ca5f81e1c3b831f983a1ed45bb6f75047eb9e18",
+          "accessor": {
+            "componentType": 5126,
+            "count": 298,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 74568,
+          "bytes": 1152,
+          "sha256": "55599ffccb938e2b85006d9f10ee8b0964a9b00183e4ecee1d0b3e6faaa84cec",
+          "accessor": {
+            "componentType": 5123,
+            "count": 576,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal opaque band rounded panel border 2",
+      "mesh_name": "West portal opaque band rounded panel border 2",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.31637191772461,
+          4.145000457763672,
+          -65.44501495361328
+        ]
+      },
+      "placement": {
+        "name": "West portal opaque band rounded panel border 2",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.31637191772461
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.44501495361328
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.145000457763672
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.31637191772461
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.44501495361328
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.145000457763672
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.2903995513916,
+            65.12000274658203,
+            3.8399999141693115
+          ],
+          [
+            29.34239959716797,
+            65.7699966430664,
+            4.449999809265137
+          ]
+        ],
+        "evaluated_vertices": 96,
+        "evaluated_polygons": 192
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 75720,
+          "bytes": 3456,
+          "sha256": "04039c55481a73eaac53cea697dc782cc5f7d84fd57fbb4f876bb309bba3553c",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "max": [
+              0.026027679443359375,
+              0.30499935150146484,
+              0.32501220703125
+            ],
+            "min": [
+              -0.025972366333007812,
+              -0.30500054359436035,
+              -0.324981689453125
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 79176,
+          "bytes": 3456,
+          "sha256": "ae51a920f8721b8ea5534d0df1df053ab6cfc8afc14416b5d85aeda41c282d11",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 82632,
+          "bytes": 2304,
+          "sha256": "c0941ad7ed3bd256d59b517ea9bb6eec09caebf2d8530c4295c891afd716f2e6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 84936,
+          "bytes": 4608,
+          "sha256": "b99f0a5e76620c8907f534102b7a1b155d30243b784b16b0b5106af767336a5e",
+          "accessor": {
+            "componentType": 5126,
+            "count": 288,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 89544,
+          "bytes": 1152,
+          "sha256": "05f7ca55f33765cd298c3f81da6ff3d58ea80c49b086dc7a59ca6b4446a5bbab",
+          "accessor": {
+            "componentType": 5123,
+            "count": 576,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head",
+      "mesh_name": "West portal regularized band attachment head",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.7900002002716064,
+          -61.0099983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            60.99599838256836,
+            3.7766852378845215
+          ],
+          [
+            29.295400619506836,
+            61.02399826049805,
+            3.803314685821533
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 90696,
+          "bytes": 720,
+          "sha256": "a9a90d767a0ea1359747d6c1f12d20a2e2848b32e30bf28934718d9040d96ec9",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314485549926758,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013314962387084961,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 91416,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 92136,
+          "bytes": 480,
+          "sha256": "cb5cc6c8c74ccabe45cbafe0e68fbe64a7831f364417d078196b4380c28781f2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 92616,
+          "bytes": 960,
+          "sha256": "1881aef9d1ca505307de0bc7b0289220547ae50c52df103fd23213c7545d8663",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 93576,
+          "bytes": 216,
+          "sha256": "91def4e4549101aecef8805afe9dc6ffed561045b64f0dd4ec2930ee30d82b99",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.001",
+      "mesh_name": "West portal regularized band attachment head.001",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.9050004482269287,
+          -61.0099983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.001",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            60.99599838256836,
+            3.8916852474212646
+          ],
+          [
+            29.295400619506836,
+            61.02399826049805,
+            3.9183146953582764
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 93792,
+          "bytes": 720,
+          "sha256": "47a532ca2cd9f6a9c71a8b6a3b735a1a2a714d55f95956ed4267019e7a2151ba",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 94512,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 95232,
+          "bytes": 480,
+          "sha256": "9271d390142f8bdde4c65c0f908cc9096b59e1f85996b5794a41a7622300d1b0",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 95712,
+          "bytes": 960,
+          "sha256": "cede6ecc509384430507861ff52c53577315cc1be20f5309404aacdd7b87c320",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 96672,
+          "bytes": 216,
+          "sha256": "91def4e4549101aecef8805afe9dc6ffed561045b64f0dd4ec2930ee30d82b99",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.002",
+      "mesh_name": "West portal regularized band attachment head.002",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.019999980926514,
+          -61.0099983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.002",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            60.99599838256836,
+            4.006685256958008
+          ],
+          [
+            29.295400619506836,
+            61.02399826049805,
+            4.0333147048950195
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 96888,
+          "bytes": 720,
+          "sha256": "c644e6e02093479e923fa309bb3fef3b16edd618170e404bb3ea7508f84eb39f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 97608,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 98328,
+          "bytes": 480,
+          "sha256": "7579f5e0649127d19f7a477b3b70c577d6ade3195c0bf0b660262a2bd39bbfb6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 98808,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 99768,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.003",
+      "mesh_name": "West portal regularized band attachment head.003",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.135000705718994,
+          -61.0099983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.003",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            60.99599838256836,
+            4.121685028076172
+          ],
+          [
+            29.295400619506836,
+            61.02399826049805,
+            4.148314952850342
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 99984,
+          "bytes": 720,
+          "sha256": "c509eb384b4a4a73fedbeed8b0d3b818ca1b9a69f80e181c4cc88a09df756f67",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315677642822266,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 100704,
+          "bytes": 720,
+          "sha256": "009525b1356822e7bdf5b224d5f0a0ba314264e726bad6cdca3bfafd25e674de",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 101424,
+          "bytes": 480,
+          "sha256": "b96cbf7439372323eb645e0498a74e69fb70885c53d78a68abc3a5da1b27df2e",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 101904,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 102864,
+          "bytes": 216,
+          "sha256": "91def4e4549101aecef8805afe9dc6ffed561045b64f0dd4ec2930ee30d82b99",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.004",
+      "mesh_name": "West portal regularized band attachment head.004",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.25,
+          -61.0099983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.004",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            60.99599838256836,
+            4.236685276031494
+          ],
+          [
+            29.295400619506836,
+            61.02399826049805,
+            4.263314723968506
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 103080,
+          "bytes": 720,
+          "sha256": "c644e6e02093479e923fa309bb3fef3b16edd618170e404bb3ea7508f84eb39f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 103800,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 104520,
+          "bytes": 480,
+          "sha256": "82f9f72d89a4cbac118c8cb071a5d7c39ed46e8a789998700f3b3c8a7aaaf5ec",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 105000,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 105960,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.005",
+      "mesh_name": "West portal regularized band attachment head.005",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.365000247955322,
+          -61.0099983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.005",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            60.99599838256836,
+            4.351685047149658
+          ],
+          [
+            29.295400619506836,
+            61.02399826049805,
+            4.378314971923828
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 106176,
+          "bytes": 720,
+          "sha256": "c5294345250f7db8792efc36934b6fefa1fd78bdc49f2220b6b3dec4d78a1583",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 106896,
+          "bytes": 720,
+          "sha256": "eae0516a51ea8cfc0ba25d7aab44faf20bedbb1545984f7e6823f828ca6652d3",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 107616,
+          "bytes": 480,
+          "sha256": "d06b59e62673ae71ea60197fc019e1c697682eb9f5cd920c40506b37dc096c97",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 108096,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 109056,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.006",
+      "mesh_name": "West portal regularized band attachment head.006",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.480000019073486,
+          -61.0099983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.006",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0099983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            60.99599838256836,
+            4.4666852951049805
+          ],
+          [
+            29.295400619506836,
+            61.02399826049805,
+            4.493314743041992
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 109272,
+          "bytes": 720,
+          "sha256": "c644e6e02093479e923fa309bb3fef3b16edd618170e404bb3ea7508f84eb39f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 109992,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 110712,
+          "bytes": 480,
+          "sha256": "676a67ab616dd110097c1f3710c2777ced4c5c1f17466fecc28be6583d841f77",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 111192,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 112152,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.007",
+      "mesh_name": "West portal regularized band attachment head.007",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.7900002002716064,
+          -61.7599983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.007",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            61.74599838256836,
+            3.7766852378845215
+          ],
+          [
+            29.295400619506836,
+            61.77399826049805,
+            3.803314685821533
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 112368,
+          "bytes": 720,
+          "sha256": "a9a90d767a0ea1359747d6c1f12d20a2e2848b32e30bf28934718d9040d96ec9",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314485549926758,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013314962387084961,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 113088,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 113808,
+          "bytes": 480,
+          "sha256": "39bea745c22798e60473d45f7b8d5264bb430d484dedc8daa175879be8cb3235",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 114288,
+          "bytes": 960,
+          "sha256": "1881aef9d1ca505307de0bc7b0289220547ae50c52df103fd23213c7545d8663",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 115248,
+          "bytes": 216,
+          "sha256": "91def4e4549101aecef8805afe9dc6ffed561045b64f0dd4ec2930ee30d82b99",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.008",
+      "mesh_name": "West portal regularized band attachment head.008",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.9050004482269287,
+          -61.7599983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.008",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            61.74599838256836,
+            3.8916852474212646
+          ],
+          [
+            29.295400619506836,
+            61.77399826049805,
+            3.9183146953582764
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 115464,
+          "bytes": 720,
+          "sha256": "47a532ca2cd9f6a9c71a8b6a3b735a1a2a714d55f95956ed4267019e7a2151ba",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 116184,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 116904,
+          "bytes": 480,
+          "sha256": "76e7dac7f350f0f492081e30b25ed90dcb51d59c1ffc549274d5264d2977f236",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 117384,
+          "bytes": 960,
+          "sha256": "cede6ecc509384430507861ff52c53577315cc1be20f5309404aacdd7b87c320",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 118344,
+          "bytes": 216,
+          "sha256": "91def4e4549101aecef8805afe9dc6ffed561045b64f0dd4ec2930ee30d82b99",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.009",
+      "mesh_name": "West portal regularized band attachment head.009",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.019999980926514,
+          -61.7599983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.009",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            61.74599838256836,
+            4.006685256958008
+          ],
+          [
+            29.295400619506836,
+            61.77399826049805,
+            4.0333147048950195
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 118560,
+          "bytes": 720,
+          "sha256": "c644e6e02093479e923fa309bb3fef3b16edd618170e404bb3ea7508f84eb39f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 119280,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 120000,
+          "bytes": 480,
+          "sha256": "329359eb2354a7193b5e395bf7e63338783713329a586cc2f66f6621046253c6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 120480,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 121440,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.010",
+      "mesh_name": "West portal regularized band attachment head.010",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.135000705718994,
+          -61.7599983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.010",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            61.74599838256836,
+            4.121685028076172
+          ],
+          [
+            29.295400619506836,
+            61.77399826049805,
+            4.148314952850342
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 121656,
+          "bytes": 720,
+          "sha256": "c509eb384b4a4a73fedbeed8b0d3b818ca1b9a69f80e181c4cc88a09df756f67",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315677642822266,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 122376,
+          "bytes": 720,
+          "sha256": "009525b1356822e7bdf5b224d5f0a0ba314264e726bad6cdca3bfafd25e674de",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 123096,
+          "bytes": 480,
+          "sha256": "f7b46a1bbd2f20c1b572092216378cfe9294e0bd4697cb41555a88a0ecae21cc",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 123576,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 124536,
+          "bytes": 216,
+          "sha256": "91def4e4549101aecef8805afe9dc6ffed561045b64f0dd4ec2930ee30d82b99",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.011",
+      "mesh_name": "West portal regularized band attachment head.011",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.25,
+          -61.7599983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.011",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            61.74599838256836,
+            4.236685276031494
+          ],
+          [
+            29.295400619506836,
+            61.77399826049805,
+            4.263314723968506
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 124752,
+          "bytes": 720,
+          "sha256": "c644e6e02093479e923fa309bb3fef3b16edd618170e404bb3ea7508f84eb39f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 125472,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 126192,
+          "bytes": 480,
+          "sha256": "6bc5ebbde40c848b81286188b67f582319599cd0b71fa4a2736d10c74c590006",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 126672,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 127632,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.012",
+      "mesh_name": "West portal regularized band attachment head.012",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.365000247955322,
+          -61.7599983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.012",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            61.74599838256836,
+            4.351685047149658
+          ],
+          [
+            29.295400619506836,
+            61.77399826049805,
+            4.378314971923828
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 127848,
+          "bytes": 720,
+          "sha256": "c5294345250f7db8792efc36934b6fefa1fd78bdc49f2220b6b3dec4d78a1583",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 128568,
+          "bytes": 720,
+          "sha256": "eae0516a51ea8cfc0ba25d7aab44faf20bedbb1545984f7e6823f828ca6652d3",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 129288,
+          "bytes": 480,
+          "sha256": "6346f831847acb7e5003f4aa1f6294bb1fd6be9b527566af11a64d2fd14897bb",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 129768,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 130728,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.013",
+      "mesh_name": "West portal regularized band attachment head.013",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.480000019073486,
+          -61.7599983215332
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.013",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.7599983215332
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            61.74599838256836,
+            4.4666852951049805
+          ],
+          [
+            29.295400619506836,
+            61.77399826049805,
+            4.493314743041992
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 130944,
+          "bytes": 720,
+          "sha256": "c644e6e02093479e923fa309bb3fef3b16edd618170e404bb3ea7508f84eb39f",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 131664,
+          "bytes": 720,
+          "sha256": "07afc63e3a0bb3ed8bc2f6a03717034122f43deb0b7045b6c93c5a1b61d02296",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 132384,
+          "bytes": 480,
+          "sha256": "d74c6276dd1ebe1cd0dca6c63882a7883fbd43e2172c41e0b1b8829e24562f02",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 132864,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 133824,
+          "bytes": 216,
+          "sha256": "49699d99f606a383cc91eb9916409a4c718be94e7a36a3fa70efb0fcd23ba0fe",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.014",
+      "mesh_name": "West portal regularized band attachment head.014",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.7900002002716064,
+          -65.04000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.014",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.0260009765625,
+            3.7766852378845215
+          ],
+          [
+            29.295400619506836,
+            65.05400085449219,
+            3.803314685821533
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 134040,
+          "bytes": 744,
+          "sha256": "ee81b7970006b2884a047ca1d3663349c53b56f3e210a8120332a05e1cb187a6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "max": [
+              0.011495590209960938,
+              0.013314485549926758,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013314962387084961,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 134784,
+          "bytes": 744,
+          "sha256": "80bbdf0d53fb76a8367e317a036b83fcdce66f797952232ee33a8a00a5b8b381",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 135528,
+          "bytes": 496,
+          "sha256": "22bd8073c05495ca1d36402535e7557287cc59cec1e5bc07c897dc3b9f9cbf91",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 136024,
+          "bytes": 992,
+          "sha256": "71641d944c4ad47e569fb5e58ee411b22a8a606018b3361d0d7facb8847ebc95",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 137016,
+          "bytes": 216,
+          "sha256": "7e0fc6608dcca97ab5a6602abdc597f22722e0e67b81ccf9c4d11944a8b715c3",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.015",
+      "mesh_name": "West portal regularized band attachment head.015",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.9050004482269287,
+          -65.04000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.015",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.0260009765625,
+            3.8916852474212646
+          ],
+          [
+            29.295400619506836,
+            65.05400085449219,
+            3.9183146953582764
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 137232,
+          "bytes": 768,
+          "sha256": "a03634efe3c85ba94cea9205d1537fed36d0a5e6cdd556662f4cd3df95697288",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 138000,
+          "bytes": 768,
+          "sha256": "fa5749044741c55d05fb7ed83c35e593e691627dc1a43f185e0e2bd770be9bfe",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 138768,
+          "bytes": 512,
+          "sha256": "9a195ec6ead86601097d31625c7d30c9ff91bb38a4cc676d0fd704270be14ed4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 139280,
+          "bytes": 1024,
+          "sha256": "571cb564500b0b0c2eaa340b6dc455dfe51bc55a876b7f6958ff815b96d6cb8a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 140304,
+          "bytes": 216,
+          "sha256": "24bec6deb1bf7ba313039f6723e80d016604133fdb16b3277e13d182851c6fd9",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.016",
+      "mesh_name": "West portal regularized band attachment head.016",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.019999980926514,
+          -65.04000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.016",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.0260009765625,
+            4.006685256958008
+          ],
+          [
+            29.295400619506836,
+            65.05400085449219,
+            4.0333147048950195
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 140520,
+          "bytes": 720,
+          "sha256": "8948dadcefdccf098c2aa17af098dc799f1cf691c6ec02b95a117eaa96ced9b6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 141240,
+          "bytes": 720,
+          "sha256": "1e350e415f66ac4ff1f30b71518b60b1d97d38b348f9596a4e7f2f069c20bce2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 141960,
+          "bytes": 480,
+          "sha256": "a89ba8b126d0825318b43d0df5fb851684e51a8aa018d67b706f4c97251c1645",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 142440,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 143400,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.017",
+      "mesh_name": "West portal regularized band attachment head.017",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.135000705718994,
+          -65.04000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.017",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.0260009765625,
+            4.121685028076172
+          ],
+          [
+            29.295400619506836,
+            65.05400085449219,
+            4.148314952850342
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 143616,
+          "bytes": 720,
+          "sha256": "1b930eff67b28f0ad72c98d2291b1a3c6c1ce18f72dfcaa35b31aac3de952492",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315677642822266,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 144336,
+          "bytes": 720,
+          "sha256": "f2eba36dec8373ab68cf7dbc726651c497cd25d4afa729a99a6cb3e2e9eb879e",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 145056,
+          "bytes": 480,
+          "sha256": "a2768146951285fdd8238fed5138d024a40c062e4d5514587820753338397980",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 145536,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 146496,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.018",
+      "mesh_name": "West portal regularized band attachment head.018",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.25,
+          -65.04000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.018",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.0260009765625,
+            4.236685276031494
+          ],
+          [
+            29.295400619506836,
+            65.05400085449219,
+            4.263314723968506
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 146712,
+          "bytes": 720,
+          "sha256": "8948dadcefdccf098c2aa17af098dc799f1cf691c6ec02b95a117eaa96ced9b6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 147432,
+          "bytes": 720,
+          "sha256": "1e350e415f66ac4ff1f30b71518b60b1d97d38b348f9596a4e7f2f069c20bce2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 148152,
+          "bytes": 480,
+          "sha256": "904370d22e44bbf0ab861fc025ae2d863caf303b26226914a5d66f1c51a77e78",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 148632,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 149592,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.019",
+      "mesh_name": "West portal regularized band attachment head.019",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.365000247955322,
+          -65.04000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.019",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.0260009765625,
+            4.351685047149658
+          ],
+          [
+            29.295400619506836,
+            65.05400085449219,
+            4.378314971923828
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 149808,
+          "bytes": 720,
+          "sha256": "4982d866418880534add35289382be3609cdb9c312eb437bef8ab3c787af0c94",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 150528,
+          "bytes": 720,
+          "sha256": "fcd2934010ad3dd69ce55cdaebc88ea944783e5f84ae0201840ca3871d5b3ef3",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 151248,
+          "bytes": 480,
+          "sha256": "76b45fc0219b35b8750b77f90f09d14224a1f2416967601330e4557cd18c3558",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 151728,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 152688,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.020",
+      "mesh_name": "West portal regularized band attachment head.020",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.480000019073486,
+          -65.04000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.020",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.04000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.0260009765625,
+            4.4666852951049805
+          ],
+          [
+            29.295400619506836,
+            65.05400085449219,
+            4.493314743041992
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 152904,
+          "bytes": 720,
+          "sha256": "8948dadcefdccf098c2aa17af098dc799f1cf691c6ec02b95a117eaa96ced9b6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 153624,
+          "bytes": 720,
+          "sha256": "1e350e415f66ac4ff1f30b71518b60b1d97d38b348f9596a4e7f2f069c20bce2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 154344,
+          "bytes": 480,
+          "sha256": "14553f0da1b0adfbed60a53c27e1ff904080103788c96300d1f5ee1dfcacb23a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 154824,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 155784,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.021",
+      "mesh_name": "West portal regularized band attachment head.021",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.7900002002716064,
+          -65.79000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.021",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.7900002002716064
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.7760009765625,
+            3.7766852378845215
+          ],
+          [
+            29.295400619506836,
+            65.80400085449219,
+            3.803314685821533
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 156000,
+          "bytes": 744,
+          "sha256": "ee81b7970006b2884a047ca1d3663349c53b56f3e210a8120332a05e1cb187a6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "max": [
+              0.011495590209960938,
+              0.013314485549926758,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013314962387084961,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 156744,
+          "bytes": 744,
+          "sha256": "80bbdf0d53fb76a8367e317a036b83fcdce66f797952232ee33a8a00a5b8b381",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 157488,
+          "bytes": 496,
+          "sha256": "0ab728c94c32624ed8a91d47c4a58dbe3d53b56871c1a6d49b61e12564000d7a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 157984,
+          "bytes": 992,
+          "sha256": "71641d944c4ad47e569fb5e58ee411b22a8a606018b3361d0d7facb8847ebc95",
+          "accessor": {
+            "componentType": 5126,
+            "count": 62,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 158976,
+          "bytes": 216,
+          "sha256": "7e0fc6608dcca97ab5a6602abdc597f22722e0e67b81ccf9c4d11944a8b715c3",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.022",
+      "mesh_name": "West portal regularized band attachment head.022",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          3.9050004482269287,
+          -65.79000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.022",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.9050004482269287
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.7760009765625,
+            3.8916852474212646
+          ],
+          [
+            29.295400619506836,
+            65.80400085449219,
+            3.9183146953582764
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 159192,
+          "bytes": 768,
+          "sha256": "a03634efe3c85ba94cea9205d1537fed36d0a5e6cdd556662f4cd3df95697288",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 159960,
+          "bytes": 768,
+          "sha256": "fa5749044741c55d05fb7ed83c35e593e691627dc1a43f185e0e2bd770be9bfe",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 160728,
+          "bytes": 512,
+          "sha256": "bfe9d4f8bde302c58a2a70a6f5519bb85bb8815e79da4d3f7c60170796b58be2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 161240,
+          "bytes": 1024,
+          "sha256": "571cb564500b0b0c2eaa340b6dc455dfe51bc55a876b7f6958ff815b96d6cb8a",
+          "accessor": {
+            "componentType": 5126,
+            "count": 64,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 162264,
+          "bytes": 216,
+          "sha256": "24bec6deb1bf7ba313039f6723e80d016604133fdb16b3277e13d182851c6fd9",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.023",
+      "mesh_name": "West portal regularized band attachment head.023",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.019999980926514,
+          -65.79000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.023",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.019999980926514
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.7760009765625,
+            4.006685256958008
+          ],
+          [
+            29.295400619506836,
+            65.80400085449219,
+            4.0333147048950195
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 162480,
+          "bytes": 720,
+          "sha256": "8948dadcefdccf098c2aa17af098dc799f1cf691c6ec02b95a117eaa96ced9b6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 163200,
+          "bytes": 720,
+          "sha256": "1e350e415f66ac4ff1f30b71518b60b1d97d38b348f9596a4e7f2f069c20bce2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 163920,
+          "bytes": 480,
+          "sha256": "108003330c5a21fa86198c7b631b27d09b7beda78aee4e86d4c4918dc79c52d6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 164400,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 165360,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.024",
+      "mesh_name": "West portal regularized band attachment head.024",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.135000705718994,
+          -65.79000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.024",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.135000705718994
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.7760009765625,
+            4.121685028076172
+          ],
+          [
+            29.295400619506836,
+            65.80400085449219,
+            4.148314952850342
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 165576,
+          "bytes": 720,
+          "sha256": "1b930eff67b28f0ad72c98d2291b1a3c6c1ce18f72dfcaa35b31aac3de952492",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.013314247131347656,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315677642822266,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 166296,
+          "bytes": 720,
+          "sha256": "f2eba36dec8373ab68cf7dbc726651c497cd25d4afa729a99a6cb3e2e9eb879e",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 167016,
+          "bytes": 480,
+          "sha256": "a86a34baed57c1bcaf9a03d7a193ab084b67b054d3f4911f25d0ab01515ee722",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 167496,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 168456,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.025",
+      "mesh_name": "West portal regularized band attachment head.025",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.25,
+          -65.79000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.025",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.25
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.7760009765625,
+            4.236685276031494
+          ],
+          [
+            29.295400619506836,
+            65.80400085449219,
+            4.263314723968506
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 168672,
+          "bytes": 720,
+          "sha256": "8948dadcefdccf098c2aa17af098dc799f1cf691c6ec02b95a117eaa96ced9b6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 169392,
+          "bytes": 720,
+          "sha256": "1e350e415f66ac4ff1f30b71518b60b1d97d38b348f9596a4e7f2f069c20bce2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 170112,
+          "bytes": 480,
+          "sha256": "f964d0e467e45f42472a1213cfdeb94ad1a667a1880fe75c2e89590d6a82f31e",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 170592,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 171552,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.026",
+      "mesh_name": "West portal regularized band attachment head.026",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.365000247955322,
+          -65.79000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.026",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.365000247955322
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.7760009765625,
+            4.351685047149658
+          ],
+          [
+            29.295400619506836,
+            65.80400085449219,
+            4.378314971923828
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 171768,
+          "bytes": 720,
+          "sha256": "4982d866418880534add35289382be3609cdb9c312eb437bef8ab3c787af0c94",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.013315200805664062,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 172488,
+          "bytes": 720,
+          "sha256": "fcd2934010ad3dd69ce55cdaebc88ea944783e5f84ae0201840ca3871d5b3ef3",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 173208,
+          "bytes": 480,
+          "sha256": "3639447567100638aeed348f16a0beb7047459978407ad7c1a7ca75c122ad092",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 173688,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 174648,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal regularized band attachment head.027",
+      "mesh_name": "West portal regularized band attachment head.027",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.283905029296875,
+          4.480000019073486,
+          -65.79000091552734
+        ]
+      },
+      "placement": {
+        "name": "West portal regularized band attachment head.027",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.283905029296875
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.79000091552734
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.480000019073486
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.27239990234375,
+            65.7760009765625,
+            4.4666852951049805
+          ],
+          [
+            29.295400619506836,
+            65.80400085449219,
+            4.493314743041992
+          ]
+        ],
+        "evaluated_vertices": 20,
+        "evaluated_polygons": 36
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 174864,
+          "bytes": 720,
+          "sha256": "8948dadcefdccf098c2aa17af098dc799f1cf691c6ec02b95a117eaa96ced9b6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "max": [
+              0.011495590209960938,
+              0.01331472396850586,
+              0.01399993896484375
+            ],
+            "min": [
+              -0.011505126953125,
+              -0.01331472396850586,
+              -0.01399993896484375
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 175584,
+          "bytes": 720,
+          "sha256": "1e350e415f66ac4ff1f30b71518b60b1d97d38b348f9596a4e7f2f069c20bce2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 176304,
+          "bytes": 480,
+          "sha256": "122025c29aa50b7418a675c4f70416fab02692c6aab29ae846441f37580059b2",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 176784,
+          "bytes": 960,
+          "sha256": "a2c507cba19e50442fe8136c2ee57b82a9b95582e494e632ebe5f5ed38bf5e09",
+          "accessor": {
+            "componentType": 5126,
+            "count": 60,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 177744,
+          "bytes": 216,
+          "sha256": "42932834e8a6db0bd72ca47095f4b02242561e0ebb7d92272148936851805f61",
+          "accessor": {
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal layered lower head rail 0",
+      "mesh_name": "West portal layered lower head rail 0",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.304397583007812,
+          2.5874998569488525,
+          -63.39999771118164
+        ]
+      },
+      "placement": {
+        "name": "West portal layered lower head rail 0",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.304397583007812
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.39999771118164
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5874998569488525
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.304397583007812
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.39999771118164
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.5874998569488525
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.2593994140625,
+            60.9900016784668,
+            2.559999942779541
+          ],
+          [
+            29.34939956665039,
+            65.80999755859375,
+            2.615000009536743
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 177960,
+          "bytes": 288,
+          "sha256": "7eae8074c88adee3f6afa1112f25900113229abe21593c544b2b3364a5e2f283",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.045001983642578125,
+              0.027500152587890625,
+              2.4099960327148438
+            ],
+            "min": [
+              -0.0449981689453125,
+              -0.027499914169311523,
+              -2.4099998474121094
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 178248,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 178536,
+          "bytes": 192,
+          "sha256": "b0eea70a688e34971a975a4a9f3c15ab54efe32f697460c5f149f7f120040d45",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 178728,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 179112,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal layered lower head rail 1",
+      "mesh_name": "West portal layered lower head rail 1",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.319398880004883,
+          2.6549999713897705,
+          -63.39999771118164
+        ]
+      },
+      "placement": {
+        "name": "West portal layered lower head rail 1",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.319398880004883
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.39999771118164
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.6549999713897705
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.319398880004883
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.39999771118164
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.6549999713897705
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.289400100708008,
+            61.02000045776367,
+            2.619999885559082
+          ],
+          [
+            29.34939956665039,
+            65.77999877929688,
+            2.690000057220459
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 179184,
+          "bytes": 288,
+          "sha256": "70d92f10f7aab583561453354601975402d432a85f31a1455388f89378299c8d",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.030000686645507812,
+              0.03500008583068848,
+              2.3799972534179688
+            ],
+            "min": [
+              -0.029998779296875,
+              -0.03500008583068848,
+              -2.3800010681152344
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 179472,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 179760,
+          "bytes": 192,
+          "sha256": "93eb63fb8e9d342004608474b6b6a1e86077ffb09291a84395ae4ca91204a748",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 179952,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 180336,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    },
+    {
+      "name": "West portal layered lower head rail 2",
+      "mesh_name": "West portal layered lower head rail 2",
+      "material_name": "Concourse retained portal metal 2017",
+      "material_fingerprint_sha256": "c880c79e189f8a9e7a84598654d01ac728b85c9d0690bd1fc5b0f22942efc5ea",
+      "node_transform": {
+        "translation": [
+          29.29939842224121,
+          2.7224998474121094,
+          -63.399993896484375
+        ]
+      },
+      "placement": {
+        "name": "West portal layered lower head rail 2",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.29939842224121
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.399993896484375
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.7224998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            29.29939842224121
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            63.399993896484375
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.7224998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "evaluated_world_bounds": [
+          [
+            29.249399185180664,
+            60.959999084472656,
+            2.700000047683716
+          ],
+          [
+            29.34939956665039,
+            65.83999633789062,
+            2.744999885559082
+          ]
+        ],
+        "evaluated_vertices": 8,
+        "evaluated_polygons": 12
+      },
+      "arrays": {
+        "POSITION": {
+          "offset": 180408,
+          "bytes": 288,
+          "sha256": "7aa553b347a121e6e626eb18b0fa8bee80cdc24c9045ef5771482f570f0ede33",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+              0.05000114440917969,
+              0.022500038146972656,
+              2.4399948120117188
+            ],
+            "min": [
+              -0.049999237060546875,
+              -0.022499799728393555,
+              -2.44000244140625
+            ],
+            "type": "VEC3"
+          }
+        },
+        "NORMAL": {
+          "offset": 180696,
+          "bytes": 288,
+          "sha256": "8e78545f161c4a1064eddfc99e12bb8dfaeebbabda18fc897f11a2c439ecac57",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+          }
+        },
+        "TEXCOORD_0": {
+          "offset": 180984,
+          "bytes": 192,
+          "sha256": "a769afc4b03a9137080a55512471620bebe01af0e223fde4076b62132bae91f6",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+          }
+        },
+        "TANGENT": {
+          "offset": 181176,
+          "bytes": 384,
+          "sha256": "b26b6a5894658ded1fe843f19be11e1fcef03e297076959d40c0bd095123dab4",
+          "accessor": {
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4"
+          }
+        },
+        "indices": {
+          "offset": 181560,
+          "bytes": 72,
+          "sha256": "bba5b270df6803cb18b3c429e701849e4a15417939225839e1de69c547fdc9c1",
+          "accessor": {
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+          }
+        }
+      }
+    }
+  ]
+}

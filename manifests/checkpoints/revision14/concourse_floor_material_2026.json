@@ -1,0 +1,9 @@
+{
+  "era": "2026",
+  "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+  "passed": true,
+  "assigned_objects": [],
+  "repeat_m": 4.0,
+  "scope": "Separate material on exactly the2017 main concourse floor. No shared concrete material replacement; 2026 unchanged.",
+  "limits": "Authored old-mineral/terrazzo/dust material class. Does not establish exact2017 layer composition or damage positions."
+}

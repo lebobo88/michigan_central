@@ -1,0 +1,204 @@
+{
+  "status": "work in progress; architectural reconstruction, not a surveyed digital twin",
+  "coordinate_system": {
+    "units": "meters",
+    "X": "station west",
+    "Y": "station south",
+    "Z": "up",
+    "origin": "front hall center at ground datum, not GIS coordinates"
+  },
+  "selected_geometry": [
+    {
+      "item": "terminal width",
+      "value_m": 105.2576,
+      "basis": "published 1914 floor-plan dimension",
+      "current_as_built_verified": false
+    },
+    {
+      "item": "terminal side depth",
+      "value_m": 79.8576,
+      "basis": "1914 drawing; differs from prose depth 81.0768 m"
+    },
+    {
+      "item": "hall envelope",
+      "value_m": [
+        71.0184,
+        31.6992
+      ],
+      "basis": "1914 labeled drawing; interior boundary conventions unresolved"
+    },
+    {
+      "item": "I-plan tower envelope",
+      "value_m": {
+        "width": 104.2416,
+        "core_depth": 16.4592,
+        "wing_width": 16.4592,
+        "wing_depth": 32.9184
+      },
+      "basis": "1914 typical tower floor plan"
+    },
+    {
+      "item": "tower vertical spacing",
+      "value_m": 3.81,
+      "basis": "1914 article; detailed level count and crown modeling approximate"
+    },
+    {
+      "item": "Great Hall sail-vault apex",
+      "value_m": 18.8976,
+      "basis": "architect visual-tour 62 ft statement; owner 54/65 ft statements conflict"
+    },
+    {
+      "item": "hall arch axes",
+      "value_m": [
+        -31.8,
+        -10,
+        10,
+        31.8
+      ],
+      "basis": "visual raster digitization; roughly 0.2\u20130.4 m uncertainty"
+    },
+    {
+      "item": "hall/lobby columns",
+      "count": [
+        16,
+        12
+      ],
+      "basis": "architect 28 total, allocation from original plan and photos"
+    },
+    {
+      "item": "hall north monumental openings",
+      "value_m": [
+        6.4008,
+        12.192
+      ],
+      "basis": "original 21 by 40 ft article dimension; jamb/opening convention uncertain"
+    },
+    {
+      "item": "front roof ridge",
+      "value_m": 20.4,
+      "basis": "photo-proportioned; NOT the original 76 ft / 23.1648 m roof statement; unresolved reference datum"
+    },
+    {
+      "item": "The Study ceiling",
+      "value_m": 8.5344,
+      "basis": "HNS published28-foot coffered ceiling; selected upper field plane above modeled floor, beam-soffit versus field datum unresolved"
+    },
+    {
+      "item": "Current eastern room and arcade registration",
+      "basis": "HNS undimensioned2025 scope-plan raster aligned to71.0184m hall width and31.6992m depth; +/-0.3\u20130.6m approximate"
+    },
+    {
+      "item": "West lower facade",
+      "count": 12,
+      "basis": "1914 plan:3 reading,2 cafe,1 corridor,6 restaurant apertures; historical continuation not a current survey"
+    },
+    {
+      "item": "East southern facade conflict",
+      "count_original": 8,
+      "count_schematic_2025": 7,
+      "basis": "1914 plan vs owner2025 axon; modern change or schematic simplification unresolved",
+      "resolution": "Dated31Aug2025 exterior corroborates three adjacent exit-door arches, flanking windows and historical eight-aperture sequence; one near-entry aperture partly tree-obscured. Seven-bay axon treated as schematic."
+    }
+  ],
+  "coverage": [
+    {
+      "space": "exterior terminal and tower",
+      "2017": "modeled; glazed tower and absent marquee",
+      "2026": "modeled; restored marquee and material state",
+      "accuracy_limit": "Primary envelope measured historically; ornament and facade detail are approximated; hidden inner shafts omitted"
+    },
+    {
+      "space": "Great Hall",
+      "2017": "modeled from dated May 2017 fabric",
+      "2026": "restored 2023/24 shell carried forward",
+      "accuracy_limit": "Surface wear original/interpretive, not exact site marks; floor layout photo-informed, not every stone surveyed"
+    },
+    {
+      "space": "Ticket Lobby",
+      "2017": "documented shell approximation",
+      "2026": "restored shell approximation",
+      "accuracy_limit": "Clock and millwork simplified; current retail fit-out not claimed"
+    },
+    {
+      "space": "Concourse",
+      "2017": "partial reconstruction; roof-loss pattern unresolved",
+      "2026": "restored glazed roof and truss approximation",
+      "accuracy_limit": "Exact roof sections, structural profiles and 2017 whole-room state incompletely evidenced"
+    },
+    {
+      "space": "East Arcade",
+      "2017": "partial shell",
+      "2026": "HNS-registered six-bay shell, current Yellow Light frontage and separate crosshall margins",
+      "accuracy_limit": "Raster positions +/-0.3\u20130.6m; original/current hidden retail partitions and exact ceiling datum unresolved"
+    },
+    {
+      "space": "The Study in historic women\u2019s waiting room; men\u2019s reading room, cafe and historic restaurant",
+      "2017": "omitted: exact dated condition insufficient",
+      "2026": "The Study2025 completed fit-out; detailed west restored2023/24 public shells carried forward",
+      "accuracy_limit": "Modern NE room and cafe calibrated to published HNS scope plan; west floorplan from1914. Flexible furnishing layout and 2026 west construction state incomplete."
+    },
+    {
+      "space": "Tower offices, Mezz, youth club, basement, plant, private service rooms",
+      "2017": "not fitted out",
+      "2026": "not fitted out",
+      "accuracy_limit": "No complete current measured plans. No speculative suites presented as accurate"
+    },
+    {
+      "space": "NoMad hotel",
+      "2017": "absent",
+      "2026": "no finished hotel modeled",
+      "accuracy_limit": "Opening announced for 2027; 2026 construction state unresolved"
+    },
+    {
+      "space": "Landscape",
+      "2017": "illustrative context",
+      "2026": "illustrative context",
+      "accuracy_limit": "Not a Detroit landscape or surroundings survey"
+    },
+    {
+      "space": "Yellow Light Suite101",
+      "2017": "not present",
+      "2026": "2025 completed observed customer fit-out plus HNS-registered L-shell",
+      "accuracy_limit": "Rear service L-space geometry inferred from undimensioned plan; unseen furnishings/equipment omitted"
+    },
+    {
+      "space": "West carriage house",
+      "2017": "historic exterior shell; roof-glazing state uncertain",
+      "2026": "three west shallow arches and photographed roof lantern",
+      "accuracy_limit": "Historical footprint; no invented future terrace lounge"
+    },
+    {
+      "space": "Elevator lobby, upper passenger ramp, exit ramp, west corridor/stair fragment",
+      "2017": "documented portions only, exactdated evidence varies",
+      "2026": "observed restored public architecture, integrated QA pending",
+      "accuracy_limit": "No shafts, lift cabins, tunnel network, unseen basement or complete stair continuation"
+    },
+    {
+      "space": "Former lunch-counter zone",
+      "2017": "omitted exact dated condition gap",
+      "2026": "partial original-plan adjoining architectural shell",
+      "accuracy_limit": "Opening size and removed partition extent in2024 vista not fully resolved; no speculative current tenant fit-out"
+    },
+    {
+      "space": "Southern train-platform structure / replacement parking deck",
+      "2017": "Documented old uncovered platform/undercroft, not yet modeled",
+      "2026": "Replacement concrete deck/parking reported2025, not yet modeled",
+      "accuracy_limit": "Dated presence established; envelope and vertical interfaces under research. No historic shed roof or speculative finished park landscaping."
+    }
+  ],
+  "material_provenance": "Original procedural materials and three actual imagegen original color assets (Mankato stone, rose marble, walnut parquet), with conservative inferred roughness/normal/height maps. No reference-photo projections. Verified CC0 environment with neutral camera horizon.",
+  "sources": [
+    "https://archive.org/details/railwayage56newy",
+    "https://www.quinnevans.com/news/iconic-michigan-central-station-reopens-in-detroit",
+    "https://www.structuremag.org/article/reviving-the-american-guastavino-vault/",
+    "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior",
+    "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior",
+    "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-exterior",
+    "https://michigancentral.com/network/",
+    "https://michigancentral.com/michigan-central-to-bring-new-nomad-hotel-to-detroit/",
+    "https://www.neumannsmith.com/michigan-central-station-interior-fit-out/",
+    "https://www.mergearchitects.com/projects/michigan-central-yellow-light/",
+    "https://www.mergearchitects.com/projects/michigan-central-the-study/"
+  ],
+  "visualization_only": "Not construction, structural engineering, accessibility, life-safety or facility-management documentation"
+}

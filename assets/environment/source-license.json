@@ -1,0 +1,23 @@
+{
+  "title": "Kloofendal 48d Partly Cloudy",
+  "author": "Greg Zaal",
+  "provider": "Poly Haven",
+  "asset_id": "kloofendal_48d_partly_cloudy",
+  "source_page": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy",
+  "file_url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kloofendal_48d_partly_cloudy_4k.exr",
+  "license": "CC0-1.0",
+  "license_url": "https://polyhaven.com/license",
+  "license_deed": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "retrieved_utc": "2026-10-06T15:30:00Z",
+  "format": "OpenEXR, equirectangular HDRI",
+  "resolution": [
+    4096,
+    2048
+  ],
+  "official_md5": "05927a43a46b0935badea1896b243a62",
+  "actual_md5": "05927a43a46b0935badea1896b243a62",
+  "sha256": "bf53ca0fcd2ebdba385619a761a966eeee4b7b54c610c375132b00234dcf182b",
+  "bytes": 22168408,
+  "official_size_and_md5_verified": true,
+  "usage_note": "Partly cloudy natural daylight, high-contrast midday, 5400 K white balance. Photographed in South Africa; use for general environment lighting/sky, not as factual Detroit surroundings. Scene geometry should hide the grassy hill horizon."
+}

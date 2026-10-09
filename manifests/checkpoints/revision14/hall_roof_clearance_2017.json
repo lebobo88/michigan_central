@@ -1,0 +1,35 @@
+{
+  "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+  "era": "2017",
+  "minimum_clearance_m": 0.26796913146972656,
+  "criterion_m": 0.2,
+  "scope": "Actual sail-surface and decorated-wall vertices versus copper roof mesh, vertical clearance only",
+  "checked": [
+    {
+      "object": "sail vault bay 1",
+      "vertices_checked": 4225,
+      "min_clearance_m": 0.26796913146972656
+    },
+    {
+      "object": "sail vault bay 2",
+      "vertices_checked": 4225,
+      "min_clearance_m": 0.26796913146972656
+    },
+    {
+      "object": "sail vault bay 3",
+      "vertices_checked": 4225,
+      "min_clearance_m": 0.26796913146972656
+    },
+    {
+      "object": "hall vertical decorated spandrel field",
+      "vertices_checked": 2724,
+      "min_clearance_m": 0.5381126403808594
+    }
+  ],
+  "failures": [],
+  "limitations": [
+    "Roof profile and sail boundary are explicitly inferred modeling controls",
+    "Clearance threshold is a visualization clash guard, not a structural/MEP design requirement",
+    "Not a full-scene intersection test"
+  ]
+}

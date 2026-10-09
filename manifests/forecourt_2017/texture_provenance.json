@@ -1,0 +1,55 @@
+[
+  {
+    "name": "weathered_apron",
+    "size_px": [
+      512,
+      512
+    ],
+    "repeat_m": 4.0,
+    "provenance": "Original seeded procedural pixels, no source photograph pixels",
+    "seed": 170819,
+    "normal_convention": "OpenGL tangent-space +Y; height supplied but displacement off"
+  },
+  {
+    "name": "exposed_soil",
+    "size_px": [
+      512,
+      512
+    ],
+    "repeat_m": 2.0,
+    "provenance": "Original seeded procedural pixels, no source photograph pixels",
+    "seed": 170819,
+    "normal_convention": "OpenGL tangent-space +Y; height supplied but displacement off"
+  },
+  {
+    "name": "pale_sidewalk",
+    "size_px": [
+      512,
+      512
+    ],
+    "repeat_m": 3.0,
+    "provenance": "Original seeded procedural pixels, no source photograph pixels",
+    "seed": 170819,
+    "normal_convention": "OpenGL tangent-space +Y; height supplied but displacement off"
+  },
+  {
+    "name": "median_concrete",
+    "size_px": [
+      512,
+      512
+    ],
+    "repeat_m": 3.0,
+    "provenance": "Original seeded procedural pixels, no source photograph pixels",
+    "seed": 170819,
+    "normal_convention": "OpenGL tangent-space +Y; height supplied but displacement off"
+  },
+  {
+    "name": "authored_us_flag",
+    "size_px": [
+      760,
+      400
+    ],
+    "provenance": "Original geometric drawing of 13 stripes and 50 stars; no downloaded artwork",
+    "not_claimed": "Exact wind state, folds, flag condition or size in 2017"
+  }
+]

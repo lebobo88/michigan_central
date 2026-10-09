@@ -1,0 +1,41 @@
+{
+  "valid_local_controls_pass": true,
+  "invalid_controls": [
+    {
+      "case": "missing field",
+      "rejected": true,
+      "reason": [
+        "South structure missing value/basis: deck_top_z_m"
+      ]
+    },
+    {
+      "case": "NaN height",
+      "rejected": true,
+      "reason": [
+        "South structure needs a finite numeric control: deck_top_z_m"
+      ]
+    },
+    {
+      "case": "negative slab",
+      "rejected": true,
+      "reason": [
+        "Deck thickness or support range is invalid"
+      ]
+    },
+    {
+      "case": "clockwise polygon",
+      "rejected": true,
+      "reason": [
+        "Footprint must have positive area and counter-clockwise points"
+      ]
+    },
+    {
+      "case": "missing basis",
+      "rejected": true,
+      "reason": [
+        "South structure missing value/basis: deck_top_z_m"
+      ]
+    }
+  ],
+  "geometry_note": "These are non-Blender control-validation tests only. Actual detached mesh QA is in isolated_qa.json."
+}

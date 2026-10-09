@@ -1,0 +1,15 @@
+{
+  "origin": "Original authored herringbone glazed ceramic field; no reference photograph pixels",
+  "pixels": [
+    2048,
+    2048
+  ],
+  "physical_repeat_m": 4.0,
+  "nominal_tile_m": [
+    0.25,
+    0.125
+  ],
+  "module_status": "Photograph-informed scale approximation, not measured station tile dimensions",
+  "evidence": "Herringbone pattern visible in dated2017 and restored2023/24 GrandHall photography",
+  "normal_convention": "OpenGL +Y"
+}

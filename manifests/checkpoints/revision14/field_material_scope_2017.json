@@ -1,0 +1,46 @@
+{
+  "era": "2017",
+  "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+  "passed": true,
+  "targets": [
+    {
+      "object": "north facade continuous stone piers",
+      "vertices": 56,
+      "polygons": 42,
+      "y_range_m": [
+        -0.5249999761581421,
+        0.5249999761581421
+      ]
+    },
+    {
+      "object": "2017 aged limestone wall fields",
+      "vertices": 1804,
+      "polygons": 1314,
+      "y_range_m": [
+        -0.5249999761581421,
+        4.925000190734863
+      ]
+    },
+    {
+      "object": "north facade end pier",
+      "vertices": 8,
+      "polygons": 6,
+      "y_range_m": [
+        -0.5249999761581421,
+        0.5249999761581421
+      ]
+    },
+    {
+      "object": "north side-wing end infill",
+      "vertices": 32,
+      "polygons": 24,
+      "y_range_m": [
+        3.875,
+        4.925000190734863
+      ]
+    }
+  ],
+  "scope": "Only north planar wall fields; separate columns, arch profiles, molding and ornament excluded",
+  "repeat_m": 4.0,
+  "limitations": "Authoring-scale and placement checks only; generated course layout/stains are interpretive and unmeasured"
+}

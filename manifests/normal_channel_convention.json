@@ -1,0 +1,25 @@
+{
+  "normal_convention": "OpenGL tangent space +Y, UV-v upwards",
+  "image_rows": "downwards; technical derivative conversion accounted for",
+  "legacy_channels_regenerated": [
+    "limestone_restored",
+    "plaster_restored",
+    "mankato_restored",
+    "limestone_2017",
+    "plaster_2017",
+    "mankato_2017",
+    "guastavino_2017",
+    "rose_marble",
+    "pale_marble",
+    "terrazzo",
+    "exposed_brick",
+    "buff_brick",
+    "dust_concrete",
+    "grass",
+    "manifests/current_fitouts/materials/yl_polished_concrete",
+    "manifests/current_fitouts/materials/yl_salvaged_ocher",
+    "manifests/current_fitouts/materials/yl_pale_counter"
+  ],
+  "newer_channels": "Generated-stone, brick_v2, fullhall2017, herringbone, and longgrain scripts already use positive image-row gradient for green channel",
+  "limitations": "Normals derive from authored/inferred height maps, not measured site microgeometry"
+}

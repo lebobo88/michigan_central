@@ -1,0 +1,30 @@
+{
+  "title": "Southern structure global placement controls",
+  "default_policy": "Fail closed. No era geometry is emitted while status is blocked. Local detached study is a separate controls file.",
+  "coordinate_system": "Station-relative meters; +X west, +Y south, +Z up; hall north front Y0 and hall floor Z0",
+  "eras": {
+    "2017": {
+      "status": "blocked",
+      "coordinate_space": "unresolved global placement",
+      "extent_limit": "Known cargo core only; full original platform extensions and Vernor span are separate extents",
+      "blockers": [
+        "Global X translation of the cargo core relative to station center is not established",
+        "North viaduct line approximately Y104\u2013108; original printed dimensions and registered raster disagree",
+        "No verified hall-floor-to-cargo-floor or track-deck Z relationship",
+        "Current upper-ramp room ends at Y87.8 provisionally; lower ramp/subway extension and seals are not established"
+      ]
+    },
+    "2026": {
+      "status": "blocked",
+      "coordinate_space": "unresolved global placement",
+      "extent_limit": "Replacement concrete deck, extent not yet source-controlled",
+      "blockers": [
+        "No verified replacement concrete deck XY perimeter",
+        "No verified deck surface Z or underside/column datum relative to hall Z0",
+        "No registered current concrete support locations or slab thickness",
+        "No verified 2026 open passenger connection; 2024 reporting says old platform tunnels are sealed",
+        "Do not substitute the 2009 cargo envelope or retain dismantled old steel structure"
+      ]
+    }
+  }
+}

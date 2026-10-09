@@ -1,0 +1,91 @@
+{
+  "blender": "5.2.2 LTS",
+  "group_restored": true,
+  "checks": {
+    "all_vertices_finite": true,
+    "all_UVs_finite": true,
+    "all_meshes_have_materials_and_UVs": true,
+    "degenerate_polygon_count": 0,
+    "degenerate_examples": [],
+    "no_reference_photos_loaded": true,
+    "2017_emits_no_geometry": true,
+    "2017_preserves_group": true
+  },
+  "collections": {
+    "21 THE SHOP | documented frontage and qualified 2024 view fragment": {
+      "objects": 33,
+      "vertices": 16779,
+      "faces": 9762
+    },
+    "22 THE SHOP | qualified photo-corner vignette, no full suite layout": {
+      "objects": 40,
+      "vertices": 3180,
+      "faces": 2196
+    },
+    "23 NEIGHBOR | 2026 photographed west-facing doorway and limited view": {
+      "objects": 52,
+      "vertices": 11627,
+      "faces": 7439
+    }
+  },
+  "limitations": [
+    "Isolated module QA, not full-scene occlusion/integration validation",
+    "Numerous open architectural/ornamental surface meshes are intentional",
+    "Preview lighting and neutral surrounding floor are illustrative, not surveyed"
+  ],
+  "bounds": {
+    "21 THE SHOP | documented frontage and qualified 2024 view fragment": [
+      [
+        7.41,
+        34.09,
+        0.0
+      ],
+      [
+        8.56,
+        47.11,
+        6.705488204956055
+      ]
+    ],
+    "22 THE SHOP | qualified photo-corner vignette, no full suite layout": [
+      [
+        8.5,
+        37.95,
+        0.04000000000000001
+      ],
+      [
+        13.600000000000001,
+        43.25,
+        3.1975000000000002
+      ]
+    ],
+    "23 NEIGHBOR | 2026 photographed west-facing doorway and limited view": [
+      [
+        -15.85,
+        43.36,
+        0.05
+      ],
+      [
+        -10.964340143546384,
+        48.519999999999996,
+        6.75
+      ]
+    ]
+  },
+  "module_sha256": "a2996b0ddf07515d87ad7f3795f9a1e8cbc18f8d5774fdff5850219ab4d820ad",
+  "visual_review": {
+    "status": "Inspected all three final640x480 previews",
+    "renders": [
+      "qa/ticket_retail/ticket_shop_front.png",
+      "qa/ticket_retail/ticket_neighbor_front.png",
+      "qa/ticket_retail/ticket_shop_vignette.png"
+    ],
+    "observations": [
+      "Frontages are legible; doors remain open and visible fixture fragments readable",
+      "Coplanar garment overlap corrected",
+      "Open Neighbor door thickness axes corrected to perpendicular leaf bases",
+      "Shop blind arch moved in front of retained core wall plane",
+      "Background/diagnostic floor are not scene architecture"
+    ],
+    "full_scene_validation": "Not run here; core integrator must verify cut seams and connecting sightlines"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "full_scope_status": "Open. Public documented rooms are a partial reconstruction, not complete every-room coverage.",
+  "required_for_full_dated_reconstruction": [
+    {
+      "spaces": "Shared terminal sections, roof interfaces and absolute levels",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "Dimensioned original/as-built sections and elevations tied to a consistent floor datum. Published hall heights54/62/65ft and tower roof230/232ft use unresolved conventions; the1914 plan depth chains and raster scales disagree. The current public-room registration does not resolve whole-building vertical or rear-wall control."
+    },
+    {
+      "spaces": "Private tower floors and tenant offices",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "Dated measured floor plans, ceiling/partition plans and room-by-room photographs; typical1914plan alone cannot establish later partitions"
+    },
+    {
+      "spaces": "Mezz coworking and youth-club suites",
+      "periods": [
+        "2026"
+      ],
+      "needed": "Suite boundaries and floorplans, current furniture/MEP/ceiling plans; selected photographs establish only visible material/fixture zones"
+    },
+    {
+      "spaces": "Basements, plant, tunnels, complete tower stairs and lift shafts/cabins",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "Dimensioned sections/plans with floor identifiers and dated comprehensive image coverage"
+    },
+    {
+      "spaces": "The Shop, Neighbor and Yellow Light back-of-house",
+      "periods": [
+        "2026"
+      ],
+      "needed": "As-built tenant drawings and documented current fixture inventory; existing single-view photographs do not locate all objects"
+    },
+    {
+      "spaces": "West reading/cafe/restaurant historical condition and later hotel construction",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "Exact2017condition documentation and dated2026construction/partition inventory; no completed2027hotel can be substituted"
+    },
+    {
+      "spaces": "Southern platform/parking structure",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "2017 total platform/undercroft perimeter, absolute heights and registration to the terminal;2026 replacement concrete deck perimeter, elevations and support layout. Historical cargo-core envelope exists but does not establish the whole platform. Public research confirms period topology changes without resolving those controls."
+    },
+    {
+      "spaces": "Ornament, stonework, lighting and damaged fabric",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "Measured detail sections/scans and complete dated close-ups for exact capitals, reliefs, moldings, fine fixtures and damage reproduction. Available photographs support original approximate geometry and material classes; generated textures are not documentary damage evidence."
+    },
+    {
+      "spaces": "Immediate grounds/site",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "Dated site grading/spot levels tied to the building model datum and a planting inventory. Public2017 aerials and2023-2026 designer/completed views support plan topology. The2021survey/2022bid road plans use NAD83 and DETROIT vertical datum, which has not been converted to this local model."
+    },
+    {
+      "spaces": "Public restrooms and lift-lobby/arcade/exit-passage levels",
+      "periods": [
+        "2017",
+        "2026"
+      ],
+      "needed": "HNS underlay gives lateral restroom doors and fixture-plan symbols; complete dated finishes and2017 condition remain missing. Current lobby/taper is raster-registered. Threshold bands do not prove steps or levelness; source-linked modern elevations/grades are needed to replace the local shared-floor/interpolated-connector trial."
+    }
+  ],
+  "sharing_note": "Any supplied proprietary CAD, survey or photography needs the owner\u2019s permission for use and redistribution; existing copyrighted study photos are not packaged.",
+  "modeled_vs_unmodeled_policy": "All requested era-space rows remain in the48-row completeness matrix. Current rendered public rooms and exterior are partial; unknown areas are explicitly marked and no row is called complete or photoreal.",
+  "current_material_validation": "Revision14 full and preview material color/normal portability is checked separately from schema; compact pruning now retains near-flat authored channels. This does not establish measured site reflectance or exact old procedural-noise placement."
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+*.blend1
+*.blend2
+*.tmp
+.DS_Store
+Thumbs.db
+/work/
+
+# Recreated from versioned LFS chunks by tools/restore_scene_files.py.
+/exports/michigan_central_2017.glb
+/exports/michigan_central_2026.glb
+/models/michigan_central_2017.blend

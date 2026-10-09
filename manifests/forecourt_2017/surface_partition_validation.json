@@ -1,0 +1,25 @@
+{
+  "file": "assets/forecourt_2017/qa/forecourt_2017_isolated.glb",
+  "exported_upward_top_plan_areas_m2": {
+    "2017 broad paved station apron": 1212.4226716011217,
+    "2017 central flagpole plaza and side lobes": 497.4517626357174,
+    "2017 paired low-shrub soil beds": 701.6455662209246,
+    "2017 station-side sidewalk": 512.0,
+    "2017 asphalt around rounded median tips": 1.3727378011099063,
+    "2017 bounded median-end asphalt continuity": 100.0,
+    "2017 bounded northern frontage carriageway": 1408.0,
+    "2017 bounded southern frontage carriageway": 1600.0,
+    "2017 narrow paved streetlight median": 218.6272621988901
+  },
+  "summed_regions_m2": {
+    "apron": 2923.5200004577637,
+    "road": 3328.0
+  },
+  "expected_bounded_rectangle_area_m2": {
+    "apron": 2923.52,
+    "road": 3328
+  },
+  "absolute_tolerance_m2": 0.002,
+  "status": "Passed: constrained apron and manually partitioned divided road each cover their bounded area without area deficit/excess",
+  "limitation": "Plan area sum is not a full polygon-overlap/intersection proof; CDT partition supplies apron construction invariant"
+}

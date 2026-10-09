@@ -1,0 +1,32 @@
+{
+  "status": "Packaged source/reference checkpoint; actual Blender reconstruction NOT YET VALIDATED",
+  "blender_version": "5.2.2",
+  "geometry_function_names": [
+    "mesh",
+    "extrude",
+    "box",
+    "rounded",
+    "ring",
+    "bead",
+    "add_detail"
+  ],
+  "study_generator_sha256": "0ad7b90d58f96bdb6a488af62492604c0a6420a6de177141f5d8df278c6cd2a8",
+  "inputs": {
+    "2017": {
+      "r14_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+      "r14_blend_original_path": "models/michigan_central_2017.blend",
+      "expected_base_meshes": 695,
+      "expected_r15_meshes": 742,
+      "expected_new_meshes": 48
+    },
+    "2026": {
+      "r14_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+      "r14_blend_original_path": "models/michigan_central_2026.blend",
+      "expected_base_meshes": 2595,
+      "expected_r15_meshes": 2760,
+      "expected_new_meshes": 166
+    }
+  },
+  "no_binary_identical_blend_claim": true,
+  "no_texture_or_full_scene_inputs_included": true
+}

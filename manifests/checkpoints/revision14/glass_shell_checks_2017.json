@@ -1,0 +1,113 @@
+{
+  "era": "2017",
+  "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+  "passed": true,
+  "objects": [
+    {
+      "object": "north secondary arched window glazing",
+      "topology": {
+        "vertices": 172,
+        "polygons": 4,
+        "edges": 172,
+        "boundary_edges": 172,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "north monumental window glazing",
+      "topology": {
+        "vertices": 129,
+        "polygons": 3,
+        "edges": 129,
+        "boundary_edges": 129,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "north wing wood window glazing",
+      "topology": {
+        "vertices": 258,
+        "polygons": 6,
+        "edges": 258,
+        "boundary_edges": 258,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "side wood arched window glazing",
+      "topology": {
+        "vertices": 817,
+        "polygons": 19,
+        "edges": 817,
+        "boundary_edges": 817,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "east main entrance arched transom glazing",
+      "topology": {
+        "vertices": 43,
+        "polygons": 1,
+        "edges": 43,
+        "boundary_edges": 43,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "east southern wood windows glazing",
+      "topology": {
+        "vertices": 215,
+        "polygons": 5,
+        "edges": 215,
+        "boundary_edges": 215,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "east exit door arched transoms glazing",
+      "topology": {
+        "vertices": 129,
+        "polygons": 3,
+        "edges": 129,
+        "boundary_edges": 129,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    },
+    {
+      "object": "south hall rear elliptical clerestory glazing",
+      "topology": {
+        "vertices": 195,
+        "polygons": 3,
+        "edges": 195,
+        "boundary_edges": 195,
+        "nonmanifold_edges": 0,
+        "closed": false
+      },
+      "solidify_count": 1,
+      "passed": true
+    }
+  ],
+  "issues": [],
+  "scope": "Topological thickness rule only; not a calibrated optical or physical-glazing survey"
+}

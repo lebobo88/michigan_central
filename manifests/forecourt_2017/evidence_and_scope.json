@@ -1,0 +1,119 @@
+{
+  "module": "scripts/north_forecourt_2017.py",
+  "sha256": "14f5d806e9cc49d65822b09aa871038799502a014ef5bce7dcbc4b3d8c7d950f",
+  "status": "Isolated geometry, era/CLI safeguards, binary GLB checks, exact bounded plan-area totals, actual GLB round-trip and two inspected previews passed. Whole-station integration remains separate.",
+  "controls": {
+    "coordinate_system": "meters; +X west, +Y south, +Z up",
+    "station_front_glazing_y_m": 0.0,
+    "station_width_reference_m": 105.2576,
+    "dimensional_status": "PHOTO_FIT_APPROXIMATE, NOT SURVEYED",
+    "source_date_status": "Dandelion Air creator photographs published in 2017; exact capture dates undocumented",
+    "modeled_boundary_xy_m": [
+      [
+        -64,
+        -49
+      ],
+      [
+        64,
+        -49
+      ],
+      [
+        64,
+        -0.16
+      ],
+      [
+        -64,
+        -0.16
+      ]
+    ],
+    "paired_bed_outer_extent_x_m": 52.8,
+    "paired_bed_station_edge_y_m": -9.4,
+    "paired_bed_road_edge_y_m": -19.0,
+    "central_opening_halfwidth_m": 12.0,
+    "central_side_lobe_radius_m": 3.8,
+    "sidewalk_north_edge_y_m": -23.0,
+    "south_carriageway_north_edge_y_m": -35.5,
+    "median_north_edge_y_m": -38.0,
+    "bounded_north_carriageway_north_edge_y_m": -49.0,
+    "median_extent_x_m": [
+      -44.0,
+      44.0
+    ],
+    "surface_levels_local_m": {
+      "apron": 0.035,
+      "soil": 0.035,
+      "sidewalk": 0.035,
+      "road": -0.085,
+      "median": 0.08,
+      "curb_top": 0.065
+    },
+    "flagpole_height_m": 17.0,
+    "vertical_caution": "Interpretive flat local datum. No measured curb height, crossfall, drainage or absolute elevation.",
+    "inventory_caution": "Shrub, baluster, fence and light counts and positions are illustrative photo fits; species and exact fixtures unverified.",
+    "coverage_limit": "Apron, paired beds, central pole/gate, sidewalk and bounded divided frontage road only. Broader park and junctions omitted."
+  },
+  "sources": [
+    {
+      "id": "DAND2017_OBLIQUE",
+      "url": "https://spark.adobe.com/page/OMI5cVvEGgqxk/",
+      "local_reference": "research/south_structure/presentation_ref_12.jpg",
+      "creator": "Aleksey Bochkovsky / Dandelion Air",
+      "date_class": "Project published by 2017-09-15; capture date not stated",
+      "supports": "Paved apron; two planted beds; balustrades on station-facing edges and outer returns; inner low-curb lobes; pole, US flag and thin fencing"
+    },
+    {
+      "id": "DAND2017_OVERHEAD",
+      "url": "https://spark.adobe.com/page/OMI5cVvEGgqxk/",
+      "local_reference": "research/south_structure/presentation_ref_13.jpg",
+      "creator": "Aleksey Bochkovsky / Dandelion Air",
+      "date_class": "Project published by 2017-09-15; capture date not stated",
+      "supports": "Near-facade-width paired beds; low separate shrubs and exposed soil; sidewalk; divided road with a narrow paved streetlight median"
+    },
+    {
+      "id": "PIX4D_PUBLICATION",
+      "url": "https://community.pix4d.com/t/michigan-central-station-by-aleksey-bochkovsky-dandelion-air/3356",
+      "date_class": "Showcase publication dated 2017-09-15",
+      "supports": "2017 publication of linked creator presentation, not an exact image capture date"
+    },
+    {
+      "id": "HD_UNDATED_CONTEXT",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-exterior#p10",
+      "local_reference": "research/reference_only_copyrighted/hd_pre_10.jpg",
+      "creator": "Bob Laperriere / Historic Detroit",
+      "date_class": "Undated capture; filename is not dating evidence",
+      "supports": "Corroborative pre-restoration context only; broader park not reconstructed here"
+    }
+  ],
+  "rights": "Original authored geometry and procedural materials only. Source photographs remain reference-only.",
+  "reuse_read_only": [
+    "assets/textures/limestone_2017",
+    "assets/north_plaza/textures/np_asphalt"
+  ],
+  "excluded": [
+    "Broader park",
+    "Crescent planted island",
+    "Axial boulevard",
+    "Complete road junctions",
+    "Surveyed grades",
+    "Exact species and planting counts",
+    "Traffic/parking marking inventory"
+  ],
+  "qa_reports": [
+    "manifests/forecourt_2017/geometry_validation.json",
+    "manifests/forecourt_2017/glb_accessor_validation.json",
+    "manifests/forecourt_2017/glb_roundtrip.json",
+    "manifests/forecourt_2017/glb_tangent_repair.json",
+    "manifests/forecourt_2017/surface_partition_validation.json",
+    "manifests/forecourt_2017/visual_review.json",
+    "manifests/forecourt_2017/artifact_hashes.json"
+  ],
+  "ownership_guard": {
+    "written_scope": [
+      "scripts/north_forecourt_2017.py",
+      "assets/forecourt_2017/",
+      "manifests/forecourt_2017/"
+    ],
+    "shared_code_and_assets": "Read only; no edits by this module author",
+    "verification": "All authored files and QA outputs scoped to the new module. Concurrent project work prevents treating a global filesystem diff as author attribution."
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "material": "limestone_2017_pale",
+  "role": "Recommended universal exterior stone replacement; no baked masonry courses on sculpture or columns.",
+  "pixels": [
+    2048,
+    2048
+  ],
+  "physical_repeat_m": 4.0,
+  "mapped_extent_m": null,
+  "periodic": true,
+  "origin": "Original deterministic procedural artwork; no image generation used in v2",
+  "rights": "Original project-created maps. No third-party image pixels used.",
+  "basecolor_encoding": "sRGB",
+  "roughness_encoding": "linear scalar; also in ORM green channel",
+  "normal_encoding": "linear OpenGL tangent space +Y; image-row derivative sign converted to UV-v-up",
+  "height_encoding": {
+    "bits": 16,
+    "mode": "unsigned grayscale PNG",
+    "zero": 32767.5,
+    "full_range_m": 0.0004,
+    "decode_m": "(uint16 / 65535 - 0.5) * full_range_m",
+    "origin": "Conservative artistic inference, not measured",
+    "used_for_displacement": false
+  },
+  "gltf": {
+    "metallicFactor": 0,
+    "roughnessFactor": 1,
+    "normalTexture_scale": 1,
+    "baseColorTexture": "basecolor.png",
+    "metallicRoughnessTexture": "orm.png",
+    "normalTexture": "normal.png",
+    "height": "Documentation sidecar only; core glTF does not export height displacement"
+  },
+  "roughness_origin": "Artistic inference from apparent polish; not measured",
+  "recommended_normal_strength": 1.0,
+  "limitations": [
+    "Original artistic reconstruction of a material class, not a site scan, measured BRDF, or documentary damage inventory.",
+    "All RGB, roughness, physical repeats, stone-joint modules, and relief amplitudes are authored estimates.",
+    "Source photographs are copyrighted internal study references only. No source-photo pixels are sampled, embedded, reprojected, generated from, or redistributed.",
+    "Current-era material appearance is inferred from restoration-era photographs; these do not prove unchanged condition in 2026.",
+    "Large-scale chips, missing stones, sculptural wear, cracks and documented bench-foot depressions require geometry or independently evidenced masks; none are fabricated as strong normal maps here.",
+    "WIP material/isolated-plane validation is not a claim of photorealism or station-level certification."
+  ],
+  "sources": [
+    "exterior_may2017",
+    "exterior_june2017",
+    "hall_post_p6",
+    "hall_post_p10",
+    "hall_detail_p4"
+  ],
+  "texture_orientation": "Image vertical is gravity on vertical wall UVs; keep the existing world-metric UV scale 4 m.",
+  "relief_peak_to_peak_m": 0.00014010311861056834,
+  "weathering": "Restrained generic rain traces only, not exact 2017 damage positions",
+  "integration_target": "Exterior Indiana limestone, 2017 only; replacement maps must not be used on 2026 stone without a separate decision",
+  "metrics": {
+    "basecolor": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.6987630079342892,
+        0.6857855114573823,
+        0.6498750764439762
+      ],
+      "p01": [
+        0.6784313917160034,
+        0.6627451181411743,
+        0.6274510025978088
+      ],
+      "p99": [
+        0.7176470756530762,
+        0.7058823704719543,
+        0.6666666865348816
+      ],
+      "seam_horizontal_mean": [
+        0.0016946063842624426,
+        0.001740561332553625,
+        0.0016716280952095985
+      ],
+      "seam_vertical_mean": [
+        0.001757793826982379,
+        0.0017080088146030903,
+        0.001717583741992712
+      ],
+      "mean_adjacent_x": [
+        0.0017989808693528175,
+        0.0017964098369702697,
+        0.0017899947706609964
+      ],
+      "mean_adjacent_y": [
+        0.0017575714737176895,
+        0.0017568310722708702,
+        0.001755348639562726
+      ],
+      "seam_to_adjacent_x": [
+        0.9419760704040527,
+        0.9689056277275085,
+        0.9338679313659668
+      ],
+      "seam_to_adjacent_y": [
+        1.000120759010315,
+        0.9722045063972473,
+        0.9784802198410034
+      ]
+    },
+    "roughness": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.6762370386683614
+      ],
+      "p01": [
+        0.6392157077789307
+      ],
+      "p99": [
+        0.7137255072593689
+      ],
+      "seam_horizontal_mean": [
+        0.0010991115123033524
+      ],
+      "seam_vertical_mean": [
+        0.0011450673919171095
+      ],
+      "mean_adjacent_x": [
+        0.0014683319022879004
+      ],
+      "mean_adjacent_y": [
+        0.0014191169757395983
+      ],
+      "seam_to_adjacent_x": [
+        0.7485392093658447
+      ],
+      "seam_to_adjacent_y": [
+        0.8068815469741821
+      ]
+    },
+    "normal": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.4999998512788011,
+        0.5000000523007913,
+        1.0
+      ],
+      "p01": [
+        0.49803921580314636,
+        0.49803921580314636,
+        1.0
+      ],
+      "p99": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0
+      ],
+      "seam_horizontal_mean": [
+        0.0013633647467941046,
+        0.0010263599688187242,
+        0.0
+      ],
+      "seam_vertical_mean": [
+        0.0009478522697463632,
+        0.001392086734995246,
+        0.0
+      ],
+      "mean_adjacent_x": [
+        0.0013222385896369815,
+        0.0009907321073114872,
+        0.0
+      ],
+      "mean_adjacent_y": [
+        0.0009929712396115065,
+        0.0013220307882875204,
+        0.0
+      ],
+      "seam_to_adjacent_x": [
+        1.0310956239700317,
+        1.0359506607055664,
+        0.0
+      ],
+      "seam_to_adjacent_y": [
+        0.9545520544052124,
+        1.0529831647872925,
+        0.0
+      ]
+    },
+    "height": {
+      "pixels": [
+        2048,
+        2048
+      ],
+      "mean": [
+        0.5000235480169408
+      ],
+      "p01": [
+        0.41945526003837585
+      ],
+      "p99": [
+        0.580529510974884
+      ],
+      "seam_horizontal_mean": [
+        0.012312867678701878
+      ],
+      "seam_vertical_mean": [
+        0.011980060487985611
+      ],
+      "mean_adjacent_x": [
+        0.012584502808749676
+      ],
+      "mean_adjacent_y": [
+        0.012586069293320179
+      ],
+      "seam_to_adjacent_x": [
+        0.9784142971038818
+      ],
+      "seam_to_adjacent_y": [
+        0.9518500566482544
+      ]
+    }
+  },
+  "sha256": {
+    "normal.png": "0a3deeaaf19c12f26563551f64782aa4383831d37b4de32f8b223587aaa2052d",
+    "roughness.png": "2d19c8fc2636ea2fa506b6350b1c9c0a7905d41ae61288622458dc19a5110eb1",
+    "basecolor.png": "8b07a0adec005d61bc8ef1717cf4eb2f9a0793a0eb0feeeb5f384b252bd6ab14",
+    "orm.png": "c491481c45eb52fd11069722ff051adc0e3402d4f0c33951db9aaf0314148a08",
+    "height.png": "6347a5c830522012d54b760a7ca6a0b3273eb2d4a946f6d2b8e61cd4db8955b0"
+  }
+}

@@ -1,0 +1,5400 @@
+{
+  "scope": "Actual full GLB JSON and packed shader inventories; no Blender execution",
+  "eras": {
+    "2017": {
+      "full_glb": "exports/michigan_central_2017.glb",
+      "glb_sha256": "e68bba7d0bbaf141dfd741740ce04a25f6a35746170985f7c707c9a658f3b6f7",
+      "source_blend_sha256": "1238f4322ffe0e0508d8d4251fde5c940696bcaa78292a9117f56c6a7a773622",
+      "inventory_sha256": "ca1adf5e9f51b714ca9816d166f0bbdd2331970f2a21385828fdc54d2c5cd509",
+      "used_material_count": 65,
+      "affected_count": 9,
+      "affected": [
+        {
+          "name": "Secondary 2017 protective plywood",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 33,
+          "source_call": "sec_material('Secondary 2017 protective plywood',(.26,.14,.072),.91,0,.38,9)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.26,
+            0.14,
+            0.072
+          ],
+          "ramp_low_linear": [
+            0.1612,
+            0.0868,
+            0.04464
+          ],
+          "ramp_high_linear": [
+            0.3588,
+            0.1932,
+            0.09935999999999999
+          ],
+          "expected_mean_linear": [
+            0.26,
+            0.14,
+            0.072
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.91,
+          "metallic": 0,
+          "variation": 0.38,
+          "noise_scale": 9,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 9,
+          "candidate_base_wavelength_m": 0.4444444444444444,
+          "slug": "secondary_2017_protective_plywood",
+          "material_index": 54,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "2017 boarded elevator openings",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary 2017 protective plywood",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.9100000262260437
+            }
+          },
+          "inventory": {
+            "material": "Secondary 2017 protective plywood",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary exposed ribbed substrate",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 37,
+          "source_call": "sec_material('Secondary exposed ribbed substrate',(.26,.23,.18),.95,0,.30,24)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.26,
+            0.23,
+            0.18
+          ],
+          "ramp_low_linear": [
+            0.182,
+            0.161,
+            0.126
+          ],
+          "ramp_high_linear": [
+            0.338,
+            0.29900000000000004,
+            0.23399999999999999
+          ],
+          "expected_mean_linear": [
+            0.26,
+            0.23000000000000004,
+            0.18
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.3,
+          "noise_scale": 24,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 24,
+          "candidate_base_wavelength_m": 0.16666666666666666,
+          "slug": "secondary_exposed_ribbed_substrate",
+          "material_index": 55,
+          "primitive_count": 2,
+          "uses": [
+            {
+              "mesh": "2017 irregular ceiling plaster-loss interpretation",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "2017 missing elevator stone facing",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary exposed ribbed substrate",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary exposed ribbed substrate",
+            "users": 2,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary iron rust",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 32,
+          "source_call": "sec_material('Secondary iron rust' if AGED else 'Secondary conserved iron',(.14,.071,.035) if AGED else (.037,.046,.043),.73 if AGED else .36,.40 if AGED else .76,.36 if AGED else .08,40)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.14,
+            0.071,
+            0.035
+          ],
+          "ramp_low_linear": [
+            0.08960000000000001,
+            0.045439999999999994,
+            0.022400000000000003
+          ],
+          "ramp_high_linear": [
+            0.1904,
+            0.09655999999999998,
+            0.0476
+          ],
+          "expected_mean_linear": [
+            0.14,
+            0.07099999999999998,
+            0.035
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.73,
+          "metallic": 0.4,
+          "variation": 0.36,
+          "noise_scale": 40,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 40,
+          "candidate_base_wavelength_m": 0.1,
+          "slug": "secondary_iron_rust",
+          "material_index": 57,
+          "primitive_count": 56,
+          "uses": [
+            {
+              "mesh": "Elevator 1 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 1 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 1 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 1 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "2017 corroded bridge cross members",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back grid windows jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back grid windows sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back grid windows transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back grid windows vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back-window transoms",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp bridge raised fascia panels",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp bridge rivets",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp curved bridge haunches",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high bridge grid jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high bridge grid sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high bridge grid vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high transoms",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp mezzanine bridge deck",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp mezzanine riveted fascia",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof chords",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof king posts",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof purlins",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof ties",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage intermediate iron piers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage iron pier crossed lattice",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage long iron entablature",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage return entablature",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage return shallow iron arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage roof transverse iron members",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage west iron arcade arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage west lattice spandrel rail",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage west spandrel lattice",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary iron rust",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0.4000000059604645,
+              "roughnessFactor": 0.7300000190734863
+            }
+          },
+          "inventory": {
+            "material": "Secondary iron rust",
+            "users": 56,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary conservation grille",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 38,
+          "source_call": "sec_material('Secondary conservation grille',(.018,.020,.019),.45,.55,.08,20)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.018,
+            0.02,
+            0.019
+          ],
+          "ramp_low_linear": [
+            0.01656,
+            0.0184,
+            0.01748
+          ],
+          "ramp_high_linear": [
+            0.01944,
+            0.0216,
+            0.02052
+          ],
+          "expected_mean_linear": [
+            0.018,
+            0.02,
+            0.019
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.45,
+          "metallic": 0.55,
+          "variation": 0.08,
+          "noise_scale": 20,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 20,
+          "candidate_base_wavelength_m": 0.2,
+          "slug": "secondary_conservation_grille",
+          "material_index": 59,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "East exit ramp dark conservation grille",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary conservation grille",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0.550000011920929,
+              "roughnessFactor": 0.44999998807907104
+            }
+          },
+          "inventory": {
+            "material": "Secondary conservation grille",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 1",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.016,
+            0.14,
+            0.24
+          ],
+          "ramp_low_linear": [
+            0.01456,
+            0.1274,
+            0.2184
+          ],
+          "ramp_high_linear": [
+            0.01744,
+            0.1526,
+            0.2616
+          ],
+          "expected_mean_linear": [
+            0.016,
+            0.14,
+            0.24
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_1",
+          "material_index": 60,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 1",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 1",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 2",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.51,
+            0.35,
+            0.035
+          ],
+          "ramp_low_linear": [
+            0.4641,
+            0.3185,
+            0.03185
+          ],
+          "ramp_high_linear": [
+            0.5559000000000001,
+            0.3815,
+            0.03815
+          ],
+          "expected_mean_linear": [
+            0.51,
+            0.35,
+            0.035
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_2",
+          "material_index": 61,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.001",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 2",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 2",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 3",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.35,
+            0.06,
+            0.022
+          ],
+          "ramp_low_linear": [
+            0.3185,
+            0.0546,
+            0.02002
+          ],
+          "ramp_high_linear": [
+            0.3815,
+            0.0654,
+            0.02398
+          ],
+          "expected_mean_linear": [
+            0.35,
+            0.06,
+            0.022
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_3",
+          "material_index": 62,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.002",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 3",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 3",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 4",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.09,
+            0.11,
+            0.12
+          ],
+          "ramp_low_linear": [
+            0.0819,
+            0.10010000000000001,
+            0.1092
+          ],
+          "ramp_high_linear": [
+            0.0981,
+            0.1199,
+            0.1308
+          ],
+          "expected_mean_linear": [
+            0.09,
+            0.11000000000000001,
+            0.12
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_4",
+          "material_index": 63,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.003",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 4",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 4",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 5",
+          "era": "2017",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.14,
+            0.22,
+            0.22
+          ],
+          "ramp_low_linear": [
+            0.1274,
+            0.20020000000000002,
+            0.20020000000000002
+          ],
+          "ramp_high_linear": [
+            0.1526,
+            0.2398,
+            0.2398
+          ],
+          "expected_mean_linear": [
+            0.14,
+            0.22000000000000003,
+            0.22000000000000003
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.018,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_5",
+          "material_index": 64,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.004",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 5",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 5",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        }
+      ],
+      "unknown_default_white": [],
+      "all_used_materials": [
+        {
+          "name": "F17 joint",
+          "primitive_count": 6,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.14000000059604645,
+            0.13899999856948853,
+            0.12300000339746475,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 worn gray apron",
+          "primitive_count": 2,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "F17 pale sidewalk",
+          "primitive_count": 3,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "F17 aged pale stone",
+          "primitive_count": 9,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "F17 crack",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.0949999988079071,
+            0.09300000220537186,
+            0.08100000023841858,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 exposed brown soil",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "F17 weathered iron",
+          "primitive_count": 6,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.07999999821186066,
+            0.08500000089406967,
+            0.0729999989271164,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 asphalt",
+          "primitive_count": 4,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "F17 median concrete",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "F17 road pole",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.14000000059604645,
+            0.15000000596046448,
+            0.13500000536441803,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 flagpole metal",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.3400000035762787,
+            0.33000001311302185,
+            0.27000001072883606,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 pale lamp glass",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.5400000214576721,
+            0.5299999713897705,
+            0.44999998807907104,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 authored US flag",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 woody stem",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.14000000059604645,
+            0.10499999672174454,
+            0.061000000685453415,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 shrub leaf 0",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.026000000536441803,
+            0.05000000074505806,
+            0.012000000104308128,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 shrub leaf 1",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.04399999976158142,
+            0.07400000095367432,
+            0.017999999225139618,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "F17 shrub leaf 2",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.0689999982714653,
+            0.10300000011920929,
+            0.02500000037252903,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "2017 aged limestone wall fields",
+          "primitive_count": 4,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Exterior Indiana limestone",
+          "primitive_count": 36,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "2017 north entry pale address plaque",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6100000143051147,
+            0.6000000238418579,
+            0.5199999809265137,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "2017 north entry weathered brown coating | substrate unverified",
+          "primitive_count": 15,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "2017 north entry galvanized shutter | approximate finish",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.23000000417232513,
+            0.25,
+            0.25999999046325684,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "2017 north entry address numerals",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.017999999225139618,
+            0.019999999552965164,
+            0.017999999225139618,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "2017 north entry dark transom glass",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.02500000037252903,
+            0.03200000151991844,
+            0.032999999821186066,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Roof steel",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.07999999821186066,
+            0.07500000298023224,
+            0.0689999982714653,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Window cast iron",
+          "primitive_count": 38,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.23999999463558197,
+            0.27000001072883606,
+            0.23999999463558197,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Glass clear",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.8799999952316284,
+            0.9399999976158142,
+            0.9700000286102295,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Roof dark copper",
+          "primitive_count": 6,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.03500000014901161,
+            0.04399999976158142,
+            0.03999999910593033,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Weathered concrete",
+          "primitive_count": 17,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Tower buff brick",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Tower recessed dark joint",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.06499999761581421,
+            0.057999998331069946,
+            0.04699999839067459,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower muted ornamental terra cotta",
+          "primitive_count": 54,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Tower 2015 replacement insulating glass",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6100000143051147,
+            0.7200000286102295,
+            0.7099999785423279,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower 2015 green gray painted frames",
+          "primitive_count": 32,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.2750000059604645,
+            0.32499998807907104,
+            0.3050000071525574,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower 2015 shallow green gray spandrels",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.3149999976158142,
+            0.36500000953674316,
+            0.3449999988079071,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower unobserved interior optical stop",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.01899999938905239,
+            0.02500000037252903,
+            0.02500000037252903,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Decorative plaster",
+          "primitive_count": 64,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Dark bronze",
+          "primitive_count": 29,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.07500000298023224,
+            0.05700000002980232,
+            0.039000000804662704,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Warm Mankato column stone",
+          "primitive_count": 27,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Glass tower blue",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.23999999463558197,
+            0.30000001192092896,
+            0.3100000023841858,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Mixed 2017 hall backing",
+          "primitive_count": 10,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Grand Hall floor assembly",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Interpretive graffiti blue",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.017999999225139618,
+            0.02800000086426735,
+            0.06400000303983688,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Interpretive graffiti ochre",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.14000000059604645,
+            0.07800000160932541,
+            0.017000000923871994,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Guastavino buff tile",
+          "primitive_count": 3,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Rose Tennessee marble",
+          "primitive_count": 2,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse terracotta dressings 2017",
+          "primitive_count": 15,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse Flemish buff masonry 2017",
+          "primitive_count": 5,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse herringbone frieze 2017",
+          "primitive_count": 4,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse 2017 worn mineral floor",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse retained portal metal 2017",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.1599999964237213,
+            0.09300000220537186,
+            0.04899999871850014,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse 2017 inferred structural steel",
+          "primitive_count": 7,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.125,
+            0.06599999964237213,
+            0.035999998450279236,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse 2017 inferred fastener steel",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.08799999952316284,
+            0.04500000178813934,
+            0.023000000044703484,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Dark void",
+          "primitive_count": 7,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.014999999664723873,
+            0.01600000075995922,
+            0.014000000432133675,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary 2017 protective plywood",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary exposed ribbed substrate",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Distress umber",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.08500000089406967,
+            0.06700000166893005,
+            0.03700000047683716,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary iron rust",
+          "primitive_count": 56,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse buff brick",
+          "primitive_count": 11,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Secondary conservation grille",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 1",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 2",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 3",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 4",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 5",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        }
+      ]
+    },
+    "2026": {
+      "full_glb": "exports/michigan_central_2026.glb",
+      "glb_sha256": "fee24bf7c9130cfa590d75a62d286780120363939a65c6b27e6a5e9e5559e027",
+      "source_blend_sha256": "2fed1b10ad29f1c8e7e0354855f26500d76be95368ecb93848079d34105c9e92",
+      "inventory_sha256": "42e1f563795d695111add48dc285a9e70b7e23a6e13efb2737432c519f8e981e",
+      "used_material_count": 144,
+      "affected_count": 16,
+      "affected": [
+        {
+          "name": "West restored warm ivory plaster",
+          "era": "2026",
+          "source_module": "scripts/west_public_rooms.py",
+          "source_line": 362,
+          "source_call": "west_material('West restored warm ivory plaster',(.73,.70,.625),.62)",
+          "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+          "base_color_linear": [
+            0.73,
+            0.7,
+            0.625
+          ],
+          "ramp_low_linear": [
+            0.68985,
+            0.6615,
+            0.590625
+          ],
+          "ramp_high_linear": [
+            0.7701499999999999,
+            0.7384999999999999,
+            0.6593749999999999
+          ],
+          "expected_mean_linear": [
+            0.73,
+            0.7,
+            0.625
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.62,
+          "metallic": 0,
+          "variation": 0.055,
+          "noise_scale": 17.6,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.65,
+          "source_coordinates": "Metric UV x 2.2 then Noise Scale 8; 17.6 base cycles per metre",
+          "source_bump_distance_m": 0.0007,
+          "source_bump_strength": 0.1,
+          "existing_uv_repeat_m": 1.0,
+          "candidate_base_cycles_per_repeat": 17.6,
+          "candidate_base_wavelength_m": 0.056818181818181816,
+          "slug": "west_restored_warm_ivory_plaster",
+          "material_index": 80,
+          "primitive_count": 45,
+          "uses": [
+            {
+              "mesh": "West arched window interior plaster archivolt",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West cafe upper wall above connecting corridor",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling coffer crossing square floral bosses",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling coffer inset stepped square moldings",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling coffering cross ribs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling coffering main ribs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling crossing small floral relief",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling fluted octagonal sloping coffers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling octagonal coffer profiles",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West ceiling perimeter pendant corbel blocks",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West coffer egg and dart relief beads",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West coffer radial flute ribs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West cream plaster ceiling substrate",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West plaster perimeter cornice stepped profiles",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West plaster rosette inner curled petals",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West plaster rosette layered central boss",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West plaster rosette twelve original radial leaves",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West reading cafe east upper plaster",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West real three-opening reading cafe partition",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West real three-opening reading cafe partition headers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West upper plaster true arched window heads",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West upper plaster wall between arched windows",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West upper wall fine plaster dado profile",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant genuine arched plaster window heads",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant inner wall with lunch-counter portals",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant inner wall with lunch-counter portals headers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant longitudinal scored-plaster arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant narrow boundary pilasters",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant outer wall cream plaster liner",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant plaster window jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant scored plaster sail vaults",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant south opening toward concourse",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant south opening toward concourse headers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant square pier impost moldings",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant square piers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant transverse scored-plaster arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant under-window plaster liner",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant upper wall over corridor",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant window plaster archivolts",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Former lunch counter longitudinal plaster arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Former lunch counter north hall boundary",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Former lunch counter transverse plaster arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant scored plaster sail vaults.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant square pier impost moldings.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant square piers.001",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "texture_repeat_m": 1.0,
+              "provenance": "Original procedural material, photographic material class only; no image projection"
+            },
+            "name": "West restored warm ivory plaster",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.6200000047683716
+            }
+          },
+          "inventory": {
+            "material": "West restored warm ivory plaster",
+            "users": 45,
+            "physical_repeat_m": 1.0,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "West patinated pendant bronze",
+          "era": "2026",
+          "source_module": "scripts/west_public_rooms.py",
+          "source_line": 364,
+          "source_call": "west_material('West patinated pendant bronze',(.11,.075,.033),.32,.72)",
+          "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+          "base_color_linear": [
+            0.11,
+            0.075,
+            0.033
+          ],
+          "ramp_low_linear": [
+            0.10395,
+            0.070875,
+            0.031185
+          ],
+          "ramp_high_linear": [
+            0.11605,
+            0.07912499999999999,
+            0.034815
+          ],
+          "expected_mean_linear": [
+            0.11,
+            0.07499999999999998,
+            0.033
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.32,
+          "metallic": 0.72,
+          "variation": 0.055,
+          "noise_scale": 17.6,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.65,
+          "source_coordinates": "Metric UV x 2.2 then Noise Scale 8; 17.6 base cycles per metre",
+          "source_bump_distance_m": 0.0007,
+          "source_bump_strength": 0.1,
+          "existing_uv_repeat_m": 1.0,
+          "candidate_base_cycles_per_repeat": 17.6,
+          "candidate_base_wavelength_m": 0.056818181818181816,
+          "slug": "west_patinated_pendant_bronze",
+          "material_index": 82,
+          "primitive_count": 9,
+          "uses": [
+            {
+              "mesh": "West dark pendant stems",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West pendant ceiling roses",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West pendant stepped metal caps",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant dark pendant stems",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant pendant ceiling roses",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant pendant stepped metal caps",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Former lunch counter dark pendant stems",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Former lunch counter pendant ceiling roses",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Former lunch counter pendant stepped metal caps",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "texture_repeat_m": 1.0,
+              "provenance": "Original procedural material, photographic material class only; no image projection"
+            },
+            "name": "West patinated pendant bronze",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0.7200000286102295,
+              "roughnessFactor": 0.3199999928474426
+            }
+          },
+          "inventory": {
+            "material": "West patinated pendant bronze",
+            "users": 9,
+            "physical_repeat_m": 1.0,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "West shallow plaster score shadow",
+          "era": "2026",
+          "source_module": "scripts/west_public_rooms.py",
+          "source_line": 363,
+          "source_call": "west_material('West shallow plaster score shadow',(.38,.365,.325),.78)",
+          "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+          "base_color_linear": [
+            0.38,
+            0.365,
+            0.325
+          ],
+          "ramp_low_linear": [
+            0.3591,
+            0.344925,
+            0.307125
+          ],
+          "ramp_high_linear": [
+            0.4009,
+            0.38507499999999995,
+            0.342875
+          ],
+          "expected_mean_linear": [
+            0.38,
+            0.365,
+            0.32499999999999996
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.78,
+          "metallic": 0,
+          "variation": 0.055,
+          "noise_scale": 17.6,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.65,
+          "source_coordinates": "Metric UV x 2.2 then Noise Scale 8; 17.6 base cycles per metre",
+          "source_bump_distance_m": 0.0007,
+          "source_bump_strength": 0.1,
+          "existing_uv_repeat_m": 1.0,
+          "candidate_base_cycles_per_repeat": 17.6,
+          "candidate_base_wavelength_m": 0.056818181818181816,
+          "slug": "west_shallow_plaster_score_shadow",
+          "material_index": 85,
+          "primitive_count": 13,
+          "uses": [
+            {
+              "mesh": "West restaurant arch face incised voussoir joints",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant arch soffit transverse scored joints",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant incised ashlar pier courses",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant incised concentric plaster scoring",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant outer wall shallow scored courses",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant staggered radial plaster score joints",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant staggered vertical pier scores",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant arch face incised voussoir joints.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant arch soffit transverse scored joints.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant incised ashlar pier courses.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant incised concentric plaster scoring.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant staggered radial plaster score joints.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West restaurant staggered vertical pier scores.001",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "texture_repeat_m": 1.0,
+              "provenance": "Original procedural material, photographic material class only; no image projection"
+            },
+            "name": "West shallow plaster score shadow",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.7799999713897705
+            }
+          },
+          "inventory": {
+            "material": "West shallow plaster score shadow",
+            "users": 13,
+            "physical_repeat_m": 1.0,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "West restaurant observed unfinished slab",
+          "era": "2026",
+          "source_module": "scripts/west_public_rooms.py",
+          "source_line": 366,
+          "source_call": "west_material('West restaurant observed unfinished slab',(.205,.224,.226),.86)",
+          "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+          "base_color_linear": [
+            0.205,
+            0.224,
+            0.226
+          ],
+          "ramp_low_linear": [
+            0.19372499999999998,
+            0.21168,
+            0.21356999999999998
+          ],
+          "ramp_high_linear": [
+            0.21627499999999997,
+            0.23632,
+            0.23843
+          ],
+          "expected_mean_linear": [
+            0.20499999999999996,
+            0.224,
+            0.22599999999999998
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.86,
+          "metallic": 0,
+          "variation": 0.055,
+          "noise_scale": 17.6,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.65,
+          "source_coordinates": "Metric UV x 2.2 then Noise Scale 8; 17.6 base cycles per metre",
+          "source_bump_distance_m": 0.0007,
+          "source_bump_strength": 0.1,
+          "existing_uv_repeat_m": 1.0,
+          "candidate_base_cycles_per_repeat": 17.6,
+          "candidate_base_wavelength_m": 0.056818181818181816,
+          "slug": "west_restaurant_observed_unfinished_slab",
+          "material_index": 86,
+          "primitive_count": 2,
+          "uses": [
+            {
+              "mesh": "West restaurant documented unfinished floor substrate",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Former lunch counter observed shell floor continuation",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "texture_repeat_m": 1.0,
+              "provenance": "Original procedural material, photographic material class only; no image projection"
+            },
+            "name": "West restaurant observed unfinished slab",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.8600000143051147
+            }
+          },
+          "inventory": {
+            "material": "West restaurant observed unfinished slab",
+            "users": 2,
+            "physical_repeat_m": 1.0,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary brushed bronze",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 31,
+          "source_call": "sec_material('Secondary brushed bronze',(.24,.14,.055),.32,.78,.14,32)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.24,
+            0.14,
+            0.055
+          ],
+          "ramp_low_linear": [
+            0.2064,
+            0.12040000000000001,
+            0.0473
+          ],
+          "ramp_high_linear": [
+            0.2736,
+            0.15960000000000002,
+            0.0627
+          ],
+          "expected_mean_linear": [
+            0.24,
+            0.14,
+            0.05500000000000001
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.32,
+          "metallic": 0.78,
+          "variation": 0.14,
+          "noise_scale": 32,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 32,
+          "candidate_base_wavelength_m": 0.125,
+          "slug": "secondary_brushed_bronze",
+          "material_index": 87,
+          "primitive_count": 35,
+          "uses": [
+            {
+              "mesh": "Elevator 1 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 1 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 1 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 1 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 2 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 3 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 4 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 5 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Elevator 6 vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Restored elevator dial hand",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Restored elevator metal door faces",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Restored elevator transom dial marks",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary lantern cage",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary lantern equator",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary pendant ceiling roses",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary pendant collars",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary pendant ceiling roses.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary pendant collars.001",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary pendant ceiling roses.002",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Secondary pendant collars.002",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary brushed bronze",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0.7799999713897705,
+              "roughnessFactor": 0.3199999928474426
+            }
+          },
+          "inventory": {
+            "material": "Secondary brushed bronze",
+            "users": 35,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary conservation grille",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 38,
+          "source_call": "sec_material('Secondary conservation grille',(.018,.020,.019),.45,.55,.08,20)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.018,
+            0.02,
+            0.019
+          ],
+          "ramp_low_linear": [
+            0.01656,
+            0.0184,
+            0.01748
+          ],
+          "ramp_high_linear": [
+            0.01944,
+            0.0216,
+            0.02052
+          ],
+          "expected_mean_linear": [
+            0.018,
+            0.02,
+            0.019
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.45,
+          "metallic": 0.55,
+          "variation": 0.08,
+          "noise_scale": 20,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 20,
+          "candidate_base_wavelength_m": 0.2,
+          "slug": "secondary_conservation_grille",
+          "material_index": 93,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "East exit ramp dark conservation grille",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary conservation grille",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0.550000011920929,
+              "roughnessFactor": 0.44999998807907104
+            }
+          },
+          "inventory": {
+            "material": "Secondary conservation grille",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 1",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.016,
+            0.14,
+            0.24
+          ],
+          "ramp_low_linear": [
+            0.01456,
+            0.1274,
+            0.2184
+          ],
+          "ramp_high_linear": [
+            0.01744,
+            0.1526,
+            0.2616
+          ],
+          "expected_mean_linear": [
+            0.016,
+            0.14,
+            0.24
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_1",
+          "material_index": 94,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 1",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 1",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 2",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.51,
+            0.35,
+            0.035
+          ],
+          "ramp_low_linear": [
+            0.4641,
+            0.3185,
+            0.03185
+          ],
+          "ramp_high_linear": [
+            0.5559000000000001,
+            0.3815,
+            0.03815
+          ],
+          "expected_mean_linear": [
+            0.51,
+            0.35,
+            0.035
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_2",
+          "material_index": 95,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.001",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 2",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 2",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 3",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.35,
+            0.06,
+            0.022
+          ],
+          "ramp_low_linear": [
+            0.3185,
+            0.0546,
+            0.02002
+          ],
+          "ramp_high_linear": [
+            0.3815,
+            0.0654,
+            0.02398
+          ],
+          "expected_mean_linear": [
+            0.35,
+            0.06,
+            0.022
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_3",
+          "material_index": 96,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.002",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 3",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 3",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 4",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.09,
+            0.11,
+            0.12
+          ],
+          "ramp_low_linear": [
+            0.0819,
+            0.10010000000000001,
+            0.1092
+          ],
+          "ramp_high_linear": [
+            0.0981,
+            0.1199,
+            0.1308
+          ],
+          "expected_mean_linear": [
+            0.09,
+            0.11000000000000001,
+            0.12
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_4",
+          "material_index": 97,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.003",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 4",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 4",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary original abstract marking 5",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 51,
+          "source_call": "sec_material('Secondary original abstract marking '+str(i+1),c,.95,0,.09,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.14,
+            0.22,
+            0.22
+          ],
+          "ramp_low_linear": [
+            0.1274,
+            0.20020000000000002,
+            0.20020000000000002
+          ],
+          "ramp_high_linear": [
+            0.1526,
+            0.2398,
+            0.2398
+          ],
+          "expected_mean_linear": [
+            0.14,
+            0.22000000000000003,
+            0.22000000000000003
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.95,
+          "metallic": 0,
+          "variation": 0.09,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_original_abstract_marking_5",
+          "material_index": 98,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.004",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary original abstract marking 5",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.949999988079071
+            }
+          },
+          "inventory": {
+            "material": "Secondary original abstract marking 5",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary conserved iron",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 32,
+          "source_call": "sec_material('Secondary iron rust' if AGED else 'Secondary conserved iron',(.14,.071,.035) if AGED else (.037,.046,.043),.73 if AGED else .36,.40 if AGED else .76,.36 if AGED else .08,40)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.037,
+            0.046,
+            0.043
+          ],
+          "ramp_low_linear": [
+            0.03404,
+            0.04232,
+            0.03956
+          ],
+          "ramp_high_linear": [
+            0.03996,
+            0.04968,
+            0.04644
+          ],
+          "expected_mean_linear": [
+            0.037000000000000005,
+            0.046,
+            0.043
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.36,
+          "metallic": 0.76,
+          "variation": 0.08,
+          "noise_scale": 40,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 40,
+          "candidate_base_wavelength_m": 0.1,
+          "slug": "secondary_conserved_iron",
+          "material_index": 99,
+          "primitive_count": 36,
+          "uses": [
+            {
+              "mesh": "Passenger ramp back grid windows jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back grid windows sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back grid windows transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back grid windows vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp back-window transoms",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp bridge raised fascia panels",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp bridge rivets",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp curved bridge haunches",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high bridge grid jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high bridge grid sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high bridge grid vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp high transoms",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp mezzanine bridge deck",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp mezzanine riveted fascia",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof chords",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof king posts",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof purlins",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp roof ties",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows jambs",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows sill and head",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows transom",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Passenger ramp side grid windows vertical divisions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage intermediate iron piers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage iron pier crossed lattice",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage long iron entablature",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage return entablature",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage return shallow iron arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage roof transverse iron members",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage roof-lantern eave rails",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage roof-lantern lower rails",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage roof-lantern mullions",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage roof-lantern ridge",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage roof-lantern sloped bars",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage west iron arcade arch",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage west lattice spandrel rail",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "Carriage west spandrel lattice",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary conserved iron",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0.7599999904632568,
+              "roughnessFactor": 0.36000001430511475
+            }
+          },
+          "inventory": {
+            "material": "Secondary conserved iron",
+            "users": 36,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary pale mineral grout",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 35,
+          "source_call": "sec_material('Secondary pale mineral grout',(.42,.45,.41),.9,0,.08,10)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.42,
+            0.45,
+            0.41
+          ],
+          "ramp_low_linear": [
+            0.3864,
+            0.41400000000000003,
+            0.3772
+          ],
+          "ramp_high_linear": [
+            0.4536,
+            0.48600000000000004,
+            0.4428
+          ],
+          "expected_mean_linear": [
+            0.42000000000000004,
+            0.45000000000000007,
+            0.41000000000000003
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.9,
+          "metallic": 0,
+          "variation": 0.08,
+          "noise_scale": 10,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 10,
+          "candidate_base_wavelength_m": 0.4,
+          "slug": "secondary_pale_mineral_grout",
+          "material_index": 100,
+          "primitive_count": 2,
+          "uses": [
+            {
+              "mesh": "West connecting corridor hex-tile grout bed",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West corridor glazed-tile wainscot bed",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary pale mineral grout",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.8999999761581421
+            }
+          },
+          "inventory": {
+            "material": "Secondary pale mineral grout",
+            "users": 2,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary ivory hex tile",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 36,
+          "source_call": "sec_material('Secondary ivory hex tile',(.65,.66,.59),.51,0,.075,36)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.65,
+            0.66,
+            0.59
+          ],
+          "ramp_low_linear": [
+            0.6012500000000001,
+            0.6105,
+            0.54575
+          ],
+          "ramp_high_linear": [
+            0.69875,
+            0.7095,
+            0.63425
+          ],
+          "expected_mean_linear": [
+            0.65,
+            0.66,
+            0.59
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.51,
+          "metallic": 0,
+          "variation": 0.075,
+          "noise_scale": 36,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 36,
+          "candidate_base_wavelength_m": 0.1111111111111111,
+          "slug": "secondary_ivory_hex_tile",
+          "material_index": 101,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "West connecting corridor original hex-tile geometry",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary ivory hex tile",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.5099999904632568
+            }
+          },
+          "inventory": {
+            "material": "Secondary ivory hex tile",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary glazed white ceramic",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 34,
+          "source_call": "sec_material('Secondary glazed white ceramic',(.72,.75,.71),.19,0,.035,15)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.72,
+            0.75,
+            0.71
+          ],
+          "ramp_low_linear": [
+            0.6948,
+            0.72375,
+            0.6851499999999999
+          ],
+          "ramp_high_linear": [
+            0.7451999999999999,
+            0.7762499999999999,
+            0.7348499999999999
+          ],
+          "expected_mean_linear": [
+            0.72,
+            0.75,
+            0.71
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.19,
+          "metallic": 0,
+          "variation": 0.035,
+          "noise_scale": 15,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 15,
+          "candidate_base_wavelength_m": 0.26666666666666666,
+          "slug": "secondary_glazed_white_ceramic",
+          "material_index": 102,
+          "primitive_count": 1,
+          "uses": [
+            {
+              "mesh": "West corridor glazed white subway tiles",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary glazed white ceramic",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.1899999976158142
+            }
+          },
+          "inventory": {
+            "material": "Secondary glazed white ceramic",
+            "users": 1,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        },
+        {
+          "name": "Secondary preserved west stair iron",
+          "era": "2026",
+          "source_module": "scripts/secondary_spaces.py",
+          "source_line": 387,
+          "source_call": "sec_material('Secondary preserved west stair iron',(.12,.092,.065),.83,.35,.32,24)",
+          "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+          "base_color_linear": [
+            0.12,
+            0.092,
+            0.065
+          ],
+          "ramp_low_linear": [
+            0.08159999999999999,
+            0.06255999999999999,
+            0.044199999999999996
+          ],
+          "ramp_high_linear": [
+            0.1584,
+            0.12144,
+            0.0858
+          ],
+          "expected_mean_linear": [
+            0.12,
+            0.092,
+            0.065
+          ],
+          "expected_mean_basis": "Symmetric ColorRamp endpoints evaluated at nominal Noise Fac 0.5; not a measured scene-wide procedural mean",
+          "roughness": 0.83,
+          "metallic": 0.35,
+          "variation": 0.32,
+          "noise_scale": 24,
+          "source_noise_detail": 3,
+          "source_noise_roughness": 0.5,
+          "source_coordinates": "Generated normalized by each original object bounds; no authored physical repeat",
+          "source_bump_distance_m": 0.002,
+          "source_bump_strength": 0.15,
+          "existing_uv_repeat_m": 4.0,
+          "candidate_base_cycles_per_repeat": 24,
+          "candidate_base_wavelength_m": 0.16666666666666666,
+          "slug": "secondary_preserved_west_stair_iron",
+          "material_index": 103,
+          "primitive_count": 12,
+          "uses": [
+            {
+              "mesh": "West preserved stair continuous visible underside",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair first flight risers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair first flight treads",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair intermediate landing",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair return balusters",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair return stringers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair return-flight risers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair return-flight treads",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair slim balusters",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair sloped stringers",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair turning landing",
+              "primitive": 0,
+              "has_uv0": true
+            },
+            {
+              "mesh": "West preserved stair upper wall-connected fragment landing",
+              "primitive": 0,
+              "has_uv0": true
+            }
+          ],
+          "actual_glb_material": {
+            "doubleSided": true,
+            "extras": {
+              "provenance": "Original procedural shader; no photographic texture"
+            },
+            "name": "Secondary preserved west stair iron",
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0.3499999940395355,
+              "roughnessFactor": 0.8299999833106995
+            }
+          },
+          "inventory": {
+            "material": "Secondary preserved west stair iron",
+            "users": 12,
+            "physical_repeat_m": null,
+            "provenance": null,
+            "physical_limit": null,
+            "texture_nodes": [],
+            "normal_map_nodes": []
+          },
+          "missing_color": true,
+          "missing_normal": true
+        }
+      ],
+      "unknown_default_white": [],
+      "all_used_materials": [
+        {
+          "name": "NP pale concrete",
+          "primitive_count": 7,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP bollard metal",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.2800000011920929,
+            0.28999999165534973,
+            0.27000001072883606,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP forecourt stone",
+          "primitive_count": 7,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP joint",
+          "primitive_count": 6,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.11500000208616257,
+            0.1120000034570694,
+            0.10000000149011612,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP forecourt paving",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP mulch",
+          "primitive_count": 4,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP asphalt",
+          "primitive_count": 2,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP warm aggregate",
+          "primitive_count": 2,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP black metal",
+          "primitive_count": 18,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.027000000700354576,
+            0.03400000184774399,
+            0.028999999165534973,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP turf",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP hydrant",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.23999999463558197,
+            0.07500000298023224,
+            0.05000000074505806,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP planter",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.04500000178813934,
+            0.04699999839067459,
+            0.03799999877810478,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP frosted lamp",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6200000047683716,
+            0.6299999952316284,
+            0.5400000214576721,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP grass blade",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.10100000351667404,
+            0.17000000178813934,
+            0.024000000208616257,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP grass plume",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.28999999165534973,
+            0.25999999046325684,
+            0.15000000596046448,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP bark",
+          "primitive_count": 8,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "NP leaf 0",
+          "primitive_count": 12,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.03999999910593033,
+            0.08500000089406967,
+            0.012000000104308128,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP leaf 1",
+          "primitive_count": 12,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.061000000685453415,
+            0.12600000202655792,
+            0.01899999938905239,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP leaf 2",
+          "primitive_count": 12,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.09399999678134918,
+            0.1509999930858612,
+            0.02800000086426735,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP flower 2",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.33000001311302185,
+            0.30000001192092896,
+            0.5199999809265137,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP flower 1",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.3799999952316284,
+            0.1899999976158142,
+            0.3400000035762787,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "NP flower 0",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6499999761581421,
+            0.6100000143051147,
+            0.47999998927116394,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Dark bronze",
+          "primitive_count": 94,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.07500000298023224,
+            0.05700000002980232,
+            0.039000000804662704,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Glass clear",
+          "primitive_count": 24,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.8799999952316284,
+            0.9399999976158142,
+            0.9700000286102295,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Exterior Indiana limestone",
+          "primitive_count": 39,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Window cast iron",
+          "primitive_count": 47,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.23999999463558197,
+            0.27000001072883606,
+            0.23999999463558197,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Roof dark copper",
+          "primitive_count": 7,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.03500000014901161,
+            0.04399999976158142,
+            0.03999999910593033,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Warm lamp glass",
+          "primitive_count": 10,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            0.7599999904632568,
+            0.4099999964237213,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Weathered concrete",
+          "primitive_count": 5,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Tower buff brick",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Tower recessed dark joint",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.06499999761581421,
+            0.057999998331069946,
+            0.04699999839067459,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower muted ornamental terra cotta",
+          "primitive_count": 54,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Tower 2015 replacement insulating glass",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6100000143051147,
+            0.7200000286102295,
+            0.7099999785423279,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower 2015 green gray painted frames",
+          "primitive_count": 32,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.2750000059604645,
+            0.32499998807907104,
+            0.3050000071525574,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower 2015 shallow green gray spandrels",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.3149999976158142,
+            0.36500000953674316,
+            0.3449999988079071,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Tower unobserved interior optical stop",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.01899999938905239,
+            0.02500000037252903,
+            0.02500000037252903,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Decorative plaster",
+          "primitive_count": 79,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Wood walnut",
+          "primitive_count": 27,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.04500000178813934,
+            0.017999999225139618,
+            0.00800000037997961,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Warm Mankato column stone",
+          "primitive_count": 62,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Glass tower blue",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.23999999463558197,
+            0.30000001192092896,
+            0.3100000023841858,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Hall scored decorative plaster",
+          "primitive_count": 11,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Dark void",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.014999999664723873,
+            0.01600000075995922,
+            0.014000000432133675,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Grand Hall floor assembly",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Guastavino buff tile",
+          "primitive_count": 3,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Rose Tennessee marble",
+          "primitive_count": 4,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse terracotta dressings 2026",
+          "primitive_count": 15,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse Flemish buff masonry 2026",
+          "primitive_count": 5,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse herringbone frieze 2026",
+          "primitive_count": 4,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse warm restored terrazzo",
+          "primitive_count": 7,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse bluegray terrazzo bands",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Concourse retained portal metal 2026",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.04100000113248825,
+            0.04800000041723251,
+            0.0430000014603138,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse restored portal glass",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.7900000214576721,
+            0.8500000238418579,
+            0.8799999952316284,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse 2026 inferred structural steel",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.05999999865889549,
+            0.06400000303983688,
+            0.05999999865889549,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse 2026 inferred fastener steel",
+          "primitive_count": 5,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.07800000160932541,
+            0.08100000023841858,
+            0.0729999989271164,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse restored roof glazing",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.8799999952316284,
+            0.9300000071525574,
+            0.949999988079071,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse restored opaque perimeter deck",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.05000000074505806,
+            0.050999999046325684,
+            0.04699999839067459,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Glass tower dark",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.10999999940395355,
+            0.17000000178813934,
+            0.18000000715255737,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study furniture oak",
+          "primitive_count": 12,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study brass",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.5400000214576721,
+            0.3700000047683716,
+            0.11999999731779099,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study panel walnut",
+          "primitive_count": 14,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study black steel",
+          "primitive_count": 6,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.017999999225139618,
+            0.02199999988079071,
+            0.017999999225139618,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study leaf 0",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.02500000037252903,
+            0.10000000149011612,
+            0.02500000037252903,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study leaf 1",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.03999999910593033,
+            0.1599999964237213,
+            0.03500000014901161,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study leaf 2",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.07500000298023224,
+            0.20000000298023224,
+            0.0430000014603138,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study cream ashlar",
+          "primitive_count": 8,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study panel highlight",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.07100000232458115,
+            0.0430000014603138,
+            0.026000000536441803,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study curtain",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6600000262260437,
+            0.5899999737739563,
+            0.46000000834465027,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study palm stem",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.1899999976158142,
+            0.28999999165534973,
+            0.11999999731779099,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study moss",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.08500000089406967,
+            0.14000000059604645,
+            0.028999999165534973,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study palm pale ring",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.47999998927116394,
+            0.5,
+            0.3499999940395355,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study scaled walnut parquet",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Study rug border",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.014000000432133675,
+            0.020999999716877937,
+            0.032999999821186066,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study tan leather",
+          "primitive_count": 3,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study bluegray wool",
+          "primitive_count": 6,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study green leather",
+          "primitive_count": 2,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study wine wool",
+          "primitive_count": 5,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study rug blue",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study rug green",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study rug gray",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Study rug brown",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "West restored warm ivory plaster",
+          "primitive_count": 45,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "West restored carved walnut",
+          "primitive_count": 28,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "West patinated pendant bronze",
+          "primitive_count": 9,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "West warm opaline glass",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.9599999785423279,
+            0.8399999737739563,
+            0.6100000143051147,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "West conserved walnut herringbone",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "West shallow plaster score shadow",
+          "primitive_count": 13,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "West restaurant observed unfinished slab",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary brushed bronze",
+          "primitive_count": 35,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Pale rose marble",
+          "primitive_count": 6,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Terrazzo",
+          "primitive_count": 4,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Secondary polished lobby marble",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Distress umber",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.08500000089406967,
+            0.06700000166893005,
+            0.03700000047683716,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Concourse buff brick",
+          "primitive_count": 11,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "Secondary conservation grille",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 1",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 2",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 3",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 4",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary original abstract marking 5",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary conserved iron",
+          "primitive_count": 36,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary pale mineral grout",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary ivory hex tile",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary glazed white ceramic",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Secondary preserved west stair iron",
+          "primitive_count": 12,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL mauve plaster",
+          "primitive_count": 4,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.36000001430511475,
+            0.23499999940395355,
+            0.2849999964237213,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL dark appliance",
+          "primitive_count": 19,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.017999999225139618,
+            0.01899999938905239,
+            0.019999999552965164,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL thin architectural glass",
+          "primitive_count": 8,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.949999988079071,
+            0.9750000238418579,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL stainless steel",
+          "primitive_count": 13,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.5199999809265137,
+            0.5600000023841858,
+            0.5699999928474426,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL mauve joinery",
+          "primitive_count": 10,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.4300000071525574,
+            0.28999999165534973,
+            0.3400000035762787,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL bronze perforated metal",
+          "primitive_count": 11,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.30000001192092896,
+            0.22499999403953552,
+            0.15000000596046448,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL yellow lamp",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            0.7799999713897705,
+            0.054999999701976776,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL pastry glaze",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.75,
+            0.49000000953674316,
+            0.28999999165534973,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL fluted dyed concrete",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.4000000059604645,
+            0.32499998807907104,
+            0.3400000035762787,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL pale veined solid-surface stone",
+          "primitive_count": 5,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "YL brass mesh",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.550000011920929,
+            0.3799999952316284,
+            0.09000000357627869,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL mustard yellow",
+          "primitive_count": 11,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.699999988079071,
+            0.5099999904632568,
+            0.00800000037997961,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL blue-white neon",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.3400000035762787,
+            0.7300000190734863,
+            1,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL timber ledges",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.33000001311302185,
+            0.17499999701976776,
+            0.0560000017285347,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL colored packaging green",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.04500000178813934,
+            0.30000001192092896,
+            0.15000000596046448,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL colored packaging coral",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6700000166893005,
+            0.0949999988079071,
+            0.05000000074505806,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL pink cabinet light",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            0.4399999976158142,
+            0.5799999833106995,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL colored packaging cyan",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.03500000014901161,
+            0.3400000035762787,
+            0.4699999988079071,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL white downlight",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            0.8399999737739563,
+            0.6399999856948853,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "YL polished mottled concrete",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "YL salvaged Mankato ocher segments",
+          "primitive_count": 1,
+          "has_color_texture": true,
+          "actual_factor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "has_normal_texture": true
+        },
+        {
+          "name": "YL white ceramic",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.8700000047683716,
+            0.8500000238418579,
+            0.7900000214576721,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR clock porcelain",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.8700000047683716,
+            0.8299999833106995,
+            0.6899999976158142,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR pale birch",
+          "primitive_count": 13,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6399999856948853,
+            0.5600000023841858,
+            0.41999998688697815,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR translucent rib panel",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6800000071525574,
+            0.6800000071525574,
+            0.5899999737739563,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR sage package",
+          "primitive_count": 5,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.1599999964237213,
+            0.30000001192092896,
+            0.1899999976158142,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR white package",
+          "primitive_count": 6,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.8500000238418579,
+            0.8500000238418579,
+            0.7699999809265137,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR coral package",
+          "primitive_count": 5,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.6200000047683716,
+            0.07000000029802322,
+            0.04800000041723251,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR light gray concrete",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.4000000059604645,
+            0.38499999046325684,
+            0.3400000035762787,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR charcoal ceiling",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.02199999988079071,
+            0.029999999329447746,
+            0.039000000804662704,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR neutral lamp",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            0.9100000262260437,
+            0.75,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR warm cream",
+          "primitive_count": 7,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.8299999833106995,
+            0.7699999809265137,
+            0.6299999952316284,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR teal package",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.014999999664723873,
+            0.4000000059604645,
+            0.3799999952316284,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR mustard package",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.7699999809265137,
+            0.47999998927116394,
+            0.04500000178813934,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR cobalt package",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.01899999938905239,
+            0.06499999761581421,
+            0.3700000047683716,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR amber cane",
+          "primitive_count": 3,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.3799999952316284,
+            0.20499999821186066,
+            0.05700000002980232,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR plant pot",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.02500000037252903,
+            0.02800000086426735,
+            0.02500000037252903,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "Foliage",
+          "primitive_count": 2,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.04500000178813934,
+            0.08500000089406967,
+            0.01600000075995922,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR exit red",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            1,
+            0.02500000037252903,
+            0.004999999888241291,
+            1
+          ],
+          "has_normal_texture": false
+        },
+        {
+          "name": "TR bronze label",
+          "primitive_count": 1,
+          "has_color_texture": false,
+          "actual_factor": [
+            0.5400000214576721,
+            0.36000001430511475,
+            0.11999999731779099,
+            1
+          ],
+          "has_normal_texture": false
+        }
+      ]
+    }
+  },
+  "unique_affected_names": [
+    "Secondary 2017 protective plywood",
+    "Secondary exposed ribbed substrate",
+    "Secondary iron rust",
+    "Secondary conservation grille",
+    "Secondary original abstract marking 1",
+    "Secondary original abstract marking 2",
+    "Secondary original abstract marking 3",
+    "Secondary original abstract marking 4",
+    "Secondary original abstract marking 5",
+    "West restored warm ivory plaster",
+    "West patinated pendant bronze",
+    "West shallow plaster score shadow",
+    "West restaurant observed unfinished slab",
+    "Secondary brushed bronze",
+    "Secondary conserved iron",
+    "Secondary pale mineral grout",
+    "Secondary ivory hex tile",
+    "Secondary glazed white ceramic",
+    "Secondary preserved west stair iron"
+  ],
+  "untouched_material_policy": "Only named sec_material and non-grain west_material graphs without an exportable color are candidates"
+}

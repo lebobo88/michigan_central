@@ -1,0 +1,251 @@
+{
+  "component": "The Study public lounge, former women's waiting room, Michigan Central Station",
+  "era": "Current public fit-out documented by completed-2025 project and 2026 published photography",
+  "status": "Photo- and plan-proportioned original 3D reconstruction, not a surveyed as-built digital twin",
+  "primary_source": "https://www.mergearchitects.com/projects/michigan-central-the-study/",
+  "plan_source": "https://www.neumannsmith.com/wp-content/uploads/2025/09/vision_scope2.jpg",
+  "primary_image_index": {
+    "wide_built_photographs": [
+      "01",
+      "02",
+      "03",
+      "10",
+      "11",
+      "18",
+      "19",
+      "20"
+    ],
+    "built_furniture_detail_or_staged_alternate_configuration": [
+      "06",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "design_drawings": [
+      "04",
+      "05",
+      "07",
+      "08",
+      "12"
+    ],
+    "top_view_visualization_not_treated_as_built_evidence": [
+      "09"
+    ],
+    "outside_this_room": [
+      "21",
+      "22"
+    ]
+  },
+  "dimensional_method": {
+    "station_anchor": "Historically documented Great Hall width 71.0184m, not a 2026 field survey",
+    "hns_plan_pixels_approximate": {
+      "hall_x_min": 84,
+      "hall_x_max": 1031,
+      "salon_inside_x_min": 1042,
+      "salon_inside_x_max": 1252,
+      "salon_inside_y_min": 180,
+      "salon_inside_y_max": 382
+    },
+    "scale_m_per_pixel": 0.07499303062302007,
+    "implied_salon_width_m": 15.748536430834212,
+    "implied_salon_depth_m": 15.148592185850053,
+    "implemented_net_bounds_m": {
+      "x": [
+        -52.1,
+        -36.16
+      ],
+      "y": [
+        4.95,
+        20.4
+      ],
+      "floor_z": 0.1,
+      "ceiling_z": 8.6344
+    },
+    "reason_for_small_difference": "Net bounds align the supplied shared exterior and 1.2m Great Hall end wall; dimension labels are not present on this HNS scope diagram",
+    "confidence": "High for room identity and published nominal28-foot ceiling description; medium-low for exact XY dimensions, height reference plane, decorative beam depths and global Z registration.",
+    "published_ceiling": {
+      "source": "https://www.neumannsmith.com/michigan-central-station-interior-fit-out/",
+      "section": "detail",
+      "reported_height_ft": 28,
+      "converted_height_m": 8.5344,
+      "modeled_finished_floor_z": 0.1,
+      "modeled_upper_plaster_coffer_plane_z": 8.6344,
+      "interpretation": "Nominal published height interpreted above finished floor; source does not specify coffer field versus beam soffit, exact Z datum, or a surveyed ceiling section. Beam depths are still photographically inferred.",
+      "verified_primary_text_date": "2026-10-06"
+    },
+    "east_window_centers_y_m": [
+      9.98,
+      13.94,
+      17.94
+    ],
+    "east_window_registration_source": "research/interior/retail_2026/HNS_COORDINATE_REGISTRATION.md",
+    "registration_uncertainty_m": [
+      0.3,
+      0.6
+    ],
+    "footprint_note": "Prior scene-aligned footprint retained unchanged for shared-shell integration; raster registration gives a nearby net outline, not authority for an isolated footprint shift.",
+    "east_window_schedule_correction": {
+      "glazed_source_pixel_y_ranges": [
+        [
+          238,
+          269
+        ],
+        [
+          291,
+          322
+        ],
+        [
+          344,
+          376
+        ]
+      ],
+      "glazed_centers_model_y_m": [
+        9.98,
+        13.94,
+        17.94
+      ],
+      "blind_bay_source_pixel_y_range": [
+        184,
+        215
+      ],
+      "blind_bay_model_y_range_m": [
+        4.78,
+        7.1
+      ],
+      "blind_bay_center_model_y_m": 5.94,
+      "superseded_centers": [
+        [
+          6.9166667,
+          11.95,
+          16.9833333
+        ],
+        [
+          7.18,
+          12.41,
+          17.57
+        ]
+      ],
+      "basis": "Final HNS source-pixel re-registration distinguishes doubled glazing linework from the solid northern arched niche; Historic Detroit post_p68 photograph visually corroborates three east glazed windows and a blind arch at the northeast corner.",
+      "niche_depth": "Shallow projecting surround only; depth is visually inferred. Solid shared backing retained.",
+      "reference_image": "research/interior/study_only/post_p68.jpg",
+      "photo_source": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+    }
+  },
+  "built_decisions": [
+    {
+      "feature": "Room identity",
+      "evidence": "HNS SALON scope over northeast former women's waiting room",
+      "confidence": "high"
+    },
+    {
+      "feature": "Three arched windows on each of two adjacent exterior elevations",
+      "evidence": "Study02,03,18 and05 design axon; matches HNS plan",
+      "confidence": "high",
+      "shared_shell": "Core owns glazing and exterior substrate; this module adds pierced thin interior facing and trim"
+    },
+    {
+      "feature": "Dark paneled timber dado with pale stone skirting, cream ashlar upper walls",
+      "evidence": "Study01,02,06,13,20",
+      "confidence": "high for material/organization; profile carving and stone sizes approximate"
+    },
+    {
+      "feature": "Parallel fine joists, broad transverse beams, opal pendant globes",
+      "evidence": "Study01,02,18,20",
+      "confidence": "high for form; exact spacing and count visually inferred"
+    },
+    {
+      "feature": "Oak central palm bar with broad brass rim, true central circular opening, four small planted openings and paired palm trunks",
+      "evidence": "Study06,10; diagrams07/08 support modular construction",
+      "confidence": "high for geometry class; diameters/positions visually inferred"
+    },
+    {
+      "feature": "Green curved-back stools on slender black frames",
+      "evidence": "Study06,10,18",
+      "confidence": "high for type; twelve instantiated seats are approximate arrangement"
+    },
+    {
+      "feature": "Blue-gray movable curved cushions on brass-inlaid oak multi-height modules",
+      "evidence": "Built detail series13\u201317",
+      "confidence": "high for constructed design; only one installed configuration per cluster modeled rather than all demonstrated alternate positions"
+    },
+    {
+      "feature": "Gray and wine rounded sofas, wine sculpted high-backed chairs, tan tub chairs, gray dining chairs, simple narrow oak coffee tables",
+      "evidence": "Study01,02,10,18,19,20",
+      "confidence": "high for observed types/colors; product dimensions and exact inventory unresolved"
+    },
+    {
+      "feature": "Freestanding square timber climbing-planter boxes with ceiling-suspended wire trellises",
+      "evidence": "Study01,02,06,13,18,20",
+      "confidence": "High for type; twelve instances reflect photographed window piers. Four east planters now align between the final three glazed windows and blind northern bay."
+    },
+    {
+      "feature": "Color-block woven rugs and flush walnut herringbone floor",
+      "evidence": "Study01,02,13,18,20",
+      "confidence": "high for material/layout class; original colors/pattern scale approximate"
+    },
+    {
+      "feature": "Solid blind arched east-wall bay north of three glazed windows",
+      "evidence": "Historic Detroit post_p68 photograph directly inspected; final HNS source-pixel range184..215",
+      "confidence": "High for blind-versus-glazed distinction; approximate center5.94m and shallow relief depth",
+      "geometry": "Solid ashlar field, visible shallow arch surround and low timber plinth. No glass, curtains, radiator or pierced core wall. Northern edge partially concealed by fixed north return."
+    }
+  ],
+  "module_inventory_not_surveyed": {
+    "palm_bar": 1,
+    "paired_palm_trunks": 8,
+    "green_stools": 12,
+    "modular_desks": 4,
+    "desk_and_module_chairs": 28,
+    "stepped_oak_module_clusters": 2,
+    "bluegray_cushions": 4,
+    "wine_lounge_chairs": 4,
+    "tan_tub_chairs": 4,
+    "rounded_sofas": 2,
+    "coffee_tables": 4,
+    "climbing_planters": 12,
+    "pendant_globes": 12
+  },
+  "omissions_and_uncertainty": [
+    "No hidden closets, toilets, back-of-house services, ceiling systems or concealed construction invented",
+    "No copyrighted artwork, branded book covers, website photo planes or projected reference textures included",
+    "Furniture placement interprets wide built photographs; no date-specific surveyed furniture inventory available",
+    "Exact carving, upholstery products, plant species and leaf geometry are approximate",
+    "Shared exterior window trim alignment requires integration QA in the full station model",
+    "Current southern door is modeled closed; hidden room beyond it is not fit out",
+    "No independent claim that design-diagram green upholstery survives in the built room; built gray palette takes precedence"
+  ],
+  "materials": {
+    "provenance": "Original deterministic procedural oak, fabric and ashlar PNGs plus original generated shared parquet texture; no reference pixels sampled",
+    "directory": "manifests/study_lounge/assets",
+    "generator": "manifests/study_lounge/make_original_materials.py",
+    "glb_compatibility": "Principled basecolor image maps with optional roughness maps; no unsupported procedural shader graph needed",
+    "parquet": "Study-only copy of existing original walnut herringbone material, repeat1.2m, visually inferred rather than measured; no shared material modified"
+  },
+  "integration": {
+    "module": "scripts/study_lounge.py",
+    "execution": "Only when AGED is false; exec in core batch namespace before batched geometry finish",
+    "group_restored": true,
+    "replace": "Remove old 2026 women-room block from interior_additions.py",
+    "cameras": "Merge STUDY_CAMERAS into main camera dictionary",
+    "external_walls_and_windows": "Core-owned; no exterior glazing duplicated by this module",
+    "postprocess_optional": "Smooth small upholstery side faces for nicer curved furniture; flat caps should remain flat"
+  },
+  "copyright_handling": "All reference JPEGs are study-only research sources and are not copied, embedded or projected into deliverables.",
+  "revision_2026_10_06": {
+    "changes": [
+      "Raised upper walls, ceiling fields, timber beams, brackets, pendant assemblies and trellis attachment wires to published nominal ceiling height",
+      "Aligned east window trim, radiator panels, curtains and dado exclusions with final registeredY9.98,13.94,17.94",
+      "Replaced equal-spacing east facing strips with variable intervals to eliminate gaps while retaining the same footprint",
+      "Added source-supported solid blind arched niche centeredY5.94; no fourth east window",
+      "Moved east climbing planters off the corrected apertures and onto intervening solid piers"
+    ],
+    "unchanged": [
+      "Window opening width2.4384m, height6.2484m, sillZ1.0m",
+      "Net footprint and finished floor",
+      "Furniture and plant canopies"
+    ],
+    "verification": "Python compilation passed. No Blender execution, isolated render or GLB export for ceiling and final east-aperture/niche corrections. Existing QA assets are pre-revision snapshots; integrated build must regenerate final artifacts."
+  }
+}

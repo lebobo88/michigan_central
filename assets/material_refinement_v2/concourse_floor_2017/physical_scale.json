@@ -1,0 +1,34 @@
+{
+  "authoring_extent_m": [
+    4.0,
+    4.0
+  ],
+  "scale_status": "inferred",
+  "texel_size_mm": 1.3020833333333333,
+  "grain_diameter_authored_mm": [
+    1.7,
+    10.5
+  ],
+  "grain_diameter_authored_median_mm": 4.194944274943902,
+  "scuff_length_authored_m": [
+    0.07,
+    0.18
+  ],
+  "scuff_width_authored_m": [
+    0.004,
+    0.012
+  ],
+  "normal_height_decode": {
+    "bit_depth": 16,
+    "type": "grayscale unsigned PNG",
+    "full_range_m": 0.0004,
+    "decode_m": "(uint16/65535 - 0.5) * 0.0004",
+    "actual_peak_to_peak_m": 7.398794696200639e-05,
+    "inferred": true,
+    "true_displacement_enabled": false
+  },
+  "normal_strength_recommended": 1.0,
+  "true_displacement": "disabled",
+  "floor_uv": "u=world.x/4; v=world.y/4 on horizontal faces; periodic offsets allowed",
+  "existing_uv_note": "The current cw_face supplies metric coordinates, and build_station.py divides by material.texture_repeat_m. Set that property to 4.0; do not divide twice."
+}

@@ -1,0 +1,9 @@
+{
+  "source_blend_sha256": "ff57f7c7d9202fdb819f86e5776106cfb7fcea9de09b58311f01c92867fe5764",
+  "era": "2017",
+  "triangles_tested": 2798267,
+  "collapsed_uv_triangles": 0,
+  "ratio": 0.0,
+  "objects": [],
+  "limit": "Finite nonzero triangle UV area is necessary but not sufficient for seam quality, physical scale, or distortion. This checks authored source before modifiers."
+}

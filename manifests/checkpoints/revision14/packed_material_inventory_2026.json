@@ -1,0 +1,6766 @@
+{
+  "era": "2026",
+  "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+  "file_images": 165,
+  "materials": 150,
+  "images": [
+    {
+      "name": "basecolor.png",
+      "users": 3,
+      "source": "assets/textures/limestone_restored/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 2108693,
+          "sha256": "6e80c168a400da16f208f543b135868d233b06f882a99f48878c4a4311bb972c"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.001",
+      "users": 1,
+      "source": "assets/textures/generated_mankato_v1/basecolor.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 3259132,
+          "sha256": "673cdf59183a9090068f30609eb598b8b1ad0660ae7f4fa2b3049383da56ab8a"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.002",
+      "users": 1,
+      "source": "assets/textures/plaster_restored/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 2181030,
+          "sha256": "198e127df4737aaee71e7e286e7d6f40d1895ffe848a9c2260811d23ff97913d"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.003",
+      "users": 1,
+      "source": "assets/textures/guastavino_restored/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 3045536,
+          "sha256": "4e43b16f7fd7502e2295bb3c766ef408265599137b6d35581d7065a578f20256"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.005",
+      "users": 1,
+      "source": "assets/textures/pale_marble/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 1023444,
+          "sha256": "465fab28a6c0bbf152cc161ff7afe28de65296a37501917299b42194e215f2ca"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.006",
+      "users": 1,
+      "source": "assets/textures/terrazzo/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 7848293,
+          "sha256": "3de855fcee9bc7485c9a5d8117cd864ee0462a7233dd06498b7f1767da7cd2e8"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.007",
+      "users": 0,
+      "source": "assets/textures/brick_v2_common/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 3167226,
+          "sha256": "52f656cd3111d932028678f073af5359b37eb0efb88593e5cce7841164c09157"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.008",
+      "users": 2,
+      "source": "assets/textures/brick_v2_buff/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 2877608,
+          "sha256": "39249b807a911aa20c9cd4cbecd41bf3b8f4da92777342eeeb82dfbce42b9bb5"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.009",
+      "users": 0,
+      "source": "assets/textures/grass/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 3163829,
+          "sha256": "f16549250b7fea3dea6eaf18b0156699145824e77e996aec40d77d15b2988875"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.010",
+      "users": 1,
+      "source": "assets/textures/dust_concrete/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 4008567,
+          "sha256": "4d86b00a8a99b4ec60d2f39ece8c8e3ff6cb399b7059d20ccee593105a07e5e6"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.012",
+      "users": 1,
+      "source": "assets/textures/hall_scored_plaster/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 2159906,
+          "sha256": "6236c92016f784faef6fc6f0c1efd235f01ad7a5c4e39f8225c76b443af34945"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.013",
+      "users": 2,
+      "source": "assets/textures/generated_walnut_herringbone_v1/basecolor.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 2800313,
+          "sha256": "f541882662002d5abd3e99f4e383c5a8cf47d05e2718cca13686b4ec61c1ca04"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.014",
+      "users": 2,
+      "source": "assets/material_refinement_v2/rose_marble_polished/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 1984139,
+          "sha256": "b9e01a549c958c257e06b388fd6daf9bac7f2be28ace959e22e298f3e6098c5a"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.015",
+      "users": 1,
+      "source": "assets/material_refinement_v2/great_hall_floor_2026/basecolor.png",
+      "pixels": [
+        3072,
+        3072
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 7522888,
+          "sha256": "7472903b9d57018cf76a561bf9089464e49f19a9792dc1e91bae9f66b60cdcca"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.016",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/flemish_buff_2026/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 766700,
+          "sha256": "139758c998ed445d28bc0a9bd026a5c9cbc9e04e98549b9d42f92d2f6cc63216"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.017",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/herringbone_buff_2026/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 667014,
+          "sha256": "4f4ba05d9247b3c9d48c85315832f7138ac65e92701bbbb373630fd07adecdb7"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.018",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terracotta_2026/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 756661,
+          "sha256": "e331349a3a625e4ca30efbd88e89651c5893f4b620b7d7ba949fff04a82c785e"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.019",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_warm/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 1151099,
+          "sha256": "d491382fbd28fc69d74e3f2049ebbda88810468f9da0b36b4b27718f8b3038d9"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.020",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_bluegray/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 1055081,
+          "sha256": "b0b106bd1b1ee7591dd1509363434199a363d943c5b7803b9f91ef68ac0c99b1"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.021",
+      "users": 1,
+      "source": "assets/textures/original_walnut_longgrain/basecolor.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 409187,
+          "sha256": "0f0135a9fbab34febfdccc1c9c478365cdd45256006b09d72146e1c0d753a12f"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.022",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_pale_counter/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 294866,
+          "sha256": "8b65fcc2570294da776e5abfa5b643a58d75318735b1616d963886c1513cacb3"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.023",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_polished_concrete/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 646997,
+          "sha256": "1c4437f8a400132d3d23a8663f32453a89b9c97666b133234d30a3a1899581a8"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.024",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_salvaged_ocher/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 988350,
+          "sha256": "cc79c41bac532f0203ab64edc339f1e5dc14b36337105d4c6551efaf8775b588"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.025",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_pale_concrete/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 708780,
+          "sha256": "47bf4aa95564d19514ef8bf3796b0559cdc66390eb6e0430c5cabb5baf220cb5"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.026",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_warm_aggregate/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 710066,
+          "sha256": "8f0fc166a2a1eaba28bba169bff03687eb02e9aa4f23a8fae8300cb97356a54e"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.027",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_asphalt/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 860239,
+          "sha256": "6981a83b8aa5e7c6afe52c476b2bf7a5b80da869f9733d2dd578be9f4288cbd2"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.028",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_turf/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 1292015,
+          "sha256": "7cde08b29429c099d2ddd546dea900ef8089b15b0a7d002ee49842b71c17d0a3"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.029",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_mulch/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 708747,
+          "sha256": "dbd2d528eb4d091d428d6a36cf5345095daff368baca60fb583488741b1b01d8"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.030",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_bark/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 717610,
+          "sha256": "208d6066415dee1af06979e2b282d5dfa3af4238962fd5f63a62af47fbe47b34"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.031",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_forecourt_gray/basecolor.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 708919,
+          "sha256": "1a15fe91a6bb6683b0b184ee138a7e7c59fb36b05cd7c79977e688ab888482e5"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.032",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_brushed_bronze/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 177405,
+          "sha256": "745cfa801a563769912c1f4561b5137b87b501a5b5f118ca58b41d2dd583c569"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.033",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_conserved_iron/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 117360,
+          "sha256": "07e25734c1fcfe5a85b29e4c805ee5db2e1b7879c053593d2f8da95866d5d0db"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.034",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_glazed_white_ceramic/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 83068,
+          "sha256": "11ad2faa5eec7fdb503ca0785580fd30ba92719801ce5fda7bf4e4b423a6497c"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.035",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_pale_mineral_grout/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 97119,
+          "sha256": "44a6869018ad53bf3ae60e7447e90fe2945f62e48c08ad1652711ebcd7daf88d"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.036",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_ivory_hex_tile/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 165646,
+          "sha256": "75cb1d983bde0ef23e5752a4c60c26f7e5363a0e5c3d7931b9c99c70295626a7"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.037",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_conservation_grille/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 65269,
+          "sha256": "ac07cd78e109fcd9096255c36dc886918b8d0b9c3f6fcdd92f3873d2bc41ad50"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.038",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_preserved_west_stair_iron/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 195625,
+          "sha256": "dcb22947ac8a33c7763a1d09789824df8f552f52849ab06eedf02f9a4061c52f"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.039",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_1/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 76547,
+          "sha256": "685a55f2e0df25c3d461bc5ed38a48277d891cb79d7c0a6dd40b04cacae566e3"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.040",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_2/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 92933,
+          "sha256": "f21665b64692d2862ff97d3573d082d4a20d595171181d64cd14877d3ca674be"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.041",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_3/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 74743,
+          "sha256": "08fcc911c1f91e6e80ca95612eb872bbafbd8c2c267b62d0fa26f7d694087b3e"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.042",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_4/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 71365,
+          "sha256": "a3ffdeb300bd7223cfa6e0d5df3749b234352b45693102cb63a6951619d8b8cd"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.043",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_5/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 69768,
+          "sha256": "2d647d6be6c99b6dc47abec44541348e877a6a12d6c6db9a32beb12f9c56424d"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.044",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_restored_warm_ivory_plaster/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 140973,
+          "sha256": "dee7144f6ee46696b08c2d5e4c3e88c470766ab86dbcc9a137b5742a88af982a"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.045",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_shallow_plaster_score_shadow/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 116215,
+          "sha256": "8bdd45bf77bf75ff0f28e5f3d15d90a40275f14df141b3def50f4367ea9745d8"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.046",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_patinated_pendant_bronze/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 90003,
+          "sha256": "f2537615a7659ce7c19cfebc1474079cd04679703818f21c70569abfe39f318e"
+        }
+      ]
+    },
+    {
+      "name": "basecolor.png.047",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_restaurant_observed_unfinished_slab/basecolor.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 121195,
+          "sha256": "41d656c439268cb7fb82700bb7f4f020fb4399832d83c86faaed200b7262604f"
+        }
+      ]
+    },
+    {
+      "name": "bluegray_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/bluegray_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194528,
+          "sha256": "18eaa33c718a9e4f77725745296aedf223c00a236d1684935aa58890bd8e7322"
+        }
+      ]
+    },
+    {
+      "name": "cream_stone_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/cream_stone_color.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 654159,
+          "sha256": "08f12e0a65af94c9b88ff003c352e5676e1dbbcbf80184f497382ed8c78c3343"
+        }
+      ]
+    },
+    {
+      "name": "green_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/green_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194530,
+          "sha256": "093c4bba2dd59dbeac7778d6dfd8f43d39d80b0f48d1fb105076791bac7a86d3"
+        }
+      ]
+    },
+    {
+      "name": "height.png",
+      "users": 3,
+      "source": "assets/textures/limestone_restored/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 5933712,
+          "sha256": "31629fef1ef94beabed48a0aca8bfedc7bcb8856e1a5fbd032236231891b27d7"
+        }
+      ]
+    },
+    {
+      "name": "height.png.001",
+      "users": 1,
+      "source": "assets/textures/generated_mankato_v1/height.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2575431,
+          "sha256": "dc08f504a883136fa4ed8eae5198c0130981e97b4b10749282bb34705a106c30"
+        }
+      ]
+    },
+    {
+      "name": "height.png.002",
+      "users": 1,
+      "source": "assets/textures/plaster_restored/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 5933712,
+          "sha256": "31629fef1ef94beabed48a0aca8bfedc7bcb8856e1a5fbd032236231891b27d7"
+        }
+      ]
+    },
+    {
+      "name": "height.png.003",
+      "users": 1,
+      "source": "assets/textures/guastavino_restored/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 70532,
+          "sha256": "58e7b818006101c2c686be78a2e5abb9af2cab113c7b13a64fc154c6658a1f42"
+        }
+      ]
+    },
+    {
+      "name": "height.png.005",
+      "users": 1,
+      "source": "assets/textures/pale_marble/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 163131,
+          "sha256": "fdccf5586beff4218e89194b39e7812f12d2b27e5518d7eb08552735061c1b85"
+        }
+      ]
+    },
+    {
+      "name": "height.png.006",
+      "users": 1,
+      "source": "assets/textures/terrazzo/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 7654751,
+          "sha256": "0581f2a5e6e29a7c3501947af894848dd2913cee83ba2c40a6537adc23b89691"
+        }
+      ]
+    },
+    {
+      "name": "height.png.007",
+      "users": 0,
+      "source": "assets/textures/brick_v2_common/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 6172689,
+          "sha256": "450a4013ce1a9dd6443ee0d4885c832ca1adba184f9dbaaf70b674461c2464cf"
+        }
+      ]
+    },
+    {
+      "name": "height.png.008",
+      "users": 2,
+      "source": "assets/textures/brick_v2_buff/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 6172689,
+          "sha256": "450a4013ce1a9dd6443ee0d4885c832ca1adba184f9dbaaf70b674461c2464cf"
+        }
+      ]
+    },
+    {
+      "name": "height.png.009",
+      "users": 0,
+      "source": "assets/textures/grass/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 6031550,
+          "sha256": "bedcaa3a9db35ec6d79dcc418dad1f25f81f0a3359138e4c52c849547e486de1"
+        }
+      ]
+    },
+    {
+      "name": "height.png.010",
+      "users": 1,
+      "source": "assets/textures/dust_concrete/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 6581324,
+          "sha256": "f62d303cef9698faaa24495b19e53a9f101eb0fba86f33fcfba00cab81412e66"
+        }
+      ]
+    },
+    {
+      "name": "height.png.012",
+      "users": 1,
+      "source": "assets/textures/hall_scored_plaster/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 7044581,
+          "sha256": "8f12d3f011b1e4226ee85bc002c326ac912fdabe6aa520e7e4db3904c2337cf4"
+        }
+      ]
+    },
+    {
+      "name": "height.png.013",
+      "users": 2,
+      "source": "assets/textures/generated_walnut_herringbone_v1/height.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 5886,
+          "sha256": "bebd4d9cafbbb442c7aacd5351ec96357ea4217ed9f11fb521428e490f7e891f"
+        }
+      ]
+    },
+    {
+      "name": "height.png.014",
+      "users": 2,
+      "source": "assets/material_refinement_v2/rose_marble_polished/height.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 12895,
+          "sha256": "16809dc2b8102ba2158243c5c2159f755a74ec87a8f77b2883bfbab6cb8f4445"
+        }
+      ]
+    },
+    {
+      "name": "height.png.015",
+      "users": 1,
+      "source": "assets/material_refinement_v2/great_hall_floor_2026/height.png",
+      "pixels": [
+        3072,
+        3072
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 25246,
+          "sha256": "dfedb13df36e23ba51155923cbf2aa8517619b8b375ed71c8ef2de4273db0b3e"
+        }
+      ]
+    },
+    {
+      "name": "height.png.016",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/flemish_buff_2026/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1195855,
+          "sha256": "e1b0a443aceea12c60b282af433bc43a6cd3c2ed92bf8d7b5746745757f86f3b"
+        }
+      ]
+    },
+    {
+      "name": "height.png.017",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/herringbone_buff_2026/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 17034,
+          "sha256": "83be300152c8f4e1a474e63bf206a5fea6d168abb0b63d77c3bd013b0423c484"
+        }
+      ]
+    },
+    {
+      "name": "height.png.018",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terracotta_2026/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1193714,
+          "sha256": "345f00a01cfcd8465a8145a153dfac0dcabd9d5b6d861e4c428754d4cdf929b8"
+        }
+      ]
+    },
+    {
+      "name": "height.png.019",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_warm/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1044812,
+          "sha256": "1d9978daa739e0e5b44ccfeba934312bbccf5566e3aaadeb8e6302ea05bf2c51"
+        }
+      ]
+    },
+    {
+      "name": "height.png.020",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_bluegray/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1044812,
+          "sha256": "1d9978daa739e0e5b44ccfeba934312bbccf5566e3aaadeb8e6302ea05bf2c51"
+        }
+      ]
+    },
+    {
+      "name": "height.png.021",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_pale_counter/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1440852,
+          "sha256": "79f9d005eeb91556d5342a4c8a4483a1732bdab04175bbbe9cfe4657566cdf90"
+        }
+      ]
+    },
+    {
+      "name": "height.png.022",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_polished_concrete/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1649950,
+          "sha256": "a246dfd739d5737088cabb378c26e6d08f9742fa624b382fe232d84105109abd"
+        }
+      ]
+    },
+    {
+      "name": "height.png.023",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_salvaged_ocher/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1781545,
+          "sha256": "b1e04b4d17398323dbd771853d1d9ef935c170dd27aa3acffde5585d0ea8f237"
+        }
+      ]
+    },
+    {
+      "name": "height.png.024",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_pale_concrete/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2012965,
+          "sha256": "0417eb1ee5cf46e39483624dfe8cb4420528886c9b7b60bfb59a5863128db34a"
+        }
+      ]
+    },
+    {
+      "name": "height.png.025",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_warm_aggregate/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2012973,
+          "sha256": "b40ba39a313c70e39e97efd7a5f0ad9e48cc0b916985a8e8fc7c665d81c4339e"
+        }
+      ]
+    },
+    {
+      "name": "height.png.026",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_asphalt/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2012906,
+          "sha256": "bc6ec151b3837e8bb4d950ee7e450607ffd55be4474e2a801bffec082c5f0280"
+        }
+      ]
+    },
+    {
+      "name": "height.png.027",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_turf/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2012914,
+          "sha256": "9cfcbfd9aa2a811614e80694c41a5018004edbf53bc8ba2cab0b000c08e4b227"
+        }
+      ]
+    },
+    {
+      "name": "height.png.028",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_mulch/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2013130,
+          "sha256": "b14550bf65e59add03b7fb003017d82f3bebd90f2c6f77f00f3017af7d6bee07"
+        }
+      ]
+    },
+    {
+      "name": "height.png.029",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_bark/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2013471,
+          "sha256": "2f243a91a00a8c128282d8c42e0b3885f2797bc763fe23d14a90c1582c59e409"
+        }
+      ]
+    },
+    {
+      "name": "height.png.030",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_forecourt_gray/height.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2012852,
+          "sha256": "b6cdd087f160d6b48682f7c2482fb4438bdd511a6bbfe7252f6f1340a3a8b738"
+        }
+      ]
+    },
+    {
+      "name": "kloofendal_48d_partly_cloudy_4k.exr",
+      "users": 1,
+      "source": "assets/environment/kloofendal_48d_partly_cloudy_4k.exr",
+      "pixels": [
+        4096,
+        2048
+      ],
+      "colorspace": "Linear Rec.709",
+      "packed_payloads": [
+        {
+          "bytes": 22168408,
+          "sha256": "bf53ca0fcd2ebdba385619a761a966eeee4b7b54c610c375132b00234dcf182b"
+        }
+      ]
+    },
+    {
+      "name": "normal.png",
+      "users": 3,
+      "source": "assets/textures/limestone_restored/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 4963315,
+          "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.001",
+      "users": 1,
+      "source": "assets/textures/generated_mankato_v1/normal.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 810113,
+          "sha256": "66af83af76f95e195c7bd17df195553853ce4f838bc2d83fef1b0be065fb0685"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.002",
+      "users": 1,
+      "source": "assets/textures/plaster_restored/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 4963315,
+          "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.003",
+      "users": 1,
+      "source": "assets/textures/guastavino_restored/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 81252,
+          "sha256": "16228f2dfecfbe7065c0a4c7a2ab8937f25adccaf9936d13abbde0ab41108be5"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.005",
+      "users": 1,
+      "source": "assets/textures/pale_marble/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 61619,
+          "sha256": "924714d4ce7d2c6a58b8edaffdbe4641e14cc6874237e90a2eb3b15ee3d6d773"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.006",
+      "users": 1,
+      "source": "assets/textures/terrazzo/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 11695090,
+          "sha256": "75a9cb32c9532266c9a5dec35b9a7faba50ff2af533e41471f2d5955ef679b1d"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.007",
+      "users": 0,
+      "source": "assets/textures/brick_v2_common/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 5671596,
+          "sha256": "ddda26a762f110fe03488fc53533c2cf798200bfa55a422b537760217b36d72f"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.008",
+      "users": 2,
+      "source": "assets/textures/brick_v2_buff/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 5671596,
+          "sha256": "ddda26a762f110fe03488fc53533c2cf798200bfa55a422b537760217b36d72f"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.009",
+      "users": 0,
+      "source": "assets/textures/grass/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2921898,
+          "sha256": "5e172fc77b0762be37049ca341af39e538f7ae27ddf3fe4d8b0a7fe170a0f6b4"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.010",
+      "users": 1,
+      "source": "assets/textures/dust_concrete/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 7333743,
+          "sha256": "a149f810c1e5f82988cd758b008e45ee08fef1c2753f5c1e234f535e5c7444b4"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.012",
+      "users": 1,
+      "source": "assets/textures/hall_scored_plaster/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2570293,
+          "sha256": "fe637a5feb9fccad8c163ac832a7138dd68abdba451c7dd1e0afed458bbcfb18"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.013",
+      "users": 2,
+      "source": "assets/textures/generated_walnut_herringbone_v1/normal.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 7453,
+          "sha256": "1e7327b78db454f5cde81bdf4752ce0c7ffc7e2c6a4407f1914c965e5b4c7f34"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.014",
+      "users": 2,
+      "source": "assets/material_refinement_v2/rose_marble_polished/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 16912,
+          "sha256": "e8a7c51e5513cb6989ebc7494110b2f6b9a92cf28d24767ea6ee564916d2b568"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.015",
+      "users": 1,
+      "source": "assets/material_refinement_v2/great_hall_floor_2026/normal.png",
+      "pixels": [
+        3072,
+        3072
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 34807,
+          "sha256": "5156c1898c7c1ee631480e4e3184193cae183e6198ab2ddb63ce6a4c2dc5dc1a"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.016",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/flemish_buff_2026/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 613540,
+          "sha256": "0799a62556461702881ede4bebdc77faf6e648019f753fe4a01a1614de37e8b5"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.017",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/herringbone_buff_2026/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 26828,
+          "sha256": "9ff3d31c6cad5c6b4b709ce155934b570fdf9c0938fad6f954ee856fc08ecb0e"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.018",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terracotta_2026/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 696857,
+          "sha256": "4285169b0d5a0b9f94e8339abf0af7571f88d6999ae07537dcf33cf7fa754587"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.019",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_warm/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 51443,
+          "sha256": "c78234920775b3cde61d5461cc0f61afd07a7b25ba836d5233303d1b0319b571"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.020",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_bluegray/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 51443,
+          "sha256": "c78234920775b3cde61d5461cc0f61afd07a7b25ba836d5233303d1b0319b571"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.021",
+      "users": 1,
+      "source": "assets/textures/original_walnut_longgrain/normal.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 203067,
+          "sha256": "974fa75280a6bbc8d2d9fb1ef490514b2b7a7ace34ad7a55cf58d38a6f00968d"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.022",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_pale_counter/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 583934,
+          "sha256": "6c4441edcd4b79635b2e92e234bf5c6b5a3a885bdd95c8c50acdb1660619f76c"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.023",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_polished_concrete/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1170172,
+          "sha256": "944f46e32a08db1403beba9a2efbf4a33b88c5750952e0b660347cc805aeb6c4"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.024",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_salvaged_ocher/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1880022,
+          "sha256": "e958dff0122150248bb60eddfd8a08c327b2f7730bed5d4a5f00aa6c862df992"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.025",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_pale_concrete/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1222518,
+          "sha256": "750aa1f88c2efc51a9b31c386e35fc97bcf20397b66d6cf54c8fc020eed66016"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.026",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_warm_aggregate/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1598497,
+          "sha256": "dbe14384395cbb7c7c45632e9a916124f8665a61c27609e5829ab0391ba12cd0"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.027",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_asphalt/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1357014,
+          "sha256": "83347fa9616a34cf02898bf44b1b51836c667e2a02ab66bb22a2298af2459c24"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.028",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_turf/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1316345,
+          "sha256": "d729242c0c0133d30eb492f8a36318f8b58a4f2bab6695f1f2317d373a492c15"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.029",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_mulch/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2117061,
+          "sha256": "fa1331f2dbf6fdd8f0d79d40de4949b24dd742147a198ae7cd90a28f02abe3b5"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.030",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_bark/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 2372845,
+          "sha256": "efd8af554878b098d61a7105636e17906946b7264e693ae232312fee1c3b305c"
+        }
+      ]
+    },
+    {
+      "name": "normal.png.031",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_forecourt_gray/normal.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1222491,
+          "sha256": "907f76f49bf19c6de8b7243826bc00caa63f411c810237d650a270d113f435e8"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_brushed_bronze/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 99717,
+          "sha256": "cb94d44512cd325ab34b2f8921dfeca6d5341c4d89eca766d724ea9417979a3b"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.001",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_conserved_iron/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 95757,
+          "sha256": "36c345ce137713c7da57cafbc0d8cd3744a0b1b08b7137ab705906b41a6946cb"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.002",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_glazed_white_ceramic/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 75091,
+          "sha256": "5c403037d035835f4048fd70b18b4701daa093e05331cbb5833d49bd4dc0b101"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.003",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_pale_mineral_grout/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 59848,
+          "sha256": "4a918151f24e45e70ed97ed48d944d15476e6d22f4a264ff82229334114fd0db"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.004",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_ivory_hex_tile/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 91135,
+          "sha256": "b83206fdd70aa72eb5d48055bff5307045e4e1bb57d9ddd7447e5d53c16c91d2"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.005",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_conservation_grille/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 86185,
+          "sha256": "aae058f66b8f1f392ec08ff57a6765c09f8a37999c7b64edbaa7de849497748e"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.006",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_preserved_west_stair_iron/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 92246,
+          "sha256": "2e901e4497d801158e8a54154d26b3edc114adf6bcd4ec74c615b121fb6a90f8"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.007",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_1/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 59131,
+          "sha256": "c88a32fc336c7e4add0289861fa161ecb9512d8bb5f4d9513b77e9a07718e918"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.008",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_2/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 59187,
+          "sha256": "7cf4acbc084584776a529ec08ce11c4cea55badc975c737b67b5610360eb6637"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.009",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_3/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 59047,
+          "sha256": "8045f411a6dc4d770417ffc73252bc35f5e9d8677c1ad65926d3a120ecff011e"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.010",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_4/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 58951,
+          "sha256": "0bd42df1d678cacc5690b849ac6959d8f7c1401992b7674467c4c20aba29b3f3"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.011",
+      "users": 1,
+      "source": "assets/portable_public_finishes/secondary_original_abstract_marking_5/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 59370,
+          "sha256": "6e6242cbc44dccf093b80906e6969a5c2d79baee9c601c0788d791d9be0d9f1e"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.012",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_restored_warm_ivory_plaster/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 96902,
+          "sha256": "e63df363c6430daa40d16d6f9f3e8497cdc67985c04f1ea1a406f9a3b5a82ae1"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.013",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_shallow_plaster_score_shadow/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 96361,
+          "sha256": "52f4ee9aa5bb90e54919f806e110eed4f9b6b7714cb2642323d7632603753293"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.014",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_patinated_pendant_bronze/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 96761,
+          "sha256": "fd231f9840614e840e57a2e3cca3b41349943cfbab151fe12258704c8a485904"
+        }
+      ]
+    },
+    {
+      "name": "normal_2026.png.015",
+      "users": 1,
+      "source": "assets/portable_public_finishes/west_restaurant_observed_unfinished_slab/normal_2026.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 96446,
+          "sha256": "c0c8c0fde5e241c8d9ce1fb35417a4bab3918ac1f78528913b055cdbc967f074"
+        }
+      ]
+    },
+    {
+      "name": "oak_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/oak_color.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 997902,
+          "sha256": "7ef0105157833d25d66792c1f48c4abc819dc74f21aec3a7cf19dff15d9da791"
+        }
+      ]
+    },
+    {
+      "name": "oak_rough.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/oak_rough.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 459739,
+          "sha256": "3ebc89b48da1c86bf97260e9dcd1d2c6eb3e7490fb3cc59dd716f7f1bab41766"
+        }
+      ]
+    },
+    {
+      "name": "panel_walnut_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/panel_walnut_color.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 997904,
+          "sha256": "04c8b1d8f95ea3ddcfd9d1003a58b446b9fa72ac7c80000f263f96655c1919ba"
+        }
+      ]
+    },
+    {
+      "name": "panel_walnut_rough.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/panel_walnut_rough.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 459739,
+          "sha256": "3ebc89b48da1c86bf97260e9dcd1d2c6eb3e7490fb3cc59dd716f7f1bab41766"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png",
+      "users": 3,
+      "source": "assets/textures/limestone_restored/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1781614,
+          "sha256": "7636e25c03662454350e569056aa5ae3e80362af9ba22c17d6080d3099a63321"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.001",
+      "users": 1,
+      "source": "assets/textures/generated_mankato_v1/roughness.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 474266,
+          "sha256": "5010911fff3c64959fd4fbad2ac4d61d5c0d408a814eb433c551b8496f0f9350"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.002",
+      "users": 1,
+      "source": "assets/textures/plaster_restored/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1781614,
+          "sha256": "7636e25c03662454350e569056aa5ae3e80362af9ba22c17d6080d3099a63321"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.003",
+      "users": 1,
+      "source": "assets/textures/guastavino_restored/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1133933,
+          "sha256": "b23b68406ef5bbd03845e72acc6cdc2a499b2eff34ffbdf29b6e6d8ea33bfc28"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.005",
+      "users": 1,
+      "source": "assets/textures/pale_marble/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 275324,
+          "sha256": "541d4d254146ca6e51192b3666e9b3e470e8f6cb6be096aaafbf0131106b3f9c"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.006",
+      "users": 1,
+      "source": "assets/textures/terrazzo/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1198147,
+          "sha256": "006b5d0a0cc751162be98a2e4c1248422152985ba9b3beee8d9d22d7fc6e8396"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.007",
+      "users": 0,
+      "source": "assets/textures/brick_v2_common/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 611421,
+          "sha256": "25c4e2c7cf218cfdf56ff65662f06000b273bf78dc16e61283c0d763f56e4834"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.008",
+      "users": 2,
+      "source": "assets/textures/brick_v2_buff/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 611421,
+          "sha256": "25c4e2c7cf218cfdf56ff65662f06000b273bf78dc16e61283c0d763f56e4834"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.009",
+      "users": 0,
+      "source": "assets/textures/grass/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 274578,
+          "sha256": "5f5874f7d5dda2ae77b4142579fa18db75aa9149eda58bf58d241646571c59b3"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.010",
+      "users": 1,
+      "source": "assets/textures/dust_concrete/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1193341,
+          "sha256": "a5512ae8f8f1e28ca875db97ee15dd82e09331e90c7759873cf112657c8bc709"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.012",
+      "users": 1,
+      "source": "assets/textures/hall_scored_plaster/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1994650,
+          "sha256": "8367334cc41e428c28bc087db55bfb6a056d223708b12e63abda363c8289583a"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.013",
+      "users": 2,
+      "source": "assets/textures/generated_walnut_herringbone_v1/roughness.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 370684,
+          "sha256": "8cba64f8f0c542c708022a84ddf3d6598ccab0acc9a423070a6e446c0d3c82b9"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.014",
+      "users": 2,
+      "source": "assets/material_refinement_v2/rose_marble_polished/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 386632,
+          "sha256": "7addeef22df563ed0d62619b64d87f24ac3a6fe4c94b818f71dd01f521f15673"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.015",
+      "users": 1,
+      "source": "assets/material_refinement_v2/great_hall_floor_2026/roughness.png",
+      "pixels": [
+        3072,
+        3072
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 1449501,
+          "sha256": "639b40bac86b5bcbdb15feb1c89e87d02c890e8446969bdd3d85cdcf9e1ee715"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.016",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/flemish_buff_2026/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 761497,
+          "sha256": "c9fa951be178e6b2754597fbcdc9302aff658fc148778a6adfb35d94f4c32d12"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.017",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/herringbone_buff_2026/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 711537,
+          "sha256": "304a3b4658a2a65e3f404b4f3cd91da3b82d56416bc04264c74184c634bb90fc"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.018",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terracotta_2026/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 745906,
+          "sha256": "cf61667857c6600040b62b6751b2be8a4ef0e836607ff92eaaa207c7ba13995d"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.019",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_warm/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 615582,
+          "sha256": "08cbc9ed67bcf7085d5f59152d3afa0324d9d74eb27cea2ce5d1f0e8a303d045"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.020",
+      "users": 1,
+      "source": "assets/textures/concourse_walls_detail/terrazzo_bluegray/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 615582,
+          "sha256": "08cbc9ed67bcf7085d5f59152d3afa0324d9d74eb27cea2ce5d1f0e8a303d045"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.021",
+      "users": 1,
+      "source": "assets/textures/original_walnut_longgrain/roughness.png",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 228896,
+          "sha256": "f6226486c9856b830858b1920d989dd073909a6f9fc43b9738b3b3469c6bd1a2"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.022",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_pale_counter/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 135334,
+          "sha256": "4e44882f1459b614c2d4541ae26bb481c797f5fbc7fbdc67e294e2db807ad045"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.023",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_polished_concrete/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 341273,
+          "sha256": "a15e4dd6567715574df1057d0b57c95afb96e6fbecc2301a195909f52ddb323b"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.024",
+      "users": 1,
+      "source": "manifests/current_fitouts/materials/yl_salvaged_ocher/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 441901,
+          "sha256": "281d2080271da0ef9770d05822d0bd8f30142507b1f1b1f04bd134b6252f4cc0"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.025",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_pale_concrete/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 570854,
+          "sha256": "93b792c8ceed2ac44a039ecfb4a657db015c7ca84810a2a756f55fac703a0ffb"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.026",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_warm_aggregate/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 570884,
+          "sha256": "3fdf4f6dd5635e41cc32d690dc88fe4d469e733ee96cece1139c83904019a98c"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.027",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_asphalt/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 570740,
+          "sha256": "2a79dc60f766720fff3f2285436298633ea66eeab10e07d12b3094bb89a3de03"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.028",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_turf/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 570416,
+          "sha256": "178560b439164227f23e63efb510a32c36ab2a40713c4eb3f73723e13d3bdbcd"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.029",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_mulch/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 568926,
+          "sha256": "a8b56efa2a1ddcb015781513beb92e8f60afa738f77d0642a62cca3b509bb384"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.030",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_bark/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 570954,
+          "sha256": "479132d13d1d7f8b52428ca3d7584cb41177463c7a6102ffbec8a5b7dcd3be03"
+        }
+      ]
+    },
+    {
+      "name": "roughness.png.031",
+      "users": 1,
+      "source": "assets/north_plaza/textures/np_forecourt_gray/roughness.png",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed_payloads": [
+        {
+          "bytes": 570863,
+          "sha256": "195cde1de2a30644046fe3644c068c2e6e071d4ffbbb2a5bce582fc32adf1d04"
+        }
+      ]
+    },
+    {
+      "name": "rug_blue_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/rug_blue_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194528,
+          "sha256": "4e04fd783d641927f6450880075b48919a4ff714c305eba4c9001257cc8f13bf"
+        }
+      ]
+    },
+    {
+      "name": "rug_brown_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/rug_brown_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194510,
+          "sha256": "73ad60ba5158b7bb4bf63d768367f17d73be47de40fecc7f087e340309981894"
+        }
+      ]
+    },
+    {
+      "name": "rug_gray_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/rug_gray_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194529,
+          "sha256": "33f0e0568ab015bc4f582c678c1db81c15fc762be82395fa8cdfaecc38d438b9"
+        }
+      ]
+    },
+    {
+      "name": "rug_green_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/rug_green_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194529,
+          "sha256": "8af0cf43246e17f7a81d76530a2b58a98cdf01d0ebb17e520b8be70ad8305ddd"
+        }
+      ]
+    },
+    {
+      "name": "tan_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/tan_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194528,
+          "sha256": "bff13e98be0643d049daa9bebb44b000d9e5ec635752ba0af11c9732c957ebf0"
+        }
+      ]
+    },
+    {
+      "name": "wine_color.png",
+      "users": 1,
+      "source": "manifests/study_lounge/assets/wine_color.png",
+      "pixels": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed_payloads": [
+        {
+          "bytes": 194528,
+          "sha256": "a241752e8c4ec81c32f278e3973f2a03f1b24ad96e5b6d7edaf9877986832273"
+        }
+      ]
+    }
+  ],
+  "shader_inventory": [
+    {
+      "material": "Canopy opaque roof and soffit | layered build-up unknown",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Canopy pale painted metal | alloy unverified",
+      "users": 8,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Canopy skylight glazing | optical properties approximate",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Canopy warm dark lamp fittings | finish approximate",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Canopy warm frosted globes | nominal glow",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Concourse 2026 inferred fastener steel",
+      "users": 5,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+      "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey",
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Concourse 2026 inferred structural steel",
+      "users": 8,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+      "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey",
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Concourse bluegray terrazzo bands",
+      "users": 1,
+      "physical_repeat_m": 1.36,
+      "provenance": "Original deterministic procedural image; no source photograph sampled, projected or included",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.020",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.020",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.020",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.020",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Concourse buff brick",
+      "users": 11,
+      "physical_repeat_m": 1.7,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.008",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.008",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.008",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.008",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Concourse Flemish buff masonry 2026",
+      "users": 5,
+      "physical_repeat_m": 1.36,
+      "provenance": "Original deterministic procedural image; no source photograph sampled, projected or included",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.016",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.016",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.016",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.016",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Concourse herringbone frieze 2026",
+      "users": 4,
+      "physical_repeat_m": 1.36,
+      "provenance": "Original deterministic procedural image; no source photograph sampled, projected or included",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.017",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.017",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.017",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.017",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Concourse restored opaque perimeter deck",
+      "users": 2,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+      "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey",
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Concourse restored portal glass",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Concourse restored roof glazing",
+      "users": 1,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original authored constant PBR; photo-informed material class, no reference pixels",
+      "physical_limit": "Approximate appearance; no measured reflectance or coating/section survey",
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Concourse retained portal metal 2026",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Concourse terracotta dressings 2026",
+      "users": 15,
+      "physical_repeat_m": 1.36,
+      "provenance": "Original deterministic procedural image; no source photograph sampled, projected or included",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.018",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.018",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.018",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.018",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Concourse warm restored terrazzo",
+      "users": 7,
+      "physical_repeat_m": 1.36,
+      "provenance": "Original deterministic procedural image; no source photograph sampled, projected or included",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.019",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.019",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.019",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.019",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Dark bronze",
+      "users": 95,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Dark void",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Decorative plaster",
+      "users": 84,
+      "physical_repeat_m": 4,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.002",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.002",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.002",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.002",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Distress umber",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Exterior Indiana limestone",
+      "users": 49,
+      "physical_repeat_m": 4,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Foliage",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Glass clear",
+      "users": 22,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Glass tower blue",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Glass tower dark",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Grand Hall floor assembly",
+      "users": 1,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+      "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled",
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.015",
+          "colorspace": "sRGB",
+          "extension": "EXTEND",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.015",
+          "colorspace": "Non-Color",
+          "extension": "EXTEND",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.015",
+          "colorspace": "Non-Color",
+          "extension": "EXTEND",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.015",
+          "colorspace": "Non-Color",
+          "extension": "EXTEND",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Guastavino buff tile",
+      "users": 3,
+      "physical_repeat_m": 4,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.003",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.003",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.003",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.003",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Hall scored decorative plaster",
+      "users": 11,
+      "physical_repeat_m": 4.8,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.012",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.012",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.012",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.012",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Neutral context ground",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP asphalt",
+      "users": 2,
+      "physical_repeat_m": 2,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.027",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.027",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.027",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.026",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "NP bark",
+      "users": 8,
+      "physical_repeat_m": 1,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.030",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.030",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.030",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.029",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "NP black metal",
+      "users": 18,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP bollard metal",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP flower 0",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP flower 1",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP flower 2",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP forecourt paving",
+      "users": 1,
+      "physical_repeat_m": 3,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.031",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.031",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.031",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.030",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "NP forecourt stone",
+      "users": 7,
+      "physical_repeat_m": 4,
+      "provenance": "Original project material; photo-supported stone class, not a site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "NP frosted lamp",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP grass blade",
+      "users": 8,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP grass plume",
+      "users": 4,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP hydrant",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP joint",
+      "users": 6,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP leaf 0",
+      "users": 12,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP leaf 1",
+      "users": 12,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP leaf 2",
+      "users": 12,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP mulch",
+      "users": 4,
+      "physical_repeat_m": 1,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.029",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.029",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.029",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.028",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "NP pale concrete",
+      "users": 7,
+      "physical_repeat_m": 3,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.025",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.025",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.025",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.024",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "NP planter",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "NP turf",
+      "users": 1,
+      "physical_repeat_m": 2,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.028",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.028",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.028",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.027",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "NP warm aggregate",
+      "users": 2,
+      "physical_repeat_m": 2,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.026",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.026",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.026",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.025",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Pale rose marble",
+      "users": 6,
+      "physical_repeat_m": 4,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.005",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.005",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.005",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.005",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Roof dark copper",
+      "users": 6,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Rose Tennessee marble",
+      "users": 4,
+      "physical_repeat_m": 1.2,
+      "provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+      "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled",
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.014",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.014",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.014",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.014",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Secondary brushed bronze",
+      "users": 10,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.032",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary conservation grille",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.037",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.005",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary conserved iron",
+      "users": 36,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.033",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.001",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary glazed white ceramic",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.034",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.002",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary ivory hex tile",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.036",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.004",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary original abstract marking 1",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.039",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.007",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary original abstract marking 2",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.040",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.008",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary original abstract marking 3",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.041",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.009",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary original abstract marking 4",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.042",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.010",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary original abstract marking 5",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.043",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.011",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary pale mineral grout",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.035",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.003",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Secondary polished lobby marble",
+      "users": 6,
+      "physical_repeat_m": 1.2,
+      "provenance": "Original procedural v2, source-informed color/material class; no photo pixels or measured reflectance claim",
+      "physical_limit": "Height/normal are conservatively inferred; actual displacement disabled",
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.014",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.014",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.014",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.014",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "material": "Secondary preserved west stair iron",
+      "users": 12,
+      "physical_repeat_m": null,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.038",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.006",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "Study black steel",
+      "users": 6,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study bluegray wool",
+      "users": 6,
+      "physical_repeat_m": 0.15,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "bluegray_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study brass",
+      "users": 8,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study cream ashlar",
+      "users": 8,
+      "physical_repeat_m": 4.0,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "cream_stone_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study curtain",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study furniture oak",
+      "users": 12,
+      "physical_repeat_m": 1.2,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "oak_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "oak_rough.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study green leather",
+      "users": 2,
+      "physical_repeat_m": 0.18,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "green_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study leaf 0",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study leaf 1",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study leaf 2",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study moss",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study palm pale ring",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study palm stem",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study panel highlight",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study panel walnut",
+      "users": 14,
+      "physical_repeat_m": 1.35,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "panel_walnut_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "panel_walnut_rough.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study rug blue",
+      "users": 1,
+      "physical_repeat_m": 0.2,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "rug_blue_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study rug border",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study rug brown",
+      "users": 1,
+      "physical_repeat_m": 0.2,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "rug_brown_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study rug gray",
+      "users": 1,
+      "physical_repeat_m": 0.2,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "rug_gray_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study rug green",
+      "users": 1,
+      "physical_repeat_m": 0.2,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "rug_green_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study scaled walnut parquet",
+      "users": 1,
+      "physical_repeat_m": 1.2,
+      "provenance": "Original imagegen color with conservatively inferred PBR support maps; not a site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.013",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.013",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.013",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.013",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Study tan leather",
+      "users": 3,
+      "physical_repeat_m": 0.18,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "tan_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Study wine wool",
+      "users": 5,
+      "physical_repeat_m": 0.15,
+      "provenance": "Original deterministic procedural pattern, not a photographic scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "wine_color.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Terrazzo",
+      "users": 2,
+      "physical_repeat_m": 4,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.006",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.006",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.006",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.006",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Tower 2015 green gray painted frames",
+      "users": 32,
+      "physical_repeat_m": null,
+      "provenance": "Original material definition; no photograph or blind inventory",
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Tower 2015 replacement insulating glass",
+      "users": 8,
+      "physical_repeat_m": null,
+      "provenance": "Original material definition; no photograph or blind inventory",
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Tower 2015 shallow green gray spandrels",
+      "users": 4,
+      "physical_repeat_m": null,
+      "provenance": "Original material definition; no photograph or blind inventory",
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Tower buff brick",
+      "users": 1,
+      "physical_repeat_m": 1.7,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.008",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.008",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.008",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.008",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Tower muted ornamental terra cotta",
+      "users": 54,
+      "physical_repeat_m": 4,
+      "provenance": "Existing original authored limestone-class support maps reused as terra-cotta appearance approximation",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Tower recessed dark joint",
+      "users": 8,
+      "physical_repeat_m": null,
+      "provenance": "Original material definition; no photograph or blind inventory",
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Tower unobserved interior optical stop",
+      "users": 8,
+      "physical_repeat_m": null,
+      "provenance": "Original material definition; no photograph or blind inventory",
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR amber cane",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR bronze label",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR charcoal ceiling",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR clock porcelain",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR cobalt package",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR coral package",
+      "users": 5,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR exit red",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR light gray concrete",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR mustard package",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR neutral lamp",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR pale birch",
+      "users": 13,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR plant pot",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR sage package",
+      "users": 5,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR teal package",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR translucent rib panel",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR warm cream",
+      "users": 7,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "TR white package",
+      "users": 6,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Warm lamp glass",
+      "users": 9,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Warm Mankato column stone",
+      "users": 66,
+      "physical_repeat_m": 1.5,
+      "provenance": "Original imagegen color with conservatively inferred PBR support maps; not a site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.001",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.001",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.001",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.001",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "Weathered concrete",
+      "users": 5,
+      "physical_repeat_m": 4,
+      "provenance": "Original procedural material, not site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.010",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.010",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.010",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.010",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.44999998807907104
+        }
+      ]
+    },
+    {
+      "material": "West conserved walnut herringbone",
+      "users": 1,
+      "physical_repeat_m": 1.4,
+      "provenance": "Original imagegen color with conservatively inferred PBR support maps; not a site scan",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "basecolor",
+          "image": "basecolor.png.013",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "roughness",
+          "image": "roughness.png.013",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        },
+        {
+          "node": "normal",
+          "image": "normal.png.013",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "height",
+          "image": "height.png.013",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "material": "West patinated pendant bronze",
+      "users": 9,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.046",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.014",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "West restaurant observed unfinished slab",
+      "users": 2,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.047",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.015",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "West restored carved walnut",
+      "users": 28,
+      "physical_repeat_m": 1.0,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "West exportable basecolor",
+          "image": "basecolor.png.021",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "West exportable roughness",
+          "image": "roughness.png.021",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "West exportable normal",
+          "image": "normal.png.021",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "material": "West restored warm ivory plaster",
+      "users": 45,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.044",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.012",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "West shallow plaster score shadow",
+      "users": 13,
+      "physical_repeat_m": 1.0,
+      "provenance": "Original deterministic periodic noise from existing procedural palette; no photograph pixels",
+      "physical_limit": "Metric frequency is an explicitly assumed reinterpretation of original Generated noise; scalar roughness/metallic preserved, no measured surface claims",
+      "texture_nodes": [
+        {
+          "node": "Portable original basecolor",
+          "image": "basecolor.png.045",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Portable original normal",
+          "image": "normal_2026.png.013",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 1.0
+        }
+      ]
+    },
+    {
+      "material": "West warm opaline glass",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Window cast iron",
+      "users": 47,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "Wood walnut",
+      "users": 27,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL blue-white neon",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL brass mesh",
+      "users": 3,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL bronze perforated metal",
+      "users": 11,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL colored packaging coral",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL colored packaging cyan",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL colored packaging green",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL dark appliance",
+      "users": 19,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL fluted dyed concrete",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL mauve joinery",
+      "users": 10,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL mauve plaster",
+      "users": 4,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL mustard yellow",
+      "users": 11,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL pale veined solid-surface stone",
+      "users": 5,
+      "physical_repeat_m": 2.1,
+      "provenance": "Original mathematical material authored for this reconstruction; image-observed material class only",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "basecolor.png.022",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "roughness.png.022",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "normal.png.022",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "height.png.021",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.27000001072883606
+        }
+      ]
+    },
+    {
+      "material": "YL pastry glaze",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL pink cabinet light",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL polished mottled concrete",
+      "users": 1,
+      "physical_repeat_m": 3.2,
+      "provenance": "Original mathematical material authored for this reconstruction; image-observed material class only",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "basecolor.png.023",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "roughness.png.023",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "normal.png.023",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "height.png.022",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.27000001072883606
+        }
+      ]
+    },
+    {
+      "material": "YL salvaged Mankato ocher segments",
+      "users": 1,
+      "physical_repeat_m": 1.5,
+      "provenance": "Original mathematical material authored for this reconstruction; image-observed material class only",
+      "physical_limit": null,
+      "texture_nodes": [
+        {
+          "node": "Image Texture",
+          "image": "basecolor.png.024",
+          "colorspace": "sRGB",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Base Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "roughness.png.024",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeBsdfPrincipled",
+              "target_name": "Principled BSDF",
+              "input": "Roughness"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "normal.png.024",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": [
+            {
+              "output": "Color",
+              "target_type": "ShaderNodeNormalMap",
+              "target_name": "Normal Map",
+              "input": "Color"
+            }
+          ]
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "height.png.023",
+          "colorspace": "Non-Color",
+          "extension": "REPEAT",
+          "interpolation": "Linear",
+          "outgoing_links": []
+        }
+      ],
+      "normal_map_nodes": [
+        {
+          "name": "Normal Map",
+          "space": "TANGENT",
+          "strength": 0.27000001072883606
+        }
+      ]
+    },
+    {
+      "material": "YL stainless steel",
+      "users": 13,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL thin architectural glass",
+      "users": 8,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL timber ledges",
+      "users": 2,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL white ceramic",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL white downlight",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    },
+    {
+      "material": "YL yellow lamp",
+      "users": 1,
+      "physical_repeat_m": null,
+      "provenance": null,
+      "physical_limit": null,
+      "texture_nodes": [],
+      "normal_map_nodes": []
+    }
+  ],
+  "checks": {
+    "all_file_images_packed": true,
+    "no_research_images": true
+  },
+  "limitations": [
+    "Payload hashes verify exact packed bytes, not source authenticity by themselves",
+    "Image/channel inventory does not measure material reflectance, normal-map correctness or architecture",
+    "Physical repeat values are authored controls; many details remain photo-informed approximations",
+    "Height maps are optional sidecars unless an actual shader link is listed; review scenes use no true displacement"
+  ]
+}

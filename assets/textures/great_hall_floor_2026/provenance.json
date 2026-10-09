@@ -1,0 +1,13 @@
+{
+  "origin": "Original procedural assembly from original generated marble and terrazzo maps",
+  "license": "CC0-1.0",
+  "pixels": [
+    3072,
+    3072
+  ],
+  "mapped_room_m": [
+    71.0184,
+    31.6992
+  ],
+  "limitations": "Photograph-informed pattern and benchmark repairs; not a measured floor-stone inventory"
+}

@@ -1,0 +1,12 @@
+{
+  "era": "2026",
+  "baseline_glb_sha256": "3a58625a4f5055ef2bb50e9bfe272f591fa07ee2f59039081a140f6e588bb711",
+  "revision15_glb_sha256": "c1801cde3f864e851863c5b16c121cc7228725940465a5ae424fc4260adb669e",
+  "used_materials_before": 149,
+  "used_materials_after": 149,
+  "missing": [],
+  "extra": [],
+  "changed": [],
+  "all_inherited_material_graph_and_embedded_image_payloads_identical": true,
+  "scope": "All used glTF material definitions, samplers and embedded image bytes; not physical reflectance certification"
+}

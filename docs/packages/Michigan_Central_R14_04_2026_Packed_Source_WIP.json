@@ -1,0 +1,527 @@
+{
+  "checkpoint": "revision14",
+  "role": "2026 Packed Source",
+  "order": "04",
+  "status": "INCOMPLETE architectural recovery WIP; no photoreal/full-as-built acceptance",
+  "files": [
+    {
+      "path": "Michigan_Central_Revision14_WIP/README.md",
+      "bytes": 13628,
+      "sha256": "4eaa464b5e07aa6af2b6af6acef196d6519737407d6c808548b79f457f94c300"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/REVIEW_NOTES.txt",
+      "bytes": 6991,
+      "sha256": "2d49cdb2299ab3942b6bf7a1d623cf35c710503911c97646a15f6b65b68c9fff"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/assets/environment/source-license.json",
+      "bytes": 1105,
+      "sha256": "685d63da40080326da81ee6bd2749136b8d16c05809aa05f1e649360e40c40af"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/concourse_floor_material_2017.json",
+      "bytes": 490,
+      "sha256": "f1a9bdb559e9e3d45d74fa7ed80df6198b845eee090a79ba5d4320ee7a116a0a"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/concourse_floor_material_2026.json",
+      "bytes": 439,
+      "sha256": "a9db85d2b63a0dde8b94720a8dbf05e24de0abfa3b0b6f7bf2457009d9ff671e"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/era_condition_checks_2017.json",
+      "bytes": 1917,
+      "sha256": "769fa1f40d887a2e57aa398901a3cc1ac1dff97ee555a81278f7a58fe7ea3647"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/era_condition_checks_2026.json",
+      "bytes": 1689,
+      "sha256": "24d7cea28f082945dab98fe924162b193ee0971172cb18d48fd881dc584de045"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/export_lineage_2017.json",
+      "bytes": 2791,
+      "sha256": "bc1f8c1e9dc3304a9260ad3f34167e625884a66c3b2aea49264cde85edee05ab"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/export_lineage_2026.json",
+      "bytes": 2791,
+      "sha256": "e5baeb392cf8a02c3038d101e834cfe96503866af1271eb38f48a9880df14479"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/exterior_plinth_contact_2017.json",
+      "bytes": 20488,
+      "sha256": "394f8d59ca7113e66785f27196f44f91bb9b43c93f71abe8c495f0c677647025"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/exterior_plinth_contact_2026.json",
+      "bytes": 20529,
+      "sha256": "4cd390311fc61222d864fe6de208266296fea50ec047f0a08fd4f62f103f411f"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/field_material_scope_2017.json",
+      "bytes": 1149,
+      "sha256": "90845375ac1c2635250ad227d7769853c00e45ac62e20d87093a41150d6461d3"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/field_material_scope_2026.json",
+      "bytes": 400,
+      "sha256": "c7bd2ab13a28794ae017a7a286cc5f2dcff784a19ba5fb60fc9357dd42845058"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/floor_overlap_2017.json",
+      "bytes": 301,
+      "sha256": "b5dc51ea11cbe565670db43e0df7b1d0510c04cebaee32d775151db511d1fbcd"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/floor_overlap_2026.json",
+      "bytes": 301,
+      "sha256": "29c530d19273f507ed24d6c3213b8c8414145bd83849441278e2120ab5a8cc03"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/glass_shell_checks_2017.json",
+      "bytes": 2685,
+      "sha256": "f0b35fe65e9124c4f004a103f19ae49a7b710e0e035684cfea30e5669ba44512"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/glass_shell_checks_2026.json",
+      "bytes": 6939,
+      "sha256": "8674c65433348c116809fa2ea72e2f0551e227973c32e1e834db54a2266110b5"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/glb_roundtrip_2017.json",
+      "bytes": 2204,
+      "sha256": "5172033ec7da961bb7e42ae4de9d60829d820ff09de68c8f3d5d1c1bb299cff5"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/glb_roundtrip_2026.json",
+      "bytes": 1791,
+      "sha256": "4eb042d7917674b78ab4095fa747c9c5c13a70d1dc6b3fc21965530da44488d4"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/hall_roof_clearance_2017.json",
+      "bytes": 1097,
+      "sha256": "394d18461d36df9a7e3fc6656d1676de2a6f6a2428e62e371e29231695a5ff13"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/hall_roof_clearance_2026.json",
+      "bytes": 1097,
+      "sha256": "cb99d2ebd2f314db4a2cdabf5bb351a1e390315395cfe43a033137951d56efd9"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/khronos_2017_compact_review.json",
+      "bytes": 111010,
+      "sha256": "1b0c2af3d579810df9e7f28ed9d0046753125d78a8754ef4c48a678c796095ce"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/khronos_2017_full.json",
+      "bytes": 115064,
+      "sha256": "a05543ff5faa50970c075b692c854faf436f3eff4ef69cb6af45eb60be31eb92"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/khronos_2017_preview_lod.json",
+      "bytes": 110922,
+      "sha256": "cd8525e6005d76181228845464b23501ce4394f77473f9013a9d55876b62bab4"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/khronos_2026_compact_review.json",
+      "bytes": 286545,
+      "sha256": "9203919aac3161a5c7d9f0d98cf2168d28d7fac3e44caff4a91d12a7b195677c"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/khronos_2026_full.json",
+      "bytes": 299020,
+      "sha256": "a8fc2c9f14f09174a09671129229e08cbcf8c53aefd37764bc94d4ec81571200"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/khronos_2026_preview_lod.json",
+      "bytes": 286761,
+      "sha256": "424d466ba2bae3238d7c9371329217a11c6579d577498587588753cf71983dfc"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/lobby_interface_checks_2017.json",
+      "bytes": 3639,
+      "sha256": "2d5926dc4d2fe64cbd297808303dff922e486d99a020f3ce561306476da259b3"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/lobby_interface_checks_2026.json",
+      "bytes": 3808,
+      "sha256": "a10ae0270b36043df33ff3f5d826ef0930216fef5b22f773f1c38425752bbcdf"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/material_portability_compact_review_2017.json",
+      "bytes": 6158,
+      "sha256": "d5c66ce6a0dec22cdd43b329f63d344637c5eecd8a8eec6630e9da0f4230f92f"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/material_portability_compact_review_2026.json",
+      "bytes": 9468,
+      "sha256": "19ce4ea69ba8fa63da27369056d894d90347ed610efaa71db9fd0db9353607f0"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/material_portability_full_2017.json",
+      "bytes": 6143,
+      "sha256": "4efb35ec1c8ec069d02652924469a9bbfae49d3a310f1eb8aac30fe1f9c2cc4f"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/material_portability_full_2026.json",
+      "bytes": 10700,
+      "sha256": "5630ddab79cbf695c649989a26b681c0e47050afa7c932922daa844ee67ebd46"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/material_portability_preview_lod_2017.json",
+      "bytes": 6155,
+      "sha256": "f11fc2939f16c651f685efab0a8495e76963c3f746e16376a8bddf09adb59949"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/material_portability_preview_lod_2026.json",
+      "bytes": 9470,
+      "sha256": "bdf922b2c618c6bd0ff4e1581372864abe8419992aa87c28af23335170c5a9d7"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/metrics_2017.json",
+      "bytes": 3124,
+      "sha256": "5480c70faf904f3c1f93d1ad8998d3272937807504fc57ca61206b54ff8bc0f9"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/metrics_2026.json",
+      "bytes": 3126,
+      "sha256": "63b78a027814049cb1be7a66b5bf57167e03bb20ee96383c02c06528dddb6664"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/north_upper_contact_2017.json",
+      "bytes": 5027,
+      "sha256": "d4a14daf2abf1678a8657c7e0dde810abaf093ff4f1cd7666ebd44f4f672550d"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/north_upper_contact_2026.json",
+      "bytes": 5027,
+      "sha256": "3f19c9d98d34041ef22cbe0a7e0d324f3e684ae3fb6f900748624ca67daedae2"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/packed_material_inventory_2017.json",
+      "bytes": 120564,
+      "sha256": "817caa75c5b597c20273f1703db9fb5f35e2271c15bc2ef34eaf36cd0b283a31"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/packed_material_inventory_2026.json",
+      "bytes": 183469,
+      "sha256": "1d3c94e2f46a4f9c14893e3c1309493badf27adfff641e7f47744b406b5def78"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/public_interface_checks_2017.json",
+      "bytes": 7401,
+      "sha256": "7d3b03b7c8c38ce88301ae9aa4c0606f274a1ed62d23d67b6645b003e6680fe9"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/public_interface_checks_2026.json",
+      "bytes": 11749,
+      "sha256": "dbd18cd78e76df6b03b0730b60eeb75188807f10d5bdba9ed7c7ab1345ab4ae3"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/scene_validation_2017.json",
+      "bytes": 11874,
+      "sha256": "7ed4d2a7a756bc360e842732c841ad80473ed42e09f26147fb382a77ddabe016"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/scene_validation_2026.json",
+      "bytes": 17493,
+      "sha256": "e15f89e07b3a9eacc0e9234dec67306a40440bdf913775e4dfda6d317abb0a69"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/uv_area_2017.json",
+      "bytes": 380,
+      "sha256": "22557aecb6e541f339e3ffbdc97eb322d26cf2ff3ff6be328a8872f22c8a9545"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/checkpoints/revision14/uv_area_2026.json",
+      "bytes": 380,
+      "sha256": "401851390dbe4fbc6f9cb536cc522d4c3f539c4ef454f2a21127133d038ec4ce"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/coverage_source_seed.json",
+      "bytes": 9930,
+      "sha256": "994d93852d54a2d33f64f6772379944188ce9858e73f36962d1bf68d9301b7da"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/current_fitouts/INTEGRATION.md",
+      "bytes": 2492,
+      "sha256": "6dd4761161013cb68c7aee2269b4f5f5937f19abde03d76d6693e989d26b0ece"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/current_fitouts/yellow_light_evidence.json",
+      "bytes": 9336,
+      "sha256": "befefe0ffef1930233360acde475872334afb87497f8990924b90919907e3245"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/evidence_and_coverage.json",
+      "bytes": 8856,
+      "sha256": "2bd2f085709a9e20ba1dae83588c2c5db3dab9d2442783ed7405485e0d809871"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/README.md",
+      "bytes": 7106,
+      "sha256": "d9a3f2e89e919e9fec3076610add78e50e732bee18600fbefb4a01d0b967b3ab"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/evidence_and_scope.json",
+      "bytes": 4979,
+      "sha256": "b72c8e4b48273bebc022eb66421c94e53f480cefe0c55a182ba8d6e43debc6e2"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/geometry_validation.json",
+      "bytes": 16916,
+      "sha256": "1b694dd08c684ef10f7b2b85228bef7e607c21ac8ed14c68596cc45ec42339e1"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/glb_accessor_validation.json",
+      "bytes": 704,
+      "sha256": "adefca34b302dc7dd9a5c32be9b38c58de47499f4dc40e8ada5e69e18a19769c"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/glb_tangent_repair.json",
+      "bytes": 428,
+      "sha256": "decafa01015809ad9c261a18f9ecfae8636b205dbe334c4cebfdb810f64305b1"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/surface_partition_validation.json",
+      "bytes": 1117,
+      "sha256": "8b5fcd4d61ae3d2cb798e549721b683d29ef5f3b28c9073182a60d09c1bf0232"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/texture_bundle_allowlist.json",
+      "bytes": 5359,
+      "sha256": "976f18b1c7f575b7c42f96d6638173b3cc1f80d91392bb833aac4ec70de8d3b9"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/texture_provenance.json",
+      "bytes": 1455,
+      "sha256": "8d42cfb6c5bc0718234e2b6b28512d2008ecdd772ece8c334cb55674996e6f4a"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/forecourt_2017/visual_review.json",
+      "bytes": 1804,
+      "sha256": "306f416d8de903e4f71bd57f989b3794eaa34b86a2e75cdc6958f427112fd15e"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/generated_materials.json",
+      "bytes": 3061,
+      "sha256": "4b9f5b90900ae955bfaf01391e12d81cece584d9b1f1328649c300b6b734866c"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/geometry_evidence.csv",
+      "bytes": 7912,
+      "sha256": "5573c8bb575297b6398b933aa07a06ed0bd94995ae37f877ffa8a415bd96fabc"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/image_generation_prompts.json",
+      "bytes": 3778,
+      "sha256": "1efb6cff7202ba96e51e99cb9888895b51b063c784212181b8e1335e180868ac"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/material_portability/REPORT.md",
+      "bytes": 8997,
+      "sha256": "cfef8447d72590f472e33b74763b4c3f214a53839feaa92177bc084a353ebdf9"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/material_portability/source_export_audit.json",
+      "bytes": 160881,
+      "sha256": "304b753d94636fd64c2e7a025bf529ab5b4374e5922704811ef95cb760c0f138"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/normal_channel_convention.json",
+      "bytes": 911,
+      "sha256": "9a773876cba909c553407f59bfd4965fbf9d8862983c98d475340a640598929e"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/north_plaza/INTEGRATION.md",
+      "bytes": 3818,
+      "sha256": "a9a6390420b2e15c5d96b2608a1320ebfc0b409ea7e6609d114dd6ec7dec3f45"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/north_plaza/evidence_integration_uncertainty.json",
+      "bytes": 10229,
+      "sha256": "a67bfa5305813dfec357b12c4f44a82543d1ebd2be35d27a32a5fb3f6543102f"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/north_plaza/preview_review.json",
+      "bytes": 2511,
+      "sha256": "aa4cdf58b05b9f83f56be4488f41d751e090b7d9c6fb0976f2c7b23bdb121865"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/north_plaza/texture_provenance.json",
+      "bytes": 1681,
+      "sha256": "9ac7d87788089e7a433544450a6960363e7dd235f045ae6b515ba694168f531b"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/portable_full_payload_identity.json",
+      "bytes": 27268,
+      "sha256": "a7f904473f683185cb58d21721d2270da4ebc55fb10e32d5b3ab8786d2621d7f"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/review_checkpoint_summary_revision14.json",
+      "bytes": 19809,
+      "sha256": "bd6ae62f9bb0c566e142bf9079518016cde9251820402eb98680db71880fe3e2"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/revision14_integration/REVIEW_NOTES_ADDITIONS.txt",
+      "bytes": 3339,
+      "sha256": "5b6fb624c7e9d7d86b9fb5edfd2e163d186f3f48db40c3deb55bd4a9db1db474"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/revision14_integration/UPPER_DETAIL_CAMERA_NOTE.txt",
+      "bytes": 392,
+      "sha256": "bdcddc44bd52decca11efbd0f83b383c5f12def7dec74f7af2699514a6c6a302"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/secondary_spaces/evidence.json",
+      "bytes": 12411,
+      "sha256": "951be512755e01f70c7cca28e4ef3c9235ab70d634650d193c0b384e49f998a6"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/source_gaps.json",
+      "bytes": 4612,
+      "sha256": "895b425602c5d6487ab4ca268f20035ed88657a60b970acf8324bdf172dd1ea7"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/south_structure/README.md",
+      "bytes": 6343,
+      "sha256": "1651e56451ddbe2e4eda5a6bd6392b314a6824c3ee0d4e224ccf96cfbdce7ce2"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/south_structure/control_validation.json",
+      "bytes": 978,
+      "sha256": "0bc423892525e794a1da1cd84ea0ada3cf76cabba4ed2bbed7a3abc1aba94d9e"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/south_structure/evidence_and_unknowns.json",
+      "bytes": 11582,
+      "sha256": "4e55ddeea98ddd344fbf6faf785ed76a11eb9d0cb0f37d8492ddbe3ec75e09ec"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/south_structure/isolated_qa.json",
+      "bytes": 2686,
+      "sha256": "33951fb9838ce88c670e893e4c9eba5502781c9abe73e3d01a056a7e51a46425"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/south_structure/local_2017_controls.json",
+      "bytes": 9986,
+      "sha256": "7355fc5b9c3550a5c8b9f6284172312587fede78fde200ada389be0e3a8c681a"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/south_structure/placement_controls.json",
+      "bytes": 1637,
+      "sha256": "d4d2cd32e9e9da8abd2fa6a133d241b7b80a924dafe4da6906f90edd3179d335"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/space_completeness_qa.csv",
+      "bytes": 29209,
+      "sha256": "b2b7eedaefe8c9e9fea3b2a24a0e2f386d805f9850d87eb9f0c56d55f58926c1"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/space_completeness_qa.json",
+      "bytes": 45823,
+      "sha256": "eb61575a9a07d701328196723bc0c2aebab780cb4fbc1e352371d98912e19aac"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/study_lounge/INTEGRATION.md",
+      "bytes": 3130,
+      "sha256": "d2d2c49d02b06d70c852940a59918f6602b55da9ad56c8217220f4ec263fd8a4"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/study_lounge/evidence_and_coverage.json",
+      "bytes": 11173,
+      "sha256": "4e6a00af75a28e79e73aff38b4763ed5752b156214d18bb16a57a78aa9a0cf12"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/ticket_retail/INTEGRATION.md",
+      "bytes": 4645,
+      "sha256": "13f1b63001c82a143188bfd03f648612fe6712d3db27f18577418ef252d80337"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/ticket_retail/isolated_qa.json",
+      "bytes": 2622,
+      "sha256": "156c28fa59b575ae95284276365799e433852b77d5f5e38f72fa8c5826cdac1a"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/ticket_retail/ticket_retail_evidence.json",
+      "bytes": 9671,
+      "sha256": "179030a6fb0a6b6c739db684e25af99386470b2d3470a68891ea921d9d33e6b0"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/west_public_rooms/README.md",
+      "bytes": 8781,
+      "sha256": "00e65880e4b3e4f6b1bc017f31c678b966887c00349ea3024debd32bdb93462c"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/manifests/west_public_rooms/evidence.json",
+      "bytes": 3778,
+      "sha256": "8a92135b1b357901b89386b497788620f6fc5aa727bbbdea2572ec44f0d8b023"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/models/michigan_central_2026.blend",
+      "bytes": 322409476,
+      "sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1"
+    },
+    {
+      "path": "Michigan_Central_Revision14_WIP/renders/revision14/PIXEL_REVIEW.json",
+      "bytes": 12771,
+      "sha256": "1fa28e2e02afd674bcb7ce0bb2a0c53d342406eeeba578e7b75208938826043d"
+    }
+  ],
+  "parts": [
+    {
+      "order": "01",
+      "role": "Review Models",
+      "file": "Michigan_Central_R14_01_Review_Models_WIP.zip",
+      "replace_library_file_id": "libfile_eedc0dce65a481918bc583218bf2eddc",
+      "role_note": "Replaces the existing Review Models recovery version; two compact GLBs,18 reviewed rendered views and QA/coverage",
+      "source_files": 130,
+      "raw_payload_bytes": 366684315
+    },
+    {
+      "order": "02",
+      "role": "Materials and Builder",
+      "file": "Michigan_Central_R14_02_Materials_Builder_WIP.zip",
+      "replace_library_file_id": "libfile_49c4b8d7cd488191bfb56ec9b2e34a91",
+      "role_note": "Replaces the existing Materials and Builder recovery version; exact checkpoint source scripts, original maps and licenses",
+      "source_files": 460,
+      "raw_payload_bytes": 471789810
+    },
+    {
+      "order": "03",
+      "role": "2017 Full Scene",
+      "file": "Michigan_Central_R14_03_2017_Full_Scene_WIP.zip",
+      "replace_library_file_id": "libfile_3139faca1cc8819183fd6a5d72365e01",
+      "role_note": "Replaces the existing2017 Full Scene recovery version; packedBLEND, fullGLB and separate unaligned southern study",
+      "source_files": 95,
+      "raw_payload_bytes": 626980247
+    },
+    {
+      "order": "04",
+      "role": "2026 Packed Source",
+      "file": "Michigan_Central_R14_04_2026_Packed_Source_WIP.zip",
+      "replace_library_file_id": "libfile_1ce893ba25548191a97ceee2b6f973bd",
+      "role_note": "Replaces the existing2026 Full Scene recovery version with its independently usable packedBLEND; fullGLB is separate part05",
+      "source_files": 93,
+      "raw_payload_bytes": 324641682
+    },
+    {
+      "order": "05",
+      "role": "2026 Full GLB",
+      "file": "Michigan_Central_R14_05_2026_Full_GLB_WIP.zip",
+      "replace_library_file_id": null,
+      "role_note": "New necessary interchange part; full2026GLB separated because source+GLB exceeds512MiB",
+      "source_files": 93,
+      "raw_payload_bytes": 526182698
+    }
+  ],
+  "excluded": [
+    "All copyrighted reference photographs and research PDFs",
+    "Unobserved/private-room photographs and any invented completed private fit-out",
+    "Unreviewed later candidates",
+    "Photo-app/CineOS data and other unrelated work",
+    "Tool binaries,caches,credentials and prior archives"
+  ]
+}

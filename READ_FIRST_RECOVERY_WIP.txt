@@ -1,0 +1,52 @@
+MICHIGAN CENTRAL STATION — REVISION14 RECOVERY WIP
+
+This is an incomplete architectural reconstruction and material study. All18
+rendered images passed a WIP recovery review. This is not a completed photoreal
+model, a surveyed digital twin, a full as-built interior or construction data.
+
+EXTRACTING THE FIVE PARTS
+Every ZIP uses the same Michigan_Central_Revision14_WIP top folder. Extract them
+beside one another into one destination to assemble the project. The packed
+BLEND files open independently; their used texture images are embedded. Full
+GLBs also embed their materials. The compact GLBs are lower-detail review copies.
+
+01 Review Models: two compactGLBs,18 actual renders, coverage and validation
+02 Materials and Builder: exact executed source, original maps and provenance
+03 2017 Full Scene: packedBLEND + fullGLB; separate UNALIGNED southern local study
+04 2026 Packed Source: packedBLEND only; its fullGLB is in part05
+05 2026 Full GLB: full-material interchange for the SAME revision14 source
+
+The2026 source/GLB split is deliberate. Neither part substitutes a different
+model revision. See PACKAGE_CONTENTS.json, source hashes and the checkpoint
+report. Part04 alone opens in Blender; part05 alone opens in a glTF-capable tool.
+Older recovery ZIPs remain separate originals and are not silently overwritten.
+
+WHAT REMAINS OPEN
+Fine carving, site/vegetation realism, window repetition, detailed floor/material
+appearance, exact2017 loss patterns, complete private/tenant/service interiors,
+current south-deck registration and authoritative vertical/site controls. See the
+48-row era-by-space matrix and source_gaps.json. Missing rooms are not invented.
+The2017 southern study has no validated station alignment or current-deck Z.
+
+MATERIAL/FORMAT CHECKS
+Both sources passed geometry, UV, contact and public-interface checks. All six
+full/preview/compact GLBs pass uncapped Khronos validation. The25 previously
+unsupported procedural material/era entries now pass semantic palette/channel
+checks. Compact files preserve subtle normal maps. The50 new full-export map
+payloads match their authored source bytes. These tests establish format transfer,
+not architectural accuracy or exact physical reflectance.
+
+REBUILD
+Use Blender5.2.2 LTS or compatible. Extract all parts into the common root and run
+Blender in background with scripts/build_station.py, passing -- --era2017 or2026
+and --no-render if desired. Models/exports/renders directories must exist.
+Python map tools use NumPy/Pillow/SciPy; optional glTF checks use the official
+@gltf-transform packages4.5.1 and gltf-validator. Tool binaries are not bundled.
+
+RIGHTS AND EXCLUSIONS
+Authored geometry and procedural/generated material maps are original project
+assets. The PolyHaven lighting is CC0, with source/license record included.
+No copyrighted research photograph, architect PDF, copied scan/mesh, private
+room imagery, user photo-app/CineOS data, credentials or unrelated files are
+included. Research-source URLs may appear in evidence notes; their images are
+not redistributed. Generic environment light is not factual Detroit scenery.

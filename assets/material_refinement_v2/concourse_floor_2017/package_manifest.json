@@ -1,0 +1,26 @@
+{
+  "status": "complete texture candidate; full-scene approval pending",
+  "scope": "new candidate directory only",
+  "Blender_invoked": false,
+  "imagegen_invoked": false,
+  "file_sha256": {
+    "README.txt": "cd7f2eeedd01d22321403aa8b01287f04f386e572c767a930f9e2b886718d36d",
+    "basecolor.png": "c261f487b33180e2b603e994c28975c504cd438896320f6ac94e3d0c542bc4a3",
+    "height.png": "114204412675f26bbfde2b5d70d108d6bfb11cce93b1a137e05a01a715f94e2f",
+    "integration_candidate.py": "1b4e022cee755739f9a98fc9c30c693151c82215fea8e384c5fa7179fbfe284c",
+    "normal.png": "67aadcef9ec64a13b34db09068e6725dca0ca02005c19cec55b056f8bbaf28fb",
+    "orm.png": "1f879390f309d2a7b017639f3c4728c54d37f0fedc08ee77dfa187fba7571d12",
+    "physical_scale.json": "16767df1c9dc98177515b9017f711df532d8ffe7861c053c4d2c362af2811fa9",
+    "prepare.py": "30abaed84cd6fa8b8584562332dde2b9a0a7f9652a13d48ab8a8e06f639aa647",
+    "provenance.json": "2838b260df1bb19243f44ec5a77a8df9b72aafc76447774ee12a655af432d9f5",
+    "qa/encoding_and_seam_checks.json": "6b4b8527942768618f7e6f1ffb9a3620f3a1c592196470b06ca993b05ffd764f",
+    "qa/generation.log": "4013626123f21d087d61e14a4255a6d534b89fac5eaf3b861510cef1d8c5054a",
+    "qa/independent_verification.json": "7650c6beb85273cd208713f021ff402f1335ce0de6972b308b3c7eb25e7430d5",
+    "qa/integration_static_check.json": "3088d5f80d67d9f93f7dae1348dd8379e9026c8c28b79a29099394d44942cde4",
+    "qa/original_project_before_after_unlit.png": "a0c9e9998fc2b5f11956c954631378e107aa0244fdf8ffadb4ded8f2a0bb00d2",
+    "qa/unlit_2x2_repeat.png": "035689482f1b69636ffad63ae050e6eda7f1f92c0982f50c2fd14bf381f06303",
+    "qa/unlit_material_inspection.png": "d5abcac8094b91a7ed4f7053ce0e48c804f669cd274e991b5378cfe988d81fcd",
+    "qa/verify_delivered_maps.py": "ff8b92fcb55c04370b9208eda594d69b5cdb3dbed9d0724f1bdbf447e4950f46",
+    "roughness.png": "2b77e006a0780247b9b4bc07995bb247c943d2175e8da867ffa94d200587e3e1"
+  }
+}

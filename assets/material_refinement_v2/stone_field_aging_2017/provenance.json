@@ -1,0 +1,95 @@
+{
+  "material": "stone_field_aging_2017",
+  "pixels": [
+    2048,
+    2048
+  ],
+  "physical_repeat_m": 4.0,
+  "nominal_course_module_m": [
+    1,
+    0.5
+  ],
+  "origin": "Actual built-in image_gen output from a text-only prompt, technically prepared as a periodic stone-field material",
+  "input_generated_original": "generated_original.png",
+  "input_generated_sha256": "78e46ab58acc64795b6a4f60d99b815f3f72cdd3d96c003e8c3076703e2c08ed",
+  "basecolor_processing": "Eight-course normalization, small reflected final-course extension, restrained neutralization, fine-grain contrast compression and opposing-edge matching",
+  "basecolor_encoding": "sRGB",
+  "roughness_encoding": "linear; same channel also packed in ORM G",
+  "roughness_origin": "Artistic inference from generated dark washing, not measured",
+  "normal_encoding": "OpenGL tangent space +Y, UV-v up; linear",
+  "normal_origin": "Derived only from inferred <=24 micrometre peak-to-peak micrograin; not from broad stains or cracks",
+  "height_encoding": {
+    "bits": 16,
+    "full_range_m": 0.0002,
+    "decode_m": "(uint16/65535-0.5)*0.0002",
+    "peak_to_peak_m": 2.400000266788993e-05,
+    "inferred": true,
+    "displacement_enabled": false
+  },
+  "gltf": {
+    "baseColorTexture": "basecolor.png",
+    "metallicRoughnessTexture": "orm.png",
+    "normalTexture": "normal.png",
+    "metallicFactor": 0,
+    "roughnessFactor": 1,
+    "normalTexture_scale": 1,
+    "height": "Sidecar only; no displacement in core glTF"
+  },
+  "source_context": {
+    "reference": "May 2017 main entrance photograph, hd_pre_12.jpg",
+    "url": "https://storage.googleapis.com/historic-detroit-prod/uploads/photo/photo/11085/MICEN2017_5637.jpg",
+    "credit": "Bob Laperriere / HistoricDetroit.org",
+    "local": "research/reference_only_copyrighted/hd_pre_12.jpg",
+    "use": "Viewed for gray joint-associated washing, pale retained stone and sparse runoff/rust character only. No reference-photo pixels supplied to imagegen or this generator.",
+    "current_render": "renders/revision10/2017_front.png",
+    "render_finding": "The previous camouflage problem is removed, but flat wall fields behind and between the exterior columns read uniformly pale. The accepted unjointed material remains appropriate as a conservative profile/ornament base; aging needs separate planar-field placement."
+  },
+  "placement": {
+    "era": 2017,
+    "create_separate_material": "2017 aged limestone wall fields",
+    "physical_repeat_m": 4.0,
+    "image_v_orientation": "Image rows increase downward; orient positive UV v upward with world +Z. Do not rotate wall texture 90 degrees.",
+    "recommended_initial_scope": [
+      "north facade continuous stone piers",
+      "north facade end pier",
+      "north side-wing end infill"
+    ],
+    "optional_after_review": [
+      "side perimeter continuous stone piers",
+      "east southern historical aperture piers"
+    ],
+    "further_scoped_candidate": "Planar infill surfaces produced by wall_with_arch may use this class if specifically assigned; do not globally replace the generically batched Exterior Indiana limestone mesh/material.",
+    "do_not_assign": [
+      "column shafts, column bases and capitals",
+      "arch jambs and archivolts",
+      "monumental window stone arch",
+      "north entablature bands and dentils",
+      "pediments, cornices, moldings and carved ornament",
+      "terrace balusters/copings",
+      "tower terra-cotta materials",
+      "all 2026 surfaces",
+      "all floor materials"
+    ],
+    "mapping": "Use existing world-metric UVs at 4 m. Match joints at neighboring flat faces; do not force this grid across curved profiles.",
+    "verification": "Compare the actual front facade at revision10 exposure. Aging should read as broken course-related gray wash on fields with pale stone retained, without returning to all-over round spots. Check repeat visibility before expanding scope."
+  },
+  "limitations": [
+    "Original imagegen material-class artwork plus technical periodicization, not a Michigan Central scan or exact May 2017 damage map.",
+    "Generated blocks, joints, weathering, rust marks and color variation are not documentary evidence.",
+    "Approximate 4 m repeat, 8 courses and 1 x 0.5 m nominal blocks are image-authoring dimensions, not surveyed masonry.",
+    "Imagegen texture had a cropped final course; edge reconstruction and opposite-border matching were applied and are disclosed. Inspect tiled use.",
+    "Numeric albedo, roughness and micrometre height are inferred. Tiny contrast inherited from generated artwork may not be a perfect illumination-free scan.",
+    "No large sculptural wear, chipped stone, dislodged masonry, cracks, graffiti or geometry were added.",
+    "All accepted materials and completed 2017 floor derivative are unchanged.",
+    "No Blender or station-scene render was performed for this new variant; revision10 was inspected as the placement/contrast diagnosis.",
+    "Do not tile rust marks blindly across the whole facade. Start with bounded north planar wall fields and judge whether repeating accents are visible in the actual view."
+  ],
+  "sha256": {
+    "normal.png": "240bf35c89604ef109c899e9c12a545abdaf802c87ff31593d8d1785de8c6040",
+    "roughness.png": "e25103d48cc56d51d7469f874e7cbdfc396756f87db4fdf24b16b4c1f4884f10",
+    "generated_original.png": "78e46ab58acc64795b6a4f60d99b815f3f72cdd3d96c003e8c3076703e2c08ed",
+    "basecolor.png": "1f60b17c9aacc06896fa147c1ef3813cdaa1271333b7766456deecb4b1c01768",
+    "orm.png": "72c1bfe06cdc57ec60e6ed9ada53fe88e7412f5ce578d898d7ebe32720933b5c",
+    "height.png": "1417c09af07fafca66df6de741905cda2952ebe9181e648533547beb0283ac5d"
+  }
+}

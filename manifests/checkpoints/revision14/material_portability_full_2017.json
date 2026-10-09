@@ -1,0 +1,282 @@
+{
+  "glb": "exports/michigan_central_2017.glb",
+  "sha256": "e501bccc93a36211f3a10466ce75151e62f73fc92cff2fcbd5c431697dbd9f8b",
+  "era": "2017",
+  "passed": true,
+  "material_count_checked": 9,
+  "failure_count": 0,
+  "failures": [],
+  "materials": [
+    {
+      "name": "Secondary 2017 protective plywood",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.26,
+        0.14,
+        0.072
+      ],
+      "actual_mean_linear": [
+        0.2599990424011932,
+        0.14000385514194982,
+        0.07200231179348175
+      ],
+      "actual_std_linear": [
+        0.027040054403643172,
+        0.014571089696768055,
+        0.007501194987377266
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 68
+      },
+      "roughness": 0.9100000262260437,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary exposed ribbed substrate",
+      "primitive_count": 2,
+      "expected_mean_linear": [
+        0.26,
+        0.23000000000000004,
+        0.18
+      ],
+      "actual_mean_linear": [
+        0.2600050080313717,
+        0.23000440729252622,
+        0.17999945949860924
+      ],
+      "actual_std_linear": [
+        0.021385906991779287,
+        0.018921709890838637,
+        0.01481091077478884
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 70
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary conservation grille",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.018,
+        0.02,
+        0.019
+      ],
+      "actual_mean_linear": [
+        0.01801018524916491,
+        0.019987677127149567,
+        0.018994608731901674
+      ],
+      "actual_std_linear": [
+        0.0004455350423858516,
+        0.0004994842177706529,
+        0.00046072062823211956
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 84
+      },
+      "roughness": 0.44999998807907104,
+      "metallic": 0.550000011920929,
+      "issues": []
+    },
+    {
+      "name": "Secondary iron rust",
+      "primitive_count": 32,
+      "expected_mean_linear": [
+        0.14,
+        0.07099999999999998,
+        0.035
+      ],
+      "actual_mean_linear": [
+        0.1400021524165477,
+        0.07100269371800028,
+        0.03500137695372341
+      ],
+      "actual_std_linear": [
+        0.013849942610148304,
+        0.007033236561343461,
+        0.0034755015203237457
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 86
+      },
+      "roughness": 0.7300000190734863,
+      "metallic": 0.4000000059604645,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 1",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.016,
+        0.14,
+        0.24
+      ],
+      "actual_mean_linear": [
+        0.01600374807208324,
+        0.14000795802558233,
+        0.2399965915990858
+      ],
+      "actual_std_linear": [
+        0.0004826890750413984,
+        0.003580100140051448,
+        0.0060407015720948835
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 88
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 2",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.51,
+        0.35,
+        0.035
+      ],
+      "actual_mean_linear": [
+        0.5099959319822517,
+        0.34999955003218197,
+        0.03500122870106907
+      ],
+      "actual_std_linear": [
+        0.012714023758224455,
+        0.008754892947339311,
+        0.0009488062109520121
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 90
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 3",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.35,
+        0.06,
+        0.022
+      ],
+      "actual_mean_linear": [
+        0.3499939494102182,
+        0.06001227687720848,
+        0.022003216477705412
+      ],
+      "actual_std_linear": [
+        0.008785943053945639,
+        0.0015718040825063672,
+        0.0006164234294361117
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 92
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 4",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.09,
+        0.11000000000000001,
+        0.12
+      ],
+      "actual_mean_linear": [
+        0.09000631183488629,
+        0.10999827984797313,
+        0.11999938261345479
+      ],
+      "actual_std_linear": [
+        0.002313522856107544,
+        0.002833814622117136,
+        0.0030805238440032574
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 94
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    },
+    {
+      "name": "Secondary original abstract marking 5",
+      "primitive_count": 1,
+      "expected_mean_linear": [
+        0.14,
+        0.22000000000000003,
+        0.22000000000000003
+      ],
+      "actual_mean_linear": [
+        0.139997008651186,
+        0.22000042706426337,
+        0.22000042706426337
+      ],
+      "actual_std_linear": [
+        0.003563443661789647,
+        0.005538834619173006,
+        0.005538834619173006
+      ],
+      "actual_factor": [
+        1,
+        1,
+        1
+      ],
+      "basecolor_texture": {
+        "index": 96
+      },
+      "roughness": 0.949999988079071,
+      "metallic": 0,
+      "issues": []
+    }
+  ],
+  "scope": "Source-palette and channel portability, not architectural likeness or exact old-noise parity"
+}

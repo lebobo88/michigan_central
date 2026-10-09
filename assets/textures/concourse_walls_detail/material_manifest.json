@@ -1,0 +1,162 @@
+{
+  "flemish_buff_2026": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "1914 text Flemish bond and retained photographed buff brick; color/proportions approximate; 2017 variation is not a damage inventory",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "139758c998ed445d28bc0a9bd026a5c9cbc9e04e98549b9d42f92d2f6cc63216",
+      "roughness": "c9fa951be178e6b2754597fbcdc9302aff658fc148778a6adfb35d94f4c32d12",
+      "normal": "0799a62556461702881ede4bebdc77faf6e648019f753fe4a01a1614de37e8b5",
+      "height": "e1b0a443aceea12c60b282af433bc43a6cd3c2ed92bf8d7b5746745757f86f3b"
+    }
+  },
+  "flemish_buff_2017": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "1914 text Flemish bond and retained photographed buff brick; color/proportions approximate; 2017 variation is not a damage inventory",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "13ee6620aa85fc0e22057dba965c1dfe3be37fe2990b3e34501f6eaccc6cff03",
+      "roughness": "2cc692cf93d28992c311370447d7708419baa1526b12175da823767bf9028dea",
+      "normal": "0799a62556461702881ede4bebdc77faf6e648019f753fe4a01a1614de37e8b5",
+      "height": "e1b0a443aceea12c60b282af433bc43a6cd3c2ed92bf8d7b5746745757f86f3b"
+    }
+  },
+  "herringbone_buff_2026": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "Source-visible diagonal brick frieze; original procedural herringbone, not a recovered exact brick map",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "4f4ba05d9247b3c9d48c85315832f7138ac65e92701bbbb373630fd07adecdb7",
+      "roughness": "304a3b4658a2a65e3f404b4f3cd91da3b82d56416bc04264c74184c634bb90fc",
+      "normal": "9ff3d31c6cad5c6b4b709ce155934b570fdf9c0938fad6f954ee856fc08ecb0e",
+      "height": "83be300152c8f4e1a474e63bf206a5fea6d168abb0b63d77c3bd013b0423c484"
+    }
+  },
+  "herringbone_buff_2017": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "Source-visible diagonal brick frieze; original procedural herringbone, not a recovered exact brick map",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "82dc1f7654ad7b3d636a2a7c03d2e2ad0f69bf0ce788ac3f97460ed4cd65b919",
+      "roughness": "304a3b4658a2a65e3f404b4f3cd91da3b82d56416bc04264c74184c634bb90fc",
+      "normal": "9ff3d31c6cad5c6b4b709ce155934b570fdf9c0938fad6f954ee856fc08ecb0e",
+      "height": "83be300152c8f4e1a474e63bf206a5fea6d168abb0b63d77c3bd013b0423c484"
+    }
+  },
+  "terracotta_2026": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "Light tan terracotta strips, pilaster bases/caps documented in 1914; color visually approximated, not calibrated",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "e331349a3a625e4ca30efbd88e89651c5893f4b620b7d7ba949fff04a82c785e",
+      "roughness": "cf61667857c6600040b62b6751b2be8a4ef0e836607ff92eaaa207c7ba13995d",
+      "normal": "4285169b0d5a0b9f94e8339abf0af7571f88d6999ae07537dcf33cf7fa754587",
+      "height": "345f00a01cfcd8465a8145a153dfac0dcabd9d5b6d861e4c428754d4cdf929b8"
+    }
+  },
+  "terracotta_2017": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "Light tan terracotta strips, pilaster bases/caps documented in 1914; color visually approximated, not calibrated",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "1f3e7d8c742b784b52604125ab2ffc9863a429a19e65520eff0ba97b75f65d80",
+      "roughness": "eb3cc3fb08a972a1ba0d8725bb448887463047c81f144e462f2db9f7be3321d3",
+      "normal": "4285169b0d5a0b9f94e8339abf0af7571f88d6999ae07537dcf33cf7fa754587",
+      "height": "345f00a01cfcd8465a8145a153dfac0dcabd9d5b6d861e4c428754d4cdf929b8"
+    }
+  },
+  "terrazzo_warm": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "Restored polished warm matrix and blue-gray aggregate bands from August2023 detail_p32; original seeded chips and qualified band geometry",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "d491382fbd28fc69d74e3f2049ebbda88810468f9da0b36b4b27718f8b3038d9",
+      "roughness": "08cbc9ed67bcf7085d5f59152d3afa0324d9d74eb27cea2ce5d1f0e8a303d045",
+      "normal": "c78234920775b3cde61d5461cc0f61afd07a7b25ba836d5233303d1b0319b571",
+      "height": "1d9978daa739e0e5b44ccfeba934312bbccf5566e3aaadeb8e6302ea05bf2c51"
+    }
+  },
+  "terrazzo_bluegray": {
+    "repeat_m": 1.36,
+    "pixels": [
+      1024,
+      1024
+    ],
+    "normal_convention": "OpenGL +Y",
+    "height_mapping_m": [
+      -0.004,
+      0.004
+    ],
+    "basis": "Restored polished warm matrix and blue-gray aggregate bands from August2023 detail_p32; original seeded chips and qualified band geometry",
+    "authorship": "Original seeded procedural raster; no photograph was read or sampled",
+    "sha256": {
+      "basecolor": "b0b106bd1b1ee7591dd1509363434199a363d943c5b7803b9f91ef68ac0c99b1",
+      "roughness": "08cbc9ed67bcf7085d5f59152d3afa0324d9d74eb27cea2ce5d1f0e8a303d045",
+      "normal": "c78234920775b3cde61d5461cc0f61afd07a7b25ba836d5233303d1b0319b571",
+      "height": "1d9978daa739e0e5b44ccfeba934312bbccf5566e3aaadeb8e6302ea05bf2c51"
+    }
+  }
+}

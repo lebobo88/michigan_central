@@ -1,0 +1,74 @@
+[
+  {
+    "material": "generated_mankato_v1",
+    "basecolor_origin": "Actual built-in image_gen output, original artwork, no reference photograph supplied",
+    "basecolor_original_sha256": "673cdf59183a9090068f30609eb598b8b1ad0660ae7f4fa2b3049383da56ab8a",
+    "pixels": [
+      1254,
+      1254
+    ],
+    "physical_repeat_m": 1.5,
+    "roughness_origin": "Artistic inference, not measured",
+    "height_origin": "Conservative inferred micrograin",
+    "normal_convention": "OpenGL +Y",
+    "normal_origin": "Derived only from the conservative height estimate",
+    "seam_diagnostics": {
+      "horizontal_edge_mean_difference": 0.03979005292057991,
+      "vertical_edge_mean_difference": 0.04363761469721794,
+      "mean_adjacent_pixel_difference": 0.03629392758011818
+    },
+    "warnings": [
+      "Generated swatch is not a station scan or evidence of actual fabric",
+      "Seamlessness must be judged in actual mapped render",
+      "No true displacement enabled at this LOD"
+    ]
+  },
+  {
+    "material": "generated_rose_marble_v1",
+    "basecolor_origin": "Actual built-in image_gen output, original artwork, no reference photograph supplied",
+    "basecolor_original_sha256": "5a979be1bd7bed83c05fa8efe541c3781e35c28bf55fc711a1332e85ed821d59",
+    "pixels": [
+      1254,
+      1254
+    ],
+    "physical_repeat_m": 1.2,
+    "roughness_origin": "Artistic inference, not measured",
+    "height_origin": "Intentionally flat polished surface; color veins are not height",
+    "normal_convention": "OpenGL +Y",
+    "normal_origin": "Derived only from the conservative height estimate",
+    "seam_diagnostics": {
+      "horizontal_edge_mean_difference": 0.06472465395927429,
+      "vertical_edge_mean_difference": 0.0763632208108902,
+      "mean_adjacent_pixel_difference": 0.03274134546518326
+    },
+    "warnings": [
+      "Generated swatch is not a station scan or evidence of actual fabric",
+      "Seamlessness must be judged in actual mapped render",
+      "No true displacement enabled at this LOD"
+    ]
+  },
+  {
+    "material": "generated_walnut_herringbone_v1",
+    "basecolor_origin": "Actual built-in image_gen output, original artwork, no reference photograph supplied",
+    "basecolor_original_sha256": "f541882662002d5abd3e99f4e383c5a8cf47d05e2718cca13686b4ec61c1ca04",
+    "pixels": [
+      1254,
+      1254
+    ],
+    "physical_repeat_m": 0.65,
+    "roughness_origin": "Artistic inference, not measured",
+    "height_origin": "Intentionally flat polished surface; color veins are not height",
+    "normal_convention": "OpenGL +Y",
+    "normal_origin": "Derived only from the conservative height estimate",
+    "seam_diagnostics": {
+      "horizontal_edge_mean_difference": 0.03204594925045967,
+      "vertical_edge_mean_difference": 0.03549843281507492,
+      "mean_adjacent_pixel_difference": 0.02072139084339142
+    },
+    "warnings": [
+      "Generated swatch is not a station scan or evidence of actual fabric",
+      "Seamlessness must be judged in actual mapped render",
+      "No true displacement enabled at this LOD"
+    ]
+  }
+]

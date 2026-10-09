@@ -1,0 +1,31 @@
+{
+  "command": [
+    "/workspace/scratch/253ae098be12/3d-tools/apps/blender-5.2.2-linux-x64/blender",
+    "-b",
+    "-t",
+    "2",
+    "--python",
+    "/workspace/scratch/253ae098be12/michigan-central/manifests/revision15_concourse_integration/scripts/import_and_render.py",
+    "--",
+    "--era",
+    "2026",
+    "--mode",
+    "import",
+    "--render",
+    "--samples",
+    "16",
+    "--width",
+    "1000"
+  ],
+  "exit_code": 0,
+  "signal": null,
+  "elapsed_s": 171.04,
+  "maximum_resident_set_kib": 5138512,
+  "user_cpu_s": 307.828913,
+  "system_cpu_s": 7.845587,
+  "threads_requested": 2,
+  "only_one_child": true,
+  "quality_unchanged": true,
+  "geometry_hidden_removed_or_decimated": false,
+  "textures_resized": false
+}

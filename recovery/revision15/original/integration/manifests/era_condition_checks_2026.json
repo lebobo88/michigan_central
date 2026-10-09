@@ -1,0 +1,64 @@
+{
+  "era": "2026",
+  "source_blend_sha256": "7400e0bdc397f444d33e06136df8e539bcea8cebed8e91f15f6fc3b692b0f958",
+  "checks": [
+    {
+      "condition": "concourse restored individual glazing panels present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "Passenger ramp restored glazed roof present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "hall chandelier pendant vase present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "hall alcove restored sash glazing present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "documented2026 mixed canopy roof present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "retained canopy wall bosses present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "2015 replacement tower windows present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "2023 north park geometry present",
+      "actual": true,
+      "expected": true
+    },
+    {
+      "condition": "bounded historical forecourt present",
+      "actual": false,
+      "expected": false
+    },
+    {
+      "condition": "modeled substantial cartouches",
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "condition": "unobserved southern structure is not silently aligned",
+      "actual": true,
+      "expected": true
+    }
+  ],
+  "passed": true,
+  "scope": "Presence/absence regression only; no complete room or per-pane inventory certification",
+  "sources": "See hall_lunettes/2017_cartouche_schedule.json, period source ledger and2017 roof-condition evidence"
+}

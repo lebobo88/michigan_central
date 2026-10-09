@@ -1,0 +1,20 @@
+{
+  "file": "assets/forecourt_2017/qa/forecourt_2017_isolated.glb",
+  "sha256": "ddbb0a5bd9da18579c6267d56b9960a8cb2ae614936f3dbdadcc66463b574e06",
+  "bytes": 26749356,
+  "mesh_definitions": 45,
+  "mesh_instances": 173,
+  "shared_mesh_definitions": 4,
+  "primitives": 57,
+  "unique_mesh_triangles": 82092,
+  "finite_attribute_errors": [],
+  "degenerate_triangles": [],
+  "zero_area_uv_triangles": [],
+  "nonunit_normals": [],
+  "invalid_tangent_basis": [],
+  "tangent_normal_dot_tolerance": 0.0002,
+  "normal_and_tangent_length_tolerance": 0.0001,
+  "textures": 19,
+  "materials": 17,
+  "limit": "Binary accessor and reuse validation only; use Blender importer report and inspected preview separately"
+}

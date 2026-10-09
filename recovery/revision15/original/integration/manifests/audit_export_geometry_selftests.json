@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "tests": {
+    "real2017_clean_integration_passes": true,
+    "new_detail_issue_fails": true,
+    "inherited_count_increase_fails": true,
+    "inherited_category_added_fails": true,
+    "new_mesh_missing_fails": true,
+    "inherited_primitive_missing_fails": true
+  }
+}

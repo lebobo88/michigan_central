@@ -1,0 +1,245 @@
+{
+  "material": "great_hall_floor_2026",
+  "role": "Compatible full-room atlas, not a periodic swatch. Existing diamond bands, strip bands and bench-infill masks preserved.",
+  "pixels": [
+    3072,
+    3072
+  ],
+  "physical_repeat_m": null,
+  "mapped_extent_m": [
+    71.0184,
+    31.6992
+  ],
+  "periodic": false,
+  "origin": "Original deterministic procedural artwork; no image generation used in v2",
+  "rights": "Original project-created maps. No third-party image pixels used.",
+  "basecolor_encoding": "sRGB",
+  "roughness_encoding": "linear scalar; also in ORM green channel",
+  "normal_encoding": "linear OpenGL tangent space +Y; image-row derivative sign converted to UV-v-up",
+  "height_encoding": {
+    "bits": 16,
+    "mode": "unsigned grayscale PNG",
+    "zero": 32767.5,
+    "full_range_m": 0.0004,
+    "decode_m": "(uint16 / 65535 - 0.5) * full_range_m",
+    "origin": "Conservative artistic inference, not measured",
+    "used_for_displacement": false
+  },
+  "gltf": {
+    "metallicFactor": 0,
+    "roughnessFactor": 1,
+    "normalTexture_scale": 1,
+    "baseColorTexture": "basecolor.png",
+    "metallicRoughnessTexture": "orm.png",
+    "normalTexture": "normal.png",
+    "height": "Documentation sidecar only; core glTF does not export height displacement"
+  },
+  "roughness_origin": "Artistic inference from apparent polish; not measured",
+  "recommended_normal_strength": 1.0,
+  "limitations": [
+    "Original artistic reconstruction of a material class, not a site scan, measured BRDF, or documentary damage inventory.",
+    "All RGB, roughness, physical repeats, stone-joint modules, and relief amplitudes are authored estimates.",
+    "Source photographs are copyrighted internal study references only. No source-photo pixels are sampled, embedded, reprojected, generated from, or redistributed.",
+    "Current-era material appearance is inferred from restoration-era photographs; these do not prove unchanged condition in 2026.",
+    "Large-scale chips, missing stones, sculptural wear, cracks and documented bench-foot depressions require geometry or independently evidenced masks; none are fabricated as strong normal maps here.",
+    "WIP material/isolated-plane validation is not a claim of photorealism or station-level certification."
+  ],
+  "sources": [
+    "exterior_may2017",
+    "exterior_june2017",
+    "hall_post_p6",
+    "hall_post_p10",
+    "hall_detail_p4"
+  ],
+  "integration_target": "Grand Hall floor assembly, 2026 only. Keep existing room UVs exactly.",
+  "atlas_origin": "Original procedural v2 marble plus untouched original project-created pale bands and terrazzo colors from existing atlas",
+  "input_atlas": "assets/textures/great_hall_floor_2026/basecolor.png",
+  "input_atlas_sha256": "8582147a5f0573a47848d596103160debe6551bfa827921956a8eb8257913501",
+  "preserved_geometry": "No meshes edited. Existing geometric/atlas floor pattern and bench footprints remain in place.",
+  "antialias_filter_sigma_px": [
+    17.7546,
+    7.9248
+  ],
+  "warnings": [
+    "Full-room atlas must use clamp-to-edge, not repeated tiling.",
+    "3072-square image maps anisotropically over the documented 71.0184 by 31.6992 m room.",
+    "No exact foot-wear depth is claimed or simulated."
+  ],
+  "metrics": {
+    "basecolor": {
+      "pixels": [
+        3072,
+        3072
+      ],
+      "mean": [
+        0.4196695080430841,
+        0.3155559330610771,
+        0.3080529956962792
+      ],
+      "p01": [
+        0.30588236451148987,
+        0.27450981736183167,
+        0.2705882489681244
+      ],
+      "p99": [
+        0.5176470875740051,
+        0.4627451002597809,
+        0.4431372582912445
+      ],
+      "seam_horizontal_mean": [
+        0.020069755613803864,
+        0.018479201942682266,
+        0.017253702506422997
+      ],
+      "seam_vertical_mean": [
+        0.030546285212039948,
+        0.03911955654621124,
+        0.02788088470697403
+      ],
+      "mean_adjacent_x": [
+        0.01464780606329441,
+        0.01513581071048975,
+        0.013846959918737411
+      ],
+      "mean_adjacent_y": [
+        0.011139498092234135,
+        0.011353116482496262,
+        0.010560120455920696
+      ],
+      "seam_to_adjacent_x": [
+        1.3701534271240234,
+        1.2208919525146484,
+        1.2460272312164307
+      ],
+      "seam_to_adjacent_y": [
+        2.742157459259033,
+        3.4457077980041504,
+        2.640202522277832
+      ]
+    },
+    "roughness": {
+      "pixels": [
+        3072,
+        3072
+      ],
+      "mean": [
+        0.17277405450262032
+      ],
+      "p01": [
+        0.15294118225574493
+      ],
+      "p99": [
+        0.27843138575553894
+      ],
+      "seam_horizontal_mean": [
+        0.005644913762807846
+      ],
+      "seam_vertical_mean": [
+        0.009223089553415775
+      ],
+      "mean_adjacent_x": [
+        0.0036309242714196444
+      ],
+      "mean_adjacent_y": [
+        0.0021638351026922464
+      ],
+      "seam_to_adjacent_x": [
+        1.5546724796295166
+      ],
+      "seam_to_adjacent_y": [
+        4.2623610496521
+      ]
+    },
+    "normal": {
+      "pixels": [
+        3072,
+        3072
+      ],
+      "mean": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0
+      ],
+      "p01": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0
+      ],
+      "p99": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0
+      ],
+      "seam_horizontal_mean": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seam_vertical_mean": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mean_adjacent_x": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mean_adjacent_y": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seam_to_adjacent_x": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seam_to_adjacent_y": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "height": {
+      "pixels": [
+        3072,
+        3072
+      ],
+      "mean": [
+        0.5000076293945312
+      ],
+      "p01": [
+        0.5000076293945312
+      ],
+      "p99": [
+        0.5000076293945312
+      ],
+      "seam_horizontal_mean": [
+        0.0
+      ],
+      "seam_vertical_mean": [
+        0.0
+      ],
+      "mean_adjacent_x": [
+        0.0
+      ],
+      "mean_adjacent_y": [
+        0.0
+      ],
+      "seam_to_adjacent_x": [
+        0.0
+      ],
+      "seam_to_adjacent_y": [
+        0.0
+      ]
+    }
+  },
+  "sha256": {
+    "normal.png": "5156c1898c7c1ee631480e4e3184193cae183e6198ab2ddb63ce6a4c2dc5dc1a",
+    "roughness.png": "639b40bac86b5bcbdb15feb1c89e87d02c890e8446969bdd3d85cdcf9e1ee715",
+    "basecolor.png": "7472903b9d57018cf76a561bf9089464e49f19a9792dc1e91bae9f66b60cdcca",
+    "orm.png": "dac2745d2b3678b5930d809a78371d8f0b91156b6cb3da18c2f5c6bce56b7fef",
+    "height.png": "dfedb13df36e23ba51155923cbf2aa8517619b8b375ed71c8ef2de4273db0b3e"
+  }
+}

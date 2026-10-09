@@ -1,0 +1,142 @@
+{
+  "purpose": "Texture/source-material packaging allowlist; QA scenes, GLBs and future previews are excluded",
+  "authored_texture_files": [
+    {
+      "path": "assets/forecourt_2017/textures/authored_us_flag/basecolor.png",
+      "bytes": 4312,
+      "sha256": "7f0b9886d583c14ce713accd7892d6895149c42e772f284d80818005eb089dee"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/exposed_soil/basecolor.png",
+      "bytes": 248029,
+      "sha256": "a20841fca63b2c10739ac3f644ffc62692cc8882617393abf217c081e65560aa"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/exposed_soil/height.png",
+      "bytes": 483297,
+      "sha256": "cef257ee7d80d929154f4652a38139f66c5d5cdd0a1af97d92766958c1b97e4b"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/exposed_soil/normal.png",
+      "bytes": 280140,
+      "sha256": "502202439c5f0ff559a7edd25858651c3016b08596e7e0a7d02aabcdabbe280e"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/exposed_soil/roughness.png",
+      "bytes": 147864,
+      "sha256": "30ae153040dbe4b94c56d32dce2858dce0ebae9fdda61edee87453aecffce0e6"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/median_concrete/basecolor.png",
+      "bytes": 226128,
+      "sha256": "43f9a6e3dbd806ebd6dadb26bc3db4a73d26cb8bbcf3957ae68fe42000a1b4e4"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/median_concrete/height.png",
+      "bytes": 480234,
+      "sha256": "80dc28395427948248857c5e969bcb4113d2c3453aca59bdb1474a7a796d8cb7"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/median_concrete/normal.png",
+      "bytes": 267866,
+      "sha256": "520fca29c11669706d621f3ce715adbfdb0a491f01b569468dede64804e6d45b"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/median_concrete/roughness.png",
+      "bytes": 148382,
+      "sha256": "9b20421ff9f75297d17f074e7c6632eab578b37f040e7f648264f38bbc51a917"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/pale_sidewalk/basecolor.png",
+      "bytes": 225794,
+      "sha256": "3f77c9861ef55d491da5ea20f6e6dfac7f1e069e2b6c911dff8eca3a109a654b"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/pale_sidewalk/height.png",
+      "bytes": 480235,
+      "sha256": "c4fdb8b7e21ad30d85e9d192e335d2adf2b71656d1210adea13709855b833309"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/pale_sidewalk/normal.png",
+      "bytes": 267534,
+      "sha256": "18d296d1f98652ebff3c8e3d02d2bf5f102cffb749c77979133176d40154782e"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/pale_sidewalk/roughness.png",
+      "bytes": 148394,
+      "sha256": "3292b6be7742b52a3046b15ec5b8164234074b95234c23163b5f837c5949f7af"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/weathered_apron/basecolor.png",
+      "bytes": 234864,
+      "sha256": "5b8bfb393d9ab8865a6c78f10307ca5786d1788721bdbb399c27a00db02bfce3"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/weathered_apron/height.png",
+      "bytes": 480262,
+      "sha256": "d2e7d1e4247ac0dcb99cbb13cbacbd157b8efc98a2118c2d1d3599a097bb8d86"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/weathered_apron/normal.png",
+      "bytes": 267768,
+      "sha256": "f8829306399e3ebdf502106e18cd4f1f69285fb94f5b38db6faf3c213ab58023"
+    },
+    {
+      "path": "assets/forecourt_2017/textures/weathered_apron/roughness.png",
+      "bytes": 148381,
+      "sha256": "636130e2e64b8b1f79621bef469253861016d7e40d15824786a4fac9578a9990"
+    }
+  ],
+  "read_only_project_texture_dependencies": [
+    {
+      "path": "assets/textures/limestone_2017/basecolor.png",
+      "bytes": 2323475,
+      "sha256": "eb3b8b5fe4f8b21189fbef3b8b32f265100249b3cdee2a3375cd76a6da2a50e8"
+    },
+    {
+      "path": "assets/textures/limestone_2017/height.png",
+      "bytes": 5933712,
+      "sha256": "31629fef1ef94beabed48a0aca8bfedc7bcb8856e1a5fbd032236231891b27d7"
+    },
+    {
+      "path": "assets/textures/limestone_2017/normal.png",
+      "bytes": 4963315,
+      "sha256": "e94396b4896a7ac8d37f3c329399e3294ec96f6ade847edd77ad3b3ba12d1635"
+    },
+    {
+      "path": "assets/textures/limestone_2017/roughness.png",
+      "bytes": 1781889,
+      "sha256": "65fcd196d844238d64c2f98e7dd322563c672fccc56ed24f69be7f44d3a82987"
+    },
+    {
+      "path": "assets/north_plaza/textures/np_asphalt/basecolor.png",
+      "bytes": 860239,
+      "sha256": "6981a83b8aa5e7c6afe52c476b2bf7a5b80da869f9733d2dd578be9f4288cbd2"
+    },
+    {
+      "path": "assets/north_plaza/textures/np_asphalt/height.png",
+      "bytes": 2012906,
+      "sha256": "bc6ec151b3837e8bb4d950ee7e450607ffd55be4474e2a801bffec082c5f0280"
+    },
+    {
+      "path": "assets/north_plaza/textures/np_asphalt/normal.png",
+      "bytes": 1357014,
+      "sha256": "83347fa9616a34cf02898bf44b1b51836c667e2a02ab66bb22a2298af2459c24"
+    },
+    {
+      "path": "assets/north_plaza/textures/np_asphalt/roughness.png",
+      "bytes": 570740,
+      "sha256": "2a79dc60f766720fff3f2285436298633ea66eeab10e07d12b3094bb89a3de03"
+    }
+  ],
+  "authored_generation_source": {
+    "path": "assets/forecourt_2017/prepare_textures.py",
+    "bytes": 2994,
+    "sha256": "c9bc44cc9547644ab52aee628a20efa2b1b78c65ee77c6263be2b17c04a902a7"
+  },
+  "excluded_prefixes": [
+    "assets/forecourt_2017/qa/",
+    "research/"
+  ],
+  "rights": "All allowed texture files are original project-authored/procedural; no reference image pixels"
+}

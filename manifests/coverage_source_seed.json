@@ -1,0 +1,182 @@
+[
+  {
+    "space": "Grand Hall",
+    "evidence_2017": "May 2017 p6,p9,p16,p17,p29",
+    "evidence_restored": "2023/24 p5-p17; details p4,p9",
+    "observed_angles": "Both longitudinal directions; entry; walls; vault; floor",
+    "missing_or_inferred": "Exact 2026 props; unseen surface dimensions",
+    "confidence": "High visible fabric; medium period carry-forward",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Ticket lobby",
+    "evidence_2017": "May 2017 p1,p6",
+    "evidence_restored": "2023/24 p17-p28; detail p17,p20",
+    "observed_angles": "Multiple axes; counters; columns; clock",
+    "missing_or_inferred": "2026 shop fit-out",
+    "confidence": "High 2017/2024 shell; lower current fit-out",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Arcade",
+    "evidence_2017": "Partial 2017 via p1",
+    "evidence_restored": "2023/24 p24,p26,p29,p30",
+    "observed_angles": "Both corridor axes and vaulted ceiling",
+    "missing_or_inferred": "Complete 2017 storefront inventory; later shops",
+    "confidence": "Medium",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "East elevator lobby",
+    "evidence_2017": "2017 p14",
+    "evidence_restored": "Feb 2024 p35; Aug 2023 p34",
+    "observed_angles": "Two axial directions",
+    "missing_or_inferred": "Cabs; shafts; full connections; other levels",
+    "confidence": "High visible lobby, low hidden infrastructure",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Concourse",
+    "evidence_2017": "May 2017 p27,p28 details only",
+    "evidence_restored": "2023/24 p39-p48; floor detail p32",
+    "observed_angles": "Long axis; corners; skylight; ramp interfaces",
+    "missing_or_inferred": "Exact 2017 whole-room roof/floor state",
+    "confidence": "High restored shell, low exact 2017 condition",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "East exit ramp",
+    "evidence_2017": "May 2017 p28 interface",
+    "evidence_restored": "May 2024 p38; p36,p37",
+    "observed_angles": "East and west directions",
+    "missing_or_inferred": "Entire dated graffiti map",
+    "confidence": "Medium",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Passenger ramp",
+    "evidence_2017": "Undated pre p3, auxiliary only",
+    "evidence_restored": "Feb 2024 p43,p45",
+    "observed_angles": "Ramp and upper bridge underside",
+    "missing_or_inferred": "Full passenger tunnel; platform stairs",
+    "confidence": "Medium partial",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Restaurant",
+    "evidence_2017": "No unambiguous 2017 image isolated",
+    "evidence_restored": "May 2024 p49; Aug 2023 p50; ceiling detail43",
+    "observed_angles": "Multiple axes; piers; vaults",
+    "missing_or_inferred": "2017 exact conditions; 2026 hotel works",
+    "confidence": "High restored shell; low specific-date current fit-out",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Men's reading room and cafe",
+    "evidence_2017": "No exact 2017 view isolated",
+    "evidence_restored": "Feb 2024 p60; p59-p66 and detail38-42",
+    "observed_angles": "Woodwork; ceiling; doors; side connections",
+    "missing_or_inferred": "Current furniture; unseen alcoves",
+    "confidence": "High restored surfaces; low 2017/current",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Women's waiting room",
+    "evidence_2017": "Only older/undated partial views",
+    "evidence_restored": "Aug 2023 p69,p70; p68-p75",
+    "observed_angles": "Arched window walls; ceiling; paneling; floor",
+    "missing_or_inferred": "2017 state; current event setup",
+    "confidence": "High restored surfaces; low exact 2017/current",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "West connecting corridor/stair",
+    "evidence_2017": "No exact 2017 identified",
+    "evidence_restored": "Aug 2023 p57; p55-p58",
+    "observed_angles": "Short corridor and stair approaches",
+    "missing_or_inferred": "Whole stairwell; basement connection",
+    "confidence": "Medium partial",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Tower stair",
+    "evidence_2017": "May 2017 p34",
+    "evidence_restored": "Restored p76 and detail50, exact date unspecified",
+    "observed_angles": "One landing/flight each",
+    "missing_or_inferred": "Matching location; complete building stair geometry",
+    "confidence": "Medium visible elements, low full system",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Tower representative offices",
+    "evidence_2017": "May 2017 p36,p38,p40,p41, floors unknown",
+    "evidence_restored": "Post p77-p81 upper shell; 2020 sixth-floor scan auxiliary",
+    "observed_angles": "Long corridor; perimeter windows; exposed structure",
+    "missing_or_inferred": "Floor-by-floor partitioning and tenant fit-outs",
+    "confidence": "Medium representative; low matched comparison",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior; https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior; https://handbuiltcity.org/consulting/matterport/ford/"
+  },
+  {
+    "space": "Mezz coworking",
+    "evidence_2017": "No direct period match",
+    "evidence_restored": "Official current page; photos with Apr/May 2026 filenames",
+    "observed_angles": "Workstations; corridor; collaboration; boardroom",
+    "missing_or_inferred": "Measured suite plan; full furniture inventory",
+    "confidence": "High visible current materials; low inferred layout",
+    "main_sources": "https://michigancentral.com/network/"
+  },
+  {
+    "space": "Basement",
+    "evidence_2017": "No dated 2017 visual inventory",
+    "evidence_restored": "August 2023 post p84 and related p83",
+    "observed_angles": "Two structural-grid directions",
+    "missing_or_inferred": "Rooms; complete plant and utilities; 2026 state",
+    "confidence": "Low overall coverage",
+    "main_sources": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior"
+  },
+  {
+    "space": "Yellow Light",
+    "evidence_2017": "Not present as this fit-out",
+    "evidence_restored": "Architect records completed 2025; owner current listing",
+    "observed_angles": "Published photos; text material description",
+    "missing_or_inferred": "No local pixel-inspected images; full plan",
+    "confidence": "Medium documented design; low dimensional coverage",
+    "main_sources": "https://www.mergearchitects.com/projects/michigan-central-yellow-light/"
+  },
+  {
+    "space": "The Shop / Neighbor x Folk",
+    "evidence_2017": "Not present as these shops",
+    "evidence_restored": "Current owner page identifies locations",
+    "observed_angles": "No complete fit-out image inventory inspected",
+    "missing_or_inferred": "Exact layouts; inventory; signage changes",
+    "confidence": "Low visual coverage",
+    "main_sources": "https://michigancentral.com/visit/"
+  },
+  {
+    "space": "Youth club / tenant offices",
+    "evidence_2017": "No matching coverage",
+    "evidence_restored": "Owner 2024/2026 occupancy announcements",
+    "observed_angles": "No complete visual inventory inspected",
+    "missing_or_inferred": "All private suite geometry and fit-outs",
+    "confidence": "Low",
+    "main_sources": "https://michigancentral.com/boys-girls-clubs-of-greater-detroit-opens-new-club-at-michigan-central-a-nationally-unprecedented-model-embedding-youth-inside-an-innovation-ecosystem/"
+  },
+  {
+    "space": "Terraces and roof interfaces",
+    "evidence_2017": "Exterior research separately",
+    "evidence_restored": "2025 owner venue PDF",
+    "observed_angles": "Broad corner locations and area",
+    "missing_or_inferred": "Doors; access routing; maintenance zones",
+    "confidence": "Medium public roof outline; low interiors",
+    "main_sources": "https://www.michigancentral.com/wp-content/uploads/2024/07/MCS_2025_VenueOpportunities_07.08.24-compressed.pdf"
+  },
+  {
+    "space": "Hotel zones",
+    "evidence_2017": "No hotel",
+    "evidence_restored": "2027 future opening announcement",
+    "observed_angles": "Proposed use only",
+    "missing_or_inferred": "2026 construction state, all finished rooms",
+    "confidence": "Unobserved; exclude finished hotel",
+    "main_sources": "https://michigancentral.com/michigan-central-to-bring-new-nomad-hotel-to-detroit/"
+  }
+]

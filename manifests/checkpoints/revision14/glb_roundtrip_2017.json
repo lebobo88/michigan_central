@@ -1,0 +1,62 @@
+{
+  "glb_sha256": "64f735eb8c982b4e0b155fef6a07a7dfd2a5f3d22b46198450d8ddd7a559b981",
+  "source_blend_sha256": "0dcdf687e35dd0026dfb8d7667fcadf079f708632707268fd9343539746cca2e",
+  "era": "2017",
+  "file": "exports/michigan_central_2017_compact_review.glb",
+  "blender": "5.2.2 LTS",
+  "import_status": "passed",
+  "finite_meshes_uvs_materials": "passed",
+  "mesh_count": 674,
+  "room_groups": 17,
+  "unresolved_coverage_markers": [
+    "2017 apron markings | PARTIAL EVIDENCE",
+    "2017 east junction | UNVERIFIED",
+    "2017 north cartouche X20 | EXTENT UNOBSERVED",
+    "2017 north cartouche X-20 | EXTENT UNOBSERVED",
+    "2017 north park beyond frontage road | UNMODELED",
+    "2017 site grading | UNMEASURED",
+    "2017 south cartouche X-20 | EXTENT UNOBSERVED",
+    "2017 west junction | UNVERIFIED",
+    "Basements and plant | unmodeled",
+    "Concourse north_arcade_side_rooms | UNRESOLVED",
+    "Concourse west_vestibule_to_carriage | UNRESOLVED",
+    "Concourse yellow_light_rear_registration_notch | UNRESOLVED",
+    "East public restroom fit-outs | UNOBSERVED",
+    "Former women room | 2017 CONDITION UNOBSERVED",
+    "Historic restaurant | 2017 CONDITION UNOBSERVED",
+    "Mezz and 2026 tenant suites | no invented layout",
+    "NoMad hotel | not a finished 2026 interior",
+    "North lift approach west branch | CONTINUATION UNRESOLVED",
+    "Southern platform / replacement deck | UNALIGNED",
+    "Tower private floors | unmodeled fit-out",
+    "West reading and cafe | 2017 CONDITION UNOBSERVED"
+  ],
+  "bounds_method": "Actual world-space polygon-referenced vertices, before source modifiers",
+  "bound_tolerance_m": 0.02,
+  "bounds_m": [
+    [
+      -64.0,
+      -49.00016784667969,
+      -0.9757926631512319
+    ],
+    [
+      72.5761731305023,
+      88.22985469067258,
+      70.1097922707259
+    ]
+  ],
+  "source_bounds_m": [
+    [
+      -64.0,
+      -49.0,
+      -0.9758960008621216
+    ],
+    [
+      72.57599639892578,
+      88.2300033569336,
+      70.11000061035156
+    ]
+  ],
+  "max_envelope_difference_m": 0.00020833962565802722,
+  "limit": "Tests actual Blender import, metadata and broad metric envelope; does not certify every rendered material or architectural detail."
+}

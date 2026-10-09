@@ -1,0 +1,53 @@
+{
+  "review_date": "2026-10-06",
+  "source_sha256": "bdc9e7dfc821d4520f938e414f479f4df31b1b2cb6e884c6e2b7b0cec4549d8d",
+  "scope": "Inspected isolated north landscape only; station intentionally absent",
+  "images": [
+    {
+      "path": "qa/north_plaza/north_park_aerial_preview.png",
+      "observations": [
+        "Straight promenade is clear, with a distinct off-axis west circular lawn and separate station-facing divided rounded lawn",
+        "Lacombe remains an asphalt road with central pale crossing, separated from the station apron and park",
+        "Mature crowns are leafy volumetric original meshes, young tree classes are lower; central station vista remains open",
+        "Warm seating pads, lamps and smaller beds read as distinct materials",
+        "Final aerial is an oblique review crop, not a survey orthophoto"
+      ]
+    },
+    {
+      "path": "qa/north_plaza/north_forecourt_preview.png",
+      "observations": [
+        "Two elongated ornamental beds have station-facing balustrades and curved returns, low road-facing curbs, distinct stone piers",
+        "A broad center entry apron and slender bollards remain clear",
+        "Dense leafy bed massing replaced first-pass sparse dot-like flowers",
+        "Gray apron, black asphalt, pale crossing, warm border strips and sidewalks remain visually separate"
+      ]
+    }
+  ],
+  "revisions_after_first_inspection": [
+    "Removed secondary path dangling spur",
+    "Increased canopy density and filled crown centers; retained original shared-mesh method",
+    "Added dense lower perennial foliage and reduced scattered flower-head dominance",
+    "Triangulated prototype n-gon caps to eliminate exporter tangent-calculation warnings"
+  ],
+  "remaining_limits": [
+    "All site dimensions and local grades remain photo-fit approximations, not a surveyed as-built",
+    "Plant/furniture positions and inventory remain interpretive within observed broad zones",
+    "Current simple flat lawn grade is not a measured terrain surface",
+    "Regular repeated planting rhythm and generic procedural species remain visible at close range",
+    "No whole-station interface render, no exact botanical inventory, no photoreal/completeness certification"
+  ],
+  "render_settings": {
+    "engine": "Cycles CPU",
+    "threads": 2,
+    "samples": 12,
+    "aerial_pixels": [
+      1200,
+      900
+    ],
+    "forecourt_pixels": [
+      1200,
+      750
+    ],
+    "lighting": "Neutral isolated daylight, not photograph-matched full scene"
+  }
+}

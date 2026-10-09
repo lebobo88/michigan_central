@@ -1,0 +1,9 @@
+{
+  "era": "2026",
+  "source_blend_sha256": "7400e0bdc397f444d33e06136df8e539bcea8cebed8e91f15f6fc3b692b0f958",
+  "passed": true,
+  "targets": [],
+  "scope": "Only north planar wall fields; separate columns, arch profiles, molding and ornament excluded",
+  "repeat_m": 4.0,
+  "limitations": "Authoring-scale and placement checks only; generated course layout/stains are interpretive and unmeasured"
+}

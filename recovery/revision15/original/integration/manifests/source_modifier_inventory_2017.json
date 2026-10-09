@@ -1,0 +1,7164 @@
+[
+  {
+    "object": "landscape context",
+    "mesh": "landscape context",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "terminal foundation datum",
+    "mesh": "terminal foundation datum",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north facade continuous stone piers",
+    "mesh": "north facade continuous stone piers",
+    "vertices": 56,
+    "polygons": 42,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 aged limestone wall fields",
+    "mesh": "2017 aged limestone wall fields",
+    "vertices": 1804,
+    "polygons": 1314,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north secondary arched window glazing",
+    "mesh": "north secondary arched window glazing",
+    "vertices": 172,
+    "polygons": 4,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north secondary arched window frame",
+    "mesh": "north secondary arched window frame",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north secondary arched window arch",
+    "mesh": "north secondary arched window arch",
+    "vertices": 656,
+    "polygons": 648,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north secondary arched window mullions",
+    "mesh": "north secondary arched window mullions",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north secondary arched window transoms",
+    "mesh": "north secondary arched window transoms",
+    "vertices": 224,
+    "polygons": 168,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north secondary arched window fanlight",
+    "mesh": "north secondary arched window fanlight",
+    "vertices": 512,
+    "polygons": 320,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "small front archivolt",
+    "mesh": "small front archivolt",
+    "vertices": 656,
+    "polygons": 648,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north monumental window glazing",
+    "mesh": "north monumental window glazing",
+    "vertices": 129,
+    "polygons": 3,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north monumental window frame",
+    "mesh": "north monumental window frame",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north monumental window arch",
+    "mesh": "north monumental window arch",
+    "vertices": 492,
+    "polygons": 486,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north monumental window mullions",
+    "mesh": "north monumental window mullions",
+    "vertices": 288,
+    "polygons": 216,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north monumental window transoms",
+    "mesh": "north monumental window transoms",
+    "vertices": 312,
+    "polygons": 234,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arch jambs",
+    "mesh": "arch jambs",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "pediment tympanum",
+    "mesh": "pediment tympanum",
+    "vertices": 18,
+    "polygons": 15,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "pediment raking molding",
+    "mesh": "pediment raking molding",
+    "vertices": 288,
+    "polygons": 180,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "pediment dentils",
+    "mesh": "pediment dentils",
+    "vertices": 528,
+    "polygons": 396,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "interpreted foliate relief",
+    "mesh": "interpreted foliate relief",
+    "vertices": 1134,
+    "polygons": 756,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north facade end pier",
+    "mesh": "north facade end pier",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "exterior fluted column shafts and torus bases",
+    "mesh": "exterior fluted column shafts and torus bases",
+    "vertices": 48636,
+    "polygons": 45724,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "exterior column plinths",
+    "mesh": "exterior column plinths",
+    "vertices": 112,
+    "polygons": 84,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "exterior capital abacus",
+    "mesh": "exterior capital abacus",
+    "vertices": 112,
+    "polygons": 84,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north interrupted entablature bearing architrave",
+    "mesh": "north interrupted entablature bearing architrave",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north interrupted entablature upper molding",
+    "mesh": "north interrupted entablature upper molding",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north upper entablature projecting connection",
+    "mesh": "north upper entablature projecting connection",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north upper cornice dentil backing fascia",
+    "mesh": "north upper cornice dentil backing fascia",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north upper entablature recessed arch-bay connection",
+    "mesh": "north upper entablature recessed arch-bay connection",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north recessed cornice dentil backing fascia",
+    "mesh": "north recessed cornice dentil backing fascia",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north entablature dentils",
+    "mesh": "north entablature dentils",
+    "vertices": 816,
+    "polygons": 612,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north candidate continuous profiled archivolt",
+    "mesh": "north candidate continuous profiled archivolt",
+    "vertices": 2706,
+    "polygons": 5400,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate recessed egg bed",
+    "mesh": "north candidate recessed egg bed",
+    "vertices": 84,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate original egg relief",
+    "mesh": "north candidate original egg relief",
+    "vertices": 7068,
+    "polygons": 13680,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate fine egg surrounds",
+    "mesh": "north candidate fine egg surrounds",
+    "vertices": 9120,
+    "polygons": 17784,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate original dart accents",
+    "mesh": "north candidate original dart accents",
+    "vertices": 2160,
+    "polygons": 3888,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate smooth recessed pediment bed",
+    "mesh": "north candidate smooth recessed pediment bed",
+    "vertices": 84,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate rounded molding depth returns",
+    "mesh": "north candidate rounded molding depth returns",
+    "vertices": 156,
+    "polygons": 288,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate curved exterior keystone body",
+    "mesh": "north candidate curved exterior keystone body",
+    "vertices": 2550,
+    "polygons": 5088,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate keystone rolled side straps",
+    "mesh": "north candidate keystone rolled side straps",
+    "vertices": 1116,
+    "polygons": 2208,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate original shallow scallop relief",
+    "mesh": "north candidate original shallow scallop relief",
+    "vertices": 4185,
+    "polygons": 8190,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north candidate keystone lower curved folds",
+    "mesh": "north candidate keystone lower curved folds",
+    "vertices": 2247,
+    "polygons": 4410,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north wing wood window glazing",
+    "mesh": "north wing wood window glazing",
+    "vertices": 258,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north wing wood window frame",
+    "mesh": "north wing wood window frame",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north wing wood window arch",
+    "mesh": "north wing wood window arch",
+    "vertices": 984,
+    "polygons": 972,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north wing wood window mullions",
+    "mesh": "north wing wood window mullions",
+    "vertices": 144,
+    "polygons": 108,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north wing wood window transoms",
+    "mesh": "north wing wood window transoms",
+    "vertices": 336,
+    "polygons": 252,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "north wing wood window fanlight",
+    "mesh": "north wing wood window fanlight",
+    "vertices": 768,
+    "polygons": 480,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north side-wing end infill",
+    "mesh": "north side-wing end infill",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "layered cornice",
+    "mesh": "layered cornice",
+    "vertices": 80,
+    "polygons": 60,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Exterior Indiana limestone",
+    "mesh": "Exterior Indiana limestone",
+    "vertices": 3664,
+    "polygons": 2664,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "side perimeter continuous stone piers",
+    "mesh": "side perimeter continuous stone piers",
+    "vertices": 304,
+    "polygons": 228,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "side wood arched window glazing",
+    "mesh": "side wood arched window glazing",
+    "vertices": 817,
+    "polygons": 19,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "side wood arched window frame",
+    "mesh": "side wood arched window frame",
+    "vertices": 304,
+    "polygons": 228,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "side wood arched window arch",
+    "mesh": "side wood arched window arch",
+    "vertices": 3116,
+    "polygons": 3078,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "side wood arched window mullions",
+    "mesh": "side wood arched window mullions",
+    "vertices": 456,
+    "polygons": 342,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "side wood arched window transoms",
+    "mesh": "side wood arched window transoms",
+    "vertices": 1064,
+    "polygons": 798,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "side wood arched window fanlight",
+    "mesh": "side wood arched window fanlight",
+    "vertices": 2432,
+    "polygons": 1520,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "east main entrance arched transom glazing",
+    "mesh": "east main entrance arched transom glazing",
+    "vertices": 43,
+    "polygons": 1,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "east main entrance arched transom frame",
+    "mesh": "east main entrance arched transom frame",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east main entrance arched transom arch",
+    "mesh": "east main entrance arched transom arch",
+    "vertices": 164,
+    "polygons": 162,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east main entrance arched transom mullions",
+    "mesh": "east main entrance arched transom mullions",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east main entrance arched transom transoms",
+    "mesh": "east main entrance arched transom transoms",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east southern historical aperture piers",
+    "mesh": "east southern historical aperture piers",
+    "vertices": 128,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east southern wood windows glazing",
+    "mesh": "east southern wood windows glazing",
+    "vertices": 215,
+    "polygons": 5,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "east southern wood windows frame",
+    "mesh": "east southern wood windows frame",
+    "vertices": 80,
+    "polygons": 60,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east southern wood windows arch",
+    "mesh": "east southern wood windows arch",
+    "vertices": 820,
+    "polygons": 810,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east southern wood windows mullions",
+    "mesh": "east southern wood windows mullions",
+    "vertices": 80,
+    "polygons": 60,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east southern wood windows transoms",
+    "mesh": "east southern wood windows transoms",
+    "vertices": 160,
+    "polygons": 120,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east exit door arched transoms glazing",
+    "mesh": "east exit door arched transoms glazing",
+    "vertices": 129,
+    "polygons": 3,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "east exit door arched transoms frame",
+    "mesh": "east exit door arched transoms frame",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east exit door arched transoms arch",
+    "mesh": "east exit door arched transoms arch",
+    "vertices": 492,
+    "polygons": 486,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east exit door arched transoms mullions",
+    "mesh": "east exit door arched transoms mullions",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "east exit door arched transoms transoms",
+    "mesh": "east exit door arched transoms transoms",
+    "vertices": 72,
+    "polygons": 54,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "west rear carriage-adjacent perimeter",
+    "mesh": "west rear carriage-adjacent perimeter",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall hipped copper roof",
+    "mesh": "hall hipped copper roof",
+    "vertices": 6,
+    "polygons": 4,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "standing roof seams",
+    "mesh": "standing roof seams",
+    "vertices": 4736,
+    "polygons": 2960,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall roof ridge cap",
+    "mesh": "hall roof ridge cap",
+    "vertices": 16,
+    "polygons": 10,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hip roof seams",
+    "mesh": "hip roof seams",
+    "vertices": 1152,
+    "polygons": 720,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 north entry substantial brown jamb cores",
+    "mesh": "2017 north entry substantial brown jamb cores",
+    "vertices": 32,
+    "polygons": 32,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry simplified raised panel faces",
+    "mesh": "2017 north entry simplified raised panel faces",
+    "vertices": 96,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry narrow panel edge beads",
+    "mesh": "2017 north entry narrow panel edge beads",
+    "vertices": 64,
+    "polygons": 64,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry closed corrugated shutter 1",
+    "mesh": "2017 north entry closed corrugated shutter 1",
+    "vertices": 684,
+    "polygons": 682,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry closed corrugated shutter 2",
+    "mesh": "2017 north entry closed corrugated shutter 2",
+    "vertices": 684,
+    "polygons": 682,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry closed corrugated shutter 3",
+    "mesh": "2017 north entry closed corrugated shutter 3",
+    "vertices": 684,
+    "polygons": 682,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry continuous shutter head rail",
+    "mesh": "2017 north entry continuous shutter head rail",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry top head board",
+    "mesh": "2017 north entry top head board",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry transom separating jambs",
+    "mesh": "2017 north entry transom separating jambs",
+    "vertices": 32,
+    "polygons": 32,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry shaped side arched transom light 1",
+    "mesh": "2017 north entry shaped side arched transom light 1",
+    "vertices": 86,
+    "polygons": 125,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry arched transom raised bands 1",
+    "mesh": "2017 north entry arched transom raised bands 1",
+    "vertices": 164,
+    "polygons": 162,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry solid curved spandrel 1",
+    "mesh": "2017 north entry solid curved spandrel 1",
+    "vertices": 172,
+    "polygons": 170,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry side-light short spring stiles",
+    "mesh": "2017 north entry side-light short spring stiles",
+    "vertices": 32,
+    "polygons": 32,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry individual transom sill bead",
+    "mesh": "2017 north entry individual transom sill bead",
+    "vertices": 24,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry slender transom vertical bars",
+    "mesh": "2017 north entry slender transom vertical bars",
+    "vertices": 112,
+    "polygons": 112,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry shaped central elliptical transom light 2",
+    "mesh": "2017 north entry shaped central elliptical transom light 2",
+    "vertices": 150,
+    "polygons": 221,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry arched transom raised bands 2",
+    "mesh": "2017 north entry arched transom raised bands 2",
+    "vertices": 292,
+    "polygons": 290,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry solid curved spandrel 2",
+    "mesh": "2017 north entry solid curved spandrel 2",
+    "vertices": 300,
+    "polygons": 298,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry shaped side arched transom light 3",
+    "mesh": "2017 north entry shaped side arched transom light 3",
+    "vertices": 86,
+    "polygons": 125,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry arched transom raised bands 3",
+    "mesh": "2017 north entry arched transom raised bands 3",
+    "vertices": 164,
+    "polygons": 162,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry solid curved spandrel 3",
+    "mesh": "2017 north entry solid curved spandrel 3",
+    "vertices": 172,
+    "polygons": 170,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry address plaque 2001",
+    "mesh": "2017 north entry address plaque 2001",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry original address numeral strokes",
+    "mesh": "2017 north entry original address numeral strokes",
+    "vertices": 54,
+    "polygons": 73,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north entry original oval zero numeral",
+    "mesh": "2017 north entry original oval zero numeral",
+    "vertices": 320,
+    "polygons": 320,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north center entrance conservatively weathered stone lintel",
+    "mesh": "2017 north center entrance conservatively weathered stone lintel",
+    "vertices": 196,
+    "polygons": 194,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 protective diamond mesh",
+    "mesh": "2017 protective diamond mesh",
+    "vertices": 13320,
+    "polygons": 8880,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Original exterior capital ornament",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.001",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.002",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.003",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.004",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.005",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.006",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.007",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.008",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.009",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.010",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.011",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.012",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original exterior capital ornament.013",
+    "mesh": "ECD reusable ornament f40689cacff91f",
+    "vertices": 13888,
+    "polygons": 13920,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 north canopy anchor",
+    "mesh": "2017 north canopy anchor",
+    "vertices": 680,
+    "polygons": 784,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower podium upper-only window piers",
+    "mesh": "tower podium upper-only window piers",
+    "vertices": 128,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower terrace-level replacement window insulating glazing",
+    "mesh": "tower terrace-level replacement window insulating glazing",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower terrace-level replacement window recessed glazing seals",
+    "mesh": "tower terrace-level replacement window recessed glazing seals",
+    "vertices": 192,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower terrace-level replacement window perimeter jambs",
+    "mesh": "tower terrace-level replacement window perimeter jambs",
+    "vertices": 192,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower terrace-level replacement window head and sill frames",
+    "mesh": "tower terrace-level replacement window head and sill frames",
+    "vertices": 192,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower terrace-level replacement window central mullions",
+    "mesh": "tower terrace-level replacement window central mullions",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower terrace-level replacement window sash meeting rails",
+    "mesh": "tower terrace-level replacement window sash meeting rails",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower terrace-level replacement window projecting sills",
+    "mesh": "tower terrace-level replacement window projecting sills",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower terrace-level replacement window unobserved interior optical stop",
+    "mesh": "tower terrace-level replacement window unobserved interior optical stop",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower podium upper-only window lintel and apron",
+    "mesh": "tower podium upper-only window lintel and apron",
+    "vertices": 192,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower continuous buff brick shaft piers",
+    "mesh": "tower continuous buff brick shaft piers",
+    "vertices": 672,
+    "polygons": 504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower regular replacement window insulating glazing",
+    "mesh": "tower regular replacement window insulating glazing",
+    "vertices": 5984,
+    "polygons": 4488,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower regular replacement window recessed glazing seals",
+    "mesh": "tower regular replacement window recessed glazing seals",
+    "vertices": 11968,
+    "polygons": 8976,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower regular replacement window perimeter jambs",
+    "mesh": "tower regular replacement window perimeter jambs",
+    "vertices": 11968,
+    "polygons": 8976,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower regular replacement window head and sill frames",
+    "mesh": "tower regular replacement window head and sill frames",
+    "vertices": 11968,
+    "polygons": 8976,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower regular replacement window central mullions",
+    "mesh": "tower regular replacement window central mullions",
+    "vertices": 5984,
+    "polygons": 4488,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower regular replacement window sash meeting rails",
+    "mesh": "tower regular replacement window sash meeting rails",
+    "vertices": 5984,
+    "polygons": 4488,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower regular replacement window projecting sills",
+    "mesh": "tower regular replacement window projecting sills",
+    "vertices": 5984,
+    "polygons": 4488,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower regular replacement window unobserved interior optical stop",
+    "mesh": "tower regular replacement window unobserved interior optical stop",
+    "vertices": 5984,
+    "polygons": 4488,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower shallow opaque spandrel panels",
+    "mesh": "tower shallow opaque spandrel panels",
+    "vertices": 12672,
+    "polygons": 9504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower spandrel perimeter beads",
+    "mesh": "tower spandrel perimeter beads",
+    "vertices": 12672,
+    "polygons": 9504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower recessed masonry opening returns",
+    "mesh": "tower recessed masonry opening returns",
+    "vertices": 12672,
+    "polygons": 9504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower shaft terminal lintels",
+    "mesh": "tower shaft terminal lintels",
+    "vertices": 576,
+    "polygons": 432,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower shaft terminal keystones",
+    "mesh": "tower shaft terminal keystones",
+    "vertices": 576,
+    "polygons": 432,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower upper register continuous sill band",
+    "mesh": "tower upper register continuous sill band",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower upper register continuous header band",
+    "mesh": "tower upper register continuous header band",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown base stepped ledge lower molding",
+    "mesh": "tower crown base stepped ledge lower molding",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown base projecting ledge coping",
+    "mesh": "tower crown base projecting ledge coping",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower register stone framed piers",
+    "mesh": "tower register stone framed piers",
+    "vertices": 672,
+    "polygons": 504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower register recessed rectangular relief fields",
+    "mesh": "tower register recessed rectangular relief fields",
+    "vertices": 672,
+    "polygons": 504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower register relief frame stiles",
+    "mesh": "tower register relief frame stiles",
+    "vertices": 1344,
+    "polygons": 1008,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower register relief frame rails",
+    "mesh": "tower register relief frame rails",
+    "vertices": 1344,
+    "polygons": 1008,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower special upper register window insulating glazing",
+    "mesh": "tower special upper register window insulating glazing",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower special upper register window recessed glazing seals",
+    "mesh": "tower special upper register window recessed glazing seals",
+    "vertices": 1088,
+    "polygons": 816,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower special upper register window perimeter jambs",
+    "mesh": "tower special upper register window perimeter jambs",
+    "vertices": 1088,
+    "polygons": 816,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower special upper register window head and sill frames",
+    "mesh": "tower special upper register window head and sill frames",
+    "vertices": 1088,
+    "polygons": 816,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower special upper register window central mullions",
+    "mesh": "tower special upper register window central mullions",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower special upper register window sash meeting rails",
+    "mesh": "tower special upper register window sash meeting rails",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower special upper register window projecting sills",
+    "mesh": "tower special upper register window projecting sills",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower special upper register window unobserved interior optical stop",
+    "mesh": "tower special upper register window unobserved interior optical stop",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower register window lintel and apron",
+    "mesh": "tower register window lintel and apron",
+    "vertices": 1152,
+    "polygons": 864,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower register projecting stone jambs",
+    "mesh": "tower register projecting stone jambs",
+    "vertices": 1152,
+    "polygons": 864,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown base ledge dentils",
+    "mesh": "tower crown base ledge dentils",
+    "vertices": 5680,
+    "polygons": 4260,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower pavilion crown base carved consoles",
+    "mesh": "tower pavilion crown base carved consoles",
+    "vertices": 1360,
+    "polygons": 1020,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown shared masonry piers",
+    "mesh": "tower crown shared masonry piers",
+    "vertices": 672,
+    "polygons": 504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown arched replacement glazing",
+    "mesh": "tower crown arched replacement glazing",
+    "vertices": 4760,
+    "polygons": 2516,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown unobserved interior optical stop",
+    "mesh": "tower crown unobserved interior optical stop",
+    "vertices": 4760,
+    "polygons": 2516,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown window perimeter jambs",
+    "mesh": "tower crown window perimeter jambs",
+    "vertices": 1088,
+    "polygons": 816,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown curved metal window heads",
+    "mesh": "tower crown curved metal window heads",
+    "vertices": 8976,
+    "polygons": 8840,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown window lower rails",
+    "mesh": "tower crown window lower rails",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown two-level opaque spandrel",
+    "mesh": "tower crown two-level opaque spandrel",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown intermediate spandrel edge rails",
+    "mesh": "tower crown intermediate spandrel edge rails",
+    "vertices": 1088,
+    "polygons": 816,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown central metal mullions",
+    "mesh": "tower crown central metal mullions",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown sash and spring rails",
+    "mesh": "tower crown sash and spring rails",
+    "vertices": 1088,
+    "polygons": 816,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown layered terra cotta archivolts",
+    "mesh": "tower crown layered terra cotta archivolts",
+    "vertices": 26928,
+    "polygons": 26520,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown curved masonry spandrel infill",
+    "mesh": "tower crown curved masonry spandrel infill",
+    "vertices": 17408,
+    "polygons": 13056,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown masonry under window sills",
+    "mesh": "tower crown masonry under window sills",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown engaged fluted shafts and capitals",
+    "mesh": "tower crown engaged fluted shafts and capitals",
+    "vertices": 57460,
+    "polygons": 52360,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown column capital abacus",
+    "mesh": "tower crown column capital abacus",
+    "vertices": 544,
+    "polygons": 408,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown interpreted capital leaf relief",
+    "mesh": "tower crown interpreted capital leaf relief",
+    "vertices": 2040,
+    "polygons": 1428,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown balustrade plinth",
+    "mesh": "tower crown balustrade plinth",
+    "vertices": 576,
+    "polygons": 432,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown balustrade rail coping",
+    "mesh": "tower crown balustrade rail coping",
+    "vertices": 576,
+    "polygons": 432,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown small turned balusters",
+    "mesh": "tower crown small turned balusters",
+    "vertices": 81120,
+    "polygons": 67080,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower crown balustrade pedestal dies",
+    "mesh": "tower crown balustrade pedestal dies",
+    "vertices": 672,
+    "polygons": 504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown balustrade pedestal caps",
+    "mesh": "tower crown balustrade pedestal caps",
+    "vertices": 672,
+    "polygons": 504,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown capital-zone architrave",
+    "mesh": "tower crown capital-zone architrave",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown architrave stepped molding",
+    "mesh": "tower crown architrave stepped molding",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown carved frieze backing",
+    "mesh": "tower crown carved frieze backing",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown frieze upper molding",
+    "mesh": "tower crown frieze upper molding",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown dentil shelf",
+    "mesh": "tower crown dentil shelf",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown deep bracketed soffit backing",
+    "mesh": "tower crown deep bracketed soffit backing",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown projecting fascia",
+    "mesh": "tower crown projecting fascia",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown roof coping",
+    "mesh": "tower crown roof coping",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower crown interpreted frieze relief",
+    "mesh": "tower crown interpreted frieze relief",
+    "vertices": 5040,
+    "polygons": 3360,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower upper entablature dentils",
+    "mesh": "tower upper entablature dentils",
+    "vertices": 5680,
+    "polygons": 4260,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower deep cornice profiled modillions",
+    "mesh": "tower deep cornice profiled modillions",
+    "vertices": 13440,
+    "polygons": 10080,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower cornice recessed soffit shadow fields",
+    "mesh": "tower cornice recessed soffit shadow fields",
+    "vertices": 2688,
+    "polygons": 2016,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower cornice soffit panel end rails",
+    "mesh": "tower cornice soffit panel end rails",
+    "vertices": 5376,
+    "polygons": 4032,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower podium upper-only return band",
+    "mesh": "tower podium upper-only return band",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end shaft replacement window insulating glazing",
+    "mesh": "tower narrow end shaft replacement window insulating glazing",
+    "vertices": 352,
+    "polygons": 264,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end shaft replacement window recessed glazing seals",
+    "mesh": "tower narrow end shaft replacement window recessed glazing seals",
+    "vertices": 704,
+    "polygons": 528,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end shaft replacement window perimeter jambs",
+    "mesh": "tower narrow end shaft replacement window perimeter jambs",
+    "vertices": 704,
+    "polygons": 528,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end shaft replacement window head and sill frames",
+    "mesh": "tower narrow end shaft replacement window head and sill frames",
+    "vertices": 704,
+    "polygons": 528,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end shaft replacement window sash meeting rails",
+    "mesh": "tower narrow end shaft replacement window sash meeting rails",
+    "vertices": 352,
+    "polygons": 264,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end shaft replacement window projecting sills",
+    "mesh": "tower narrow end shaft replacement window projecting sills",
+    "vertices": 352,
+    "polygons": 264,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower narrow end shaft replacement window unobserved interior optical stop",
+    "mesh": "tower narrow end shaft replacement window unobserved interior optical stop",
+    "vertices": 352,
+    "polygons": 264,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end register window insulating glazing",
+    "mesh": "tower narrow end register window insulating glazing",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end register window recessed glazing seals",
+    "mesh": "tower narrow end register window recessed glazing seals",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end register window perimeter jambs",
+    "mesh": "tower narrow end register window perimeter jambs",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end register window head and sill frames",
+    "mesh": "tower narrow end register window head and sill frames",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end register window sash meeting rails",
+    "mesh": "tower narrow end register window sash meeting rails",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow end register window projecting sills",
+    "mesh": "tower narrow end register window projecting sills",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower narrow end register window unobserved interior optical stop",
+    "mesh": "tower narrow end register window unobserved interior optical stop",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack masonry panels",
+    "mesh": "tower narrow crown end stack masonry panels",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack lower window insulating glazing",
+    "mesh": "tower narrow crown end stack lower window insulating glazing",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack lower window recessed glazing seals",
+    "mesh": "tower narrow crown end stack lower window recessed glazing seals",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack lower window perimeter jambs",
+    "mesh": "tower narrow crown end stack lower window perimeter jambs",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack lower window head and sill frames",
+    "mesh": "tower narrow crown end stack lower window head and sill frames",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack lower window sash meeting rails",
+    "mesh": "tower narrow crown end stack lower window sash meeting rails",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack lower window projecting sills",
+    "mesh": "tower narrow crown end stack lower window projecting sills",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower narrow crown end stack lower window unobserved interior optical stop",
+    "mesh": "tower narrow crown end stack lower window unobserved interior optical stop",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack raised stone jambs",
+    "mesh": "tower narrow crown end stack raised stone jambs",
+    "vertices": 128,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack framed lintels and sills",
+    "mesh": "tower narrow crown end stack framed lintels and sills",
+    "vertices": 128,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower narrow crown end stack upper window insulating glazing",
+    "mesh": "tower narrow crown end stack upper window insulating glazing",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack upper window recessed glazing seals",
+    "mesh": "tower narrow crown end stack upper window recessed glazing seals",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack upper window perimeter jambs",
+    "mesh": "tower narrow crown end stack upper window perimeter jambs",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack upper window head and sill frames",
+    "mesh": "tower narrow crown end stack upper window head and sill frames",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack upper window sash meeting rails",
+    "mesh": "tower narrow crown end stack upper window sash meeting rails",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack upper window projecting sills",
+    "mesh": "tower narrow crown end stack upper window projecting sills",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower narrow crown end stack upper window unobserved interior optical stop",
+    "mesh": "tower narrow crown end stack upper window unobserved interior optical stop",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack pediment tympanum",
+    "mesh": "tower narrow crown end stack pediment tympanum",
+    "vertices": 24,
+    "polygons": 20,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack pediment raking molding",
+    "mesh": "tower narrow crown end stack pediment raking molding",
+    "vertices": 128,
+    "polygons": 80,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower narrow crown end stack intermediate panel stiles",
+    "mesh": "tower narrow crown end stack intermediate panel stiles",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower narrow crown end stack intermediate panel rails",
+    "mesh": "tower narrow crown end stack intermediate panel rails",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "tower closed continuous I-plan roof deck",
+    "mesh": "tower closed continuous I-plan roof deck",
+    "vertices": 24,
+    "polygons": 14,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower I-plan base slab without private fit-out",
+    "mesh": "tower I-plan base slab without private fit-out",
+    "vertices": 24,
+    "polygons": 14,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "tower pavilion corner quoin relief",
+    "mesh": "tower pavilion corner quoin relief",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "third-level terrace surface",
+    "mesh": "third-level terrace surface",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "terrace balustrade plinth",
+    "mesh": "terrace balustrade plinth",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "terrace balustrade coping",
+    "mesh": "terrace balustrade coping",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "terrace turned stone balusters",
+    "mesh": "terrace turned stone balusters",
+    "vertices": 16320,
+    "polygons": 13120,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "terrace stone pedestal dies",
+    "mesh": "terrace stone pedestal dies",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "terrace return plinth",
+    "mesh": "terrace return plinth",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "terrace return coping",
+    "mesh": "terrace return coping",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "terrace return balusters",
+    "mesh": "terrace return balusters",
+    "vertices": 19992,
+    "polygons": 16072,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "layered cornice.001",
+    "mesh": "layered cornice.001",
+    "vertices": 80,
+    "polygons": 60,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "historic rose marble floor",
+    "mesh": "historic rose marble floor",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall south alcove ceiling structural slab",
+    "mesh": "hall south alcove ceiling structural slab",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 south alcove back wall | sash layout unverified",
+    "mesh": "2017 south alcove back wall | sash layout unverified",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall alcove rear ceiling frieze",
+    "mesh": "hall alcove rear ceiling frieze",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall north flanking aisle ceiling; full-height openings retained",
+    "mesh": "hall north flanking aisle ceiling; full-height openings retained",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall end walls with documented portals",
+    "mesh": "hall end walls with documented portals",
+    "vertices": 40,
+    "polygons": 30,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall end walls with documented portals headers",
+    "mesh": "hall end walls with documented portals headers",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end wall archivolt",
+    "mesh": "end wall archivolt",
+    "vertices": 392,
+    "polygons": 388,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "interior column squared plinths",
+    "mesh": "interior column squared plinths",
+    "vertices": 128,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "interior column shafts double torus scotia and capital profiles",
+    "mesh": "interior column shafts double torus scotia and capital profiles",
+    "vertices": 33280,
+    "polygons": 31776,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "interior capital abacus",
+    "mesh": "interior capital abacus",
+    "vertices": 128,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "major arch pier door jamb cores",
+    "mesh": "major arch pier door jamb cores",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "major arch pier upper core",
+    "mesh": "major arch pier upper core",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "major arch pier recess backing",
+    "mesh": "major arch pier recess backing",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 surviving scored pier cladding | photo-informed",
+    "mesh": "2017 surviving scored pier cladding | photo-informed",
+    "vertices": 3104,
+    "polygons": 2328,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 fractured plaster skin | interpreted loss geometry",
+    "mesh": "2017 fractured plaster skin | interpreted loss geometry",
+    "vertices": 15760,
+    "polygons": 11820,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall colonnade entablature with north opening breaks",
+    "mesh": "hall colonnade entablature with north opening breaks",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north monumental opening entablature jamb returns",
+    "mesh": "north monumental opening entablature jamb returns",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall colonnade entablature with north opening breaks.001",
+    "mesh": "hall colonnade entablature with north opening breaks.001",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "north monumental opening entablature jamb returns.001",
+    "mesh": "north monumental opening entablature jamb returns.001",
+    "vertices": 144,
+    "polygons": 108,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall entablature dentils",
+    "mesh": "hall entablature dentils",
+    "vertices": 672,
+    "polygons": 504,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall colonnade entablature with north opening breaks.002",
+    "mesh": "hall colonnade entablature with north opening breaks.002",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall end colonnade entablature profiles",
+    "mesh": "hall end colonnade entablature profiles",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall end colonnade entablature profiles.001",
+    "mesh": "hall end colonnade entablature profiles.001",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "sail vault bay 1",
+    "mesh": "sail vault bay 1",
+    "vertices": 4225,
+    "polygons": 4096,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "sail vault bay 2",
+    "mesh": "sail vault bay 2",
+    "vertices": 4225,
+    "polygons": 4096,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "sail vault bay 3",
+    "mesh": "sail vault bay 3",
+    "vertices": 4225,
+    "polygons": 4096,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall vertical decorated spandrel field",
+    "mesh": "hall vertical decorated spandrel field",
+    "vertices": 2724,
+    "polygons": 2046,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall nested plaster opening archivolts",
+    "mesh": "hall nested plaster opening archivolts",
+    "vertices": 3120,
+    "polygons": 3096,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall decorated field outer rim",
+    "mesh": "hall decorated field outer rim",
+    "vertices": 972,
+    "polygons": 966,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall deep arched plaster reveal",
+    "mesh": "hall deep arched plaster reveal",
+    "vertices": 4374,
+    "polygons": 3840,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall north reveal triangular spring infill",
+    "mesh": "hall north reveal triangular spring infill",
+    "vertices": 36,
+    "polygons": 30,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall concealed aisle crown closure",
+    "mesh": "hall concealed aisle crown closure",
+    "vertices": 972,
+    "polygons": 480,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall vertical decorated spandrel field.001",
+    "mesh": "hall vertical decorated spandrel field.001",
+    "vertices": 2724,
+    "polygons": 2046,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall nested plaster opening archivolts.001",
+    "mesh": "hall nested plaster opening archivolts.001",
+    "vertices": 780,
+    "polygons": 774,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall decorated field outer rim.001",
+    "mesh": "hall decorated field outer rim.001",
+    "vertices": 972,
+    "polygons": 966,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "south hall rear elliptical clerestory glazing",
+    "mesh": "south hall rear elliptical clerestory glazing",
+    "vertices": 195,
+    "polygons": 3,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical glazing thickness 8mm",
+        "type": "SOLIDIFY",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "south hall rear clerestory frame",
+    "mesh": "south hall rear clerestory frame",
+    "vertices": 780,
+    "polygons": 774,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "south hall rear clerestory sill",
+    "mesh": "south hall rear clerestory sill",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "south hall rear clerestory mullions",
+    "mesh": "south hall rear clerestory mullions",
+    "vertices": 288,
+    "polygons": 216,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "south hall rear clerestory transoms",
+    "mesh": "south hall rear clerestory transoms",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "south hall rear upper backing wall",
+    "mesh": "south hall rear upper backing wall",
+    "vertices": 1968,
+    "polygons": 1476,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall cartouche convex oval shield",
+    "mesh": "hall cartouche convex oval shield",
+    "vertices": 289,
+    "polygons": 288,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall cartouche layered oval moldings foliate continuous sweep",
+    "mesh": "hall cartouche layered oval moldings foliate continuous sweep",
+    "vertices": 2847,
+    "polygons": 2592,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall cartouche side volute scrolls foliate continuous sweep",
+    "mesh": "hall cartouche side volute scrolls foliate continuous sweep",
+    "vertices": 988,
+    "polygons": 892,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall cartouche foliate acanthus leaves",
+    "mesh": "hall cartouche foliate acanthus leaves",
+    "vertices": 2016,
+    "polygons": 1536,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall cartouche leaf midribs foliate continuous sweep",
+    "mesh": "hall cartouche leaf midribs foliate continuous sweep",
+    "vertices": 3003,
+    "polygons": 2442,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall cartouche lower garland stems foliate continuous sweep",
+    "mesh": "hall cartouche lower garland stems foliate continuous sweep",
+    "vertices": 416,
+    "polygons": 364,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall cartouche crest scrolls foliate continuous sweep",
+    "mesh": "hall cartouche crest scrolls foliate continuous sweep",
+    "vertices": 754,
+    "polygons": 676,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall cartouche central crest leaf",
+    "mesh": "hall cartouche central crest leaf",
+    "vertices": 63,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall cartouche pendant keystone",
+    "mesh": "hall cartouche pendant keystone",
+    "vertices": 22,
+    "polygons": 13,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall cartouche pendant fluted ribs foliate continuous sweep",
+    "mesh": "hall cartouche pendant fluted ribs foliate continuous sweep",
+    "vertices": 663,
+    "polygons": 582,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "end wall upper infill",
+    "mesh": "end wall upper infill",
+    "vertices": 488,
+    "polygons": 240,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end wall fanlight glazing",
+    "mesh": "end wall fanlight glazing",
+    "vertices": 84,
+    "polygons": 2,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "end wall fanlight molding",
+    "mesh": "end wall fanlight molding",
+    "vertices": 328,
+    "polygons": 324,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end fanlight mullions",
+    "mesh": "end fanlight mullions",
+    "vertices": 208,
+    "polygons": 156,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end fanlight transoms",
+    "mesh": "end fanlight transoms",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end wall portal entablature",
+    "mesh": "end wall portal entablature",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "end aisle vault infill",
+    "mesh": "end aisle vault infill",
+    "vertices": 164,
+    "polygons": 80,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "transverse coffered arch",
+    "mesh": "transverse coffered arch",
+    "vertices": 912,
+    "polygons": 904,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall arch continuous molded fillets",
+    "mesh": "hall arch continuous molded fillets",
+    "vertices": 16384,
+    "polygons": 10240,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall layered eight-petal rosette relief | approximate carving",
+    "mesh": "hall layered eight-petal rosette relief | approximate carving",
+    "vertices": 11520,
+    "polygons": 8700,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "octagonal coffer border",
+    "mesh": "octagonal coffer border",
+    "vertices": 5760,
+    "polygons": 3840,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "hall stone skirting interrupted at portals",
+    "mesh": "hall stone skirting interrupted at portals",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "interpreted irregular plaster loss patches",
+    "mesh": "interpreted irregular plaster loss patches",
+    "vertices": 504,
+    "polygons": 42,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "original column paint marks",
+    "mesh": "original column paint marks",
+    "vertices": 3000,
+    "polygons": 2100,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "original interpretive low-wall paint strokes",
+    "mesh": "original interpretive low-wall paint strokes",
+    "vertices": 1350,
+    "polygons": 945,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "original interpretive low-wall paint strokes.001",
+    "mesh": "original interpretive low-wall paint strokes.001",
+    "vertices": 1330,
+    "polygons": 931,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 perimeter plaster rubble",
+    "mesh": "2017 perimeter plaster rubble",
+    "vertices": 4272,
+    "polygons": 3204,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall pedimented door jambs",
+    "mesh": "hall pedimented door jambs",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "hall doorway lintel",
+    "mesh": "hall doorway lintel",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "pediment tympanum.001",
+    "mesh": "pediment tympanum.001",
+    "vertices": 24,
+    "polygons": 20,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "pediment raking molding.001",
+    "mesh": "pediment raking molding.001",
+    "vertices": 384,
+    "polygons": 240,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "pediment dentils.001",
+    "mesh": "pediment dentils.001",
+    "vertices": 160,
+    "polygons": 120,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end door leaves",
+    "mesh": "end door leaves",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end doorway stone jambs",
+    "mesh": "end doorway stone jambs",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "end doorway stone lintels",
+    "mesh": "end doorway stone lintels",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "ticket lobby floor",
+    "mesh": "ticket lobby floor",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "ticket-lobby west wall",
+    "mesh": "ticket-lobby west wall",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "ticket-lobby east wall sections",
+    "mesh": "ticket-lobby east wall sections",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade portal header",
+    "mesh": "arcade portal header",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "interior column squared plinths.001",
+    "mesh": "interior column squared plinths.001",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "interior column shafts double torus scotia and capital profiles.001",
+    "mesh": "interior column shafts double torus scotia and capital profiles.001",
+    "vertices": 24960,
+    "polygons": 23832,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "interior capital abacus.001",
+    "mesh": "interior capital abacus.001",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "ticket lobby paired columns shared stone plinths",
+    "mesh": "ticket lobby paired columns shared stone plinths",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "coffered lobby ceiling slab",
+    "mesh": "coffered lobby ceiling slab",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "lobby cross beams",
+    "mesh": "lobby cross beams",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "lobby longitudinal beams",
+    "mesh": "lobby longitudinal beams",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "coffer inset molding",
+    "mesh": "coffer inset molding",
+    "vertices": 192,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "concourse refined built-up tie flanges and webs",
+    "mesh": "concourse refined built-up tie flanges and webs",
+    "vertices": 336,
+    "polygons": 448,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined flanged upper chords",
+    "mesh": "concourse refined flanged upper chords",
+    "vertices": 672,
+    "polygons": 896,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined paired angle posts",
+    "mesh": "concourse refined paired angle posts",
+    "vertices": 2016,
+    "polygons": 2352,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined paired angle diagonals",
+    "mesh": "concourse refined paired angle diagonals",
+    "vertices": 2016,
+    "polygons": 2352,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined single central paired angle post",
+    "mesh": "concourse refined single central paired angle post",
+    "vertices": 336,
+    "polygons": 392,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined inferred gusset plates",
+    "mesh": "concourse refined inferred gusset plates",
+    "vertices": 4480,
+    "polygons": 4928,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined regularized rivet bolt head approximations",
+    "mesh": "concourse refined regularized rivet bolt head approximations",
+    "vertices": 21504,
+    "polygons": 26880,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined flanged longitudinal purlins",
+    "mesh": "concourse refined flanged longitudinal purlins",
+    "vertices": 312,
+    "polygons": 416,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse refined secondary roof bars",
+    "mesh": "concourse refined secondary roof bars",
+    "vertices": 848,
+    "polygons": 848,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse north open arcade masonry",
+    "mesh": "concourse north open arcade masonry",
+    "vertices": 2536,
+    "polygons": 2108,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse north open arcade masonry.001",
+    "mesh": "concourse north open arcade masonry.001",
+    "vertices": 580,
+    "polygons": 320,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse north open arcade masonry.002",
+    "mesh": "concourse north open arcade masonry.002",
+    "vertices": 422,
+    "polygons": 284,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse north open arcade masonry regularized cornice dentil teeth",
+    "mesh": "concourse north open arcade masonry regularized cornice dentil teeth",
+    "vertices": 1624,
+    "polygons": 1218,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "concourse north open arcade masonry original concentric frieze medallions",
+    "mesh": "concourse north open arcade masonry original concentric frieze medallions",
+    "vertices": 1040,
+    "polygons": 2048,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse south retained window and ramp masonry",
+    "mesh": "concourse south retained window and ramp masonry",
+    "vertices": 1988,
+    "polygons": 1657,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse south retained window and ramp masonry.001",
+    "mesh": "concourse south retained window and ramp masonry.001",
+    "vertices": 534,
+    "polygons": 332,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse south retained window and ramp masonry.002",
+    "mesh": "concourse south retained window and ramp masonry.002",
+    "vertices": 294,
+    "polygons": 199,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse south retained window and ramp masonry regularized cornice dentil teeth",
+    "mesh": "concourse south retained window and ramp masonry regularized cornice dentil teeth",
+    "vertices": 1624,
+    "polygons": 1218,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "concourse south retained window and ramp masonry original concentric frieze medallions",
+    "mesh": "concourse south retained window and ramp masonry original concentric frieze medallions",
+    "vertices": 520,
+    "polygons": 1024,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse south retained metal window grid",
+    "mesh": "concourse south retained metal window grid",
+    "vertices": 1728,
+    "polygons": 2040,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west retained masonry portal wall",
+    "mesh": "concourse west retained masonry portal wall",
+    "vertices": 1698,
+    "polygons": 1348,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west retained masonry portal wall.001",
+    "mesh": "concourse west retained masonry portal wall.001",
+    "vertices": 568,
+    "polygons": 366,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west retained masonry portal wall.002",
+    "mesh": "concourse west retained masonry portal wall.002",
+    "vertices": 168,
+    "polygons": 84,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west retained portal screen and open center",
+    "mesh": "concourse west retained portal screen and open center",
+    "vertices": 1280,
+    "polygons": 1316,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west end regularized cornice dentil teeth",
+    "mesh": "concourse west end regularized cornice dentil teeth",
+    "vertices": 648,
+    "polygons": 486,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "concourse west end original concentric frieze medallions",
+    "mesh": "concourse west end original concentric frieze medallions",
+    "vertices": 130,
+    "polygons": 256,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west plain photo-relative terracotta keystone",
+    "mesh": "concourse west plain photo-relative terracotta keystone",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west small opening terracotta jambs",
+    "mesh": "concourse west small opening terracotta jambs",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west observed blind north side feature",
+    "mesh": "concourse west observed blind north side feature",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse east masonry with preserved exit portal",
+    "mesh": "concourse east masonry with preserved exit portal",
+    "vertices": 1046,
+    "polygons": 835,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse east masonry with preserved exit portal.001",
+    "mesh": "concourse east masonry with preserved exit portal.001",
+    "vertices": 288,
+    "polygons": 169,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse east masonry with preserved exit portal.002",
+    "mesh": "concourse east masonry with preserved exit portal.002",
+    "vertices": 104,
+    "polygons": 52,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse east end regularized cornice dentil teeth",
+    "mesh": "concourse east end regularized cornice dentil teeth",
+    "vertices": 648,
+    "polygons": 486,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "concourse north inferred circulation floor outside lobby",
+    "mesh": "concourse north inferred circulation floor outside lobby",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse north unobserved continuation closure",
+    "mesh": "concourse north unobserved continuation closure",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse north inferred circulation ceiling",
+    "mesh": "concourse north inferred circulation ceiling",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse ticket interface gap floor",
+    "mesh": "concourse ticket interface gap floor",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west short plan-supported vestibule floor",
+    "mesh": "concourse west short plan-supported vestibule floor",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west short plan-supported vestibule side walls",
+    "mesh": "concourse west short plan-supported vestibule side walls",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse west short vestibule ceiling with open far continuation",
+    "mesh": "concourse west short vestibule ceiling with open far continuation",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "concourse qualified2017 unpatterned floor",
+    "mesh": "concourse qualified2017 unpatterned floor",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade stone floor",
+    "mesh": "arcade stone floor",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade walls",
+    "mesh": "arcade walls",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade historic storefront surrounds",
+    "mesh": "arcade historic storefront surrounds",
+    "vertices": 80,
+    "polygons": 60,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade storefront arched tympanum",
+    "mesh": "arcade storefront arched tympanum",
+    "vertices": 1160,
+    "polygons": 1140,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade transverse arch",
+    "mesh": "arcade transverse arch",
+    "vertices": 812,
+    "polygons": 798,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade barrel vault",
+    "mesh": "arcade barrel vault",
+    "vertices": 1525,
+    "polygons": 1440,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "arcade crosshall margin lower ceiling",
+    "mesh": "arcade crosshall margin lower ceiling",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp floor | visual slope approximation",
+    "mesh": "East exit ramp floor | visual slope approximation",
+    "vertices": 4,
+    "polygons": 1,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp brick wall with connector opening",
+    "mesh": "East exit ramp brick wall with connector opening",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp stone dado",
+    "mesh": "East exit ramp stone dado",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East ramp north connector brick lintel",
+    "mesh": "East ramp north connector brick lintel",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp north lobby portal jambs",
+    "mesh": "East exit ramp north lobby portal jambs",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp north lobby portal sill and head",
+    "mesh": "East exit ramp north lobby portal sill and head",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp dressed stone pilasters",
+    "mesh": "East exit ramp dressed stone pilasters",
+    "vertices": 56,
+    "polygons": 42,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp conservation grille frame jambs",
+    "mesh": "East exit ramp conservation grille frame jambs",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp conservation grille frame sill and head",
+    "mesh": "East exit ramp conservation grille frame sill and head",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp dark conservation grille",
+    "mesh": "East exit ramp dark conservation grille",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp fine grille bars",
+    "mesh": "East exit ramp fine grille bars",
+    "vertices": 1344,
+    "polygons": 1008,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp flat ceiling",
+    "mesh": "East exit ramp flat ceiling",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp transverse ceiling beams",
+    "mesh": "East exit ramp transverse ceiling beams",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp cornice",
+    "mesh": "East exit ramp cornice",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "East exit ramp east vestibule screen jambs",
+    "mesh": "East exit ramp east vestibule screen jambs",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp east vestibule screen sill and head",
+    "mesh": "East exit ramp east vestibule screen sill and head",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp east vestibule screen transom",
+    "mesh": "East exit ramp east vestibule screen transom",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp east vestibule screen vertical divisions",
+    "mesh": "East exit ramp east vestibule screen vertical divisions",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp west concourse connection jambs",
+    "mesh": "East exit ramp west concourse connection jambs",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp west concourse connection sill and head",
+    "mesh": "East exit ramp west concourse connection sill and head",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp west concourse connection transom",
+    "mesh": "East exit ramp west concourse connection transom",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit ramp west concourse connection vertical divisions",
+    "mesh": "East exit ramp west concourse connection vertical divisions",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East three-door vestibule floor | historical flared shell",
+    "mesh": "East three-door vestibule floor | historical flared shell",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East three-door vestibule ceiling",
+    "mesh": "East three-door vestibule ceiling",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East vestibule flared side walls",
+    "mesh": "East vestibule flared side walls",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East vestibule shoulders to narrow ramp",
+    "mesh": "East vestibule shoulders to narrow ramp",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit exterior double-door bank jambs",
+    "mesh": "East exit exterior double-door bank jambs",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit exterior double-door bank sill and head",
+    "mesh": "East exit exterior double-door bank sill and head",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit exterior double-door bank transom",
+    "mesh": "East exit exterior double-door bank transom",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East exit exterior double-door bank vertical divisions",
+    "mesh": "East exit exterior double-door bank vertical divisions",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp historic 7 percent upper segment | current slope unverified",
+    "mesh": "Passenger ramp historic 7 percent upper segment | current slope unverified",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp entrance brick piers",
+    "mesh": "Passenger ramp entrance brick piers",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp entrance pier stone bases",
+    "mesh": "Passenger ramp entrance pier stone bases",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp mezzanine bridge deck",
+    "mesh": "Passenger ramp mezzanine bridge deck",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp mezzanine riveted fascia",
+    "mesh": "Passenger ramp mezzanine riveted fascia",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp bridge raised fascia panels",
+    "mesh": "Passenger ramp bridge raised fascia panels",
+    "vertices": 224,
+    "polygons": 168,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp bridge rivets",
+    "mesh": "Passenger ramp bridge rivets",
+    "vertices": 1792,
+    "polygons": 1120,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Passenger ramp curved bridge haunches",
+    "mesh": "Passenger ramp curved bridge haunches",
+    "vertices": 2112,
+    "polygons": 1320,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Passenger ramp high bridge grid jambs",
+    "mesh": "Passenger ramp high bridge grid jambs",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp high bridge grid sill and head",
+    "mesh": "Passenger ramp high bridge grid sill and head",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp high bridge grid vertical divisions",
+    "mesh": "Passenger ramp high bridge grid vertical divisions",
+    "vertices": 144,
+    "polygons": 108,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp high transoms",
+    "mesh": "Passenger ramp high transoms",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp side lower wall",
+    "mesh": "Passenger ramp side lower wall",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp side window piers",
+    "mesh": "Passenger ramp side window piers",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp side grid windows jambs",
+    "mesh": "Passenger ramp side grid windows jambs",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp side grid windows sill and head",
+    "mesh": "Passenger ramp side grid windows sill and head",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp side grid windows transom",
+    "mesh": "Passenger ramp side grid windows transom",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp side grid windows vertical divisions",
+    "mesh": "Passenger ramp side grid windows vertical divisions",
+    "vertices": 160,
+    "polygons": 120,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp side brick frieze",
+    "mesh": "Passenger ramp side brick frieze",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back lower masonry shell",
+    "mesh": "Passenger ramp back lower masonry shell",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back window piers",
+    "mesh": "Passenger ramp back window piers",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back grid windows jambs",
+    "mesh": "Passenger ramp back grid windows jambs",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back grid windows sill and head",
+    "mesh": "Passenger ramp back grid windows sill and head",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back grid windows transom",
+    "mesh": "Passenger ramp back grid windows transom",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back grid windows vertical divisions",
+    "mesh": "Passenger ramp back grid windows vertical divisions",
+    "vertices": 144,
+    "polygons": 108,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back-window transoms",
+    "mesh": "Passenger ramp back-window transoms",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp radial brick medallions",
+    "mesh": "Passenger ramp radial brick medallions",
+    "vertices": 864,
+    "polygons": 576,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Passenger ramp back frieze",
+    "mesh": "Passenger ramp back frieze",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Passenger ramp back cornice",
+    "mesh": "Passenger ramp back cornice",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Passenger ramp roof chords",
+    "mesh": "Passenger ramp roof chords",
+    "vertices": 288,
+    "polygons": 180,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Passenger ramp roof ties",
+    "mesh": "Passenger ramp roof ties",
+    "vertices": 288,
+    "polygons": 180,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Passenger ramp roof king posts",
+    "mesh": "Passenger ramp roof king posts",
+    "vertices": 144,
+    "polygons": 90,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Passenger ramp roof purlins",
+    "mesh": "Passenger ramp roof purlins",
+    "vertices": 48,
+    "polygons": 30,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 corroded bridge cross members",
+    "mesh": "2017 corroded bridge cross members",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original abstract markings | arrangement interpretive, no copied artwork",
+    "mesh": "Original abstract markings | arrangement interpretive, no copied artwork",
+    "vertices": 248,
+    "polygons": 120,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original abstract markings | arrangement interpretive, no copied artwork.001",
+    "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.001",
+    "vertices": 186,
+    "polygons": 90,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original abstract markings | arrangement interpretive, no copied artwork.002",
+    "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.002",
+    "vertices": 186,
+    "polygons": 90,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original abstract markings | arrangement interpretive, no copied artwork.003",
+    "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.003",
+    "vertices": 186,
+    "polygons": 90,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Original abstract markings | arrangement interpretive, no copied artwork.004",
+    "mesh": "Original abstract markings | arrangement interpretive, no copied artwork.004",
+    "vertices": 186,
+    "polygons": 90,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage enclosure historic 64 by 86 foot footprint",
+    "mesh": "Carriage enclosure historic 64 by 86 foot footprint",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage enclosure corner masonry pylons",
+    "mesh": "Carriage enclosure corner masonry pylons",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage enclosure pylon cornice and plinth",
+    "mesh": "Carriage enclosure pylon cornice and plinth",
+    "vertices": 192,
+    "polygons": 144,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Carriage enclosure pylon stone joints",
+    "mesh": "Carriage enclosure pylon stone joints",
+    "vertices": 448,
+    "polygons": 336,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage enclosure west low masonry parapet",
+    "mesh": "Carriage enclosure west low masonry parapet",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage enclosure west parapet coping",
+    "mesh": "Carriage enclosure west parapet coping",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage west iron arcade arch",
+    "mesh": "Carriage west iron arcade arch",
+    "vertices": 396,
+    "polygons": 390,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage west lattice spandrel rail",
+    "mesh": "Carriage west lattice spandrel rail",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage west spandrel lattice",
+    "mesh": "Carriage west spandrel lattice",
+    "vertices": 768,
+    "polygons": 480,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Carriage intermediate iron piers",
+    "mesh": "Carriage intermediate iron piers",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage iron pier crossed lattice",
+    "mesh": "Carriage iron pier crossed lattice",
+    "vertices": 640,
+    "polygons": 400,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Carriage return shallow iron arch",
+    "mesh": "Carriage return shallow iron arch",
+    "vertices": 392,
+    "polygons": 388,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Carriage return entablature",
+    "mesh": "Carriage return entablature",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Carriage long iron entablature",
+    "mesh": "Carriage long iron entablature",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Carriage roof transverse iron members",
+    "mesh": "Carriage roof transverse iron members",
+    "vertices": 288,
+    "polygons": 180,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Carriage dark roof shoulder | roof cover approximate",
+    "mesh": "Carriage dark roof shoulder | roof cover approximate",
+    "vertices": 8,
+    "polygons": 2,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby tapered principal floor",
+    "mesh": "Elevator lobby tapered principal floor",
+    "vertices": 24,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby tapered flat ceiling",
+    "mesh": "Elevator lobby tapered flat ceiling",
+    "vertices": 24,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby east boundary masonry",
+    "mesh": "Elevator lobby east boundary masonry",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby restrained large-stone joints",
+    "mesh": "Elevator lobby restrained large-stone joints",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby vertical stone joints",
+    "mesh": "Elevator lobby vertical stone joints",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator east entrance upper structural infill",
+    "mesh": "Elevator east entrance upper structural infill",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby returned perimeter plaster cornice",
+    "mesh": "Elevator lobby returned perimeter plaster cornice",
+    "vertices": 72,
+    "polygons": 54,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Elevator lobby splayed bank masonry",
+    "mesh": "Elevator lobby splayed bank masonry",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby lift-head stone infill",
+    "mesh": "Elevator lobby lift-head stone infill",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby shallow lift recess, no shaft modeled",
+    "mesh": "Elevator lobby shallow lift recess, no shaft modeled",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby slim stone door pilasters",
+    "mesh": "Elevator lobby slim stone door pilasters",
+    "vertices": 96,
+    "polygons": 72,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby door pilaster profiles",
+    "mesh": "Elevator lobby door pilaster profiles",
+    "vertices": 384,
+    "polygons": 288,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 boarded lift-face interpretation",
+    "mesh": "2017 boarded lift-face interpretation",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 open upper elevator transom interpretation",
+    "mesh": "2017 open upper elevator transom interpretation",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby splayed plaster cornice",
+    "mesh": "Elevator lobby splayed plaster cornice",
+    "vertices": 48,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Physical edge bevel",
+        "type": "BEVEL",
+        "render": true,
+        "viewport": true
+      },
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "Elevator lobby north taper shoulder",
+    "mesh": "Elevator lobby north taper shoulder",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north approach side masonry",
+    "mesh": "Elevator lobby north approach side masonry",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north approach lintel",
+    "mesh": "Elevator lobby north approach lintel",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north approach portal jambs",
+    "mesh": "Elevator lobby north approach portal jambs",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north approach portal sill and head",
+    "mesh": "Elevator lobby north approach portal sill and head",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north approach portal transom",
+    "mesh": "Elevator lobby north approach portal transom",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north approach portal vertical divisions",
+    "mesh": "Elevator lobby north approach portal vertical divisions",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south approach side masonry",
+    "mesh": "Elevator lobby south approach side masonry",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south approach lintel",
+    "mesh": "Elevator lobby south approach lintel",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south approach portal jambs",
+    "mesh": "Elevator lobby south approach portal jambs",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south approach portal sill and head",
+    "mesh": "Elevator lobby south approach portal sill and head",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south approach portal transom",
+    "mesh": "Elevator lobby south approach portal transom",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south approach portal vertical divisions",
+    "mesh": "Elevator lobby south approach portal vertical divisions",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby to arcade transition floor",
+    "mesh": "Elevator lobby to arcade transition floor",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby arcade transition ceiling",
+    "mesh": "Elevator lobby arcade transition ceiling",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby arcade transition cheek",
+    "mesh": "Elevator lobby arcade transition cheek",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby east entrance vestibule floor",
+    "mesh": "Elevator lobby east entrance vestibule floor",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby east entrance vestibule ceiling",
+    "mesh": "Elevator lobby east entrance vestibule ceiling",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby entrance vestibule side wall",
+    "mesh": "Elevator lobby entrance vestibule side wall",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East entrance double-door wall jambs",
+    "mesh": "East entrance double-door wall jambs",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East entrance double-door wall sill and head",
+    "mesh": "East entrance double-door wall sill and head",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East entrance double-door wall transom",
+    "mesh": "East entrance double-door wall transom",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "East entrance double-door wall vertical divisions",
+    "mesh": "East entrance double-door wall vertical divisions",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north Study approach floor",
+    "mesh": "Elevator lobby north Study approach floor",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby north Study approach ceiling",
+    "mesh": "Elevator lobby north Study approach ceiling",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator north approach wall with documented lateral gaps",
+    "mesh": "Elevator north approach wall with documented lateral gaps",
+    "vertices": 40,
+    "polygons": 30,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "North approach restroom doorway | fit-out unresolved jambs",
+    "mesh": "North approach restroom doorway | fit-out unresolved jambs",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "North approach restroom doorway | fit-out unresolved sill and head",
+    "mesh": "North approach restroom doorway | fit-out unresolved sill and head",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "North approach restroom doorway header",
+    "mesh": "North approach restroom doorway header",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "North approach west branch mouth floor | continuation unresolved",
+    "mesh": "North approach west branch mouth floor | continuation unresolved",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator south connector interpolated continuous floor | grade unmeasured",
+    "mesh": "Elevator south connector interpolated continuous floor | grade unmeasured",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south exit-ramp connector ceiling",
+    "mesh": "Elevator lobby south exit-ramp connector ceiling",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "Elevator lobby south exit-ramp connector boundary shell",
+    "mesh": "Elevator lobby south exit-ramp connector boundary shell",
+    "vertices": 16,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 lobby interpreted removed facing strips",
+    "mesh": "2017 lobby interpreted removed facing strips",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 lobby ribbed substrate grooves",
+    "mesh": "2017 lobby ribbed substrate grooves",
+    "vertices": 256,
+    "polygons": 192,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 lobby ceiling coating losses | original approximate outlines",
+    "mesh": "2017 lobby ceiling coating losses | original approximate outlines",
+    "vertices": 90,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 lobby sparse original plaster fragments",
+    "mesh": "2017 lobby sparse original plaster fragments",
+    "vertices": 195,
+    "polygons": 65,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 station-side sidewalk",
+    "mesh": "2017 station-side sidewalk",
+    "vertices": 24,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 paired low-shrub soil beds",
+    "mesh": "2017 paired low-shrub soil beds",
+    "vertices": 354,
+    "polygons": 118,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 broad paved station apron",
+    "mesh": "2017 broad paved station apron",
+    "vertices": 168,
+    "polygons": 56,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 central flagpole plaza and side lobes",
+    "mesh": "2017 central flagpole plaza and side lobes",
+    "vertices": 210,
+    "polygons": 70,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 bounded apron edge shell",
+    "mesh": "2017 bounded apron edge shell",
+    "vertices": 16,
+    "polygons": 4,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 stone balustrade continuous base",
+    "mesh": "2017 stone balustrade continuous base",
+    "vertices": 208,
+    "polygons": 304,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 stone balustrade upper rail",
+    "mesh": "2017 stone balustrade upper rail",
+    "vertices": 208,
+    "polygons": 304,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 stone balustrade rail bead",
+    "mesh": "2017 stone balustrade rail bead",
+    "vertices": 208,
+    "polygons": 304,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 original modeled turned balusters",
+    "mesh": "2017 original modeled turned balusters",
+    "vertices": 22880,
+    "polygons": 19360,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 square balustrade piers",
+    "mesh": "2017 square balustrade piers",
+    "vertices": 144,
+    "polygons": 108,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 stone pier cap slabs",
+    "mesh": "2017 stone pier cap slabs",
+    "vertices": 144,
+    "polygons": 108,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 low-curb central side lobe",
+    "mesh": "2017 low-curb central side lobe",
+    "vertices": 264,
+    "polygons": 388,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 low road-facing bed edging",
+    "mesh": "2017 low road-facing bed edging",
+    "vertices": 16,
+    "polygons": 16,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 thin north fence posts",
+    "mesh": "2017 thin north fence posts",
+    "vertices": 476,
+    "polygons": 306,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 thin north fence horizontal wires",
+    "mesh": "2017 thin north fence horizontal wires",
+    "vertices": 48,
+    "polygons": 32,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 apron interpretive expansion joints",
+    "mesh": "2017 apron interpretive expansion joints",
+    "vertices": 272,
+    "polygons": 204,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 apron transverse joint segments",
+    "mesh": "2017 apron transverse joint segments",
+    "vertices": 32,
+    "polygons": 24,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 sidewalk interpretive joints",
+    "mesh": "2017 sidewalk interpretive joints",
+    "vertices": 328,
+    "polygons": 246,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 central paving interpretive joints",
+    "mesh": "2017 central paving interpretive joints",
+    "vertices": 56,
+    "polygons": 42,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 central plaza joint segments",
+    "mesh": "2017 central plaza joint segments",
+    "vertices": 64,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 non-source-traced apron wear cracks",
+    "mesh": "2017 non-source-traced apron wear cracks",
+    "vertices": 640,
+    "polygons": 800,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 central flagpole footing approximate",
+    "mesh": "2017 central flagpole footing approximate",
+    "vertices": 8,
+    "polygons": 6,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 central flagpole",
+    "mesh": "2017 central flagpole",
+    "vertices": 68,
+    "polygons": 50,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 flagpole finial approximate",
+    "mesh": "2017 flagpole finial approximate",
+    "vertices": 53,
+    "polygons": 64,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 US flag original cloth mesh",
+    "mesh": "2017 US flag original cloth mesh",
+    "vertices": 861,
+    "polygons": 1600,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 flagpole halyard",
+    "mesh": "2017 flagpole halyard",
+    "vertices": 10,
+    "polygons": 7,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 thin north fence posts.001",
+    "mesh": "2017 thin north fence posts.001",
+    "vertices": 168,
+    "polygons": 108,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 thin north fence horizontal wires.001",
+    "mesh": "2017 thin north fence horizontal wires.001",
+    "vertices": 72,
+    "polygons": 48,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 central two-leaf gate frame",
+    "mesh": "2017 central two-leaf gate frame",
+    "vertices": 56,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 gate diagonal brace",
+    "mesh": "2017 gate diagonal brace",
+    "vertices": 24,
+    "polygons": 16,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 median tapered streetlight poles",
+    "mesh": "2017 median tapered streetlight poles",
+    "vertices": 195,
+    "polygons": 150,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 median curved light outreach",
+    "mesh": "2017 median curved light outreach",
+    "vertices": 960,
+    "polygons": 576,
+    "custom_normals": false,
+    "modifiers": [
+      {
+        "name": "Portable tangent topology for n-gon caps",
+        "type": "TRIANGULATE",
+        "render": true,
+        "viewport": true
+      }
+    ]
+  },
+  {
+    "object": "2017 approximate road luminaire housings",
+    "mesh": "2017 approximate road luminaire housings",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 road luminaire underside",
+    "mesh": "2017 road luminaire underside",
+    "vertices": 24,
+    "polygons": 18,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 bounded southern frontage carriageway",
+    "mesh": "2017 bounded southern frontage carriageway",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 bounded northern frontage carriageway",
+    "mesh": "2017 bounded northern frontage carriageway",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 bounded median-end asphalt continuity",
+    "mesh": "2017 bounded median-end asphalt continuity",
+    "vertices": 16,
+    "polygons": 16,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 narrow paved streetlight median",
+    "mesh": "2017 narrow paved streetlight median",
+    "vertices": 68,
+    "polygons": 98,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 asphalt around rounded median tips",
+    "mesh": "2017 asphalt around rounded median tips",
+    "vertices": 80,
+    "polygons": 104,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 station-side road curb",
+    "mesh": "2017 station-side road curb",
+    "vertices": 8,
+    "polygons": 8,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 median slab joints",
+    "mesh": "2017 median slab joints",
+    "vertices": 216,
+    "polygons": 162,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 000",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 001",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 002",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 003",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 004",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 005",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 006",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 007",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 008",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 009",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 010",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 011",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 012",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 013",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 014",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 015",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 016",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 017",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 018",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 019",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 020",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 021",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 022",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 023",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 024",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 025",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 026",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 027",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 028",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 029",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 030",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 031",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 032",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 033",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 034",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 035",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 036",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 037",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 038",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 039",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 040",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 041",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 042",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 043",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 044",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 045",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 046",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 047",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 048",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 049",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 050",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 051",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 052",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 053",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 054",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 055",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 056",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 057",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 058",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 059",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 060",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 061",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 062",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 063",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 064",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 065",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 066",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 067",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 068",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 069",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 070",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 071",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 072",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 073",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 074",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 075",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 076",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 077",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 078",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 079",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 080",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 081",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 082",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 083",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 084",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 085",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 086",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 087",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 088",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 089",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 090",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 091",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 092",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 093",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 094",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 095",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 096",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 097",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 098",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 099",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 100",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 101",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 102",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 103",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 104",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 105",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 106",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 107",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 108",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 109",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 110",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 111",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 112",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 113",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 114",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 115",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 116",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 117",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 118",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 119",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 120",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 121",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 122",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 123",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 124",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 125",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 126",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 127",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 128",
+    "mesh": "F17 shared original shrub 0",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 129",
+    "mesh": "F17 shared original shrub 2",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 130",
+    "mesh": "F17 shared original shrub 3",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "2017 forecourt shrub 131",
+    "mesh": "F17 shared original shrub 1",
+    "vertices": 8544,
+    "polygons": 7364,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 stepped cornice 0",
+    "mesh": "West small feature -1 stepped cornice 0",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 stepped cornice 1",
+    "mesh": "West small feature -1 stepped cornice 1",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 stepped cornice 2",
+    "mesh": "West small feature -1 stepped cornice 2",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 stepped cornice 3",
+    "mesh": "West small feature -1 stepped cornice 3",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 shallow curved crown",
+    "mesh": "West small feature -1 shallow curved crown",
+    "vertices": 50,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 centered tapering key",
+    "mesh": "West small feature -1 centered tapering key",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 blind inset terracotta frame",
+    "mesh": "West small feature -1 blind inset terracotta frame",
+    "vertices": 96,
+    "polygons": 192,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature -1 blind panel sill",
+    "mesh": "West small feature -1 blind panel sill",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature +1 stepped cornice 0",
+    "mesh": "West small feature +1 stepped cornice 0",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature +1 stepped cornice 1",
+    "mesh": "West small feature +1 stepped cornice 1",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature +1 stepped cornice 2",
+    "mesh": "West small feature +1 stepped cornice 2",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature +1 stepped cornice 3",
+    "mesh": "West small feature +1 stepped cornice 3",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature +1 shallow curved crown",
+    "mesh": "West small feature +1 shallow curved crown",
+    "vertices": 50,
+    "polygons": 96,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West small feature +1 centered tapering key",
+    "mesh": "West small feature +1 centered tapering key",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal opaque band rounded panel border 0",
+    "mesh": "West portal opaque band rounded panel border 0",
+    "vertices": 96,
+    "polygons": 192,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal opaque band rounded panel border 1",
+    "mesh": "West portal opaque band rounded panel border 1",
+    "vertices": 96,
+    "polygons": 192,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal opaque band rounded panel border 2",
+    "mesh": "West portal opaque band rounded panel border 2",
+    "vertices": 96,
+    "polygons": 192,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head",
+    "mesh": "West portal regularized band attachment head",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.001",
+    "mesh": "West portal regularized band attachment head.001",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.002",
+    "mesh": "West portal regularized band attachment head.002",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.003",
+    "mesh": "West portal regularized band attachment head.003",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.004",
+    "mesh": "West portal regularized band attachment head.004",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.005",
+    "mesh": "West portal regularized band attachment head.005",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.006",
+    "mesh": "West portal regularized band attachment head.006",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.007",
+    "mesh": "West portal regularized band attachment head.007",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.008",
+    "mesh": "West portal regularized band attachment head.008",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.009",
+    "mesh": "West portal regularized band attachment head.009",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.010",
+    "mesh": "West portal regularized band attachment head.010",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.011",
+    "mesh": "West portal regularized band attachment head.011",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.012",
+    "mesh": "West portal regularized band attachment head.012",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.013",
+    "mesh": "West portal regularized band attachment head.013",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.014",
+    "mesh": "West portal regularized band attachment head.014",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.015",
+    "mesh": "West portal regularized band attachment head.015",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.016",
+    "mesh": "West portal regularized band attachment head.016",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.017",
+    "mesh": "West portal regularized band attachment head.017",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.018",
+    "mesh": "West portal regularized band attachment head.018",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.019",
+    "mesh": "West portal regularized band attachment head.019",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.020",
+    "mesh": "West portal regularized band attachment head.020",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.021",
+    "mesh": "West portal regularized band attachment head.021",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.022",
+    "mesh": "West portal regularized band attachment head.022",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.023",
+    "mesh": "West portal regularized band attachment head.023",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.024",
+    "mesh": "West portal regularized band attachment head.024",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.025",
+    "mesh": "West portal regularized band attachment head.025",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.026",
+    "mesh": "West portal regularized band attachment head.026",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal regularized band attachment head.027",
+    "mesh": "West portal regularized band attachment head.027",
+    "vertices": 20,
+    "polygons": 36,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal layered lower head rail 0",
+    "mesh": "West portal layered lower head rail 0",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal layered lower head rail 1",
+    "mesh": "West portal layered lower head rail 1",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  },
+  {
+    "object": "West portal layered lower head rail 2",
+    "mesh": "West portal layered lower head rail 2",
+    "vertices": 8,
+    "polygons": 12,
+    "custom_normals": false,
+    "modifiers": []
+  }
+]

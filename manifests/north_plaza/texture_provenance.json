@@ -1,0 +1,58 @@
+[
+  {
+    "name": "np_pale_concrete",
+    "repeat_m": 3.0,
+    "resolution": 1024,
+    "provenance": "Original deterministic procedural pixels; no external source image",
+    "license": "Original project-generated asset",
+    "seed": 741923
+  },
+  {
+    "name": "np_forecourt_gray",
+    "repeat_m": 3.0,
+    "resolution": 1024,
+    "provenance": "Original deterministic procedural pixels; no external source image",
+    "license": "Original project-generated asset",
+    "seed": 741923
+  },
+  {
+    "name": "np_warm_aggregate",
+    "repeat_m": 2.0,
+    "resolution": 1024,
+    "provenance": "Original deterministic procedural pixels; no external source image",
+    "license": "Original project-generated asset",
+    "seed": 741923
+  },
+  {
+    "name": "np_asphalt",
+    "repeat_m": 2.0,
+    "resolution": 1024,
+    "provenance": "Original deterministic procedural pixels; no external source image",
+    "license": "Original project-generated asset",
+    "seed": 741923
+  },
+  {
+    "name": "np_turf",
+    "repeat_m": 2.0,
+    "resolution": 1024,
+    "provenance": "Original deterministic procedural pixels; no external source image",
+    "license": "Original project-generated asset",
+    "seed": 741923
+  },
+  {
+    "name": "np_mulch",
+    "repeat_m": 1.0,
+    "resolution": 1024,
+    "provenance": "Original deterministic procedural pixels; no external source image",
+    "license": "Original project-generated asset",
+    "seed": 741923
+  },
+  {
+    "name": "np_bark",
+    "repeat_m": 1.0,
+    "resolution": 1024,
+    "provenance": "Original deterministic procedural pixels; no external source image",
+    "license": "Original project-generated asset",
+    "seed": 741923
+  }
+]

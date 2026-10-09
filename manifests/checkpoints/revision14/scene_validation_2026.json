@@ -1,0 +1,430 @@
+{
+  "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+  "era": "2026",
+  "blender": "5.2.2 LTS",
+  "metric_units": "passed",
+  "all_meshes_have_uvs_materials_finite_vertices": "passed",
+  "all_file_images_packed": "passed",
+  "no_reference_photographs_embedded": "passed",
+  "mesh_objects": 2595,
+  "exported_mesh_bounds_m": [
+    [
+      -94.0,
+      -204.09471130371094,
+      -0.9758960008621216
+    ],
+    [
+      94.0,
+      88.2300033569336,
+      70.11000061035156
+    ]
+  ],
+  "bounds_method": "Actual world-space polygon-referenced vertices, before source modifiers",
+  "unreferenced_vertex_diagnostic": [],
+  "column_floor_contact_checks": [
+    {
+      "object": "interior column squared plinths",
+      "space": "03 GREAT HALL | three sail vaults and colonnades",
+      "base_z": 0.05999999865889549,
+      "floor_z": 0.06,
+      "gap_m": -1.341104505225843e-09
+    },
+    {
+      "object": "interior column squared plinths.001",
+      "space": "04 TICKET LOBBY | documented public architecture",
+      "base_z": 0.12999999523162842,
+      "floor_z": 0.13,
+      "gap_m": -4.768371586472142e-09
+    },
+    {
+      "object": "ticket lobby paired columns shared stone plinths",
+      "space": "04 TICKET LOBBY | documented public architecture",
+      "base_z": 0.12999999523162842,
+      "floor_z": 0.13,
+      "gap_m": -4.768371586472142e-09
+    }
+  ],
+  "all_uv_coordinates_finite": "passed",
+  "all_polygon_normals_finite": "passed",
+  "degenerate_polygon_diagnostic": [],
+  "camera_ray_diagnostics": [
+    {
+      "camera": "Camera exterior",
+      "first_hit": "tower continuous buff brick shaft piers",
+      "distance_m": 232.297,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera front",
+      "first_hit": "tower continuous buff brick shaft piers",
+      "distance_m": 215.752,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera hall",
+      "first_hit": "hall end walls with documented portals",
+      "distance_m": 66.105,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera hall_reverse",
+      "first_hit": "hall end walls with documented portals headers",
+      "distance_m": 65.105,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera lobby",
+      "first_hit": "Passenger ramp high bridge grid glazing",
+      "distance_m": 43.063,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse",
+      "first_hit": "concourse west retained portal screen and open center.001",
+      "distance_m": 54.588,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera arcade",
+      "first_hit": "The Shop clock pale dial",
+      "distance_m": 45.13,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera womens_room",
+      "first_hit": "north wing wood window glazing",
+      "distance_m": 16.432,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera mens_room",
+      "first_hit": "West window interior timber jamb trims",
+      "distance_m": 14.4,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera restaurant",
+      "first_hit": "West restaurant square piers",
+      "distance_m": 8.946,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera aerial",
+      "first_hit": "tower regular replacement window insulating glazing",
+      "distance_m": 230.347,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera elevator_lobby",
+      "first_hit": "Study south wall with actual double door headers",
+      "distance_m": 29.548,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera east_exit_ramp",
+      "first_hit": "East exit ramp west concourse connection vertical divisions",
+      "distance_m": 14.516,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera east_exit_lobby_portal",
+      "first_hit": "Study south double doors timber stiles",
+      "distance_m": 42.111,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera passenger_ramp",
+      "first_hit": "Passenger ramp back window piers",
+      "distance_m": 15.345,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera passenger_bridge",
+      "first_hit": "Passenger ramp mezzanine riveted fascia",
+      "distance_m": 6.722,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera west_corridor",
+      "first_hit": "West corridor stair-end plaster wall",
+      "distance_m": 14.33,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera west_preserved_stair",
+      "first_hit": "West corridor reading room or restaurant portal glazing",
+      "distance_m": 0.174,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera carriage_house",
+      "first_hit": "west rear carriage-adjacent perimeter",
+      "distance_m": 58.8,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera carriage_detail",
+      "first_hit": "west rear carriage-adjacent perimeter",
+      "distance_m": 31.995,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera yellow_light",
+      "first_hit": "Yellow Light clipped hand-dyed fluted concrete wall",
+      "distance_m": 5.303,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera yellow_light_counter",
+      "first_hit": "Yellow Light pastry display front glass",
+      "distance_m": 3.859,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera yellow_light_reverse",
+      "first_hit": "Yellow Light side plaster walls approximate registered envelope",
+      "distance_m": 9.288,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera yellow_light_arcade",
+      "first_hit": "south arcade with registered Yellow Light openings",
+      "distance_m": 4.193,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera study_lounge",
+      "first_hit": "north wing wood window glazing",
+      "distance_m": 15.93,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera study_lounge_reverse",
+      "first_hit": "Study south wall with actual double door",
+      "distance_m": 16.699,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera study_lounge_detail",
+      "first_hit": "Study solid blind arched niche ashlar field",
+      "distance_m": 16.21,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera study_lounge_northeast",
+      "first_hit": "Study gathered sheer window curtain meshes",
+      "distance_m": 18.472,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera west_reading_reverse",
+      "first_hit": "West walnut wall fields vertical grain",
+      "distance_m": 18.17,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera historic_cafe",
+      "first_hit": "West walnut wall fields vertical grain",
+      "distance_m": 14.762,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera west_reading_cafe",
+      "first_hit": "north wing wood window glazing",
+      "distance_m": 20.617,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera west_woodwork_detail",
+      "first_hit": "West walnut pilaster vertical grained shaft",
+      "distance_m": 3.158,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera west_ceiling_detail",
+      "first_hit": "West ceiling coffer inset stepped square moldings",
+      "distance_m": 4.516,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera restaurant_reverse",
+      "first_hit": "West restaurant square piers",
+      "distance_m": 9.182,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera restaurant_vault_detail",
+      "first_hit": "West restaurant square piers",
+      "distance_m": 0.703,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera restaurant_lunch_counter",
+      "first_hit": "ticket-lobby west wall beyond documented retail cluster",
+      "distance_m": 42.281,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera ticket_shop_front",
+      "first_hit": "The Shop continuous ticket entablature lower molding",
+      "distance_m": 11.446,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera ticket_shop_detail",
+      "first_hit": "hall restored south alcove back wall with observed sash fragments",
+      "distance_m": 17.392,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera ticket_shop_vignette",
+      "first_hit": "The Shop right corner shelf uprights",
+      "distance_m": 5.785,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera ticket_neighbor_front",
+      "first_hit": "Yellow Light side plaster walls approximate registered envelope",
+      "distance_m": 23.011,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera ticket_neighbor_threshold",
+      "first_hit": "Neighbor display shelving back panel",
+      "distance_m": 5.659,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera north_entry_detail",
+      "first_hit": "2026 north canopy glazing",
+      "distance_m": 20.362,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera tower_front_detail",
+      "first_hit": "tower continuous buff brick shaft piers",
+      "distance_m": 143.73,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera tower_crown_detail",
+      "first_hit": "tower crown arched replacement glazing",
+      "distance_m": 86.155,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera tower_return_detail",
+      "first_hit": "tower continuous buff brick shaft piers",
+      "distance_m": 57.104,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera tower_rear_detail",
+      "first_hit": "tower regular replacement window insulating glazing",
+      "distance_m": 110.957,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera north_forecourt_detail",
+      "first_hit": "central entrance apron with curved side notches",
+      "distance_m": 94.087,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera north_plaza_axis",
+      "first_hit": "north monumental window glazing",
+      "distance_m": 63.88,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera north_park_aerial",
+      "first_hit": "Roosevelt Park pale concrete nonoverlapping surface",
+      "distance_m": 265.138,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera north_park_path",
+      "first_hit": "2026 north entrance glazed door panel modules",
+      "distance_m": 108.964,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera hall_south_lunette",
+      "first_hit": "hall deep arched plaster reveal",
+      "distance_m": 21.842,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera hall_north_lunette",
+      "first_hit": "north monumental window glazing",
+      "distance_m": 23.72,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera hall_southeast_bay_ground",
+      "first_hit": "hall south alcove ceiling structural slab",
+      "distance_m": 22.234,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera hall_north_bay_ground",
+      "first_hit": "north monumental window glazing",
+      "distance_m": 24.498,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_source_eye",
+      "first_hit": "concourse west retained portal screen and open center",
+      "distance_m": 52.454,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_walls_west",
+      "first_hit": "concourse west retained portal screen and open center",
+      "distance_m": 49.391,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_west_portal",
+      "first_hit": "concourse west retained portal screen and open center",
+      "distance_m": 12.888,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_wall_material",
+      "first_hit": "concourse north open arcade masonry.001",
+      "distance_m": 6.461,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_floor_bands",
+      "first_hit": "concourse restored flush terrazzo bands",
+      "distance_m": 11.811,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_roof_axial",
+      "first_hit": "concourse refined inferred gusset plates",
+      "distance_m": 30.116,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_roof_connection",
+      "first_hit": "concourse refined single central paired angle post",
+      "distance_m": 7.811,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    },
+    {
+      "camera": "Camera concourse_roof_exterior",
+      "first_hit": "concourse restored individual glazing panels",
+      "distance_m": 56.887,
+      "interpretation": "Diagnostic only. Natural columns, doors and ceilings can be valid first hits."
+    }
+  ],
+  "limitations": [
+    "No as-built certification",
+    "No every-room coverage claim",
+    "No manifoldness guarantee; architectural surface shells are intentional",
+    "Fine ornament and wear remain interpretive"
+  ]
+}

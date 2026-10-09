@@ -1,0 +1,20 @@
+{
+  "origin": "Original deterministic mathematical fields, seed 20012017; no input images",
+  "revision": "NED2017-03 subtle coated umber",
+  "mean_warm_exposure_weight": 0.057184211909770966,
+  "maximum_warm_exposure_weight": 0.17145302891731262,
+  "large_discrete_loss_shapes": "none",
+  "rights": "Original project material; no photographic pixels or image derivatives",
+  "repeat_m": 1.0,
+  "interpretation": "Weathered brown coated frame, substrate unresolved. Longitudinal coating streaks do not assert timber grain/species.",
+  "reference": "May 2017 Bob Laperriere photograph, Historic Detroit, reference only",
+  "limits": "Color, roughness and micro-normal amplitude are artistic approximations, not measured reflectance or damage registration",
+  "normal": "OpenGL tangent-space +Y; UV-v increases in world Z on vertical faces",
+  "height": "16-bit support map supplied; actual displacement disabled",
+  "sha256": {
+    "normal.png": "080f466f51a7056fed9dedeab6419b561381f875d1819908624ffa0890faca2c",
+    "roughness.png": "4340f342ce73fbe48e61d7a66efcfa22cda65851b6abdc8aad72e7f33db0ad31",
+    "basecolor.png": "91f188ea1fb3c7f463807154232a31437e5f9e862c18a5a51e764c0118c972d3",
+    "height.png": "eccdf15501ddfd2b838efe3d8e9adb5e99cf7a5791f5504c015e1c6aba93e7ac"
+  }
+}

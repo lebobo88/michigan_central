@@ -1,0 +1,298 @@
+{
+  "title": "Michigan Central secondary public-space evidence and reconstruction limits",
+  "checked": "2026-10-06",
+  "script": "scripts/secondary_spaces.py",
+  "script_sha256": "adebac624e1a740284308f029e2e96bebf605401730c5015e5eb33068aacfc97",
+  "model_basis": "Evidence-led reconstruction; no contemporary measured as-built survey",
+  "coordinate_system": "Meters; +X west,+Y south,+Z up. Floor datums approximate.",
+  "rights": "All modern photographs study-only and excluded from delivered asset packages. Geometry, shader networks and abstract graffiti gestures are original. No study image is loaded into Blender by this module.",
+  "sources": [
+    {
+      "id": "RAG1914_PLAN",
+      "url": "https://commons.wikimedia.org/wiki/File:Michigan_Central_Station_Detroit_floor_plan.jpg",
+      "local": "research/visual/floor_plan_1914.jpg",
+      "type": "1914 published street-level plan, public-domain reference",
+      "used": "Space adjacency and approximate footprint placement"
+    },
+    {
+      "id": "RAG1914_TEXT",
+      "url": "https://archive.org/details/railwayage56newy",
+      "local": "research/1914_station_article_excerpt_ocr.txt",
+      "type": "Railway Age Gazette January9,1914 pp73–81",
+      "used": "64x86ft carriage enclosure; 76ft aggregate passenger entry; approximately7percent passenger ramp; elevator-bank original count"
+    },
+    {
+      "id": "HD_PRE14",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior#p14",
+      "local": "research/interior/study_only/pre_p14.jpg",
+      "date": "2017",
+      "credit": "Bob Laperriere / Historic Detroit",
+      "used": "Lobby boarding, patchy removed stone, backing, overhead loss"
+    },
+    {
+      "id": "HD_POST35",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p35",
+      "local": "research/interior/study_only/post_p35.jpg",
+      "date": "February2024",
+      "credit": "Helmut Ziewers / Historic Detroit",
+      "used": "Six doors, two banks; marble/Mankato finishes, transoms, ceiling lamps"
+    },
+    {
+      "id": "HD_POST36_38",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p38",
+      "local": [
+        "research/interior/study_only/post_p36.jpg",
+        "research/interior/study_only/post_p37.jpg",
+        "research/interior/study_only/post_p38.jpg"
+      ],
+      "date": "May2024 where captioned",
+      "credit": "Helmut Ziewers / Historic Detroit",
+      "used": "Exit passage directions, retained graffiti, handrails, grilles and flat ceiling"
+    },
+    {
+      "id": "HD_PRE28",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-pre-restoration-interior#p28",
+      "local": "research/interior/study_only/pre_p28.jpg",
+      "date": "May2017",
+      "credit": "Bob Laperriere / Historic Detroit",
+      "used": "South passenger ramp, rusted bridge, window and lower-wall condition"
+    },
+    {
+      "id": "HD_POST43_45",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p45",
+      "local": [
+        "research/interior/study_only/post_p43.jpg",
+        "research/interior/study_only/post_p45.jpg"
+      ],
+      "date": "February12,2024",
+      "credit": "Helmut Ziewers / Historic Detroit",
+      "used": "Upper ramp room, bridge/haunches, brick and restored roof glazing"
+    },
+    {
+      "id": "HD_POST55_58",
+      "url": "https://historicdetroit.org/galleries/michigan-central-station-post-renovation-interior#p58",
+      "local": [
+        "research/interior/study_only/post_p55.jpg",
+        "research/interior/study_only/post_p56.jpg",
+        "research/interior/study_only/post_p57.jpg",
+        "research/interior/study_only/post_p58.jpg"
+      ],
+      "date": "August2023 where captioned",
+      "credit": "Helmut Ziewers / Historic Detroit",
+      "used": "West corridor white tile finishes and preserved rusted stair fragment"
+    },
+    {
+      "id": "QE2024_LOBBY",
+      "url": "https://cdn.prod.website-files.com/6240e0408c8f1a116a84978a/665b5ce09fd63562d30a4708_Michigan%20Central%20Station_Visual%20Tour.pdf",
+      "local": "research/quinn_evans_visual_tour_2024.pdf",
+      "type": "Architect material identification, pp42–43",
+      "used": "Mankato walls, restored marble, plaster cornice, historical metal detailing"
+    },
+    {
+      "id": "IG_2025_WEST",
+      "url": "https://www.innovationglass.com/vs1-projects/michigan-central-station",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/619303327cdf0c348f2c968b/fb5807ae-a41a-4dde-a9db-1f18ace3b883/east%2B-%2Boverall.jpg",
+      "local": "research/reference_only_copyrighted/carriage_west_2025_innovationglass.jpg",
+      "date": "August2025 caption",
+      "type": "Actual photo, clearly distinguished from adjacent design renderings",
+      "used": "West three-bay iron structure, corner pylons, roof lantern; future side glazing not modeled"
+    }
+  ],
+  "modeled_spaces_by_era": [
+    {
+      "id": "east_elevator_lobby",
+      "extent_m": [
+        -48.0,
+        -39.5,
+        24.8,
+        52.4,
+        0,
+        5.75
+      ],
+      "era": "2017",
+      "basis": "1914 plan and six-elevator February2024 photo; May2017 missing cladding and boarding",
+      "precision": "Plan-traced approximate footprint; visual-proportion heights/detail; no lift shafts or cabins"
+    },
+    {
+      "id": "east_exit_ramp",
+      "extent_m": [
+        -51.4,
+        -29.4894,
+        56.6,
+        63.4,
+        0,
+        5.4
+      ],
+      "era": "2017",
+      "basis": "1914 exit-ramp location; May2024 post36–38 finish observations",
+      "precision": "Plan-traced footprint, unsurveyed .45m visual rise; exact2017 condition unknown",
+      "artwork": "Original non-lettering gesture marks only; no copied historical graffiti"
+    },
+    {
+      "id": "passenger_ramp_upper",
+      "extent_m": [
+        -11.5824,
+        11.5824,
+        75.2872,
+        87.8,
+        -0.815896,
+        12.1
+      ],
+      "era": "2017",
+      "basis": "1914 76ft three-opening entry and approximately7percent grade; exactMay2017 pre28; February2024 post43/45",
+      "precision": "Entry total width published; segment length, heights, and current pitch visual approximations",
+      "limit": "No subway, train-platform stairs, or below-track hidden connections; 2017 roof panels omitted because count unknown"
+    },
+    {
+      "id": "west_carriage_enclosure",
+      "extent_m": [
+        52.6288,
+        72.136,
+        53.644800000000004,
+        79.8576,
+        0,
+        9.38
+      ],
+      "era": "2017",
+      "basis": "Published1914 64x86ft footprint; August2025 real west-elevation photo",
+      "precision": "Footprint published; placement plan-traced; height/profile/bay dimensions visually approximated",
+      "limit": "No unverified2026 side glazing, lounge/hotel fit-out, or asserted completion;2017 roof-lantern and exact damage unknown"
+    },
+    {
+      "id": "east_elevator_lobby",
+      "extent_m": [
+        -48.0,
+        -39.5,
+        24.8,
+        52.4,
+        0,
+        5.75
+      ],
+      "era": "2026",
+      "basis": "1914 plan and six-elevator February2024 photo; May2017 missing cladding and boarding",
+      "precision": "Plan-traced approximate footprint; visual-proportion heights/detail; no lift shafts or cabins"
+    },
+    {
+      "id": "east_exit_ramp",
+      "extent_m": [
+        -51.4,
+        -29.4894,
+        56.6,
+        63.4,
+        0,
+        5.4
+      ],
+      "era": "2026",
+      "basis": "1914 exit-ramp location; May2024 post36–38 finish observations",
+      "precision": "Plan-traced footprint, unsurveyed .45m visual rise; exact2017 condition unknown",
+      "artwork": "Original non-lettering gesture marks only; no copied historical graffiti"
+    },
+    {
+      "id": "passenger_ramp_upper",
+      "extent_m": [
+        -11.5824,
+        11.5824,
+        75.2872,
+        87.8,
+        -0.815896,
+        12.1
+      ],
+      "era": "2026",
+      "basis": "1914 76ft three-opening entry and approximately7percent grade; exactMay2017 pre28; February2024 post43/45",
+      "precision": "Entry total width published; segment length, heights, and current pitch visual approximations",
+      "limit": "No subway, train-platform stairs, or below-track hidden connections; 2017 roof panels omitted because count unknown"
+    },
+    {
+      "id": "west_connecting_corridor",
+      "extent_m": [
+        35.8,
+        51.4,
+        22.65,
+        28.85,
+        0,
+        5.55
+      ],
+      "era": "2026",
+      "basis": "1914 service/cafe adjacency and August2023 post55–58",
+      "precision": "Visible finishes and two-flight stair interpreted; approximate room bounds and stair orientation; no lower rooms or hidden continuation",
+      "limit": "Not included in2017 because exactdated matching source absent; lower stair descent and basement omitted"
+    },
+    {
+      "id": "west_carriage_enclosure",
+      "extent_m": [
+        52.6288,
+        72.136,
+        53.644800000000004,
+        79.8576,
+        0,
+        9.38
+      ],
+      "era": "2026",
+      "basis": "Published1914 64x86ft footprint; August2025 real west-elevation photo",
+      "precision": "Footprint published; placement plan-traced; height/profile/bay dimensions visually approximated",
+      "limit": "No unverified2026 side glazing, lounge/hotel fit-out, or asserted completion;2017 roof-lantern and exact damage unknown"
+    }
+  ],
+  "integration": {
+    "entry": "Exec module before geometry batch finalization",
+    "cameras": "SECONDARY_CAMERAS dictionary; position/target/lens",
+    "properties": "SEC_SPACES and SEC_EVIDENCE_PROPERTIES contain editable source/confidence records",
+    "openings_required": [
+      "Arcade startsX−39.5, with Y36.9..43.1 opening into lobby",
+      "East exterior entrance X≈−52, Y37.3..42.7, Z0..4.6",
+      "East concourse portal X−29.4894,Y57..63,Z0..4.8",
+      "South concourse aggregate passenger opening X±11.5824,Y75.2872,Z0..4.7",
+      "Site/foundation cutout X±12.8,Y74.5..88.7, down belowZ−0.82"
+    ],
+    "avoid_duplicate": "Remove temporary core passenger-ramp upper glazing/mullion batches; secondary module supplies bridge high windows",
+    "remaining_portal_conflict": "Reading-room back wall and restaurant front wall in interior_additions are continuous; west corridor is a visible shell but room-to-room navigation needs explicit matched cuts in those existing shells"
+  },
+  "evidence_corrections": [
+    {
+      "previous": "coverage_matrix.csv associates pre_p28 with east exit ramp",
+      "correction": "Caption and pixels identify pre_p28 as south passenger ramp. Exact2017 east exit state has not been isolated."
+    }
+  ],
+  "unmodeled": [
+    "Elevator cabins, shafts and enclosed tower stair system",
+    "Exact2017 east-exit condition or historical graffiti distribution",
+    "Full passenger subway, platforms, lower tunnels and utilities",
+    "2017 west connecting corridor because exactperiod source unidentified",
+    "West basement descent/room layout; the stairs shown are only the preserved upper two-flight fragment",
+    "May2017 unknown-location tower staircase; it cannot safely be aligned with restored ground StairA",
+    "2026 carriage-house side glazing, hospitality equipment, NoMad hotel or lounge completion"
+  ],
+  "dimension_claims": {
+    "published": [
+      "Carriage enclosure19.5072x26.2128m from64x86ft",
+      "Passenger entry aggregate23.1648m from76ft",
+      "Original passenger ramp approximately7percent"
+    ],
+    "plan_traced": [
+      "Carriage north/south position",
+      "Elevator lobby and exit-ramp placement",
+      "West connecting corridor adjacency"
+    ],
+    "visual_or_integration_approximations": [
+      "Lobby8.5x27.6m and5.75m ceiling, exact elevator spacing",
+      "East ramp6.8m wide,21.91m long,5.4m ceiling and0.45m rise",
+      "Passenger upper segment12.5128m long; bridge4.9m deck; roof12.09m apex",
+      "West corridor15.6x6.2m,5.55m high; stair size/orientation",
+      "Carriage pylons7.8m high,three west bays,9.38m lantern peak"
+    ]
+  },
+  "qa": {
+    "2017": {
+      "batches": 144,
+      "vertices": 16815,
+      "faces": 11300,
+      "errors": []
+    },
+    "2026": {
+      "batches": 205,
+      "vertices": 94696,
+      "faces": 43041,
+      "errors": []
+    }
+  }
+}

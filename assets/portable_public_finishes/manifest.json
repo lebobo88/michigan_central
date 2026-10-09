@@ -1,0 +1,1149 @@
+{
+  "status": "CANDIDATE ONLY; not installed in live scene",
+  "resolution": [
+    512,
+    512
+  ],
+  "generator": "scripts/candidates/make_portable_material_channels.py",
+  "generator_sha256": "f593d6a34c990ff9b7af2c35c11a1cb566783632ffb93dfe2b882e20e3e477e7",
+  "limitations": [
+    "Not an exact bake of Blender Generated 3D Noise",
+    "Source ramp palette and approximate low-amplitude stochastic variation preserved",
+    "Secondary MetricUV is already divided by 4m; new maps preserve those coordinates and assume a 4m repeat",
+    "West MetricUV already uses 1m repeat; original 2.2 x 8 scale becomes 17.6 base cycles per repeat",
+    "No brush direction, wood fibres, rust pits, cracks or photographed wear are invented",
+    "Bump-distance times strength is treated as an approximate physical height amplitude; Blender bump is not exactly reconstructed",
+    "Base noise band above Nyquist is omitted rather than aliased",
+    "Roughness and metallic are unchanged source scalars"
+  ],
+  "materials": {
+    "Secondary 2017 protective plywood": {
+      "base_color_linear": [
+        0.26,
+        0.14,
+        0.072
+      ],
+      "expected_mean_linear": [
+        0.26,
+        0.14,
+        0.072
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.91,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.4444444444444444,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 33,
+      "basecolor": "secondary_2017_protective_plywood/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_2017_protective_plywood/normal_2017.png"
+      },
+      "sha256": {
+        "secondary_2017_protective_plywood/basecolor.png": "f3fa141fb166346b533aad65bba54d160ccc2e1026fd7dc548d798427101dfe0",
+        "secondary_2017_protective_plywood/normal_2017.png": "886f0328b3a0c5a0482ca1931303c1c17c809b350deb6060c95ebbbcfdd50273"
+      },
+      "source_used_eras": [
+        "2017"
+      ],
+      "seed": 4152282768,
+      "retained_noise_bands": [
+        9,
+        18,
+        36,
+        72
+      ],
+      "measured_linear_mean": [
+        0.2599990424011932,
+        0.14000385514194982,
+        0.07200231179348175
+      ],
+      "measured_linear_std": [
+        0.027040054403643172,
+        0.014571089696768055,
+        0.007501194987377266
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13671723141562475,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0017731573596669646,
+          "height_rms_m": 0.0003691365248221868,
+          "normal_max_tilt_degrees": 1.4244461269649544
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary exposed ribbed substrate": {
+      "base_color_linear": [
+        0.26,
+        0.23,
+        0.18
+      ],
+      "expected_mean_linear": [
+        0.26,
+        0.23000000000000004,
+        0.18
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.95,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.16666666666666666,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 37,
+      "basecolor": "secondary_exposed_ribbed_substrate/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_exposed_ribbed_substrate/normal_2017.png"
+      },
+      "sha256": {
+        "secondary_exposed_ribbed_substrate/basecolor.png": "ad77ed611547a10252b211e0679d401cbaec8d0a027b66eff5c7cb515839174f",
+        "secondary_exposed_ribbed_substrate/normal_2017.png": "4902e3cc75614658bbba1e76093666453bea2aa4cdeac692ace440ea7c3a5930"
+      },
+      "source_used_eras": [
+        "2017"
+      ],
+      "seed": 1608070757,
+      "retained_noise_bands": [
+        24,
+        48,
+        96,
+        192
+      ],
+      "measured_linear_mean": [
+        0.2600050080313717,
+        0.23000440729252622,
+        0.17999945949860924
+      ],
+      "measured_linear_std": [
+        0.021385906991779287,
+        0.018921709890838637,
+        0.01481091077478884
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13688573495766024,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0018228824948997957,
+          "height_rms_m": 0.0003695914843856826,
+          "normal_max_tilt_degrees": 3.6078515825601687
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary iron rust": {
+      "base_color_linear": [
+        0.14,
+        0.071,
+        0.035
+      ],
+      "expected_mean_linear": [
+        0.14,
+        0.07099999999999998,
+        0.035
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.73,
+      "metallic": 0.4,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.1,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 32,
+      "basecolor": "secondary_iron_rust/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_iron_rust/normal_2017.png"
+      },
+      "sha256": {
+        "secondary_iron_rust/basecolor.png": "06f172f0c7f245fc765765e5e0f13c418d9617325a9589177a2b5b68b4c48e31",
+        "secondary_iron_rust/normal_2017.png": "96f10089fd547852278fd1ed108f97fa97e54f96dd18ad891ddcc47249b20dbf"
+      },
+      "source_used_eras": [
+        "2017"
+      ],
+      "seed": 1084247132,
+      "retained_noise_bands": [
+        40,
+        80,
+        160
+      ],
+      "measured_linear_mean": [
+        0.1400021524165477,
+        0.07100269371800028,
+        0.03500137695372341
+      ],
+      "measured_linear_std": [
+        0.013849942610148304,
+        0.007033236561343461,
+        0.0034755015203237457
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13714751783301105,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0018240988774507483,
+          "height_rms_m": 0.00037029829814912976,
+          "normal_max_tilt_degrees": 4.5969510076890066
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary conservation grille": {
+      "base_color_linear": [
+        0.018,
+        0.02,
+        0.019
+      ],
+      "expected_mean_linear": [
+        0.018,
+        0.02,
+        0.019
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.45,
+      "metallic": 0.55,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.2,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 38,
+      "basecolor": "secondary_conservation_grille/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_conservation_grille/normal_2017.png",
+        "2026": "secondary_conservation_grille/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_conservation_grille/basecolor.png": "ac07cd78e109fcd9096255c36dc886918b8d0b9c3f6fcdd92f3873d2bc41ad50",
+        "secondary_conservation_grille/normal_2017.png": "28509b29bdb81e8867f524e525ea401f4802c4eacc5e0873a219bab19992bf3c",
+        "secondary_conservation_grille/normal_2026.png": "aae058f66b8f1f392ec08ff57a6765c09f8a37999c7b64edbaa7de849497748e"
+      },
+      "source_used_eras": [
+        "2017",
+        "2026"
+      ],
+      "seed": 3174552869,
+      "retained_noise_bands": [
+        20,
+        40,
+        80,
+        160
+      ],
+      "measured_linear_mean": [
+        0.01801018524916491,
+        0.019987677127149567,
+        0.018994608731901674
+      ],
+      "measured_linear_std": [
+        0.0004455350423858516,
+        0.0004994842177706529,
+        0.00046072062823211956
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13721001070376868,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0017880139607119416,
+          "height_rms_m": 0.00037046702890017536,
+          "normal_max_tilt_degrees": 3.0251057928413725
+        },
+        "2026": {
+          "height_peak_to_peak_m": 0.0001986682178568824,
+          "height_rms_m": 4.11630032111306e-05,
+          "normal_max_tilt_degrees": 0.33643167718111466
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary original abstract marking 1": {
+      "base_color_linear": [
+        0.016,
+        0.14,
+        0.24
+      ],
+      "expected_mean_linear": [
+        0.016,
+        0.14,
+        0.24
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.95,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.4,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 51,
+      "basecolor": "secondary_original_abstract_marking_1/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_original_abstract_marking_1/normal_2017.png",
+        "2026": "secondary_original_abstract_marking_1/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_original_abstract_marking_1/basecolor.png": "685a55f2e0df25c3d461bc5ed38a48277d891cb79d7c0a6dd40b04cacae566e3",
+        "secondary_original_abstract_marking_1/normal_2017.png": "16b1d9f3088bd4c33bc78ab96c682ada7bc25536b3b1e923f7e346e8b1da1509",
+        "secondary_original_abstract_marking_1/normal_2026.png": "c88a32fc336c7e4add0289861fa161ecb9512d8bb5f4d9513b77e9a07718e918"
+      },
+      "source_used_eras": [
+        "2017",
+        "2026"
+      ],
+      "seed": 2684485863,
+      "retained_noise_bands": [
+        10,
+        20,
+        40,
+        80
+      ],
+      "measured_linear_mean": [
+        0.01600374807208324,
+        0.14000795802558233,
+        0.2399965915990858
+      ],
+      "measured_linear_std": [
+        0.0004826890750413984,
+        0.003580100140051448,
+        0.0060407015720948835
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13759659425789678,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0017939945408649658,
+          "height_rms_m": 0.00037151080449632126,
+          "normal_max_tilt_degrees": 1.6230834251301456
+        },
+        "2026": {
+          "height_peak_to_peak_m": 0.00019933272676277402,
+          "height_rms_m": 4.127897827736903e-05,
+          "normal_max_tilt_degrees": 0.18039026292955493
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary original abstract marking 2": {
+      "base_color_linear": [
+        0.51,
+        0.35,
+        0.035
+      ],
+      "expected_mean_linear": [
+        0.51,
+        0.35,
+        0.035
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.95,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.4,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 51,
+      "basecolor": "secondary_original_abstract_marking_2/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_original_abstract_marking_2/normal_2017.png",
+        "2026": "secondary_original_abstract_marking_2/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_original_abstract_marking_2/basecolor.png": "f21665b64692d2862ff97d3573d082d4a20d595171181d64cd14877d3ca674be",
+        "secondary_original_abstract_marking_2/normal_2017.png": "60c0c1fdce6b3eb3f8ab418cba9df56870e2a92fa26f871033acbd3dd6c227ca",
+        "secondary_original_abstract_marking_2/normal_2026.png": "7cf4acbc084584776a529ec08ce11c4cea55badc975c737b67b5610360eb6637"
+      },
+      "source_used_eras": [
+        "2017",
+        "2026"
+      ],
+      "seed": 608124249,
+      "retained_noise_bands": [
+        10,
+        20,
+        40,
+        80
+      ],
+      "measured_linear_mean": [
+        0.5099959319822517,
+        0.34999955003218197,
+        0.03500122870106907
+      ],
+      "measured_linear_std": [
+        0.012714023758224455,
+        0.008754892947339311,
+        0.0009488062109520121
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13728041788531348,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0017698540355358663,
+          "height_rms_m": 0.0003706571282903463,
+          "normal_max_tilt_degrees": 1.6174036234125073
+        },
+        "2026": {
+          "height_peak_to_peak_m": 0.00019665044839287408,
+          "height_rms_m": 4.1184125365594036e-05,
+          "normal_max_tilt_degrees": 0.17975867515113103
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary original abstract marking 3": {
+      "base_color_linear": [
+        0.35,
+        0.06,
+        0.022
+      ],
+      "expected_mean_linear": [
+        0.35,
+        0.06,
+        0.022
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.95,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.4,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 51,
+      "basecolor": "secondary_original_abstract_marking_3/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_original_abstract_marking_3/normal_2017.png",
+        "2026": "secondary_original_abstract_marking_3/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_original_abstract_marking_3/basecolor.png": "08fcc911c1f91e6e80ca95612eb872bbafbd8c2c267b62d0fa26f7d694087b3e",
+        "secondary_original_abstract_marking_3/normal_2017.png": "00016703a1ebbe7171067d01a621138e558e8279b72abdb0bb9de4d7cc83b1e7",
+        "secondary_original_abstract_marking_3/normal_2026.png": "8045f411a6dc4d770417ffc73252bc35f5e9d8677c1ad65926d3a120ecff011e"
+      },
+      "source_used_eras": [
+        "2017",
+        "2026"
+      ],
+      "seed": 1901580805,
+      "retained_noise_bands": [
+        10,
+        20,
+        40,
+        80
+      ],
+      "measured_linear_mean": [
+        0.3499939494102182,
+        0.06001227687720848,
+        0.022003216477705412
+      ],
+      "measured_linear_std": [
+        0.008785943053945639,
+        0.0015718040825063672,
+        0.0006164234294361117
+      ],
+      "noise_fac_mean": 0.49999999999999994,
+      "noise_fac_std": 0.13764633865629142,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0017639158168082174,
+          "height_rms_m": 0.0003716451143719868,
+          "normal_max_tilt_degrees": 1.6533252213192828
+        },
+        "2026": {
+          "height_peak_to_peak_m": 0.0001959906463120242,
+          "height_rms_m": 4.129390159688742e-05,
+          "normal_max_tilt_degrees": 0.18375317710508984
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary original abstract marking 4": {
+      "base_color_linear": [
+        0.09,
+        0.11,
+        0.12
+      ],
+      "expected_mean_linear": [
+        0.09,
+        0.11000000000000001,
+        0.12
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.95,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.4,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 51,
+      "basecolor": "secondary_original_abstract_marking_4/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_original_abstract_marking_4/normal_2017.png",
+        "2026": "secondary_original_abstract_marking_4/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_original_abstract_marking_4/basecolor.png": "a3ffdeb300bd7223cfa6e0d5df3749b234352b45693102cb63a6951619d8b8cd",
+        "secondary_original_abstract_marking_4/normal_2017.png": "fc2fcd394f33f3172d05a4a3f19d378b72ca51e7a6145bbe1d9a39e13dde7d71",
+        "secondary_original_abstract_marking_4/normal_2026.png": "0bd42df1d678cacc5690b849ac6959d8f7c1401992b7674467c4c20aba29b3f3"
+      },
+      "source_used_eras": [
+        "2017",
+        "2026"
+      ],
+      "seed": 85228949,
+      "retained_noise_bands": [
+        10,
+        20,
+        40,
+        80
+      ],
+      "measured_linear_mean": [
+        0.09000631183488629,
+        0.10999827984797313,
+        0.11999938261345479
+      ],
+      "measured_linear_std": [
+        0.002313522856107544,
+        0.002833814622117136,
+        0.0030805238440032574
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13807996171247,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.001747785358046781,
+          "height_rms_m": 0.000372815896623669,
+          "normal_max_tilt_degrees": 1.7690957479099256
+        },
+        "2026": {
+          "height_peak_to_peak_m": 0.00019419837311630903,
+          "height_rms_m": 4.1423988513741e-05,
+          "normal_max_tilt_degrees": 0.19662791231180504
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary original abstract marking 5": {
+      "base_color_linear": [
+        0.14,
+        0.22,
+        0.22
+      ],
+      "expected_mean_linear": [
+        0.14,
+        0.22000000000000003,
+        0.22000000000000003
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.95,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.4,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 51,
+      "basecolor": "secondary_original_abstract_marking_5/basecolor.png",
+      "normal_by_era": {
+        "2017": "secondary_original_abstract_marking_5/normal_2017.png",
+        "2026": "secondary_original_abstract_marking_5/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_original_abstract_marking_5/basecolor.png": "2d647d6be6c99b6dc47abec44541348e877a6a12d6c6db9a32beb12f9c56424d",
+        "secondary_original_abstract_marking_5/normal_2017.png": "7d425d4db759e8ae2abf5c61f9a752d976411d3486bf49a084b8e307dc5be1a7",
+        "secondary_original_abstract_marking_5/normal_2026.png": "6e6242cbc44dccf093b80906e6969a5c2d79baee9c601c0788d791d9be0d9f1e"
+      },
+      "source_used_eras": [
+        "2017",
+        "2026"
+      ],
+      "seed": 422558039,
+      "retained_noise_bands": [
+        10,
+        20,
+        40,
+        80
+      ],
+      "measured_linear_mean": [
+        0.139997008651186,
+        0.22000042706426337,
+        0.22000042706426337
+      ],
+      "measured_linear_std": [
+        0.003563443661789647,
+        0.005538834619173006,
+        0.005538834619173006
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13742649757406764,
+      "normal_statistics": {
+        "2017": {
+          "height_peak_to_peak_m": 0.0017829748945165868,
+          "height_rms_m": 0.00037105154344998256,
+          "normal_max_tilt_degrees": 1.6790975158032968
+        },
+        "2026": {
+          "height_peak_to_peak_m": 0.0001981083216129541,
+          "height_rms_m": 4.122794927222029e-05,
+          "normal_max_tilt_degrees": 0.18661915858904332
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "West restored warm ivory plaster": {
+      "base_color_linear": [
+        0.73,
+        0.7,
+        0.625
+      ],
+      "expected_mean_linear": [
+        0.73,
+        0.7,
+        0.625
+      ],
+      "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+      "roughness": 0.62,
+      "metallic": 0,
+      "existing_uv_repeat_m": 1.0,
+      "candidate_base_wavelength_m": 0.056818181818181816,
+      "source_module": "scripts/west_public_rooms.py",
+      "source_line": 362,
+      "basecolor": "west_restored_warm_ivory_plaster/basecolor.png",
+      "normal_by_era": {
+        "2026": "west_restored_warm_ivory_plaster/normal_2026.png"
+      },
+      "sha256": {
+        "west_restored_warm_ivory_plaster/basecolor.png": "dee7144f6ee46696b08c2d5e4c3e88c470766ab86dbcc9a137b5742a88af982a",
+        "west_restored_warm_ivory_plaster/normal_2026.png": "e63df363c6430daa40d16d6f9f3e8497cdc67985c04f1ea1a406f9a3b5a82ae1"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 3907539669,
+      "retained_noise_bands": [
+        17.6,
+        35.2,
+        70.4,
+        140.8
+      ],
+      "measured_linear_mean": [
+        0.7299994702663328,
+        0.69999914910092,
+        0.625012825869667
+      ],
+      "measured_linear_std": [
+        0.011235494284976489,
+        0.010781318763740616,
+        0.009648829065956323
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13719420006727004,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 4.714583154092414e-05,
+          "height_rms_m": 9.603594004708903e-06,
+          "normal_max_tilt_degrees": 0.3929225768866511
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "West patinated pendant bronze": {
+      "base_color_linear": [
+        0.11,
+        0.075,
+        0.033
+      ],
+      "expected_mean_linear": [
+        0.11,
+        0.07499999999999998,
+        0.033
+      ],
+      "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+      "roughness": 0.32,
+      "metallic": 0.72,
+      "existing_uv_repeat_m": 1.0,
+      "candidate_base_wavelength_m": 0.056818181818181816,
+      "source_module": "scripts/west_public_rooms.py",
+      "source_line": 364,
+      "basecolor": "west_patinated_pendant_bronze/basecolor.png",
+      "normal_by_era": {
+        "2026": "west_patinated_pendant_bronze/normal_2026.png"
+      },
+      "sha256": {
+        "west_patinated_pendant_bronze/basecolor.png": "f2537615a7659ce7c19cfebc1474079cd04679703818f21c70569abfe39f318e",
+        "west_patinated_pendant_bronze/normal_2026.png": "fd231f9840614e840e57a2e3cca3b41349943cfbab151fe12258704c8a485904"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 2578363179,
+      "retained_noise_bands": [
+        17.6,
+        35.2,
+        70.4,
+        140.8
+      ],
+      "measured_linear_mean": [
+        0.10998008925992693,
+        0.0749976085510134,
+        0.03298530105872828
+      ],
+      "measured_linear_std": [
+        0.0018011501882419447,
+        0.001233183008174818,
+        0.0006149771262467198
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.1372506034576886,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 4.7211034519290034e-05,
+          "height_rms_m": 9.607542242038203e-06,
+          "normal_max_tilt_degrees": 0.3727187383084816
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "West shallow plaster score shadow": {
+      "base_color_linear": [
+        0.38,
+        0.365,
+        0.325
+      ],
+      "expected_mean_linear": [
+        0.38,
+        0.365,
+        0.32499999999999996
+      ],
+      "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+      "roughness": 0.78,
+      "metallic": 0,
+      "existing_uv_repeat_m": 1.0,
+      "candidate_base_wavelength_m": 0.056818181818181816,
+      "source_module": "scripts/west_public_rooms.py",
+      "source_line": 363,
+      "basecolor": "west_shallow_plaster_score_shadow/basecolor.png",
+      "normal_by_era": {
+        "2026": "west_shallow_plaster_score_shadow/normal_2026.png"
+      },
+      "sha256": {
+        "west_shallow_plaster_score_shadow/basecolor.png": "8bdd45bf77bf75ff0f28e5f3d15d90a40275f14df141b3def50f4367ea9745d8",
+        "west_shallow_plaster_score_shadow/normal_2026.png": "52f4ee9aa5bb90e54919f806e110eed4f9b6b7714cb2642323d7632603753293"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 1739568303,
+      "retained_noise_bands": [
+        17.6,
+        35.2,
+        70.4,
+        140.8
+      ],
+      "measured_linear_mean": [
+        0.3800056195021879,
+        0.36500694799290634,
+        0.32499629731183177
+      ],
+      "measured_linear_std": [
+        0.005918898376897709,
+        0.005693324854723889,
+        0.005071588902061039
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13705343066648834,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 4.7105501758650935e-05,
+          "height_rms_m": 9.593740146654185e-06,
+          "normal_max_tilt_degrees": 0.38195356804428804
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "West restaurant observed unfinished slab": {
+      "base_color_linear": [
+        0.205,
+        0.224,
+        0.226
+      ],
+      "expected_mean_linear": [
+        0.20499999999999996,
+        0.224,
+        0.22599999999999998
+      ],
+      "source_function_sha256": "9becba625284ef75907926933fd5498da8c4feacb7d67626b983f2c3605f36b4",
+      "roughness": 0.86,
+      "metallic": 0,
+      "existing_uv_repeat_m": 1.0,
+      "candidate_base_wavelength_m": 0.056818181818181816,
+      "source_module": "scripts/west_public_rooms.py",
+      "source_line": 366,
+      "basecolor": "west_restaurant_observed_unfinished_slab/basecolor.png",
+      "normal_by_era": {
+        "2026": "west_restaurant_observed_unfinished_slab/normal_2026.png"
+      },
+      "sha256": {
+        "west_restaurant_observed_unfinished_slab/basecolor.png": "41d656c439268cb7fb82700bb7f4f020fb4399832d83c86faaed200b7262604f",
+        "west_restaurant_observed_unfinished_slab/normal_2026.png": "c0c8c0fde5e241c8d9ce1fb35417a4bab3918ac1f78528913b055cdbc967f074"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 2664830217,
+      "retained_noise_bands": [
+        17.6,
+        35.2,
+        70.4,
+        140.8
+      ],
+      "measured_linear_mean": [
+        0.20500287547088633,
+        0.22401474111390615,
+        0.22598655511010496
+      ],
+      "measured_linear_std": [
+        0.003264462101494972,
+        0.0035601789644766134,
+        0.003590006348495589
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13762145930469818,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 4.6519279968224825e-05,
+          "height_rms_m": 9.633502151328874e-06,
+          "normal_max_tilt_degrees": 0.3915504773549895
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary brushed bronze": {
+      "base_color_linear": [
+        0.24,
+        0.14,
+        0.055
+      ],
+      "expected_mean_linear": [
+        0.24,
+        0.14,
+        0.05500000000000001
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.32,
+      "metallic": 0.78,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.125,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 31,
+      "basecolor": "secondary_brushed_bronze/basecolor.png",
+      "normal_by_era": {
+        "2026": "secondary_brushed_bronze/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_brushed_bronze/basecolor.png": "745cfa801a563769912c1f4561b5137b87b501a5b5f118ca58b41d2dd583c569",
+        "secondary_brushed_bronze/normal_2026.png": "cb94d44512cd325ab34b2f8921dfeca6d5341c4d89eca766d724ea9417979a3b"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 2682753991,
+      "retained_noise_bands": [
+        32,
+        64,
+        128,
+        256
+      ],
+      "measured_linear_mean": [
+        0.2399994061920795,
+        0.1400025823820647,
+        0.055002403784755384
+      ],
+      "measured_linear_std": [
+        0.009285790990269589,
+        0.0054372664272044945,
+        0.00216602842868494
+      ],
+      "noise_fac_mean": 0.49999999999999994,
+      "noise_fac_std": 0.13716719157904142,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 0.00020349472139134507,
+          "height_rms_m": 4.1150157473712426e-05,
+          "normal_max_tilt_degrees": 0.4997249149409939
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary conserved iron": {
+      "base_color_linear": [
+        0.037,
+        0.046,
+        0.043
+      ],
+      "expected_mean_linear": [
+        0.037000000000000005,
+        0.046,
+        0.043
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.36,
+      "metallic": 0.76,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.1,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 32,
+      "basecolor": "secondary_conserved_iron/basecolor.png",
+      "normal_by_era": {
+        "2026": "secondary_conserved_iron/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_conserved_iron/basecolor.png": "07e25734c1fcfe5a85b29e4c805ee5db2e1b7879c053593d2f8da95866d5d0db",
+        "secondary_conserved_iron/normal_2026.png": "36c345ce137713c7da57cafbc0d8cd3744a0b1b08b7137ab705906b41a6946cb"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 3271348665,
+      "retained_noise_bands": [
+        40,
+        80,
+        160
+      ],
+      "measured_linear_mean": [
+        0.036997580982166704,
+        0.04600426962915283,
+        0.042999692845321055
+      ],
+      "measured_linear_std": [
+        0.000899657584539427,
+        0.0011089566258631332,
+        0.0010360501843415647
+      ],
+      "noise_fac_mean": 0.49999999999999994,
+      "noise_fac_std": 0.13713698835654334,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 0.0002054510956654795,
+          "height_rms_m": 4.1141096506963e-05,
+          "normal_max_tilt_degrees": 0.5313645834202272
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary pale mineral grout": {
+      "base_color_linear": [
+        0.42,
+        0.45,
+        0.41
+      ],
+      "expected_mean_linear": [
+        0.42000000000000004,
+        0.45000000000000007,
+        0.41000000000000003
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.9,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.4,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 35,
+      "basecolor": "secondary_pale_mineral_grout/basecolor.png",
+      "normal_by_era": {
+        "2026": "secondary_pale_mineral_grout/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_pale_mineral_grout/basecolor.png": "44a6869018ad53bf3ae60e7447e90fe2945f62e48c08ad1652711ebcd7daf88d",
+        "secondary_pale_mineral_grout/normal_2026.png": "4a918151f24e45e70ed97ed48d944d15476e6d22f4a264ff82229334114fd0db"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 419174229,
+      "retained_noise_bands": [
+        10,
+        20,
+        40,
+        80
+      ],
+      "measured_linear_mean": [
+        0.4200036938002471,
+        0.45000306456554534,
+        0.4100037938126777
+      ],
+      "measured_linear_std": [
+        0.009312415730973592,
+        0.009963448816061864,
+        0.00908883901077797
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13655343281239082,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 0.0002000576213022663,
+          "height_rms_m": 4.0966029843717254e-05,
+          "normal_max_tilt_degrees": 0.18647136986068372
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary ivory hex tile": {
+      "base_color_linear": [
+        0.65,
+        0.66,
+        0.59
+      ],
+      "expected_mean_linear": [
+        0.65,
+        0.66,
+        0.59
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.51,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.1111111111111111,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 36,
+      "basecolor": "secondary_ivory_hex_tile/basecolor.png",
+      "normal_by_era": {
+        "2026": "secondary_ivory_hex_tile/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_ivory_hex_tile/basecolor.png": "75cb1d983bde0ef23e5752a4c60c26f7e5363a0e5c3d7931b9c99c70295626a7",
+        "secondary_ivory_hex_tile/normal_2026.png": "b83206fdd70aa72eb5d48055bff5307045e4e1bb57d9ddd7447e5d53c16c91d2"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 1319856960,
+      "retained_noise_bands": [
+        36,
+        72,
+        144
+      ],
+      "measured_linear_mean": [
+        0.6500062406202325,
+        0.6599976822069791,
+        0.5900018141869519
+      ],
+      "measured_linear_std": [
+        0.01351534824964748,
+        0.013720934658539442,
+        0.012288723061207554
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13712807734877222,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 0.000202589324620224,
+          "height_rms_m": 4.113842320463166e-05,
+          "normal_max_tilt_degrees": 0.525887873470754
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary glazed white ceramic": {
+      "base_color_linear": [
+        0.72,
+        0.75,
+        0.71
+      ],
+      "expected_mean_linear": [
+        0.72,
+        0.75,
+        0.71
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.19,
+      "metallic": 0,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.26666666666666666,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 34,
+      "basecolor": "secondary_glazed_white_ceramic/basecolor.png",
+      "normal_by_era": {
+        "2026": "secondary_glazed_white_ceramic/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_glazed_white_ceramic/basecolor.png": "11ad2faa5eec7fdb503ca0785580fd30ba92719801ce5fda7bf4e4b423a6497c",
+        "secondary_glazed_white_ceramic/normal_2026.png": "5c403037d035835f4048fd70b18b4701daa093e05331cbb5833d49bd4dc0b101"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 4187480240,
+      "retained_noise_bands": [
+        15,
+        30,
+        60,
+        120
+      ],
+      "measured_linear_mean": [
+        0.7199970419436653,
+        0.7500020245073731,
+        0.7100228446854011
+      ],
+      "measured_linear_std": [
+        0.007177661698235813,
+        0.007478097675979174,
+        0.0071440121403229095
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13700634219063024,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 0.00019844263824896579,
+          "height_rms_m": 4.110190265718907e-05,
+          "normal_max_tilt_degrees": 0.2879246466823051
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    },
+    "Secondary preserved west stair iron": {
+      "base_color_linear": [
+        0.12,
+        0.092,
+        0.065
+      ],
+      "expected_mean_linear": [
+        0.12,
+        0.092,
+        0.065
+      ],
+      "source_function_sha256": "72e81c9b89a1f77a86edb139e87fd679e100c5cfd6203355359a695f4abafbf5",
+      "roughness": 0.83,
+      "metallic": 0.35,
+      "existing_uv_repeat_m": 4.0,
+      "candidate_base_wavelength_m": 0.16666666666666666,
+      "source_module": "scripts/secondary_spaces.py",
+      "source_line": 387,
+      "basecolor": "secondary_preserved_west_stair_iron/basecolor.png",
+      "normal_by_era": {
+        "2026": "secondary_preserved_west_stair_iron/normal_2026.png"
+      },
+      "sha256": {
+        "secondary_preserved_west_stair_iron/basecolor.png": "dcb22947ac8a33c7763a1d09789824df8f552f52849ab06eedf02f9a4061c52f",
+        "secondary_preserved_west_stair_iron/normal_2026.png": "2e901e4497d801158e8a54154d26b3edc114adf6bcd4ec74c615b121fb6a90f8"
+      },
+      "source_used_eras": [
+        "2026"
+      ],
+      "seed": 1696457912,
+      "retained_noise_bands": [
+        24,
+        48,
+        96,
+        192
+      ],
+      "measured_linear_mean": [
+        0.12000137414621956,
+        0.0920020799940609,
+        0.06500175830649588
+      ],
+      "measured_linear_std": [
+        0.010556292166250425,
+        0.008098016514515432,
+        0.005726332485753186
+      ],
+      "noise_fac_mean": 0.5,
+      "noise_fac_std": 0.13712966098319257,
+      "normal_statistics": {
+        "2026": {
+          "height_peak_to_peak_m": 0.00020113566458319438,
+          "height_rms_m": 4.1138898294957765e-05,
+          "normal_max_tilt_degrees": 0.4178781187319155
+        }
+      },
+      "normal_convention": "OpenGL +Y; image row axis points down, UV V points up"
+    }
+  }
+}

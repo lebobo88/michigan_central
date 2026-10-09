@@ -1,0 +1,17 @@
+{
+  "era": "2026",
+  "passed": true,
+  "source_sha256": "7400e0bdc397f444d33e06136df8e539bcea8cebed8e91f15f6fc3b692b0f958",
+  "checks": [
+    "validate_scene.py",
+    "check_public_interfaces.py",
+    "check_floor_overlaps.py",
+    "check_era_conditions.py",
+    "check_uv_area.py",
+    "check_concourse_floor_material.py",
+    "check_field_material_scope.py",
+    "check_integrated_details.py",
+    "check_glass_shells.py",
+    "check_lobby_interfaces.py"
+  ]
+}

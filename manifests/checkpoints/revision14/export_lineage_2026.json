@@ -1,0 +1,33 @@
+{
+  "era": "2026",
+  "source_blend_sha256": "453e90686ce0dcb72e3a2d20b644eff6dec3aa8a526354e4338b73d768054ba1",
+  "full_glb_sha256": "3a58625a4f5055ef2bb50e9bfe272f591fa07ee2f59039081a140f6e588bb711",
+  "build_code_sha256": "54e1893af02d61f2d7310215f3f8a5d1b8ac0599ac499f26bad349c36422b56b",
+  "component_sha256": {
+    "repair_glb_tangents.py": "e83b4f370fc59486e945aa65aec1ee41621690d09fe73c7d7335a9a93bb5dd2d",
+    "surface_materials_v2.py": "cce088f8dd904c9d55f92d93f56a1b6d8a19e9ea2cb5d872638074dcaaa491b7",
+    "candidates/north_arch_ornament.py": "20f7fc03e13b8bfb80b8ef05e28b3bd01645eb07052954fa6d49552ca59d21a9",
+    "candidates/exterior_capital_detail.py": "adc05d138e25b3a94b5be69795fec8cc272a10526112c26570644dbd8d6e2611",
+    "candidates/north_entry_canopy_detail.py": "71807f5ab2e6fdeb3a8b2be4473a712fe5656f0914fa54bec42f54b0ed56f36f",
+    "candidates/elevator_lobby_detail.py": "f853339d1f19dc37641809bbc2edf28b995c4f480c2bdb4b89dbd09c87c3f98c",
+    "candidates/glass_shell_rules.py": "f30101702639d1be52dfd9c35c5fd09d4acf10beab0fcf6f11220e8a59df003b",
+    "candidates/material_portability.py": "b42c4968be7a2aa691eb2af9ef427fdad92173dcd089af29835012c88e850fbf",
+    "north_entry.py": "869271514733ba38c30ce1319e3c815d881eb4f9cae92ac587b1a13002f66f1a",
+    "tower_facade_v2.py": "ffafe164ed3b11c601ac4b7a80ad32884f7b8470e6db094427209373f667b5b0",
+    "hall_alcoves.py": "94f294fd75c005f5ac60894ac55dd46f3965c4bc796ab86ca5633538bdff32e3",
+    "hall_cartouche.py": "dee3f736cba731d6a591d44231abf703ca444eee5cd8b810c4d4f26731d42cbe",
+    "hall_window_tracery.py": "0305fd04230e6e30af22849c830322597bbbba178d82af7ab597dbc6316db9bd",
+    "hall_lunettes.py": "66072e11a35e8789eadda80202f0620c973aa459221eb70853a4fbae8c443762",
+    "concourse_roof_detail.py": "95c7004420513e9771b25e14791f5d5675b9fc781090d5d05bdd5b69c4c2f24e",
+    "concourse_walls_detail.py": "b956052145283eec459289b5c48b61f7ad893603d0c7b14da7df8678e6d711f1",
+    "concourse_floor_2017.py": "18c98b60ff34b13810607b38b15ce6a60adf4b27dc77ad3363e5dc64e58a628b",
+    "west_public_rooms.py": "3c292b27103179f0cfd8111bef157c05df16350d1eb27e0329a01663279f76af",
+    "secondary_spaces.py": "4caf0a775b8cf0ad244b8c4f7e24c18dd5fcbd9cfe005a6d9759c85b202193fe",
+    "current_fitouts.py": "97e61ca4cbc5d2d8696a120cb5ab95941309423eecb4f61cd25267449a41af7b",
+    "study_lounge.py": "bdfcd54da91cb972494ac454e6ae3f53f2e5578d4e171e5fb0df3b2aec93cba4",
+    "ticket_retail.py": "a2996b0ddf07515d87ad7f3795f9a1e8cbc18f8d5774fdff5850219ab4d820ad",
+    "north_plaza.py": "bdc9e7dfc821d4520f938e414f479f4df31b1b2cb6e884c6e2b7b0cec4549d8d",
+    "north_forecourt_2017.py": "14f5d806e9cc49d65822b09aa871038799502a014ef5bce7dcbc4b3d8c7d950f",
+    "render_lighting.py": "e6bbbe7e4f0d0f808c0b8621549d8babceb8969b59ff2eb25ed4d4294df9c8dc"
+  }
+}

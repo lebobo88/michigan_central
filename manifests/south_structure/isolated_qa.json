@@ -1,0 +1,67 @@
+{
+  "blender": "5.2.2 LTS",
+  "script_sha256": "9f823a8f431d1cb01d92fbe22d09fbc133baed9ddac24c42c10651223b3ec894",
+  "scope": "Detached 2017 cargo-core subset only, not station-aligned; no Bush train-shed roof",
+  "coordinates": "Local deck surface Z0, north cargo-core edge Y0, core X center 0; NO station-global transform",
+  "checks": {
+    "2017_default_emits_no_geometry": true,
+    "2017_default_preserves_GROUP": true,
+    "2026_default_emits_no_geometry": true,
+    "2026_default_preserves_GROUP": true,
+    "local_preserves_GROUP": true,
+    "all_vertices_finite": true,
+    "all_uvs_finite": true,
+    "degenerate_polygons_and_triangles": 0,
+    "collapsed_uv_triangles": 0,
+    "triangles_tested": 37626,
+    "all_meshes_materialized_and_uv_mapped": true,
+    "reference_photos_loaded": false
+  },
+  "collections": {
+    "30 SOUTH 2017 | uncovered historic platform and cargo exterior": {
+      "objects": 51,
+      "vertices": 30980,
+      "faces": 18117
+    }
+  },
+  "limitations": [
+    "Geometry QA does not validate architecture or unverified relative locations",
+    "The approximately 570 \u00d7 340 ft cargo core is not the full original 1,104 ft shed/platform footprint",
+    "Cargo rooms and active freight corridor are omitted",
+    "2026 current deck remains blocked by missing perimeter and elevation evidence"
+  ],
+  "integration_blockers": {
+    "2017": [
+      "Placement status is blocked",
+      "Global X translation of the cargo core relative to station center is not established",
+      "North viaduct line approximately Y104\u2013108; original printed dimensions and registered raster disagree",
+      "No verified hall-floor-to-cargo-floor or track-deck Z relationship",
+      "Current upper-ramp room ends at Y87.8 provisionally; lower ramp/subway extension and seals are not established"
+    ],
+    "2026": [
+      "Placement status is blocked",
+      "No verified replacement concrete deck XY perimeter",
+      "No verified deck surface Z or underside/column datum relative to hall Z0",
+      "No registered current concrete support locations or slab thickness",
+      "No verified 2026 open passenger connection; 2024 reporting says old platform tunnels are sealed",
+      "Do not substitute the 2009 cargo envelope or retain dismantled old steel structure"
+    ]
+  },
+  "bounds_m": {
+    "min": [
+      -87.018,
+      -0.45701134772231194,
+      -4.81
+    ],
+    "max": [
+      87.018,
+      104.572,
+      1.091
+    ]
+  },
+  "degenerate_examples": [],
+  "collapsed_uv_examples": [],
+  "blend": "models/studies/michigan_central_2017_south_core_LOCAL_STUDY.blend",
+  "preview": "qa/south_structure/detached_2017_core.png",
+  "images_packed": true
+}

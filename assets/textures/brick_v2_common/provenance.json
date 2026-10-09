@@ -1,0 +1,11 @@
+{
+  "origin": "Original deterministic running-bond material",
+  "physical_repeat_m": 1.7,
+  "nominal_module_m": [
+    0.2125,
+    0.07083333333333333
+  ],
+  "mortar_m_approx": 0.0085,
+  "warning": "Idealized plausible brick scale, not measured station brick dimensions",
+  "normal_convention": "OpenGL +Y"
+}
